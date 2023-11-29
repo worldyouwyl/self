@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 29 Nov 2023 12:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2023 12:44:21 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 对幼儿意味着什么</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-11-29/ai-and-chatgpt-create-an-uncertain-future-for-jobs</link>
@@ -25,6 +25,13 @@
       <description><![CDATA[印度航天局正在探索与波音公司、杰夫·贝佐斯的蓝色起源有限责任公司和航行者太空控股公司的联合合作，美国宇航局局长的正式访问凸显了美国和印度在外太空合作水平的不断提高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-11-29/india-in-talks-with-boeing-blue-origin-for-space-partnerships</guid>
       <pubDate>Wed, 29 Nov 2023 10:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digi 在可能的合并之前达成 Orange-Masmovil 资产交易</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-29/digi-reaches-preliminary-deal-to-buy-orange-masmovil-remedies</link>
+      <description><![CDATA[据知情人士透露，Digi Comunications NV 已达成初步协议，收购 Orange SA 和 Masmovil Ibercom SA 的资产，这可能为其两个更大的竞争对手 187 亿欧元（合 205 亿美元）的合并扫清道路。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-29/digi-reaches-preliminary-deal-to-buy-orange-masmovil-remedies</guid>
+      <pubDate>Wed, 29 Nov 2023 09:47:51 GMT</pubDate>
     </item>
     <item>
       <title>Prosus 支持的 PayU 印度部门寻求在未来 12 个月内首次公开募股</title>
@@ -48,13 +55,6 @@
       <pubDate>Wed, 29 Nov 2023 08:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>Prosus 预计电子商务业务盈利快于预期</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-29/prosus-sees-sooner-than-expected-profit-at-e-commerce-business</link>
-      <description><![CDATA[Prosus NV 和大股东 Naspers Ltd. 预计其电子商务业务将比预期更快实现盈利。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-29/prosus-sees-sooner-than-expected-profit-at-e-commerce-business</guid>
-      <pubDate>Wed, 29 Nov 2023 06:44:10 GMT</pubDate>
-    </item>
-    <item>
       <title>被美国罚款 43 亿美元后，币安重启在泰国面临考验</title>
       <link>https://www.bloomberg.com/news/articles/2023-11-29/crypto-exchange-binance-s-reboot-faces-test-in-thailand</link>
       <description><![CDATA[币安控股有限公司（Binance Holdings Ltd.）试图扭转代价高昂的监管违规行为的尝试在泰国面临着考验，全球最大的加密货币交易所很快将与亚洲最富有的人之一在泰国建立一个新的交易场所。]]></description>
@@ -62,18 +62,18 @@
       <pubDate>Wed, 29 Nov 2023 05:43:15 GMT</pubDate>
     </item>
     <item>
+      <title>Okta 称黑客窃取了所有客户支持用户的数据</title>
+      <link>https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users</link>
+      <description><![CDATA[Okta Inc. 发现两个月前入侵其网络的黑客窃取了其客户支持系统所有用户的信息 –范围远大于该公司此前所说的受影响客户的1%。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-11-29/okta-says-hackers-stole-data-for-all-customer-support-users</guid>
+      <pubDate>Wed, 29 Nov 2023 02:41:21 GMT</pubDate>
+    </item>
+    <item>
       <title>丰田削减 Denso 股份可能会筹集约 19 亿美元用于电动汽车转型</title>
       <link>https://www.bloomberg.com/news/articles/2023-11-29/denso-shares-drop-on-reports-of-toyota-group-stake-sales</link>
       <description><![CDATA[丰田汽车公司及其附属供应商将削减其在电动零部件制造商电装公司(Denso Corp.)中的持股，从而释放出可用于资助其向电动汽车转型的资金。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-11-29/denso-shares-drop-on-reports-of-toyota-group-stake-sales</guid>
       <pubDate>Wed, 29 Nov 2023 00:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>公共债务市场刚刚获得第一批网络灾难债券</title>
-      <link>https://www.bloomberg.com/news/articles/2023-11-28/public-debt-markets-just-got-their-first-cyber-catastrophe-bond</link>
-      <description><![CDATA[网络灾难债券首次进入公共债务市场。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-11-28/public-debt-markets-just-got-their-first-cyber-catastrophe-bond</guid>
-      <pubDate>Tue, 28 Nov 2023 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
