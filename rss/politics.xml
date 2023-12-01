@@ -4,11 +4,11 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Fri, 01 Dec 2023 17:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 17:51:39 GMT</lastBuildDate>
     <item>
       <title>乔治·桑托斯的罢免引发了纽约郊区至关重要的众议院竞选</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-01/santos-ouster-sets-up-crucial-house-race-in-new-york-suburbs</link>
-      <description><![CDATA[乔治·桑托斯周五被国会驱逐，引发了纽约市郊区的新选举，这有可能进一步削弱共和党对美国众议院本已摇摇欲坠的控制。]]></description>
+      <description><![CDATA[乔治·桑托斯周五被国会驱逐，引发了纽约市郊区的新选举，这有可能进一步削弱共和党对美国众议院本已摇摇欲坠的控制权。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-01/santos-ouster-sets-up-crucial-house-race-in-new-york-suburbs</guid>
       <pubDate>Fri, 01 Dec 2023 17:25:41 GMT</pubDate>
     </item>
@@ -18,6 +18,13 @@
       <description><![CDATA[据两位知情人士透露，RedBird IMI 不打算收购英国《Spectator》杂志，直到针对其拟议收购《电讯报》的政府调查完成后。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-01/spectator-takeover-put-on-hold-during-uk-telegraph-probe</guid>
       <pubDate>Fri, 01 Dec 2023 17:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国因俄罗斯违反石油价格上限而制裁另外三名托运人</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-01/us-sanctions-three-more-firms-vessels-over-price-cap-violations</link>
+      <description><![CDATA[美国财政部又制裁了 3 家违反俄罗斯石油每桶 60 美元价格上限的公司和船只，使执法行动总数达到 8 家。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-01/us-sanctions-three-more-firms-vessels-over-price-cap-violations</guid>
+      <pubDate>Fri, 01 Dec 2023 17:11:05 GMT</pubDate>
     </item>
     <item>
       <title>查尔斯国王的希腊国旗领带在苏纳克冷落后引起人们的注意</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[NanoGraf 将利用设施提供持久电池的关键成分]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-01/battery-startup-opens-chicago-plant-as-us-curbs-china-reliance</guid>
       <pubDate>Fri, 01 Dec 2023 12:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>安杜里尔（Anduril）建造了一架可炸毁无人机的小型可重复使用战斗机</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-01/anduril-roadrunner-drone-killer-could-change-tactics-in-iraq-syria</link>
-      <description><![CDATA[Palmer Luckey 的加州初创公司表示，美国明年将在实地部署走鹃武器。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-01/anduril-roadrunner-drone-killer-could-change-tactics-in-iraq-syria</guid>
-      <pubDate>Fri, 01 Dec 2023 05:01:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
