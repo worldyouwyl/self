@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 05 Dec 2023 19:31:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 19:41:56 GMT</lastBuildDate>
     <item>
       <title>迪士尼将在影院上映皮克斯的大流行时代电影</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-05/disney-to-release-pixar-s-pandemic-era-movies-in-theaters</link>
@@ -43,7 +43,7 @@
     <item>
       <title>这家初创公司能否复兴苏联时代的水翼艇技术？</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-05/hydrofoil-startup-regent-bets-soviet-tech-can-deliver-green-travel</link>
-      <description><![CDATA[Regent Craft 背后的航空航天工程师正在开发一种“海上滑翔机”，它可以归类为船，在水面上的飞行速度可达 180 英里/小时。]]></description>
+      <description><![CDATA[Regent Craft 背后的航空航天工程师正在开发一种“海上滑翔机”，它可以归类为船，在水上的飞行速度可达 180 英里/小时。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-05/hydrofoil-startup-regent-bets-soviet-tech-can-deliver-green-travel</guid>
       <pubDate>Tue, 05 Dec 2023 13:00:01 GMT</pubDate>
     </item>
@@ -52,13 +52,6 @@
       <link>https://www.bloomberg.com/news/articles/2023-12-05/gecko-robotics-raises-100-million-for-defense-technology</link>
       <description><![CDATA[Gecko Robotics 为其机器人筹集了 1 亿美元资金，用于评估国防、石油和制造业等行业基础设施的安全和状况。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-05/gecko-robotics-raises-100-million-for-defense-technology</guid>
-      <pubDate>Tue, 05 Dec 2023 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>麦肯锡预计人工智能将为华尔街带来高达 3400 亿美元的利润</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-05/ai-could-add-340-billion-to-wall-street-profits-mckinsey-says</link>
-      <description><![CDATA[顾问表示，使用生成式人工智能工具的银行每年可以通过提高生产力来增加高达 3400 亿美元的收入，希望帮助该行业适应这个快速发展的领域。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-05/ai-could-add-340-billion-to-wall-street-profits-mckinsey-says</guid>
       <pubDate>Tue, 05 Dec 2023 13:00:00 GMT</pubDate>
     </item>
     <item>
@@ -74,6 +67,13 @@
       <description><![CDATA[加密货币采矿硬件零售商 Phoenix Group Plc 在阿布扎比首次亮相时股价上涨 35%，这是中东首个与加密货币相关的上市公司，随着比特币的上涨，股价飙升。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-05/crypto-firm-phoenix-jumps-50-after-371-million-abu-dhabi-ipo</guid>
       <pubDate>Tue, 05 Dec 2023 06:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T 聘请爱立信 140 亿美元进行网络改造，取代诺基亚</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-04/at-t-taps-ericsson-to-revamp-wireless-network-ousts-nokia</link>
+      <description><![CDATA[爱立信赢得了一份价值 140 亿美元的合同，对 AT&amp;T Inc. 的无线网络进行现代化改造，同意建立一个可由多家供应商提供的开放网络，并击败了其长期竞争对手诺基亚 Oyj。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-04/at-t-taps-ericsson-to-revamp-wireless-network-ousts-nokia</guid>
+      <pubDate>Mon, 04 Dec 2023 21:59:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
