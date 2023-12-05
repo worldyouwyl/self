@@ -4,13 +4,27 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 05 Dec 2023 10:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2023 11:03:12 GMT</lastBuildDate>
     <item>
-      <title>达索航空首席执行官确认阵风战斗机与沙特阿拉伯进行谈判</title>
+      <title>哥伦比亚石油公司的健康对峙使国家控制发挥作用</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-05/petro-s-standoff-with-health-insurers-in-colombia-puts-state-control-in-play</link>
+      <description><![CDATA[随着改革法案在国会陷入停滞，政府反而与保险公司发生冲突。专家担心这可能引发私募市场的连锁崩溃]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-05/petro-s-standoff-with-health-insurers-in-colombia-puts-state-control-in-play</guid>
+      <pubDate>Tue, 05 Dec 2023 11:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>达索航空首席执行官确认阵风与沙特阿拉伯进行谈判</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-05/dassault-aviation-ceo-confirms-rafale-talks-with-saudi-arabia</link>
       <description><![CDATA[达索航空证实了向沙特阿拉伯出售阵风战斗机的谈判，并表示该公司有信心获得印度订购这款热销战机的订单。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-05/dassault-aviation-ceo-confirms-rafale-talks-with-saudi-arabia</guid>
       <pubDate>Tue, 05 Dec 2023 10:37:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息显示，托克员工试图隐藏镍的“危险信号”</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-05/trafigura-staff-tried-to-hide-nickel-red-flags-messages-show</link>
+      <description><![CDATA[根据双方法庭斗争中公开的信息，托克集团的工作人员与涉嫌欺诈者普拉泰克·古普塔（Prateek Gupta）合作，确保他们的交易不会引起主要银行花旗集团的怀疑。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-05/trafigura-staff-tried-to-hide-nickel-red-flags-messages-show</guid>
+      <pubDate>Tue, 05 Dec 2023 10:30:52 GMT</pubDate>
     </item>
     <item>
       <title>穆迪因债务上升而下调中国信用前景</title>
@@ -22,7 +36,7 @@
     <item>
       <title>中国称塔利班政府必须改革才能得到充分认可</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-05/china-says-taliban-government-must-reform-to-be-fully-recognized</link>
-      <description><![CDATA[中国表示，阿富汗塔利班政府应该对其治理方式进行重大改变，以获得北京方面的正式承认。]]></description>
+      <description><![CDATA[中国表示，阿富汗塔利班政府应对其治理方式进行重大改变，以获得北京方面的正式承认。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-05/china-says-taliban-government-must-reform-to-be-fully-recognized</guid>
       <pubDate>Tue, 05 Dec 2023 10:24:27 GMT</pubDate>
     </item>
@@ -41,20 +55,6 @@
       <pubDate>Tue, 05 Dec 2023 10:20:55 GMT</pubDate>
     </item>
     <item>
-      <title>德克萨斯玻璃回收商因利率上涨而申请破产</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-05/texan-glass-recycler-files-for-bankruptcy-hit-by-rising-rates</link>
-      <description><![CDATA[再生玻璃供应商战略材料公司(Strategic Materials Inc.)因受到利率上升和竞争加剧的挤压而申请破产。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-05/texan-glass-recycler-files-for-bankruptcy-hit-by-rising-rates</guid>
-      <pubDate>Tue, 05 Dec 2023 10:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿波罗的克莱曼表示，市场对美联储降息“过于乐观”</title>
-      <link>https://www.bloomberg.com/news/videos/2023-12-05/market-too-optimistic-on-fed-cuts-apollo-s-kleinman-video</link>
-      <description><![CDATA[阿波罗管理公司联席总裁斯科特·克莱曼 (Scott Kleinman) 表示，他“个人打赌”美联储明年不会降息，并讨论了全球交易环境、该公司对 2024 年的前景以及对“相当大的调整”的预期。房地产市场在过去几年的总体情况。他在迪拜 COP28 峰会间隙与 Francine Lacqua 进行了交谈。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2023-12-05/market-too-optimistic-on-fed-cuts-apollo-s-kleinman-video</guid>
-      <pubDate>Tue, 05 Dec 2023 10:16:31 GMT</pubDate>
-    </item>
-    <item>
       <title>伦敦证券交易所三个月内第三次宕机</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-05/london-stock-exchange-is-hit-by-third-outage-since-october</link>
       <description><![CDATA[伦敦证券交易所集团 (London Stock Exchange Group Plc) 遭遇了几个月内的第三次停电，约 2,000 股较小股票的交易被暂停。]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>卡塔尔出售给巴克莱银行战略审查带来压力</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-05/barclays-shares-fall-after-qatar-s-wealth-fund-reveals-stake-cut</link>
-      <description><![CDATA[卡塔尔财富基金出售了近一半的股份后，巴克莱银行股价下跌了 4.5%，这一出人意料的举动增加了该银行向投资者发布战略前几个月首席执行官 C.S. Venkatakrishnan 的压力。]]></description>
+      <description><![CDATA[卡塔尔财富基金出售了近一半股份后，巴克莱银行股价下跌了 4.5%，这一出人意料的举动增加了该银行向投资者发布战略前几个月首席执行官 C.S. Venkatakrishnan 的压力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-05/barclays-shares-fall-after-qatar-s-wealth-fund-reveals-stake-cut</guid>
       <pubDate>Tue, 05 Dec 2023 08:28:15 GMT</pubDate>
     </item>
