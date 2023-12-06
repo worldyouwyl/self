@@ -4,13 +4,20 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 06 Dec 2023 22:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 23:05:43 GMT</lastBuildDate>
     <item>
       <title>为什么发射客户无法退出 SpaceX</title>
       <link>https://www.bloomberg.com/news/features/2023-12-06/elon-musk-s-spacex-profits-from-competitor-launch-delays</link>
       <description><![CDATA[卫星运营商希望通过竞争来推出他们的产品。但其他火箭制造商长达数年的拖延不断将它们推入埃隆·马斯克的轨道。]]></description>
       <guid>https://www.bloomberg.com/news/features/2023-12-06/elon-musk-s-spacex-profits-from-competitor-launch-delays</guid>
       <pubDate>Wed, 06 Dec 2023 22:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>C3.ai 表示收入因新的“人工智能治理”部门审查而减少</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-06/c3-ai-reports-sales-that-miss-estimates-and-projects-wider-loss</link>
+      <description><![CDATA[C3.ai Inc.公布的季度收入低于分析师的预期，并预计本财年的运营亏损将比预期更糟糕。该股在盘后交易中下跌约 9%。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-06/c3-ai-reports-sales-that-miss-estimates-and-projects-wider-loss</guid>
+      <pubDate>Wed, 06 Dec 2023 22:37:33 GMT</pubDate>
     </item>
     <item>
       <title>微软与动视的交易引发上诉法院的新问题</title>
@@ -43,7 +50,7 @@
     <item>
       <title>杰克·多尔西 (Jack Dorsey) 的斧头袭击了潮汐音乐服务，超过 10% 的员工被解雇</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-06/dorsey-s-ax-hits-tidal-music-service-over-10-of-staff-let-go</link>
-      <description><![CDATA[曾由唱片艺术家 Jay-Z 拥有的音乐流媒体服务 Tidal 解雇了超过 10% 的员工，作为其母公司、科技亿万富翁 Jack Dorsey 旗下的 Block Inc 上个月宣布的更广泛紧缩举措的一部分。]]></description>
+      <description><![CDATA[Tidal 是唱片艺术家 Jay-Z 旗下的音乐流媒体服务公司，该公司解雇了超过 10% 的员工，作为其母公司、科技亿万富翁杰克·多尔西 (Jack Dorsey) 旗下的 Block Inc. 上个月宣布的更广泛紧缩举措的一部分。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-06/dorsey-s-ax-hits-tidal-music-service-over-10-of-staff-let-go</guid>
       <pubDate>Wed, 06 Dec 2023 19:40:35 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>美国称 Meta 呼吁禁止 FTC 修改隐私协议是不恰当的</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-06/meta-bid-to-bar-ftc-from-changing-privacy-pact-improper-us-says</link>
-      <description><![CDATA[美国政府周三表示，Meta Platforms Inc. 要求阻止联邦贸易委员会重新开放和修改其 2020 年隐私令的上诉应被驳回。]]></description>
+      <description><![CDATA[美国政府周三表示，Meta Platforms Inc. 要求阻止联邦贸易委员会重新开放和修改其 2020 年隐私令的上诉应被拒绝。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-06/meta-bid-to-bar-ftc-from-changing-privacy-pact-improper-us-says</guid>
       <pubDate>Wed, 06 Dec 2023 17:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>台积电与工会就凤凰芯片厂达成劳工协议</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-06/arizona-unions-tsmc-reach-labor-accord-for-phoenix-chip-site</link>
-      <description><![CDATA[根据一份联合声明，亚利桑那州工会和台积电已达成协议，解决困扰该芯片制造商凤凰城建筑工地的持续劳资纠纷。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-06/arizona-unions-tsmc-reach-labor-accord-for-phoenix-chip-site</guid>
-      <pubDate>Wed, 06 Dec 2023 17:30:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
