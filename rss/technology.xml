@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 06 Dec 2023 14:51:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 15:05:49 GMT</lastBuildDate>
+    <item>
+      <title>谷歌开放Gemini接入，竞相追赶OpenAI</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-06/google-opens-access-to-gemini-racing-to-catch-up-to-openai</link>
+      <description><![CDATA[期待已久的人工智能模型已经到来。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-06/google-opens-access-to-gemini-racing-to-catch-up-to-openai</guid>
+      <pubDate>Wed, 06 Dec 2023 15:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>苹果联合创始人史蒂夫·沃兹尼亚克在巴尔干选举前获得塞尔维亚护照</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-06/steve-wozniak-gets-serbian-passport-just-before-balkan-elections</link>
@@ -48,13 +55,6 @@
       <pubDate>Wed, 06 Dec 2023 13:00:02 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟竞相就世界首个主要人工智能规则达成协议</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-06/eu-s-ai-act-set-for-showdown-over-rules-governing-chatgpt</link>
-      <description><![CDATA[欧盟本周可能就世界上首个人工智能法规达成初步协议——除非关于如何监管​​先进人工智能模型的争论使其偏离轨道。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-06/eu-s-ai-act-set-for-showdown-over-rules-governing-chatgpt</guid>
-      <pubDate>Wed, 06 Dec 2023 12:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能乐观主义遭遇现实检验，戴尔 90% 的涨势遭遇碰壁</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-06/dell-s-90-rally-hits-wall-as-ai-optimism-met-with-reality-check</link>
       <description><![CDATA[一些戴尔科技公司的投资者质疑该股的价格是否能证明尚未实现的增长是合理的。]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>苹果将​​避免欧盟对 iMessage 服务的打击</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-06/apple-imessage-set-to-avoid-eu-s-digital-dominance-crackdown</link>
-      <description><![CDATA[苹果公司的 iMessage 服务似乎将赢得欧盟新反垄断规则的豁免，以控制大型科技平台，此前监管机构初步得出结论，该服务在商业用户中不够受欢迎，不足以保证受到该法规的打击。]]></description>
+      <description><![CDATA[苹果公司的 iMessage 服务似乎将赢得欧盟新反垄断规则的豁免，以约束大型科技平台，此前监管机构初步得出结论，该服务在商业用户中不够受欢迎，不足以保证受到该法规的打击。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-06/apple-imessage-set-to-avoid-eu-s-digital-dominance-crackdown</guid>
       <pubDate>Wed, 06 Dec 2023 10:53:28 GMT</pubDate>
     </item>
