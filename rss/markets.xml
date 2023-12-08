@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 08 Dec 2023 20:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2023 20:51:43 GMT</lastBuildDate>
+    <item>
+      <title>彭博实际收益率 12/08/2023</title>
+      <link>https://www.bloomberg.com/news/videos/2023-12-08/bloomberg-real-yield-12-08-2023-video</link>
+      <description><![CDATA[索纳利·巴萨克重点介绍了您需要了解的影响市场的新闻。今天的嘉宾包括 Pimco 短期投资组合管理和融资主管 Jerome Schneider、社区银行固定收益策略师 Karissa McDonough 以及 KKR 信贷和市场联席主管 Chris Sheldon。 （来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2023-12-08/bloomberg-real-yield-12-08-2023-video</guid>
+      <pubDate>Fri, 08 Dec 2023 20:22:55 GMT</pubDate>
+    </item>
     <item>
       <title>新 60/40 数学 5 月 Rankle 华尔街</title>
       <link>https://www.bloomberg.com/news/videos/2023-12-08/new-60-40-math-may-rankle-wall-street-video</link>
@@ -41,25 +48,18 @@
       <pubDate>Fri, 08 Dec 2023 20:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>FDA 批准首个 Crispr 治疗镰状细胞病</title>
-      <link>https://www.bloomberg.com/news/videos/2023-12-08/fda-approves-first-crispr-treatment-video</link>
-      <description><![CDATA[镰状细胞病的基因编辑疗法获得美国监管机构批准，这是 DNA 修饰技术 Crispr 的里程碑。 Crispr 联合发明人、2020 年诺贝尔化学奖获得者、创新基因组学研究所创始人 Jennifer Doudna 与 Caroline Hyde 和 Ed Ludlow 共同探讨“彭博技术”。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2023-12-08/fda-approves-first-crispr-treatment-video</guid>
-      <pubDate>Fri, 08 Dec 2023 20:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>DocuSign 第三季度收入超出预期，转为盈利</title>
-      <link>https://www.bloomberg.com/news/videos/2023-12-08/docusign-3q-revenue-beats-expectations-moves-to-profit-video</link>
-      <description><![CDATA[DocuSign 公布了强劲的第三季度业绩，但对利润率前景持谨慎态度。 DocuSign 首席执行官艾伦·蒂格森 (Allan Thygesen) 与卡罗琳·海德 (Caroline Hyde) 和埃德·勒德洛 (Ed Ludlow) 一起讨论了结果以及他们如何将人工智能纳入“彭博科技”的运营中。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2023-12-08/docusign-3q-revenue-beats-expectations-moves-to-profit-video</guid>
-      <pubDate>Fri, 08 Dec 2023 19:46:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Blackstone 牵头提供 10 亿美元 GGW 收购私人贷款计划</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-08/blackstone-leads-1-billion-private-loan-package-for-ggw-buyout</link>
-      <description><![CDATA[Blackstone Inc. 正在牵头提供 9.5 亿欧元（10 亿美元）的贷款计划，以支持 Permira 收购 Gossler, Gobert &amp; Inc.。知情人士表示，沃尔特斯。]]></description>
+      <description><![CDATA[Blackstone Inc. 牵头提供 9.5 亿欧元（10 亿美元）贷款计划，支持 Permira 收购 Gossler, Gobert &amp; Inc.。知情人士表示，沃尔特斯。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-08/blackstone-leads-1-billion-private-loan-package-for-ggw-buyout</guid>
       <pubDate>Fri, 08 Dec 2023 15:35:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>就业数据公布后美联储降息热潮减弱，提振美国收益率</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-08/treasury-yields-soar-as-traders-pare-rate-cut-bets-on-jobs-data</link>
+      <description><![CDATA[由于就业报告好于预期，交易员降低了对美联储明年大幅放松货币政策的预期，美国国债收益率飙升。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-08/treasury-yields-soar-as-traders-pare-rate-cut-bets-on-jobs-data</guid>
+      <pubDate>Fri, 08 Dec 2023 13:40:39 GMT</pubDate>
     </item>
     <item>
       <title>油价小幅反弹，创五年来最长连跌纪录</title>
@@ -71,7 +71,7 @@
     <item>
       <title>标普 500 指数将创下 2019 年以来最长单周涨幅：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-07/japanese-shares-eye-early-slump-after-yen-surge-markets-wrap</link>
-      <description><![CDATA[周五，两项稳健的经济数据震动了华尔街，股市因美国将能够摆脱经济衰退的猜测而反弹。现在，这个故事的另一面是，债券交易员削减了对 2024 年降息的押注——发送收益率飙升。]]></description>
+      <description><![CDATA[周五公布的两项稳健的经济数据震动了市场，股市因美国将能够摆脱经济衰退的猜测而反弹。这个故事的另一面是，债券交易员最终削减了对 2024 年降息的押注——发送收益率飙升。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-07/japanese-shares-eye-early-slump-after-yen-surge-markets-wrap</guid>
       <pubDate>Thu, 07 Dec 2023 22:56:40 GMT</pubDate>
     </item>
