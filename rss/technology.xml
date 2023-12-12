@@ -4,11 +4,11 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 12 Dec 2023 13:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 14:04:06 GMT</lastBuildDate>
     <item>
       <title>英伟达邀请亚洲领导人来开拓更多人工智能业务</title>
       <link>https://www.bloomberg.com/news/newsletters/2023-12-12/nvidia-s-drumming-up-more-ai-business-with-a-tour-of-asian-leaders</link>
-      <description><![CDATA[Nvidia 首席执行官黄仁勋本月访问了亚洲，在准备他的下一个大型人工智能销售宣传的同时，受到了英雄式的欢迎。但首先...]]></description>
+      <description><![CDATA[Nvidia 首席执行官黄仁勋本月访问了亚洲，在准备下一次大规模人工智能销售宣传的同时，受到了英雄般的欢迎。但首先...]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2023-12-12/nvidia-s-drumming-up-more-ai-business-with-a-tour-of-asian-leaders</guid>
       <pubDate>Tue, 12 Dec 2023 12:05:10 GMT</pubDate>
     </item>
@@ -34,7 +34,14 @@
       <pubDate>Tue, 12 Dec 2023 10:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>AT&T 亏损导致诺基亚下调 2026 年盈利目标</title>
+      <title>TotalEnergies 收购初创公司以促进可再生电力驱动</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-12/totalenergies-buys-ai-and-software-startups-to-boost-power-trading-green-growth</link>
+      <description><![CDATA[TotalEnergies SE 控制了四家欧洲初创公司，以促进其电力交易和能源采购业务，帮助其建设风能和太阳能发电场，并扩大电动汽车充电业务。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-12/totalenergies-buys-ai-and-software-startups-to-boost-power-trading-green-growth</guid>
+      <pubDate>Tue, 12 Dec 2023 07:36:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT&T 亏损导致诺基亚削减 2026 年盈利目标</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-12/nokia-cuts-2026-profitability-goal-as-at-t-loss-hurts-5g-unit</link>
       <description><![CDATA[诺基亚在失去美国一份重要合同后下调了长期盈利目标，并表示其 5G 网络业务在未来两年面临挑战。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-12/nokia-cuts-2026-profitability-goal-as-at-t-loss-hurts-5g-unit</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国商务部长吉娜·雷蒙多 (Gina Raimondo) 表示，美国正在研究英伟达公司 (Nvidia Corp.) 为中国开发的三款新型人工智能加速器的具体细节，此前美国商务部本月早些时候曾誓言限制任何为这个亚洲国家提供人工智能能力的新芯片。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-11/us-is-looking-into-nvidia-s-ai-chips-for-china-raimondo-says</guid>
       <pubDate>Mon, 11 Dec 2023 21:50:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>雷蒙多誓言对华为芯片突破采取“尽可能最强”的行动</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-11/raimondo-vows-strongest-possible-action-on-huawei-s-chip-breakthrough</link>
-      <description><![CDATA[当被问及商务部将如何应对中国最近芯片制造的突破时，商务部长吉娜·雷蒙多表示，美国将采取“尽可能强有力”的行动来保护其国家安全。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-11/raimondo-vows-strongest-possible-action-on-huawei-s-chip-breakthrough</guid>
-      <pubDate>Mon, 11 Dec 2023 20:42:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
