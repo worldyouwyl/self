@@ -4,11 +4,11 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 13 Dec 2023 23:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 00:29:28 GMT</lastBuildDate>
     <item>
       <title>中国经济因通货紧缩和房地产的拖累而疲软</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-13/china-s-economy-seen-weakening-on-drags-from-deflation-property</link>
-      <description><![CDATA[中国经济11月份可能失去一些动力，提高了人们对北京在新的一年加大刺激力度的预期。]]></description>
+      <description><![CDATA[中国经济11月份可能失去一些动力，这提高了人们对北京在新的一年加大刺激力度的预期。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-13/china-s-economy-seen-weakening-on-drags-from-deflation-property</guid>
       <pubDate>Wed, 13 Dec 2023 23:00:00 GMT</pubDate>
     </item>
@@ -18,6 +18,13 @@
       <description><![CDATA[虽然美国汽车制造商曾经避免宣布召回，除非监管机构敦促他们这样做，但近年来他们变得更加主动，即使是很小的问题也会发布召回。更换有缺陷的部件总是需要去修理厂，但随着汽车与互联网的连接越来越紧密，制造商开始转向所谓的无线更新，既用于召回，也用于可以产生额外收入的升级。特斯拉公司 (Tesla Inc.) 于 12 月 12 日提交了有史以来最大规模的召回报告]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-13/car-recalls-how-over-the-air-updates-are-changing-the-game</guid>
       <pubDate>Wed, 13 Dec 2023 22:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Envestnet 探索出售数据聚合器 Yodlee</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-13/envestnet-is-said-to-explore-sale-of-data-aggregator-yodlee-env</link>
+      <description><![CDATA[据知情人士透露，Envestnet Inc. 正在考虑出售其于 2015 年收购的数据聚合公司 Yodlee。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-13/envestnet-is-said-to-explore-sale-of-data-aggregator-yodlee-env</guid>
+      <pubDate>Wed, 13 Dec 2023 22:20:02 GMT</pubDate>
     </item>
     <item>
       <title>美国监管机构正在调查 Adob​​e 取消规则</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[马克·贝尼奥夫的现金储备每天都在增加，这要归功于与彭博亿万富翁指数追踪的任何其他亿万富翁不同的独特销售策略。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-13/salesforce-s-benioff-is-cashing-out-at-rate-of-3-million-a-day</guid>
       <pubDate>Wed, 13 Dec 2023 15:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 将向 Axel Springer 支付数千万美元以使用新闻内容</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-13/openai-axel-springer-ink-deal-to-use-news-content-in-chatgpt</link>
-      <description><![CDATA[ChatGPT 制造商 OpenAI 已同意向 Axel Springer SE 支付数千万欧元，以获得使用这家媒体巨头的新闻文章和内容来构建其人工智能系统的权利。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-13/openai-axel-springer-ink-deal-to-use-news-content-in-chatgpt</guid>
-      <pubDate>Wed, 13 Dec 2023 14:53:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
