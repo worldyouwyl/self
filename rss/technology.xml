@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 21 Dec 2023 16:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 16:52:07 GMT</lastBuildDate>
+    <item>
+      <title>作为 Lapsus$ 团伙一部分泄露《侠盗猎车手 VI》的青少年被英国法官关押在安全医院</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-21/-grand-theft-auto-vi-lapsus-teen-hacker-gets-hospital-sentence-by-uk-judge</link>
+      <description><![CDATA[这名青少年黑客泄露了 Rockstar Games Inc. 即将推出的侠盗猎车手 VI 的视频并侵入了科技公司 Nvidia Corp.，被一名英国法官安置在一家安全的医院。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-21/-grand-theft-auto-vi-lapsus-teen-hacker-gets-hospital-sentence-by-uk-judge</guid>
+      <pubDate>Thu, 21 Dec 2023 16:30:47 GMT</pubDate>
+    </item>
     <item>
       <title>普京采取行动将俄罗斯军事登记数字化，草案</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-21/putin-moves-to-digitize-russia-s-military-registration-draft</link>
@@ -27,6 +34,13 @@
       <pubDate>Thu, 21 Dec 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>瑞典 LKAB 与 EQT 支持的初创公司签署绿色水泥协议</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-21/sweden-s-lkab-signs-green-cement-deal-with-eqt-backed-startup</link>
+      <description><![CDATA[瑞典国有矿业公司 LKAB AB 与一家初创公司签署了一份合同，为其提供所谓的绿色水泥，这种产品在制造过程中去除了排放量大的石灰石和热量。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-21/sweden-s-lkab-signs-green-cement-deal-with-eqt-backed-startup</guid>
+      <pubDate>Thu, 21 Dec 2023 12:30:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Salesforce 的新牛市预测人工智能将推动股价创历史新高</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-21/salesforce-s-newest-bull-predicts-ai-will-send-stock-to-record</link>
       <description><![CDATA[Salesforce Inc.刚刚为自己赢得了新的牛市，摩根士丹利分析师预测，人工智能浪潮将有助于推动这家软件制造商的股价升至历史新高。]]></description>
@@ -41,25 +55,11 @@
       <pubDate>Thu, 21 Dec 2023 12:05:11 GMT</pubDate>
     </item>
     <item>
-      <title>尽管有禁令，德州仪器和其他美国制造商的芯片仍流入俄罗斯</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-21/chips-from-texas-instruments-txn-analog-devices-adi-flow-into-russia</link>
-      <description><![CDATA[尽管出口限制旨在切断与俄罗斯军事相关的公司的出口，但今年美国半导体仍继续流向俄罗斯军事相关公司——德州仪器公司 (TI) 和模拟器件公司 (ADI) 成为这些芯片的最大制造商。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-21/chips-from-texas-instruments-txn-analog-devices-adi-flow-into-russia</guid>
-      <pubDate>Thu, 21 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>苹果 2024 年市值将达 1 万亿美元，难以实现</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-21/apple-s-1-trillion-rally-will-be-tough-to-live-up-to-in-2024</link>
       <description><![CDATA[苹果公司今年的市值增加了近 1 万亿美元。 2024 年取得这样的成果将更加困难。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-21/apple-s-1-trillion-rally-will-be-tough-to-live-up-to-in-2024</guid>
       <pubDate>Thu, 21 Dec 2023 11:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国禁止出口部分稀土加工技术</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-21/china-bans-exports-of-some-rare-earth-processing-technologies-lqf1pzw8</link>
-      <description><![CDATA[中国将停止一系列稀土技术的出口，这可能会让美国和其他西方国家更难增加战略原材料的供应。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-21/china-bans-exports-of-some-rare-earth-processing-technologies-lqf1pzw8</guid>
-      <pubDate>Thu, 21 Dec 2023 10:14:30 GMT</pubDate>
     </item>
     <item>
       <title>X遭遇马斯克接管以来最严重的停电</title>
@@ -71,7 +71,7 @@
     <item>
       <title>美光科技因数据中心需求强劲预测而上涨</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-20/micron-gives-strong-forecast-in-sign-that-demand-is-rebounding</link>
-      <description><![CDATA[美国最大的存储半导体制造商美光科技(Micron Technology Inc.)的股价在周四盘前交易中上涨约6%，此前这家美国最大的存储半导体制造商给出了强劲的收入预测，表明数据中心的需求正在弥补个人电脑和智能手机市场缓慢复苏的影响。]]></description>
+      <description><![CDATA[美国最大的存储半导体制造商美光科技公司(Micron Technology Inc.)的股价在周四盘前交易中上涨约6%，此前这家美国最大的存储半导体制造商给出了强劲的收入预测，表明数据中心的需求正在弥补个人电脑和智能手机市场缓慢复苏的影响。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-20/micron-gives-strong-forecast-in-sign-that-demand-is-rebounding</guid>
       <pubDate>Wed, 20 Dec 2023 21:07:10 GMT</pubDate>
     </item>
