@@ -4,9 +4,16 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 26 Dec 2023 03:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 03:21:12 GMT</lastBuildDate>
     <item>
-      <title>日本因价格操纵而处罚顶级财产保险公司</title>
+      <title>Cathie Wood 一年来首次收购雅虎日本运营商</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-26/cathie-wood-buys-yahoo-japan-operator-for-first-time-in-a-year</link>
+      <description><![CDATA[Cathie Wood 上周首次购买了 LY Corp. 的股票，这是她一年多来的第一次，这表明人们对雅虎运营商的看法可能会转向更加积极的情绪。日本和流行的消息应用程序 Line。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-26/cathie-wood-buys-yahoo-japan-operator-for-first-time-in-a-year</guid>
+      <pubDate>Tue, 26 Dec 2023 02:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本因价格操纵而处罚最大的财产保险公司</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-26/japan-s-biggest-property-insurers-are-penalized-for-price-fixing</link>
       <description><![CDATA[日本金融监管机构因该国最大的财产和意外伤害保险公司与企业客户合谋操纵合同价格而对其进行处罚。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-26/japan-s-biggest-property-insurers-are-penalized-for-price-fixing</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[巴西石油巨头 Enauta Participacoes SA 已以 1.5 亿美元收购了 Parque das Conchas 油田的少数股权。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-25/brazil-s-enauta-buys-stake-in-shell-operated-parque-das-conchas</guid>
       <pubDate>Mon, 25 Dec 2023 21:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃塞俄比亚未能支付息票，成为最新的非洲违约者</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-25/ethiopia-fails-to-pay-coupon-becoming-latest-african-defaulter</link>
-      <description><![CDATA[埃塞俄比亚在周一宽限期结束后未能支付利息，成为非洲最新的违约国家。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-25/ethiopia-fails-to-pay-coupon-becoming-latest-african-defaulter</guid>
-      <pubDate>Mon, 25 Dec 2023 15:26:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
