@@ -4,13 +4,27 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 26 Dec 2023 04:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Dec 2023 04:25:43 GMT</lastBuildDate>
+    <item>
+      <title>MUFG 经纪合资公司因瑞士信贷 AT1 损失再次被起诉</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-26/mufg-brokerage-jv-sued-again-over-credit-suisse-at1-losses</link>
+      <description><![CDATA[另一组日本投资者起诉三菱日联金融集团与摩根士丹利的合资经纪公司，这是针对瑞士信贷最高风险债务变得一文不值的损失的最新诉讼。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-26/mufg-brokerage-jv-sued-again-over-credit-suisse-at1-losses</guid>
+      <pubDate>Tue, 26 Dec 2023 04:02:33 GMT</pubDate>
+    </item>
     <item>
       <title>Cathie Wood 一年来首次收购雅虎日本运营商</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-26/cathie-wood-buys-yahoo-japan-operator-for-first-time-in-a-year</link>
       <description><![CDATA[Cathie Wood 上周首次购买了 LY Corp. 的股票，这是她一年多来的第一次，这表明人们对雅虎运营商的看法可能会转向更加积极的情绪。日本和流行的消息应用程序 Line。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-26/cathie-wood-buys-yahoo-japan-operator-for-first-time-in-a-year</guid>
       <pubDate>Tue, 26 Dec 2023 02:59:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>铁矿石价格保持在近 10 个月高点，关注中国经济刺激</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-26/iron-ore-holds-near-10-month-high-with-focus-on-chinese-stimulus</link>
+      <description><![CDATA[由于交易商密切关注中国明年的钢铁前景，铁矿石期货小幅上涨至近 10 个月高点。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-26/iron-ore-holds-near-10-month-high-with-focus-on-chinese-stimulus</guid>
+      <pubDate>Tue, 26 Dec 2023 02:53:30 GMT</pubDate>
     </item>
     <item>
       <title>日本因价格操纵而处罚最大的财产保险公司</title>
@@ -36,7 +50,7 @@
     <item>
       <title>野村附属公司聘请前日本央行副行长雨宫为顾问</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-25/nomura-affiliate-hires-ex-boj-deputy-chief-amamiya-as-adviser</link>
-      <description><![CDATA[在对日本货币政策方向的猜测加剧之际，野村控股公司的一家子公司聘请了前日本央行副行长雨宫正义作为顾问。]]></description>
+      <description><![CDATA[在对日本货币政策方向的猜测加剧之际，野村控股旗下子公司聘请了日本央行前副行长雨宫正义担任顾问。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-25/nomura-affiliate-hires-ex-boj-deputy-chief-amamiya-as-adviser</guid>
       <pubDate>Mon, 25 Dec 2023 23:48:18 GMT</pubDate>
     </item>
@@ -48,32 +62,18 @@
       <pubDate>Mon, 25 Dec 2023 23:36:49 GMT</pubDate>
     </item>
     <item>
-      <title>中国债券流入意外可能只是假曙光，因为中国人民银行束手无策</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-25/china-bond-inflow-surprise-may-be-false-dawn-as-pboc-hands-tied</link>
-      <description><![CDATA[外国投资者购买中国债券的突然激增引发了人们对中国资产的悲观情绪可能有些过头的希望。但现在庆祝可能还为时过早。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-25/china-bond-inflow-surprise-may-be-false-dawn-as-pboc-hands-tied</guid>
-      <pubDate>Mon, 25 Dec 2023 23:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>日元疲软推动 2023 年外国需求期间日本股市上涨</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-25/weak-yen-fuels-japan-s-2023-equity-rally-amid-foreign-demand</link>
-      <description><![CDATA[如果外国投资者在 2024 年变得更加乐观，日本今年全球最大的股市反弹之一可能会延续。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-25/weak-yen-fuels-japan-s-2023-equity-rally-amid-foreign-demand</guid>
-      <pubDate>Mon, 25 Dec 2023 23:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲股市低迷，货币在交易清淡中上涨：市场总结</title>
+      <title>亚洲股市涨跌互现，货币在交投清淡中上涨：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-25/asia-eyes-muted-open-oil-in-focus-amid-tensions-markets-wrap</link>
-      <description><![CDATA[亚洲股市基本持平，而该地区货币则因交易谨慎和流动性减少而走高，部分市场因假期休市。]]></description>
+      <description><![CDATA[亚洲股市涨跌互现，而该地区货币则因交易谨慎和流动性稀薄而走高，部分市场因假期休市。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-25/asia-eyes-muted-open-oil-in-focus-amid-tensions-markets-wrap</guid>
       <pubDate>Mon, 25 Dec 2023 22:41:08 GMT</pubDate>
     </item>
     <item>
-      <title>巴西 Enauta 收购壳牌运营的 Parque das Conchas 股份</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-25/brazil-s-enauta-buys-stake-in-shell-operated-parque-das-conchas</link>
-      <description><![CDATA[巴西石油巨头 Enauta Participacoes SA 已以 1.5 亿美元收购了 Parque das Conchas 油田的少数股权。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-25/brazil-s-enauta-buys-stake-in-shell-operated-parque-das-conchas</guid>
-      <pubDate>Mon, 25 Dec 2023 21:29:34 GMT</pubDate>
+      <title>黑石集团将退出大使馆办公园区，参与今年印度最大的街区销售活动</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-19/blackstone-to-exit-embassy-in-biggest-india-block-sale-this-year</link>
+      <description><![CDATA[Blackstone Inc. 的附属公司正寻求以 8.33 亿美元的大宗交易退出印度大使馆办公园区房地产投资信托基金 (Embassy Office Parks REIT)，该交易将成为印度今年最大的交易之一，因为蓬勃发展的股市允许一些早期投资者出售其投资。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-19/blackstone-to-exit-embassy-in-biggest-india-block-sale-this-year</guid>
+      <pubDate>Tue, 19 Dec 2023 14:52:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
