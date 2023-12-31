@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Sun, 31 Dec 2023 14:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2023 14:18:45 GMT</lastBuildDate>
     <item>
       <title>习近平承诺在“艰难”的一年后加强经济复苏</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-31/xi-pledges-to-strengthen-economic-recovery-after-tough-year</link>
@@ -15,9 +15,16 @@
     <item>
       <title>船舶遭遇两次袭击后，马士基再次推迟红海运输</title>
       <link>https://www.bloomberg.com/news/articles/2023-12-31/maersk-delays-red-sea-transits-again-after-ship-attacked-twice</link>
-      <description><![CDATA[A.P.穆勒-马士基公司（A.P. Moller-Maersk A/S）的一艘集装箱船在一天之内在红海海域遭遇两次袭击，因此将推迟在红海的运输48小时。]]></description>
+      <description><![CDATA[A.P.穆勒-马士基公司（A.P. Moller-Maersk A/S）的一艘集装箱船在一天之内在红海海域遭遇两次袭击，并将其在红海的运输推迟 48 小时。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-31/maersk-delays-red-sea-transits-again-after-ship-attacked-twice</guid>
       <pubDate>Sun, 31 Dec 2023 11:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>政策转变未能遏制下滑，中国房屋销售再次下滑</title>
+      <link>https://www.bloomberg.com/news/articles/2023-12-31/china-home-sales-fall-again-as-policy-shifts-fail-to-stem-decline</link>
+      <description><![CDATA[12月份中国房屋销售加速下滑，凸显遏制中国房地产市场下滑的挑战。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-12-31/china-home-sales-fall-again-as-policy-shifts-fail-to-stem-decline</guid>
+      <pubDate>Sun, 31 Dec 2023 11:35:11 GMT</pubDate>
     </item>
     <item>
       <title>尼日利亚将额外 82 亿美元 CBN 贷款转换为债务</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[随着 2023 年接近尾声，美国劳动力市场可能保持强劲，而工资涨幅继续放缓，为来年经济稳定增长和通胀减弱奠定基础。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2023-12-30/us-jobs-numbers-to-show-healthy-hiring-easing-pay-growth</guid>
       <pubDate>Sat, 30 Dec 2023 21:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰通过黑海走廊大量出口对抗俄罗斯</title>
-      <link>https://www.bloomberg.com/news/articles/2023-12-30/ukraine-exports-through-black-sea-shipping-corridor-reach-13-million-tons</link>
-      <description><![CDATA[俄罗斯退出保证船只安全航行的协议后，乌克兰通过黑海航运走廊出口了 1300 万吨产品。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2023-12-30/ukraine-exports-through-black-sea-shipping-corridor-reach-13-million-tons</guid>
-      <pubDate>Sat, 30 Dec 2023 15:25:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
