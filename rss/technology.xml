@@ -4,11 +4,18 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 10 Jan 2024 11:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 12:11:03 GMT</lastBuildDate>
+    <item>
+      <title>CES 人工智能热潮感染欧莱雅和沃尔玛</title>
+      <link>https://www.bloomberg.com/news/newsletters/2024-01-10/ces-2024-l-oreal-meta-profiler-and-walmart-embrace-ai</link>
+      <description><![CDATA[CES 带来了一些意想不到的 AI 应用。但首先...]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2024-01-10/ces-2024-l-oreal-meta-profiler-and-walmart-embrace-ai</guid>
+      <pubDate>Wed, 10 Jan 2024 12:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>英伟达的股价突破让亚马逊望尘莫及</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-10/nvidia-s-stock-breakout-puts-amazon-within-sight-tech-watch</link>
-      <description><![CDATA[新年刚过 10 天，一只熟悉的股票又重回排行榜榜首：英伟达公司 (Nvidia Corp.)。]]></description>
+      <description><![CDATA[新年刚过 10 天，一只熟悉的股票就重新回到了排行榜的榜首：英伟达公司 (Nvidia Corp.)。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-10/nvidia-s-stock-breakout-puts-amazon-within-sight-tech-watch</guid>
       <pubDate>Wed, 10 Jan 2024 11:41:59 GMT</pubDate>
     </item>
@@ -34,6 +41,13 @@
       <pubDate>Wed, 10 Jan 2024 09:45:23 GMT</pubDate>
     </item>
     <item>
+      <title>Brevan Howard 加入机构推动基金代币化</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-10/brevan-howard-joins-in-on-institutional-push-to-tokenize-funds</link>
+      <description><![CDATA[Brevan Howard 计划通过与野村证券 Laser Digital 支持的一家初创公司合作，将其至少一支基金代币化，使其成为最新尝试将资金投入区块链的金融巨头。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-10/brevan-howard-joins-in-on-institutional-push-to-tokenize-funds</guid>
+      <pubDate>Wed, 10 Jan 2024 09:40:00 GMT</pubDate>
+    </item>
+    <item>
       <title>科技股的增长困境给印度股市的强劲上涨带来风险</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-10/tech-s-growth-woes-pose-a-risk-to-india-stocks-sizzling-rally</link>
       <description><![CDATA[据估计，印度顶级科技公司的收入增长放缓，可能会阻碍该国股市的持续飙升，而印度股市是华尔街首选的新兴市场股票之一。]]></description>
@@ -50,23 +64,9 @@
     <item>
       <title>塔塔集团宣布在古吉拉特邦新建电池和芯片工厂，作为绿色科技推动的一部分</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-10/tata-group-announces-new-battery-and-chip-plants-as-part-of-green-tech-push</link>
-      <description><![CDATA[印度塔塔集团表示，计划今年在古吉拉特邦建设一家半导体制造厂，这是对总理纳伦德拉·莫迪所在地沿海邦的一系列投资的又一举措。]]></description>
+      <description><![CDATA[印度塔塔集团表示，计划今年在古吉拉特邦建立一家半导体制造厂，这是对总理纳伦德拉·莫迪所在地沿海邦的一系列投资的又一举措。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-10/tata-group-announces-new-battery-and-chip-plants-as-part-of-green-tech-push</guid>
       <pubDate>Wed, 10 Jan 2024 08:29:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 和 Disney+ 超越游戏，创移动应用创纪录年份</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-10/tiktok-crosses-10-billion-in-in-app-spending-mobile-app-sales-hit-record</link>
-      <description><![CDATA[根据 data.ai 的最新年度报告，字节跳动有限公司的 TikTok 成为首个累计消费者支出超过 100 亿美元的应用程序，帮助推动移动应用程序销售在游戏收入下降的一年中创下新高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-10/tiktok-crosses-10-billion-in-in-app-spending-mobile-app-sales-hit-record</guid>
-      <pubDate>Wed, 10 Jan 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能需求抵消芯片萎靡之势后，台积电停止销售下滑</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-10/tsmc-holiday-quarter-sales-outpace-expectations-with-ai-tailwind</link>
-      <description><![CDATA[台积电第四季度营收超出了下滑预期，原因是人工智能厂商的需求帮助抵消了智能手机和笔记本电脑芯片销售低迷的影响。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-10/tsmc-holiday-quarter-sales-outpace-expectations-with-ai-tailwind</guid>
-      <pubDate>Wed, 10 Jan 2024 05:41:23 GMT</pubDate>
     </item>
     <item>
       <title>SEC 的 X 账户被黑客入侵，谎称比特币 ETF 已获批准</title>
