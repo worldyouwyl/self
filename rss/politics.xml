@@ -4,7 +4,14 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Fri, 12 Jan 2024 11:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 12:11:04 GMT</lastBuildDate>
+    <item>
+      <title>纳瓦兹·谢里夫在巴基斯坦大选前赢得伊姆兰·汗的支持</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-12/nawaz-sharif-gains-ground-to-imran-khan-ahead-of-pakistan-polls</link>
+      <description><![CDATA[距离巴基斯坦选举还有不到一个月的时间，入狱的前总理伊姆兰·汗仍然是最受欢迎的政治家，尽管他的竞争对手纳瓦兹·谢里夫自去年自我流放回国以来已经获得了相当大的支持。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-12/nawaz-sharif-gains-ground-to-imran-khan-ahead-of-pakistan-polls</guid>
+      <pubDate>Fri, 12 Jan 2024 11:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>美国同意与非洲就扩大贸易准入达成初步协议</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-12/us-agrees-preliminary-deal-with-africa-on-extending-trade-access</link>
@@ -36,7 +43,7 @@
     <item>
       <title>也门胡塞武装空袭后布伦特原油价格触及 80 美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-12/brent-oil-hits-80-after-airstrikes-target-yemen-s-houthis</link>
-      <description><![CDATA[美国及其盟国对也门胡塞叛乱分子发动空袭，以报复红海船只遭受袭击，这些袭击危及了通过重要水道的燃料和货物流动，油价大幅上涨。]]></description>
+      <description><![CDATA[美国及其盟国对也门胡塞叛军发动空袭，以报复红海船只遭受袭击，这些袭击危及了重要水道的燃料和货物流动，油价大幅上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-12/brent-oil-hits-80-after-airstrikes-target-yemen-s-houthis</guid>
       <pubDate>Fri, 12 Jan 2024 10:34:11 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[为军队提供人工智能模型的数据分析公司 Palantir Technologies Inc. 已同意与以色列国防部建立战略合作伙伴关系，提供技术来帮助该国的战争工作。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-12/palantir-israel-agree-to-strategic-partnership-for-battle-tech</guid>
       <pubDate>Fri, 12 Jan 2024 10:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴秉国访问新德里期间，美国和印度将讨论签证和关税问题</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-12/us-india-to-discuss-visas-tariffs-during-tai-s-new-delhi-visit</link>
-      <description><![CDATA[美国贸易代表凯瑟琳·戴正在对印度进行为期三天的访问，预计她将与印度贸易部长和外交部长就印度工人商务签证和商品免税准入等议题举行会谈。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-12/us-india-to-discuss-visas-tariffs-during-tai-s-new-delhi-visit</guid>
-      <pubDate>Fri, 12 Jan 2024 10:18:15 GMT</pubDate>
     </item>
     <item>
       <title>空袭后运输建议避开关键的全球贸易航点</title>
@@ -69,11 +69,11 @@
       <pubDate>Fri, 12 Jan 2024 08:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦获得国际货币基金组织最终批准 7 亿美元贷款</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-11/pakistan-secures-final-imf-approval-for-700-million-loan-tranche</link>
-      <description><![CDATA[巴基斯坦最终获得国际货币基金组织 (IMF) 约 7 亿美元援助的批准，这为下个月选举前陷入困境的南亚经济提供了重要支持。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-11/pakistan-secures-final-imf-approval-for-700-million-loan-tranche</guid>
-      <pubDate>Thu, 11 Jan 2024 17:26:09 GMT</pubDate>
+      <title>美国和英国在红海船只袭击后打击也门胡塞武装</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-11/us-uk-launch-airstrikes-on-houthi-rebel-targets-in-yemen</link>
+      <description><![CDATA[周五早些时候，美国和英国对也门胡塞武装目标发动了约 70 次空袭，以阻止伊朗支持的组织在红海的航运袭击。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-11/us-uk-launch-airstrikes-on-houthi-rebel-targets-in-yemen</guid>
+      <pubDate>Thu, 11 Jan 2024 23:42:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
