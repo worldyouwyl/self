@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 16 Jan 2024 14:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 14:33:00 GMT</lastBuildDate>
+    <item>
+      <title>由于消费者贷款损失增加，瑞典银行再次暴跌</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-16/swedish-lender-resurs-plunges-as-losses-mount-on-consumer-loans</link>
+      <description><![CDATA[瑞典零售银行 Resurs Holding AB 因本国市场和邻国芬兰的消费贷款恶化而第四季度意外亏损，股价跌至历史新低。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-16/swedish-lender-resurs-plunges-as-losses-mount-on-consumer-loans</guid>
+      <pubDate>Tue, 16 Jan 2024 14:07:42 GMT</pubDate>
+    </item>
     <item>
       <title>挪威授予62个成熟地区石油和天然气生产许可证</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-16/norway-awards-oil-and-gas-licenses-in-mature-areas-off-its-coast</link>
@@ -34,13 +41,6 @@
       <pubDate>Tue, 16 Jan 2024 13:42:22 GMT</pubDate>
     </item>
     <item>
-      <title>纽约梅隆银行的文斯：人工智能需要护栏</title>
-      <link>https://www.bloomberg.com/news/videos/2024-01-16/bny-mellon-s-vince-ai-needs-guardrails-video</link>
-      <description><![CDATA[纽约梅隆银行首席执行官罗宾·文斯 (Robin Vince) 谈论了银行业的弹性、为员工提供更大的灵活性以及人工智能护栏的必要性。他在瑞士达沃斯举行的世界经济论坛年会上接受彭博电视采访。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-01-16/bny-mellon-s-vince-ai-needs-guardrails-video</guid>
-      <pubDate>Tue, 16 Jan 2024 13:37:43 GMT</pubDate>
-    </item>
-    <item>
       <title>财富股跑赢大盘，摩根士丹利交易员表现不佳</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-16/morgan-stanley-wealth-unit-beats-forecasts-as-traders-fall-short</link>
       <description><![CDATA[摩根士丹利的交易员再次出现亏损，拖累了该公司的利润，因为该公司的财富业务激增超出了预期。]]></description>
@@ -50,9 +50,16 @@
     <item>
       <title>高盛股票交易激增推动利润猛增</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-16/goldman-tops-estimates-as-stock-trading-surges-past-expectations</link>
-      <description><![CDATA[高盛集团(Goldman Sachs Group Inc.)的股票交易部门收入增长了分析师预期的三倍，从而超出了利润预期，结束了其所宣传的转型年。]]></description>
+      <description><![CDATA[高盛集团(Goldman Sachs Group Inc.)的股票交易部门的收入增长了分析师预期的三倍，从而超出了利润预期，结束了其所宣传的转型年。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-16/goldman-tops-estimates-as-stock-trading-surges-past-expectations</guid>
       <pubDate>Tue, 16 Jan 2024 12:27:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>德意志银行首席财务官对“困难”一年后的奖金发出警告</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-16/deutsche-bank-bonuses-to-reflect-difficult-market-cfo-says</link>
+      <description><![CDATA[德意志银行正在为员工准备迎接艰难的奖金季节。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-16/deutsche-bank-bonuses-to-reflect-difficult-market-cfo-says</guid>
+      <pubDate>Tue, 16 Jan 2024 10:40:07 GMT</pubDate>
     </item>
     <item>
       <title>调查显示，退休储蓄者正在将更多资金投入股票</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[由于胡塞武装对红海船只的持续袭击导致中东局势紧张，油价小幅上涨，但全球经济前景不稳定和美元上涨抵消了这一影响。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-15/latest-oil-market-news-and-analysis-for-jan-16</guid>
       <pubDate>Mon, 15 Jan 2024 23:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>银行盈利乐观后美国期货收窄损失：市场总结</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-15/asia-stocks-set-to-fall-at-open-oil-trims-advance-markets-wrap</link>
-      <description><![CDATA[由于央行官员反对大幅降息的押注，华尔街巨头的稳健业绩为全球股市回落提供了一线曙光。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-15/asia-stocks-set-to-fall-at-open-oil-trims-advance-markets-wrap</guid>
-      <pubDate>Mon, 15 Jan 2024 22:40:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
