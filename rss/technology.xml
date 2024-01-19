@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Jan 2024 12:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 12:43:40 GMT</lastBuildDate>
+    <item>
+      <title>富士通表示从一开始就知道 Post Office Horizo​​n 存在漏洞</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-19/fujitsu-s-patterson-says-it-knew-about-post-office-horizon-bugs-from-the-start</link>
+      <description><![CDATA[富士通公司的欧洲负责人在一次公开调查中表示，该公司和英国邮局一直了解软件错误，这些错误导致数百人因盗窃和虚假会计而被错误定罪。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-19/fujitsu-s-patterson-says-it-knew-about-post-office-horizon-bugs-from-the-start</guid>
+      <pubDate>Fri, 19 Jan 2024 12:25:20 GMT</pubDate>
+    </item>
     <item>
       <title>员工表示，谷歌裁员现在“一切如常”</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-01-19/google-layoffs-are-now-business-as-usual-employee-says</link>
@@ -25,6 +32,13 @@
       <description><![CDATA[苹果公司誓言向竞争对手开放其令人垂涎的 iPhone 触碰支付技术，以避免欧盟可能面临的巨额反垄断罚款。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-19/apple-offers-to-settle-eu-s-antitrust-probe-into-tap-to-pay-tech</guid>
       <pubDate>Fri, 19 Jan 2024 10:45:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京任命宇航员为俄罗斯对外太空关系特使</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-19/putin-appoints-cosmonaut-hero-to-lead-space-diplomacy-effort</link>
+      <description><![CDATA[俄罗斯总统弗拉基米尔·普京任命宇航员谢尔盖·克里卡列夫为国际太空合作特使，俄罗斯寻求改革遭受美国主导制裁的航天工业。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-19/putin-appoints-cosmonaut-hero-to-lead-space-diplomacy-effort</guid>
+      <pubDate>Fri, 19 Jan 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>中国对 Shein IPO 计划的审查表明监管范围扩大</title>
@@ -55,25 +69,11 @@
       <pubDate>Fri, 19 Jan 2024 08:36:39 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 将以 3,499 美元的 Vision Pro 抢先体验消费者需求</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-19/when-do-apple-vision-pro-preorders-begin-8-a-m-eastern-5-a-m-pacific-jan-19</link>
-      <description><![CDATA[苹果公司期待已久的 Vision Pro 混合现实耳机终于将于周五开始接受预订，这让该公司第一次真正感受到消费者对这款 3,499 美元设备的需求。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-19/when-do-apple-vision-pro-preorders-begin-8-a-m-eastern-5-a-m-pacific-jan-19</guid>
-      <pubDate>Fri, 19 Jan 2024 05:01:00 GMT</pubDate>
-    </item>
-    <item>
       <title>移动应用 Kaspi.kz 在美国 IPO 为投资者筹集 10 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-19/mobile-app-kaspi-kz-s-us-ipo-raises-1-billion-for-investors</link>
       <description><![CDATA[Kaspi.kz 的最大股东通过大规模首次公开募股筹集了约 10 亿美元，这家哈萨克斯坦移动应用公司为美国上市增添了动力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-19/mobile-app-kaspi-kz-s-us-ipo-raises-1-billion-for-investors</guid>
       <pubDate>Fri, 19 Jan 2024 00:32:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本在一系列太空问题后准备登月</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-18/japan-prepares-for-moon-landing-after-string-of-space-disasters</link>
-      <description><![CDATA[日本正试图摆脱其太空野心的一系列重大挫折，试图在周六凌晨在月球表面着陆轻型着陆器。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-18/japan-prepares-for-moon-landing-after-string-of-space-disasters</guid>
-      <pubDate>Thu, 18 Jan 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
