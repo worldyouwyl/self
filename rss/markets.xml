@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 25 Jan 2024 22:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 22:51:37 GMT</lastBuildDate>
     <item>
       <title>Blackstone 寻求私人信贷以 23 亿美元收购 Rover</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-25/blackstone-seeks-private-credit-for-2-3-billion-rover-buyout</link>
@@ -48,6 +48,13 @@
       <pubDate>Thu, 25 Jan 2024 21:32:11 GMT</pubDate>
     </item>
     <item>
+      <title>贸易谈判破裂后英国和加拿大互相指责</title>
+      <link>https://www.bloomberg.com/news/articles/2024-01-25/uk-breaks-off-free-trade-talks-with-canada-on-lack-of-progress</link>
+      <description><![CDATA[英国已暂停与加拿大达成自由贸易协议的谈判，双方都指责对方阻碍进展。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-01-25/uk-breaks-off-free-trade-talks-with-canada-on-lack-of-progress</guid>
+      <pubDate>Thu, 25 Jan 2024 20:30:59 GMT</pubDate>
+    </item>
+    <item>
       <title>巴西低成本航空公司 Gol 在美国申请破产</title>
       <link>https://www.bloomberg.com/news/articles/2024-01-25/low-cost-brazilian-airline-gol-to-file-for-bankruptcy-in-us</link>
       <description><![CDATA[Gol Linhas Aereas Inteligentes SA 申请破产，这使得这家巴西航空公司从 Covid-19 大流行中恢复过来的努力失败了。]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[就在美联储提高利率以阻止金融机构利用其有吸引力的条款进行套利之前，美联储紧急贷款计划的借款额升至新纪录。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-01-25/borrowing-from-fed-emergency-tool-likely-jumped-before-rate-hike</guid>
       <pubDate>Thu, 25 Jan 2024 15:58:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着软着陆合唱的声音越来越大，股市上涨：市场总结</title>
-      <link>https://www.bloomberg.com/news/articles/2024-01-24/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[华尔街交易员将股市推高至历史新高，因为他们猜测美联储将能够实现软着陆，因为美国经济仍然相当有弹性，通胀显示出降温迹象。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-01-24/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Wed, 24 Jan 2024 22:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
