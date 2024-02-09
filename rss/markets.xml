@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博市场</title>
+    <title></title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 09 Feb 2024 20:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 20:41:45 GMT</lastBuildDate>
+    <item>
+      <title>超级碗：FanDuel 首席执行官预计将有数百万赌注</title>
+      <link>https://www.bloomberg.com/news/videos/2024-02-09/super-bowl-fanduel-ceo-expects-millions-of-bets-video</link>
+      <description><![CDATA[随着本周末超级碗比赛的临近，体育赛事投注滚滚而来。FanDuel 首席执行官艾米·豪 (Amy Howe) 与埃德·勒德洛 (Ed Ludlow) 和卡罗琳·海德 (Caroline Hyde) 一起了解人们在今年的体育赛事之前投注的内容 - 包括泰勒·斯威夫特 (Taylor Swift)。她在“彭博科技”节目中发表演讲。 （来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-02-09/super-bowl-fanduel-ceo-expects-millions-of-bets-video</guid>
+      <pubDate>Fri, 09 Feb 2024 20:35:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京的采访如何谈论互联网的本质</title>
+      <link>https://www.bloomberg.com/news/videos/2024-02-09/how-putin-s-interview-speaks-to-the-nature-of-the-web-video</link>
+      <description><![CDATA[自入侵乌克兰以来，俄罗斯总统弗拉基米尔·普京首次与西方媒体人物、前福克斯新闻主持人塔克·卡尔森坐在一起。完整的采访也发布在埃隆·马斯克的社交平台 X 上。社交媒体专家、雪城大学传播学副教授 Jennifer Grygiel 与 Ed Ludlow 和 Caroline Hyde 一起讨论这对未来社交媒体上的信息分发格局意味着什么即将到来的选举。他们谈论“彭博科技”。 （来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-02-09/how-putin-s-interview-speaks-to-the-nature-of-the-web-video</guid>
+      <pubDate>Fri, 09 Feb 2024 20:34:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>蓝猫头鹰股价上涨至历史新高</title>
+      <link>https://www.bloomberg.com/news/videos/2024-02-09/blue-owl-shares-rally-to-record-high-video</link>
+      <description><![CDATA[彭博社的 John Sage 和 Sridhar Natarajan 与 Sonali Basak 一起讨论资产管理公司 Blue Owl 股价飙升的问题。 （来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-02-09/blue-owl-shares-rally-to-record-high-video</guid>
+      <pubDate>Fri, 09 Feb 2024 20:30:50 GMT</pubDate>
+    </item>
     <item>
       <title>主要生产商称巴西玉米乙醇热潮即将结束</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-09/brazil-corn-ethanol-craze-is-about-to-end-major-producer-says</link>
@@ -20,32 +41,11 @@
       <pubDate>Fri, 09 Feb 2024 19:47:35 GMT</pubDate>
     </item>
     <item>
-      <title>厄瓜多尔加税扫清最后障碍，引发债券反弹</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-09/ecuador-s-tax-hike-clears-final-hurdle-igniting-bond-rally</link>
-      <description><![CDATA[厄瓜多尔的增值税将提高三个百分点，达到 15%，这是新总统丹尼尔·诺博亚在寻求解决财政和公共安全威胁时的胜利。这个南美国家的债券上涨。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-09/ecuador-s-tax-hike-clears-final-hurdle-igniting-bond-rally</guid>
-      <pubDate>Fri, 09 Feb 2024 19:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>就业数据公布后，经济学家推迟加拿大降息预测</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-09/economists-push-back-canada-rate-cut-forecasts-after-jobs-data</link>
-      <description><![CDATA[周五强于预期的就业报告导致该国一些较为鸽派的预测人士修改了他们对加拿大央行何时开始降息的看法。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-09/economists-push-back-canada-rate-cut-forecasts-after-jobs-data</guid>
-      <pubDate>Fri, 09 Feb 2024 19:32:22 GMT</pubDate>
-    </item>
-    <item>
       <title>IPO 持续升温，墨西哥零售商 BBB 股价跃升 20%</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-09/mexican-retailer-bbb-jumps-in-debut-after-589-million-us-ipo</link>
-      <description><![CDATA[墨西哥折扣零售商 BBB Foods Inc. 在美国首次公开募股 (IPO) 定价高于市场区间上限，筹集约 5.89 亿美元，其首日交易股价上涨 20%。]]></description>
+      <description><![CDATA[墨西哥折扣零售商 BBB Foods Inc. 在美国首次公开募股 (IPO) 定价为市场区间上限，筹集约 5.89 亿美元，其首日交易股价上涨 20%。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-09/mexican-retailer-bbb-jumps-in-debut-after-589-million-us-ipo</guid>
       <pubDate>Fri, 09 Feb 2024 18:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>NYCB首席执行官集结，董事会在40亿美元暴跌后买入股票</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-09/nycb-jumps-as-ceo-board-buy-shares-after-4-billion-selloff</link>
-      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 周五上涨，其首席执行官和其他内部人士购买了超过 20 万股该股，自上周令人震惊地宣布削减股息和扩大贷款损失准备金以来，该股价值已下跌约一半。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-09/nycb-jumps-as-ceo-board-buy-shares-after-4-billion-selloff</guid>
-      <pubDate>Fri, 09 Feb 2024 17:36:50 GMT</pubDate>
     </item>
     <item>
       <title>X 与 WWE、BetMGM 签订新协议</title>
