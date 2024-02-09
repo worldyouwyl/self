@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 09 Feb 2024 20:41:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 20:51:26 GMT</lastBuildDate>
+    <item>
+      <title>CFRA 的 Nelson 谈百事可乐销售预测</title>
+      <link>https://www.bloomberg.com/news/videos/2024-02-09/cfra-s-nelson-on-pepsico-sales-forecast-video</link>
+      <description><![CDATA[CFRA Research 高级股票分析师 Garrett Nelson 讨论了彭博市场分析师建议的大推动者：收盘价。 （来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-02-09/cfra-s-nelson-on-pepsico-sales-forecast-video</guid>
+      <pubDate>Fri, 09 Feb 2024 20:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>超级碗：FanDuel 首席执行官预计将有数百万赌注</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-09/super-bowl-fanduel-ceo-expects-millions-of-bets-video</link>
@@ -27,23 +34,23 @@
       <pubDate>Fri, 09 Feb 2024 20:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>主要生产商称巴西玉米乙醇热潮即将结束</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-09/brazil-corn-ethanol-craze-is-about-to-end-major-producer-says</link>
-      <description><![CDATA[据巴西最大的燃料生产商之一圣马蒂尼奥公司称，重塑巴西生物燃料行业的玉米乙醇热潮即将结束。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-09/brazil-corn-ethanol-craze-is-about-to-end-major-producer-says</guid>
-      <pubDate>Fri, 09 Feb 2024 20:06:40 GMT</pubDate>
+      <title>厄瓜多尔加税扫清最后障碍，引发债券反弹</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-09/ecuador-s-tax-hike-clears-final-hurdle-igniting-bond-rally</link>
+      <description><![CDATA[厄瓜多尔的增值税将提高三个百分点，达到 15%，这是新任总统丹尼尔·诺博亚在寻求解决财政和公共安全威胁时的胜利。该国债券上涨。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-09/ecuador-s-tax-hike-clears-final-hurdle-igniting-bond-rally</guid>
+      <pubDate>Fri, 09 Feb 2024 19:41:43 GMT</pubDate>
     </item>
     <item>
-      <title>彭博市场与 Sonali Basak 02/09/2024</title>
-      <link>https://www.bloomberg.com/news/videos/2024-02-09/bloomberg-markets-with-sonali-basak-02-09-2024-video</link>
-      <description><![CDATA[《彭博市场》追踪全球所有资产类别的市场走势，并讨论华尔街面临的最大问题。嘉宾包括：Stifel 首席经济学家 Lindsey Piegze。阿瑞斯管理公司首席执行官迈克尔·阿鲁盖蒂。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-02-09/bloomberg-markets-with-sonali-basak-02-09-2024-video</guid>
-      <pubDate>Fri, 09 Feb 2024 19:47:35 GMT</pubDate>
+      <title>部长表示，秘鲁石油公司将向债券持有人支付所有款项</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-09/petroperu-will-make-all-payments-to-bondholders-minister-says</link>
+      <description><![CDATA[秘鲁国家石油公司财政部长亚历克斯·孔特雷拉斯周五表示，该公司将支付给债券持有人的所有款项，以减轻投资者对这家现金短缺的国有石油公司财务状况的担忧。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-09/petroperu-will-make-all-payments-to-bondholders-minister-says</guid>
+      <pubDate>Fri, 09 Feb 2024 19:02:20 GMT</pubDate>
     </item>
     <item>
       <title>IPO 持续升温，墨西哥零售商 BBB 股价跃升 20%</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-09/mexican-retailer-bbb-jumps-in-debut-after-589-million-us-ipo</link>
-      <description><![CDATA[墨西哥折扣零售商 BBB Foods Inc. 在美国首次公开募股 (IPO) 定价为市场区间上限，筹集约 5.89 亿美元，其首日交易股价上涨 20%。]]></description>
+      <description><![CDATA[墨西哥折扣零售商 BBB Foods Inc. 在美国首次公开募股 (IPO) 定价高于市场区间上限，筹集约 5.89 亿美元，其首日交易股价上涨 20%。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-09/mexican-retailer-bbb-jumps-in-debut-after-589-million-us-ipo</guid>
       <pubDate>Fri, 09 Feb 2024 18:16:26 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@ X 的合作伙伴关系和人才主管 Brett Weitz 讨论了新交易以及该�
       <pubDate>Fri, 09 Feb 2024 15:09:43 GMT</pubDate>
     </item>
     <item>
-      <title>以色列发动军事攻势，石油水泥周涨幅</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-09/latest-oil-market-news-and-analysis-for-feb-9</link>
-      <description><![CDATA[由于以色列与哈马斯战争停火的前景黯淡，以及以色列准备袭击加沙南部，原油价格上涨，从而增加了原油的地缘政治风险溢价。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-09/latest-oil-market-news-and-analysis-for-feb-9</guid>
-      <pubDate>Fri, 09 Feb 2024 00:03:43 GMT</pubDate>
-    </item>
-    <item>
       <title>标准普尔 500 指数的“大整数”引发更多涨幅：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-08/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[大型科技股的重新上涨将美国股市推向另一个里程碑，人们希望美联储很快能够降息——提振企业利润前景。]]></description>
+      <description><![CDATA[华尔街创下了一个里程碑，在大型科技股重新反弹的背景下，标准普尔 500 指数突破 5,000 点，并希望美联储很快能够降息——提振企业盈利前景。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-08/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Thu, 08 Feb 2024 22:42:55 GMT</pubDate>
     </item>
