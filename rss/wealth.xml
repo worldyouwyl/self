@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博财富</title>
+    <title></title>
     <link>https://bloomberg.com/wealth/</link>
     <description>彭博财富</description>
-    <lastBuildDate>Fri, 09 Feb 2024 12:10:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 12:36:50 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 的财务建议好吗？作为一名经济学家，我说是</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-02-09/is-tiktok-s-financial-advice-any-good-as-an-economist-i-say-yes</link>
+      <description><![CDATA[该视频平台可能并不总是提供平衡的政治观点，但其用户对管理资金有一些合理的建议。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-02-09/is-tiktok-s-financial-advice-any-good-as-an-economist-i-say-yes</guid>
+      <pubDate>Fri, 09 Feb 2024 12:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>曼城支持者李瑞刚为私募股权公司开设阿布扎比分店</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-09/man-city-backer-li-ruigang-opens-abu-dhabi-outpost-for-pe-firm</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[过去几年一直处于观望状态的首次购房者希望 2024 年可能是最终买到房子的一年。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-02-08/is-now-a-good-time-to-buy-a-house-lower-rates-market-thaw-draw-buyers</guid>
       <pubDate>Thu, 08 Feb 2024 18:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>每月 22,000 美元的洛杉矶租金展示了 KKR 的房产压力</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-08/a-22-000-a-month-la-rental-showcases-kkr-s-property-stresses</link>
-      <description><![CDATA[新建的西好莱坞公寓位于比佛利山庄附近充满活力的街区，设有瑜伽室、保龄球馆和放映室。仅有的两个可用单位——每间都有三间卧室和三间浴室 -租金为每月 19,500 美元和 22,000 美元。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-08/a-22-000-a-month-la-rental-showcases-kkr-s-property-stresses</guid>
-      <pubDate>Thu, 08 Feb 2024 17:17:54 GMT</pubDate>
     </item>
     <item>
       <title>亿万富翁希望将维加斯带到抵抗力极强的德克萨斯州</title>
