@@ -4,13 +4,27 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Mon, 12 Feb 2024 16:41:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 16:51:39 GMT</lastBuildDate>
+    <item>
+      <title>Dish 母公司 EchoStar 取消了第二次有争议的债务互换</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-12/dish-parent-echostar-scraps-a-second-contentious-debt-swap</link>
+      <description><![CDATA[在债权人强烈反对后，Dish Network Corp. 母公司 EchoStar Corp. 两周内第二次放弃一项有争议的债务重组提案。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-12/dish-parent-echostar-scraps-a-second-contentious-debt-swap</guid>
+      <pubDate>Mon, 12 Feb 2024 16:37:07 GMT</pubDate>
+    </item>
     <item>
       <title>无人能解答的价值 200 亿美元的体育媒体问题</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-02-12/the-20-billion-sports-media-problem-no-one-can-answer</link>
       <description><![CDATA[观看体育赛事从未如此复杂或昂贵。在好转之前，情况会变得更糟。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-02-12/the-20-billion-sports-media-problem-no-one-can-answer</guid>
       <pubDate>Mon, 12 Feb 2024 16:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达市值超越亚马逊</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-12/nvidia-overtakes-amazon-in-market-value-amid-scorching-rally</link>
+      <description><![CDATA[英伟达公司(Nvidia Corp.)的市值周一超过了亚马逊公司(Amazon.com Inc.)，这是过去一年因人工智能计算芯片需求飙升而实现惊人反弹的最新里程碑。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-12/nvidia-overtakes-amazon-in-market-value-amid-scorching-rally</guid>
+      <pubDate>Mon, 12 Feb 2024 16:29:26 GMT</pubDate>
     </item>
     <item>
       <title>特鲁多政府因流行病旅行应用程序遭到审计员的猛烈抨击</title>
@@ -22,16 +36,9 @@
     <item>
       <title>惠普因自主欺诈向林奇索赔 40 亿美元损失</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-12/hp-seeks-4-billion-in-losses-from-mike-lynch-and-cfo-over-autonomy-fraud</link>
-      <description><![CDATA[伦敦法官裁定 Autonomy Corp. 的前老板在出售前以欺诈手段抬高公司价值后，惠普企业公司 (Hewlett Packard Enterprise Co.) 正在向 Autonomy Corp. 的前老板寻求高达 40 亿美元的赔偿。]]></description>
+      <description><![CDATA[伦敦法官发现 Autonomy Corp. 的前老板在出售前以欺诈手段抬高公司价值后，惠普企业公司 (Hewlett Packard Enterprise Co.) 正在向 Autonomy Corp. 的前老板索要高达 40 亿美元的赔偿。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-12/hp-seeks-4-billion-in-losses-from-mike-lynch-and-cfo-over-autonomy-fraud</guid>
       <pubDate>Mon, 12 Feb 2024 13:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>苏丹准军事组织在互联网停电期间使用马斯克的星链</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-12/elon-musk-s-starlink-used-by-sudan-s-rsf-amid-internet-blackout</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的 Starlink 卫星互联网服务被苏丹准军事快速支援部队使用，当时全国范围内的互联网停电，人道主义机构表示，这导致人们在长达 10 个月的残酷内战期间无法获得必要的帮助。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-12/elon-musk-s-starlink-used-by-sudan-s-rsf-amid-internet-blackout</guid>
-      <pubDate>Mon, 12 Feb 2024 12:54:23 GMT</pubDate>
     </item>
     <item>
       <title>ContextLogic 以接近 1.73 亿美元的价格将 Wish 出售给 Qoo10</title>
@@ -39,13 +46,6 @@
       <description><![CDATA[折扣在线零售商 Wish 的母公司已同意以 1.73 亿美元的价格将其资产和负债出售给新加坡电子商务公司 Qoo10。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-12/contextlogic-said-to-near-173-million-sale-of-wish-to-qoo10</guid>
       <pubDate>Mon, 12 Feb 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uber 提高了对零工经济的期望</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-02-12/uber-earnings-boost-gig-economy-ahead-of-lyft-and-doordash-results</link>
-      <description><![CDATA[Lyft 和 DoorDash 本周公布财务业绩。但首先...]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-02-12/uber-earnings-boost-gig-economy-ahead-of-lyft-and-doordash-results</guid>
-      <pubDate>Mon, 12 Feb 2024 12:00:14 GMT</pubDate>
     </item>
     <item>
       <title>荷兰法院下令停止向以色列运送 F-35 零部件</title>
@@ -71,7 +71,7 @@
     <item>
       <title>Believe 首席执行官提出以 14.6 亿欧元收购唱片公司</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-12/believe-founder-offers-to-buy-music-label-in-1-46-billion-deal</link>
-      <description><![CDATA[Believe SA 创始人 Denis Ladegaillerie 与投资公司合作，提出将公司私有化的要约，该法国唱片公司的估值为 14.6 亿欧元（15.8 亿美元），2021 年首次公开募股后，其股价下跌了 36% 。]]></description>
+      <description><![CDATA[Believe SA 创始人 Denis Ladegaillerie 与投资公司合作，提出将公司私有化的要约，该法国唱片公司的估值为 14.6 亿欧元（15.8 亿美元），在 2021 年首次公开募股后，其股价下跌了 36% 。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-12/believe-founder-offers-to-buy-music-label-in-1-46-billion-deal</guid>
       <pubDate>Mon, 12 Feb 2024 08:05:52 GMT</pubDate>
     </item>
