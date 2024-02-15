@@ -4,13 +4,20 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 15 Feb 2024 18:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:25:35 GMT</lastBuildDate>
     <item>
       <title>人工智能计算领域的 Lambda 估值达到 15 亿美元</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-15/lambda-hits-1-5-billion-valuation-for-ai-computing-video</link>
       <description><![CDATA[Lambda 是一家销售云计算服务和用于训练人工智能软件的计算机的初创公司，在新一轮融资中筹集了 3.2 亿美元，该公司估值为 15 亿美元。 Lambda 首席执行官 Stephen Balaban 与 Ed Ludlow 和 Caroline Hyde 共同参与“彭博科技”节目。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-02-15/lambda-hits-1-5-billion-valuation-for-ai-computing-video</guid>
       <pubDate>Thu, 15 Feb 2024 17:46:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着天然气管道争端升温，能源转移、威廉姆斯交易倒钩</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-15/energy-transfer-williams-trade-barbs-as-gas-pipeline-battle-heats-up</link>
+      <description><![CDATA[Energy Transfer LP 和 Williams Cos 之间并没有失去爱意。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-15/energy-transfer-williams-trade-barbs-as-gas-pipeline-battle-heats-up</guid>
+      <pubDate>Thu, 15 Feb 2024 17:45:17 GMT</pubDate>
     </item>
     <item>
       <title>彭博社监测 2024 年 2 月 15 日</title>
@@ -41,25 +48,11 @@
       <pubDate>Thu, 15 Feb 2024 17:35:40 GMT</pubDate>
     </item>
     <item>
-      <title>随着比特币上涨，银行正在敦促美国监管机构改变加密货币指导</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-15/as-bitcoin-rallies-banks-push-sec-to-change-an-accounting-guideline-sab-121</link>
-      <description><![CDATA[强大的利益集团正在推动美国证券交易委员会调整会计指导，这使得美国银行为客户持有数字资产的成本更高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-15/as-bitcoin-rallies-banks-push-sec-to-change-an-accounting-guideline-sab-121</guid>
-      <pubDate>Thu, 15 Feb 2024 17:21:44 GMT</pubDate>
-    </item>
-    <item>
       <title>哥伦比亚经济落后于预测，增速为大流行以来最弱</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/colombian-economy-lags-forecasts-with-weakest-growth-since-pandemic</link>
       <description><![CDATA[哥伦比亚经济增长速度甚至比央行去年的悲观预测还要慢，这可能为更快降息打开大门。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-15/colombian-economy-lags-forecasts-with-weakest-growth-since-pandemic</guid>
       <pubDate>Thu, 15 Feb 2024 16:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>兴登堡找到最新做空目标，Temenos 减持 20 亿美元</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-15/temenos-sinks-as-hindenburg-says-it-s-short-the-stock</link>
-      <description><![CDATA[在 Hindenburg Research 持有空头头寸并暗示这家瑞士银行软件提供商的账簿存在严重缺陷后，Temenos AG 股价暴跌近三分之一，市值缩水 21 亿美元。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-15/temenos-sinks-as-hindenburg-says-it-s-short-the-stock</guid>
-      <pubDate>Thu, 15 Feb 2024 11:30:21 GMT</pubDate>
     </item>
     <item>
       <title>西门子计划筹集今年迄今为止欧洲最大的公司债券</title>
@@ -69,9 +62,16 @@
       <pubDate>Thu, 15 Feb 2024 11:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街在 PPI 之前努力站稳脚跟：市场结束</title>
+      <title>风险情绪压倒国际能源署的需求警告，油价上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-14/latest-oil-market-news-and-analysis-for-feb-15</link>
+      <description><![CDATA[由于更广泛市场的风险情绪促使交易员重新买入原油，油价上涨，超过了国际能源署对需求增长放缓的预测。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-14/latest-oil-market-news-and-analysis-for-feb-15</guid>
+      <pubDate>Wed, 14 Feb 2024 23:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PPI 数据参差不齐，国债波动：市场休整</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-14/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[在经济报告好坏参半之后，华尔街很难找到坚实的基础，交易员正在等待周五的通胀数据，以寻找有关美联储利率路径的线索。]]></description>
+      <description><![CDATA[在好坏参半的经济报告之后，全球最大的债券市场很难找到坚实的基础，交易员正在等待周五的通胀数据，以寻找有关美联储利率路径的线索。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-14/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 14 Feb 2024 22:56:02 GMT</pubDate>
     </item>
