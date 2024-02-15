@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 15 Feb 2024 19:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 19:22:40 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出人工智能系统，将文本转化为逼真的视频</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-15/openai-unveils-ai-system-to-turn-text-into-realistic-videos</link>
+      <description><![CDATA[OpenAI 推出了一种新的人工智能系统，可以根据用户的文本提示创建逼真的视频，使其成为最新一家采用生成视频技术的人工智能公司。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-15/openai-unveils-ai-system-to-turn-text-into-realistic-videos</guid>
+      <pubDate>Thu, 15 Feb 2024 19:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>联邦贸易委员会希望对使用人工智能进行冒充的公司进行惩罚</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/ftc-wants-to-penalize-companies-for-use-of-ai-in-impersonation</link>
@@ -18,6 +25,13 @@
       <description><![CDATA[音频行业中不断出现可疑的招聘信息]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-02-15/podcast-job-hunters-face-a-tough-market-and-suspicious-listings</guid>
       <pubDate>Thu, 15 Feb 2024 18:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克对德克萨斯州的喜爱未能让 SpaceX 继续在那里进行劳工斗争</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-15/musk-s-texas-fondness-fails-to-keep-spacex-labor-fight-there</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 倾向于将自己的商业事务安排在德克萨斯州的家附近，但这并没有阻止法官将 SpaceX 与美国劳工委员会的法庭诉讼移至加利福尼亚州。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-15/musk-s-texas-fondness-fails-to-keep-spacex-labor-fight-there</guid>
+      <pubDate>Thu, 15 Feb 2024 18:21:58 GMT</pubDate>
     </item>
     <item>
       <title>Brookfield 和 CVC 正在考虑对巴克莱商业支付部门的竞标</title>
@@ -55,25 +69,11 @@
       <pubDate>Thu, 15 Feb 2024 13:45:51 GMT</pubDate>
     </item>
     <item>
-      <title>甲骨文女性为股权奋斗了 7 年，只为赢得一两份额外薪水</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-15/oracle-women-fight-7-years-for-equity-win-extra-paycheck-or-two</link>
-      <description><![CDATA[甲骨文公司（Oracle Corp.）的女性员工与该公司就性别薪酬平等问题进行了近七年的斗争，最终达成了 2500 万美元的和解协议——对于这家软件巨头来说，这个代价很小，相当于大多数女性的一到两份工资。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-15/oracle-women-fight-7-years-for-equity-win-extra-paycheck-or-two</guid>
-      <pubDate>Thu, 15 Feb 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>兴登堡找到最新做空目标，Temenos 减持 20 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/temenos-sinks-as-hindenburg-says-it-s-short-the-stock</link>
       <description><![CDATA[在 Hindenburg Research 持有空头头寸并暗示这家瑞士银行软件提供商的账簿存在严重缺陷后，Temenos AG 股价暴跌近三分之一，市值缩水 21 亿美元。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-15/temenos-sinks-as-hindenburg-says-it-s-short-the-stock</guid>
       <pubDate>Thu, 15 Feb 2024 11:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>销售增长停滞后思科将裁员数千人</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-14/cisco-plans-to-cut-thousands-of-jobs-after-sales-growth-stalls</link>
-      <description><![CDATA[最大的网络设备制造商思科系统公司(Cisco Systems Inc.)计划裁员数千人，原因是企业技术支出放缓削弱了其销售增长。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-14/cisco-plans-to-cut-thousands-of-jobs-after-sales-growth-stalls</guid>
-      <pubDate>Wed, 14 Feb 2024 21:05:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
