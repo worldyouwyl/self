@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 15 Feb 2024 15:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 15:31:35 GMT</lastBuildDate>
     <item>
       <title>谷歌推出更新的人工智能模型，能够处理更长的文本和视频</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/google-rolls-out-updated-ai-model-capable-of-handling-longer-text-video</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[Meta Platforms Inc. 针对在 Facebook 和 Instagram 上做广告的小型企业发布了新指南，旨在帮助他们规避苹果公司征收的费用。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-15/meta-touts-new-way-for-small-advertisers-to-avoid-apple-s-fees</guid>
       <pubDate>Thu, 15 Feb 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellantis 首席执行官表示他在并购问题上与董事长保持一致</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-15/stellantis-ceo-says-he-s-aligned-with-chairman-on-the-topic-of-m-a</link>
+      <description><![CDATA[Stellantis NV 首席执行官卡洛斯·塔瓦雷斯 (Carlos Tavares) 告诉彭博电视台，他与董事长约翰·埃尔坎 (John Elkann) 在并购问题上“完全一致”。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-15/stellantis-ceo-says-he-s-aligned-with-chairman-on-the-topic-of-m-a</guid>
+      <pubDate>Thu, 15 Feb 2024 14:50:48 GMT</pubDate>
     </item>
     <item>
       <title>杰弗里·卡森伯格 (Jeffrey Katzenberg) 和乔·蒙大拿 (Joe Montana) 公司支持人工智能营销初创公司</title>
@@ -34,13 +41,6 @@
       <pubDate>Thu, 15 Feb 2024 14:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>公司表示，尽管存在 Deepfake 和偏见风险，人工智能在金融领域仍然有用</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-15/deepfakes-bias-no-excuse-to-skip-ai-benefit-finance-firms-told</link>
-      <description><![CDATA[银行在抵押贷款决策中使用有偏见的人工智能输出。一家保险公司的人工智能生成种族同质的广告图像。人工智能系统的用户抱怨糟糕的体验。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-15/deepfakes-bias-no-excuse-to-skip-ai-benefit-finance-firms-told</guid>
-      <pubDate>Thu, 15 Feb 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>在超市工作的高盛内部交易员</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/the-goldman-inside-trader-who-worked-weekends-in-the-supermarket</link>
       <description><![CDATA[当穆罕默德·齐纳 (Mohammed Zina) 在高盛集团 (Goldman Sachs Group Inc.) 找到工作时，他还选择继续在英国超市 J. Sainsbury Plc 周末轮班。]]></description>
@@ -50,7 +50,7 @@
     <item>
       <title>中国芯片股看起来像是华尔街的长期赢家</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/china-chip-stocks-look-like-long-term-winners-to-wall-street</link>
-      <description><![CDATA[虽然华尔街许多人竭尽全力避开中国股票，但一些分析师告诉客户考虑本土芯片公司。警告：可能需要一段时间才能看到好处。]]></description>
+      <description><![CDATA[尽管华尔街许多人竭尽全力避开中国股票，但一些分析师告诉客户考虑本土芯片公司。警告：可能需要一段时间才能看到好处。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-15/china-chip-stocks-look-like-long-term-winners-to-wall-street</guid>
       <pubDate>Thu, 15 Feb 2024 13:23:49 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>Nvidia 持有 Arm、SoundHound、生物科技公司 Recursion 的股份</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-14/nvidia-reports-stakes-in-arm-soundhound-and-biotech-company</link>
-      <description><![CDATA[处于人工智能消费热潮核心的芯片制造商 Nvidia 公司披露了对 Arm Holdings Plc、SoundHound AI Inc. 和生物技术公司 Recursion Pharmaceuticals Inc. 的投资。]]></description>
+      <description><![CDATA[处于人工智能消费热潮核心的芯片制造商英伟达公司披露了对 Arm Holdings Plc、SoundHound AI Inc. 和生物技术公司 Recursion Pharmaceuticals Inc. 的投资。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-14/nvidia-reports-stakes-in-arm-soundhound-and-biotech-company</guid>
       <pubDate>Wed, 14 Feb 2024 22:24:48 GMT</pubDate>
     </item>
     <item>
       <title>销售增长停滞后思科将裁员数千人</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-14/cisco-plans-to-cut-thousands-of-jobs-after-sales-growth-stalls</link>
-      <description><![CDATA[最大的网络设备制造商思科系统公司(Cisco Systems Inc.)计划裁员数千人，原因是企业技术支出放缓削弱了其销售增长。]]></description>
+      <description><![CDATA[最大的网络设备制造商思科系统公司(Cisco Systems Inc.)计划裁员数千人，原因是企业技术支出放缓抹去了其销售增长。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-14/cisco-plans-to-cut-thousands-of-jobs-after-sales-growth-stalls</guid>
       <pubDate>Wed, 14 Feb 2024 21:05:58 GMT</pubDate>
     </item>
