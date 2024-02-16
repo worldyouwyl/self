@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 16 Feb 2024 09:41:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 09:51:53 GMT</lastBuildDate>
     <item>
       <title>消息人士称，日本银行将为瑞萨电子收购 Altium 提供贷款</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-16/japan-banks-said-to-provide-loans-for-renesas-purchase-of-altium</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[据一家国家控制的研究机构称，韩国将需要更多核电站来完全放弃煤炭并实现其气候目标。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-16/korea-sees-need-for-more-nuclear-power-plants-to-hit-net-zero</guid>
       <pubDate>Fri, 16 Feb 2024 08:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>大众汽车计划向印度马恒达供应电动汽车零部件和电池</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-16/volkswagen-plans-to-supply-ev-parts-cells-to-india-s-mahindra</link>
+      <description><![CDATA[大众汽车公司计划向 Mahindra &amp; Co. 供应电动汽车零部件和电池。德国制造商 Mahindra Ltd. 试图进军印度新兴的清洁运输市场。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-16/volkswagen-plans-to-supply-ev-parts-cells-to-india-s-mahindra</guid>
+      <pubDate>Fri, 16 Feb 2024 07:18:11 GMT</pubDate>
     </item>
     <item>
       <title>乐天将从 2026 年起在日本提供卫星到移动服务</title>
@@ -64,16 +71,9 @@
     <item>
       <title>谷歌宣布推出免费人工智能网络工具以增强在线安全</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-16/google-announces-free-ai-cyber-tools-to-bolster-online-security</link>
-      <description><![CDATA[随着新兴技术越来越多地用于防范和实施网络犯罪，Alphabet Inc. 旗下的谷歌宣布了一项提供人工智能工具和投资以增强在线安全的计划。]]></description>
+      <description><![CDATA[随着新兴技术越来越多地用于防范和实施网络犯罪，Alphabet Inc. 旗下的谷歌宣布了一项计划，提供人工智能工具和投资以增强网络安全。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-16/google-announces-free-ai-cyber-tools-to-bolster-online-security</guid>
       <pubDate>Fri, 16 Feb 2024 00:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞萨电子将以 60 亿美元收购软件公司 Altium</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-14/japan-s-renesas-to-buy-software-firm-altium-for-6-billion</link>
-      <description><![CDATA[半导体制造商瑞萨电子公司 (Renesas Electronics Corp.) 同意以 91 亿澳元（59 亿美元）收购软件公司 Altium Ltd.，这是日本买家迄今为止对澳大利亚上市公司的最大一笔收购。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-14/japan-s-renesas-to-buy-software-firm-altium-for-6-billion</guid>
-      <pubDate>Wed, 14 Feb 2024 23:02:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
