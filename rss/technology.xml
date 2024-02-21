@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 21 Feb 2024 16:51:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 17:03:11 GMT</lastBuildDate>
+    <item>
+      <title>LockBit 的勒索软件帝国受到执法部门的打击</title>
+      <link>https://www.bloomberg.com/news/newsletters/2024-02-21/lockbit-s-ransomware-empire-takes-a-hit-from-law-enforcement</link>
+      <description><![CDATA[起诉书列出了两名涉嫌参与多产帮派的俄罗斯国民。]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2024-02-21/lockbit-s-ransomware-empire-takes-a-hit-from-law-enforcement</guid>
+      <pubDate>Wed, 21 Feb 2024 17:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>微软将使用英特尔制造国产处理器</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-21/microsoft-will-use-intel-to-manufacture-home-grown-processor</link>
@@ -27,6 +34,13 @@
       <pubDate>Wed, 21 Feb 2024 13:44:26 GMT</pubDate>
     </item>
     <item>
+      <title>思科启动七部分债券发售，为 Splunk 交易提供资金</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-21/cisco-kicks-off-seven-part-bond-deal-to-fund-splunk-acquisition</link>
+      <description><![CDATA[由于发行人急于利用投资者的强劲需求，思科系统公司计划从美国高等级债券市场借款，为其拟议的 280 亿美元收购 Splunk Inc. 提供部分资金。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-21/cisco-kicks-off-seven-part-bond-deal-to-fund-splunk-acquisition</guid>
+      <pubDate>Wed, 21 Feb 2024 13:21:32 GMT</pubDate>
+    </item>
+    <item>
       <title>谷歌推出 Gemma AI 模型，进一步深入开源</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-21/google-releases-gemma-ai-model-for-open-source-developers</link>
       <description><![CDATA[Gemma 建立在与该公司旗舰产品 Gemini 相同的人工智能技术之上]]></description>
@@ -43,7 +57,7 @@
     <item>
       <title>英伟达的高风险收益令整个市场紧张</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-21/nvidia-s-high-stakes-earnings-moment-has-entire-market-on-edge</link>
-      <description><![CDATA[英伟达公司(Nvidia Corp.)领先市场的进展甚至让多头质疑盈利好于预期是否足以推动这家人工智能芯片制造商的股价走高。]]></description>
+      <description><![CDATA[英伟达公司(Nvidia Corp.)领先市场的涨势甚至让多头质疑盈利好于预期是否足以推动这家人工智能芯片制造商的股价走高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-21/nvidia-s-high-stakes-earnings-moment-has-entire-market-on-edge</guid>
       <pubDate>Wed, 21 Feb 2024 12:32:58 GMT</pubDate>
     </item>
@@ -55,25 +69,11 @@
       <pubDate>Wed, 21 Feb 2024 12:25:13 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 和合适的耳机等于完美的睡眠</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-02-21/netflix-and-the-right-headphones-equal-the-perfect-night-s-sleep</link>
-      <description><![CDATA[对于像我这样的失眠症患者来说，寻找完美的耳机是一场斗争。但首先...]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-02-21/netflix-and-the-right-headphones-equal-the-perfect-night-s-sleep</guid>
-      <pubDate>Wed, 21 Feb 2024 12:05:13 GMT</pubDate>
-    </item>
-    <item>
       <title>帕洛阿尔托网络公司 (Palo Alto Networks) 下调展望后股价暴跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-20/palo-alto-networks-plunges-after-giving-disappointing-forecast</link>
       <description><![CDATA[网络安全公司帕洛阿尔托网络公司(Palo Alto Networks Inc.)下调了年度收入预测，该公司股价出现有史以来最大跌幅，引发了人们的担忧，即尽管攻击有所增加，但客户仍在控制支出。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-20/palo-alto-networks-plunges-after-giving-disappointing-forecast</guid>
       <pubDate>Tue, 20 Feb 2024 21:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度监管机构发现 Zee 价值 2.41 亿美元的会计问题</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-20/india-regulator-uncovers-241-million-accounting-issue-at-zee</link>
-      <description><![CDATA[印度市场监管机构发现 Zee Entertainment Enterprises Ltd. 的账户存在超过 2.4 亿美元的漏洞，这对这家陷入困境的媒体公司在与索尼集团当地子公司的合并失败不到一个月后再次遭受打击。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-20/india-regulator-uncovers-241-million-accounting-issue-at-zee</guid>
-      <pubDate>Tue, 20 Feb 2024 18:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
