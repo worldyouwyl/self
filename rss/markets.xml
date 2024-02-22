@@ -4,9 +4,23 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 22 Feb 2024 04:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 04:31:19 GMT</lastBuildDate>
     <item>
-      <title>日本基准日经指数短暂创出日内新高</title>
+      <title>日本日经 225 指数如何重拾魔力</title>
+      <link>https://www.bloomberg.com/graphics/2024-japan-nikkei-225-records-historic-high/</link>
+      <description><![CDATA[五张图表显示日本股市如何上涨至 1989 年以来的历史新高]]></description>
+      <guid>https://www.bloomberg.com/graphics/2024-japan-nikkei-225-records-historic-high/</guid>
+      <pubDate>Thu, 22 Feb 2024 04:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯石油贸易中断限制了印度炼油商的利润</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-22/russia-s-disrupted-oil-trade-crimps-margins-for-indian-refiners</link>
+      <description><![CDATA[印度国营炼油厂正面临着命运的转变，因为廉价的俄罗斯石油一旦变得更加昂贵且难以获得，就会挤压那些一直受益于莫斯科乌克兰战争的公司的利润。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-22/russia-s-disrupted-oil-trade-crimps-margins-for-indian-refiners</guid>
+      <pubDate>Thu, 22 Feb 2024 03:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本基准日经指数短暂创出盘中新高</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/nikkei-225-heads-to-close-above-record-high-reached-in-1989</link>
       <description><![CDATA[日本日经 225 指数创下盘中历史新高，与华尔街股市一起进入未知领域。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/nikkei-225-heads-to-close-above-record-high-reached-in-1989</guid>
@@ -27,13 +41,6 @@
       <pubDate>Thu, 22 Feb 2024 02:52:16 GMT</pubDate>
     </item>
     <item>
-      <title>印度液化天然气油轮可能改建为浮式储存</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-22/lng-tankers-may-be-converted-to-floating-storage-in-india</link>
-      <description><![CDATA[据两位知情人士透露，一个日本-印度财团正在考虑将两艘液化天然气油轮改造成浮式储存和再气化装置，以帮助满足南亚经济不断增长的需求。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-22/lng-tankers-may-be-converted-to-floating-storage-in-india</guid>
-      <pubDate>Thu, 22 Feb 2024 02:44:00 GMT</pubDate>
-    </item>
-    <item>
       <title>随着交易员权衡支撑措施，中国股市涨势暂停</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/china-stock-rally-takes-breather-as-traders-weigh-support-steps</link>
       <description><![CDATA[随着交易员评估在经济风险持续存在的情况下稳定市场的最新措施，中国股市出现波动。]]></description>
@@ -41,16 +48,9 @@
       <pubDate>Thu, 22 Feb 2024 02:41:19 GMT</pubDate>
     </item>
     <item>
-      <title>政策提振信心，贪婪重返中国股市</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-22/greed-returns-to-china-s-stock-market-as-policy-buoys-confidence</link>
-      <description><![CDATA[随着政策制定者稳定股市的努力提振了信心，中国股市的投资者变得越来越贪婪。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-22/greed-returns-to-china-s-stock-market-as-policy-buoys-confidence</guid>
-      <pubDate>Thu, 22 Feb 2024 02:35:07 GMT</pubDate>
-    </item>
-    <item>
       <title>日本制造业PMI跌至2020年8月以来最低</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/japan-s-manufacturing-pmi-falls-to-lowest-since-august-2020</link>
-      <description><![CDATA[日本制造业活动的一项关键指标跌至三年多以来的最低水平，向正在考虑退出超刺激政策的日本央行发出了警告信号。]]></description>
+      <description><![CDATA[日本制造业活动的一项关键指标跌至三年多来的最低水平，向正在考虑退出超刺激政策的日本央行发出了警告信号。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/japan-s-manufacturing-pmi-falls-to-lowest-since-august-2020</guid>
       <pubDate>Thu, 22 Feb 2024 01:21:05 GMT</pubDate>
     </item>
@@ -62,9 +62,9 @@
       <pubDate>Wed, 21 Feb 2024 23:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达业绩带动股市上涨，日本接近创纪录水平：市场总结</title>
+      <title>英伟达引发股市上涨，日本创历史新高：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-21/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[英伟达公司公布好于预期的收入预测后，亚洲股市和美国股指期货周四上涨，显示出新的动力。]]></description>
+      <description><![CDATA[英伟达公司强劲的销售预测为风险资产的上涨提供了新的动力，亚洲股市和美国股指期货周四上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-21/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 21 Feb 2024 23:05:32 GMT</pubDate>
     </item>
