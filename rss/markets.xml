@@ -4,11 +4,11 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 22 Feb 2024 03:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 04:07:16 GMT</lastBuildDate>
     <item>
-      <title>日本基准日经指数短暂创出盘中新高</title>
+      <title>日本基准日经指数短暂创出日内新高</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/nikkei-225-heads-to-close-above-record-high-reached-in-1989</link>
-      <description><![CDATA[日经 225 指数在早盘交易中短暂突破 1989 年创下的历史新高后，预计收盘将高于 1989 年创下的历史新高，因为日元走弱支撑了出口商，而英伟达公司好于预期的盈利提振了市场情绪。]]></description>
+      <description><![CDATA[日本日经 225 指数创下盘中历史新高，与华尔街股市一起进入未知领域。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/nikkei-225-heads-to-close-above-record-high-reached-in-1989</guid>
       <pubDate>Thu, 22 Feb 2024 03:26:33 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>随着交易员权衡支撑措施，中国股市涨势暂停</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/china-stock-rally-takes-breather-as-traders-weigh-support-steps</link>
-      <description><![CDATA[周四早盘，中国股市波动，交易员评估了在经济风险持续存在的情况下稳定市场的最新措施。]]></description>
+      <description><![CDATA[随着交易员评估在经济风险持续存在的情况下稳定市场的最新措施，中国股市出现波动。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/china-stock-rally-takes-breather-as-traders-weigh-support-steps</guid>
       <pubDate>Thu, 22 Feb 2024 02:41:19 GMT</pubDate>
     </item>
@@ -46,13 +46,6 @@
       <description><![CDATA[日元再度走软，促使日本散户投资者进行逆转，因为人们猜测日元进一步下跌可能会促使当局干预市场。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/japanese-retail-investors-position-for-reversal-in-yen-versus-dollar</guid>
       <pubDate>Thu, 22 Feb 2024 02:22:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>英文视频显示日本地区银行向投资者开放</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-22/english-video-to-investors-shows-japan-banks-waking-to-change</link>
-      <description><![CDATA[日本一家小银行负责人发出的一段简短的英文视频信息引起了人们的关注，主要是因为以前从未这样做过。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-22/english-video-to-investors-shows-japan-banks-waking-to-change</guid>
-      <pubDate>Thu, 22 Feb 2024 01:55:18 GMT</pubDate>
     </item>
     <item>
       <title>日本制造业PMI跌至2020年8月以来最低</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[英伟达公司公布好于预期的收入预测后，亚洲股市和美国股指期货周四上涨，显示出新的动力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-21/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 21 Feb 2024 23:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本日经指数最终突破 1989 年的历史峰值</title>
+      <link>https://www.bloomberg.com/graphics/2024-japan-nikkei-index-tracker/</link>
+      <description><![CDATA[随着日元疲软和企业盈利强劲增强市场信心，资产价值正在上涨。]]></description>
+      <guid>https://www.bloomberg.com/graphics/2024-japan-nikkei-index-tracker/</guid>
+      <pubDate>Thu, 15 Feb 2024 03:09:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
