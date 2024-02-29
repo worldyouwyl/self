@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 29 Feb 2024 04:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 04:51:29 GMT</lastBuildDate>
+    <item>
+      <title>《华尔街日报》称美国 SEC 正在调查 OpenAI 投资者是否被误导</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-29/us-sec-probing-whether-openai-investors-got-misled-wsj-says</link>
+      <description><![CDATA[据《华尔街日报》援引知情人士的话报道，美国证券交易委员会正在调查 OpenAI 投资者是否受到误导。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-29/us-sec-probing-whether-openai-investors-got-misled-wsj-says</guid>
+      <pubDate>Thu, 29 Feb 2024 04:43:24 GMT</pubDate>
+    </item>
     <item>
       <title>随着人工智能竞争的加剧，阿里巴巴宣布大幅降低云计算价格</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-29/alibaba-unveils-big-cloud-price-cuts-as-ai-rivalry-intensifies</link>
@@ -27,13 +34,6 @@
       <pubDate>Thu, 29 Feb 2024 00:02:49 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能已经改变了美国发动战争的方式</title>
-      <link>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</link>
-      <description><![CDATA[美国军事人员一开始对人工智能持怀疑态度，但现在他们正在开发并使用 Project Maven 来识别战场上的目标。]]></description>
-      <guid>https://www.bloomberg.com/features/2024-ai-warfare-project-maven/</guid>
-      <pubDate>Thu, 29 Feb 2024 00:00:13 GMT</pubDate>
-    </item>
-    <item>
       <title>C3.ai 任命新首席财务官，这是不到十年内第十位担任该职位的人</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-28/c3-ai-gains-after-sales-forecast-signals-demand-for-ai-tools</link>
       <description><![CDATA[C3.ai Inc. 公布的销售数据表明客户对该软件公司基于人工智能的新应用程序做出了积极反应，其盘后交易上涨了 13% 以上。]]></description>
@@ -50,7 +50,7 @@
     <item>
       <title>Snowflake 的 Frank Slootman 将从首席执行官职位上退休，将继续担任董事会主席</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-28/snowflake-misses-estimates-says-ceo-slootman-to-step-down</link>
-      <description><![CDATA[软件制造商 Snowflake Inc. 公布了令人失望的销售预测，并宣布首席执行官弗兰克·斯洛特曼 (Frank Slootman) 辞职，该公司在尾盘交易中暴跌。]]></description>
+      <description><![CDATA[软件制造商 Snowflake Inc. 发布了令人失望的销售预测，并宣布首席执行官弗兰克·斯洛特曼 (Frank Slootman) 辞职，该公司在尾盘交易中暴跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-28/snowflake-misses-estimates-says-ceo-slootman-to-step-down</guid>
       <pubDate>Wed, 28 Feb 2024 21:12:34 GMT</pubDate>
     </item>
