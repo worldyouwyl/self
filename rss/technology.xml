@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Mon, 04 Mar 2024 14:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 14:51:23 GMT</lastBuildDate>
     <item>
       <title>AI 初创公司 Anthropic 推出聊天机器人 Claude 的新模型</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-04/ai-startup-anthropic-launches-new-models-for-chatbot-claude</link>
@@ -15,7 +15,7 @@
     <item>
       <title>亚马逊开始在仓库中使用人形机器人</title>
       <link>https://www.bloomberg.com/news/videos/2024-03-04/amazon-begins-using-humanoid-robot-in-warehouse</link>
-      <description><![CDATA[亚马逊已开始在西雅图附近的一个仓库中使用人形机器人。该机器名为 Digit，用于将垃圾箱从架子移动到传送带上。制造商 Agility Robotics 希望每年生产 10,000 个机器人，并将其部署到世界各地的仓库和储藏室。 （来源：彭博社）]]></description>
+      <description><![CDATA[亚马逊已开始在西雅图附近的一个仓库中使用人形机器人。这台机器被称为 Digit，用于将垃圾箱从架子上移动到传送带上。制造商 Agility Robotics 希望每年生产 10,000 个机器人，并将其部署到世界各地的仓库和储藏室。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-03-04/amazon-begins-using-humanoid-robot-in-warehouse</guid>
       <pubDate>Mon, 04 Mar 2024 13:39:53 GMT</pubDate>
     </item>
@@ -55,16 +55,9 @@
       <pubDate>Mon, 04 Mar 2024 12:25:01 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲网络运营商谴责监管束缚</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-03-04/mwc-2024-european-telcos-decry-consolidation-limits</link>
-      <description><![CDATA[2024 年 2 月 26 日星期一，世界移动通信大会 (MWC) 开幕当天，与会者在西班牙巴塞罗那 Fira de Barcelona 会场参观光纤电缆展示。这一年度旗舰移动行业和技术盛会从2月26日到2月29日。]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-03-04/mwc-2024-european-telcos-decry-consolidation-limits</guid>
-      <pubDate>Mon, 04 Mar 2024 12:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果因音乐应用程序滥用被欧盟罚款 18 亿欧元</title>
+      <title>苹果因音乐应用程序滥用而被欧盟罚款 18 亿欧元</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-04/apple-hit-with-1-8-billion-eu-fine-over-abusive-app-store-rules</link>
-      <description><![CDATA[苹果公司周一因涉嫌在其平台上拒绝包括 Spotify Technology SA 在内的音乐流媒体竞争对手的指控而受到欧盟 18 亿欧元（合 20 亿美元）的罚款。]]></description>
+      <description><![CDATA[苹果公司周一因涉嫌在其平台上拒绝包括 Spotify Technology SA 在内的音乐流媒体竞争对手的指控而受到欧盟 18 亿欧元（20 亿美元）的罚款。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-04/apple-hit-with-1-8-billion-eu-fine-over-abusive-app-store-rules</guid>
       <pubDate>Mon, 04 Mar 2024 12:01:46 GMT</pubDate>
     </item>
@@ -74,6 +67,13 @@
       <description><![CDATA[Sea Ltd. 公布季度收益降幅小于预期，并预计其电子商务和游戏业务前景改善，该公司股价上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-04/sea-earnings-fall-less-than-expected-on-solid-e-commerce-revenue</guid>
       <pubDate>Mon, 04 Mar 2024 11:42:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达超越阿美公司，成为全球第三大最有价值公司</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-04/nvidia-leaps-aramco-to-be-world-s-third-most-valuable-company</link>
+      <description><![CDATA[英伟达公司 (Nvidia Corp.) 的市值超越沙特阿美公司 (Saudi Aramco)，成为继苹果公司 (Apple Inc.) 和微软公司 (Microsoft Corp.) 之后全球第三大最有价值的上市公司。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-04/nvidia-leaps-aramco-to-be-world-s-third-most-valuable-company</guid>
+      <pubDate>Mon, 04 Mar 2024 11:36:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
