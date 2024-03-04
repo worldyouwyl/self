@@ -4,13 +4,27 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Mon, 04 Mar 2024 13:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 13:51:47 GMT</lastBuildDate>
     <item>
       <title>亚马逊开始在仓库中使用人形机器人</title>
       <link>https://www.bloomberg.com/news/videos/2024-03-04/amazon-begins-using-humanoid-robot-in-warehouse</link>
       <description><![CDATA[亚马逊已开始在西雅图附近的一个仓库中使用人形机器人。该机器名为 Digit，用于将垃圾箱从架子移动到传送带上。制造商 Agility Robotics 希望每年生产 10,000 个机器人，并将其部署到世界各地的仓库和储藏室。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-03-04/amazon-begins-using-humanoid-robot-in-warehouse</guid>
       <pubDate>Mon, 04 Mar 2024 13:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿诺特支持的 Razor 在亚马逊“聚合器”洗牌中收购鲈鱼</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-04/arnault-backed-razor-buys-perch-in-amazon-aggregator-shakeout</link>
+      <description><![CDATA[总部位于柏林的 Razor Group 正在以全股票交易的方式收购总部位于波士顿的 Perch，加速了“聚合商”的整合，这些“聚合商”抢购了流行的在线品牌，结果却眼睁睁地看着大流行引发的销售热潮消失。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-04/arnault-backed-razor-buys-perch-in-amazon-aggregator-shakeout</guid>
+      <pubDate>Mon, 04 Mar 2024 13:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palantir 与乌克兰签署协议，利用人工智能帮助清除地雷</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-04/palantir-signs-deal-with-ukraine-to-use-ai-to-help-clear-mines</link>
+      <description><![CDATA[Palantir Technologies Inc. 和乌克兰经济部签署了一项协议，将在未来十年内使用人工智能帮助清除该国的地雷。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-04/palantir-signs-deal-with-ukraine-to-use-ai-to-help-clear-mines</guid>
+      <pubDate>Mon, 04 Mar 2024 13:29:41 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊的人形机器人让我们一睹自动化工作场所的风采</title>
@@ -34,7 +48,7 @@
       <pubDate>Mon, 04 Mar 2024 12:04:15 GMT</pubDate>
     </item>
     <item>
-      <title>苹果因音乐应用程序滥用被欧盟罚款 18 亿欧元</title>
+      <title>苹果因音乐应用程序滥用而被欧盟罚款 18 亿欧元</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-04/apple-hit-with-1-8-billion-eu-fine-over-abusive-app-store-rules</link>
       <description><![CDATA[苹果公司周一因涉嫌在其平台上拒绝包括 Spotify Technology SA 在内的音乐流媒体竞争对手的指控而受到欧盟 18 亿欧元（合 20 亿美元）的罚款。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-04/apple-hit-with-1-8-billion-eu-fine-over-abusive-app-store-rules</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[英伟达公司 (Nvidia Corp.) 的市值超越沙特阿美公司 (Saudi Aramco)，成为继苹果公司 (Apple Inc.) 和微软公司 (Microsoft Corp.) 之后全球第三大最有价值的上市公司。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-04/nvidia-leaps-aramco-to-be-world-s-third-most-valuable-company</guid>
       <pubDate>Mon, 04 Mar 2024 11:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根大通人工智能辅助现金流模型可减少 90% 的体力劳动</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-04/jpmorgan-s-ai-aided-cashflow-model-can-cut-manual-work-by-90</link>
-      <description><![CDATA[摩根大通Co. 通过其基于人工智能的现金流管理工具帮助其一些企业客户减少了近 90% 的体力工作，使这家美国最大的银行距离这项服务收费又近了一步。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-04/jpmorgan-s-ai-aided-cashflow-model-can-cut-manual-work-by-90</guid>
-      <pubDate>Mon, 04 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>朝鲜黑客入侵两家韩国芯片齿轮制造商</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-04/north-korean-hackers-two-south-korean-chip-equipment-firms</link>
-      <description><![CDATA[首尔情报机构周一表示，自去年以来，平壤支持的网络攻击者已渗透到两家韩国半导体设备公司，可能窃取国内芯片制造项目的情报。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-04/north-korean-hackers-two-south-korean-chip-equipment-firms</guid>
-      <pubDate>Mon, 04 Mar 2024 10:49:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
