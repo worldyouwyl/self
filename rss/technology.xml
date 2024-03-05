@@ -4,11 +4,18 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 05 Mar 2024 21:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 22:03:55 GMT</lastBuildDate>
+    <item>
+      <title>盈利、销售预测超出预期，CrowdStrike 飙升</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-05/crowdstrike-surges-as-earnings-sales-forecast-beats-estimates</link>
+      <description><![CDATA[CrowdStrike Holdings Inc. 对本季度收入和利润的预测超出了分析师的预期，表明客户对该公司不断扩大的网络安全产品套件的需求强劲。股价在盘后交易中飙升。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-05/crowdstrike-surges-as-earnings-sales-forecast-beats-estimates</guid>
+      <pubDate>Tue, 05 Mar 2024 21:20:04 GMT</pubDate>
+    </item>
     <item>
       <title>全年收入前景黯淡，Nordstrom 股价下跌 10%</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-05/nordstrom-sees-muted-revenue-comparable-sales-in-current-year</link>
-      <description><![CDATA[Nordstrom Inc. 预计今年的收入和可比销售额增长将放缓，因为其高端同名商店的需求疲软抵消了其折扣 Rack 商店前景的改善。]]></description>
+      <description><![CDATA[Nordstrom Inc. 预计今年的收入和可比销售额增长将放缓，因为其高端同名商店的需求疲软抵消了其低价 Rack 商店前景的改善。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-05/nordstrom-sees-muted-revenue-comparable-sales-in-current-year</guid>
       <pubDate>Tue, 05 Mar 2024 21:10:09 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[SpaceX 试图保留对德克萨斯州美国国家劳工关系委员会的诉讼，但被联邦上诉法院驳回，这对埃隆·马斯克 (Elon Musk) 的航空航天公司与该机构的斗争来说是一个挫折。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-05/spacex-bid-to-keep-labor-suit-in-texas-denied-by-appeals-court</guid>
       <pubDate>Tue, 05 Mar 2024 16:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 表示影响 Facebook、Instagram 应用程序的问题已解决</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-05/facebook-instagram-users-report-issues-accessing-meta-sites</link>
-      <description><![CDATA[Meta Platforms Inc.表示，该公司已经解决了周二导致其社交媒体应用系列（包括 Facebook、Instagram 和 WhatsApp）数十万人服务中断的技术问题。 YouTube 和 X 等其他社交媒体网站也报告了该问题。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-05/facebook-instagram-users-report-issues-accessing-meta-sites</guid>
-      <pubDate>Tue, 05 Mar 2024 16:26:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
