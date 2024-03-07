@@ -4,9 +4,16 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 07 Mar 2024 03:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 04:08:07 GMT</lastBuildDate>
     <item>
-      <title>SK海力士投资10亿美元扩大人工智能存储芯片领先地位</title>
+      <title>Salesforce 的 Shih 表示多样性是构建 AI 模型的关键</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-07/salesforce-s-shih-says-diversity-is-key-to-building-ai-models</link>
+      <description><![CDATA[Salesforce Inc. 高管 Clara Shih 在与彭博电视台的 Caroline Hyde 进行炉边谈话时表示，拥有多元化的员工队伍是构建人工智能模型和制定负责任的人工智能政策的关键。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-07/salesforce-s-shih-says-diversity-is-key-to-building-ai-models</guid>
+      <pubDate>Thu, 07 Mar 2024 03:46:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SK海力士投资10亿美元研发关键AI存储芯片技术</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-07/sk-hynix-investing-1-billion-to-widen-lead-in-ai-memory-chips</link>
       <description><![CDATA[SK 海力士公司正在加大在先进芯片封装方面的支出，希望能更多地满足人工智能开发中关键组件（高带宽内存）不断增长的需求。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-07/sk-hynix-investing-1-billion-to-widen-lead-in-ai-memory-chips</guid>
@@ -55,25 +62,18 @@
       <pubDate>Wed, 06 Mar 2024 22:00:38 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn 遭遇中断，原因不明</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-06/microsoft-linkedin-professional-network-platform-suffers-outage</link>
-      <description><![CDATA[微软公司的专业网络平台 LinkedIn 在遭遇中断后于周三恢复上线。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-06/microsoft-linkedin-professional-network-platform-suffers-outage</guid>
-      <pubDate>Wed, 06 Mar 2024 21:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>前谷歌工程师被控盗窃中国公司人工智能技术</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-06/justice-department-charges-ex-google-engineer-with-ai-tech-theft</link>
-      <description><![CDATA[一名为 Alphabet Inc. 旗下谷歌工作的中国软件工程师被美国司法部指控窃取该公司超级计算数据中心开发人工智能的商业机密。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-06/justice-department-charges-ex-google-engineer-with-ai-tech-theft</guid>
-      <pubDate>Wed, 06 Mar 2024 20:54:13 GMT</pubDate>
-    </item>
-    <item>
       <title>首席执行官吹捧消费者复苏后，京东两年来涨幅最大</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-06/jd-com-s-revenue-beat-after-targeting-frugal-china-shoppers</link>
       <description><![CDATA[京东公司的股价创下 2022 年以来的最大涨幅，此前这家电子商务巨头公布了好于预期的 3.6% 收入增长，并预测北京将推动中国消费者复苏。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-06/jd-com-s-revenue-beat-after-targeting-frugal-china-shoppers</guid>
       <pubDate>Wed, 06 Mar 2024 10:36:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲监管大型科技公司的双轨方法</title>
+      <link>https://www.bloomberg.com/news/articles/2023-08-29/all-about-the-eu-s-dsa-and-dma-laws-to-rein-in-big-tech-platforms</link>
+      <description><![CDATA[数字经济由少数大型科技公司主导的原因之一是它们成功抵制政府监管。现在欧盟正试图从两个方面改变这一现状。关于市场行为的新规则使硅谷巨头面临更多竞争。欧盟还加强了对社交媒体平台和数字市场的内容审核要求，包括 Meta Platforms Inc. 的 Facebook、Alphabet Inc. 的 YouTube 和 Amazon.com Inc.。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2023-08-29/all-about-the-eu-s-dsa-and-dma-laws-to-rein-in-big-tech-platforms</guid>
+      <pubDate>Tue, 29 Aug 2023 15:49:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
