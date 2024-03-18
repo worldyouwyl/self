@@ -4,9 +4,9 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 18 Mar 2024 11:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 11:22:16 GMT</lastBuildDate>
     <item>
-      <title>Nvidia 大会 GTC 大会：看点</title>
+      <title>Nvidia GTC 会议：看点</title>
       <link>https://www.bloomberg.com/news/videos/2024-03-18/nvidia-conference-gtc-conference-what-to-watch</link>
       <description><![CDATA[在 Nvidia 公司举行被称为“AI Woodstock”的年度人工智能会议之前，Lion Trust 基金经理 Clare Pleydell-Bouverie 在“Bloomberg Markets Today”节目中与彭博社的 Kriti Gupta、Guy Johnson 和 Tom Mackenzie 进行了交谈。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-03-18/nvidia-conference-gtc-conference-what-to-watch</guid>
@@ -41,13 +41,6 @@
       <pubDate>Mon, 18 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>英国罚款交易者超过9900万美元 丹麦“虚假”税收计划</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-18/uk-fines-trader-over-99-million-danish-sham-tax-scheme</link>
-      <description><![CDATA[英国金融监管机构禁止一名交易员从事该行业，并对他处以 600 万英镑（760 万美元）的罚款，原因是他涉嫌参与 Cum-Ex 税收交易计划，该计划从丹麦财政部获得了数千万美元的虚假退款。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-18/uk-fines-trader-over-99-million-danish-sham-tax-scheme</guid>
-      <pubDate>Mon, 18 Mar 2024 10:59:54 GMT</pubDate>
-    </item>
-    <item>
       <title>巴基斯坦将关键利率保持在创纪录水平，国际货币基金组织谈判正在进行</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-18/pakistan-keeps-key-rate-at-record-high-with-imf-talks-underway</link>
       <description><![CDATA[巴基斯坦央行连续第六次会议将关键利率维持在创纪录的高位，新当选的政府正在与国际货币基金组织进行贷款谈判，希望采取紧缩的货币政策来抑制通货膨胀。]]></description>
@@ -62,11 +55,11 @@
       <pubDate>Mon, 18 Mar 2024 10:39:15 GMT</pubDate>
     </item>
     <item>
-      <title>纳斯达克技术故障导致盘前交易中断两个多小时</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-18/nasdaq-says-it-is-investigating-issues-with-connectivity</link>
-      <description><![CDATA[纳斯达克公司周一上午表示正在调查连接问题，因为其交易所的交易中断了两个多小时。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-18/nasdaq-says-it-is-investigating-issues-with-connectivity</guid>
-      <pubDate>Mon, 18 Mar 2024 09:28:23 GMT</pubDate>
+      <title>欧洲股市在大型央行周中接近历史新高</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-18/european-stocks-steady-as-investors-await-central-bank-meetings</link>
+      <description><![CDATA[欧洲股市徘徊在历史高位附近，投资者对在美国、英国和日本本周利率决定之前大幅走高该指数持谨慎态度。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-18/european-stocks-steady-as-investors-await-central-bank-meetings</guid>
+      <pubDate>Mon, 18 Mar 2024 08:07:56 GMT</pubDate>
     </item>
     <item>
       <title>美国期货上涨，美联储成为焦点，字母表攀升：市场总结</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[随着科技股上涨，美国股指期货上涨，投资者在忙碌的一周等待美联储和日本政策决定的交易线索。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-17/asia-stocks-look-muted-ahead-of-central-bank-week-markets-wrap</guid>
       <pubDate>Sun, 17 Mar 2024 22:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>富时 100 实时指数：尽管英镑押注达到 2007 年以来的最高水平，投资者仍抛售英国股票</title>
+      <link>https://www.bloomberg.com/news/live-blog/2024-03-15/what-s-moving-uk-markets-right-now-markets-today</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/live-blog/2024-03-15/what-s-moving-uk-markets-right-now-markets-today</guid>
+      <pubDate>Fri, 15 Mar 2024 15:34:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
