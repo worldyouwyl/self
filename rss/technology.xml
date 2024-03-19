@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 19 Mar 2024 17:51:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 18:07:39 GMT</lastBuildDate>
     <item>
       <title>法国寻求国家解决方案来保护 Atos 战略资产</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-19/france-seeks-national-solution-to-protect-atos-strategic-assets</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[随着戴尔科技公司 (Dell Technologies Inc.) 的股价因人工智能乐观情绪而飙升，迈克尔·戴尔 (Michael Dell) 近三年来首次抛售其同名计算机公司的股票。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-19/michael-dell-unloads-465-million-of-shares-after-record-high</guid>
       <pubDate>Tue, 19 Mar 2024 17:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络流量从安哥拉跳至巴西，然后返回道奇西非故障</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-19/web-traffic-bounces-from-angola-to-brazil-and-back-to-dodge-west-africa-fault</link>
+      <description><![CDATA[上周非洲大陆西海岸附近的四条主要海底电缆受损，为非洲提供服务的互联网服务提供商被迫绕道发送流量。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-19/web-traffic-bounces-from-angola-to-brazil-and-back-to-dodge-west-africa-fault</guid>
+      <pubDate>Tue, 19 Mar 2024 17:09:23 GMT</pubDate>
     </item>
     <item>
       <title>英伟达预计将赢得大量数据中心支出</title>
@@ -48,13 +55,6 @@
       <pubDate>Tue, 19 Mar 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌通过 Fitbit 和筛查加深人工智能进军医疗保健领域</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-19/google-deepens-ai-push-into-health-care-with-fitbit-screenings</link>
-      <description><![CDATA[Alphabet Inc.旗下的谷歌宣布了一系列在医疗保健行业部署人工智能模型的举措，其中包括一款帮助Fitbit用户从可穿戴设备中收集见解的工具，以及一项旨在改善印度癌症和疾病筛查的合作伙伴关系。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-19/google-deepens-ai-push-into-health-care-with-fitbit-screenings</guid>
-      <pubDate>Tue, 19 Mar 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>SpaceX 的 Shotwell 淡化了 Starlink IPO 的可能性</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-19/spacex-s-shotwell-downplays-potential-stock-listing-for-starlink</link>
       <description><![CDATA[SpaceX 首席运营官格温·肖特韦尔 (Gwynne Shotwell) 表示，目前 SpaceX 并未将其星链部门的首次公开募股作为优先事项。]]></description>
@@ -62,11 +62,11 @@
       <pubDate>Tue, 19 Mar 2024 14:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>小鹏汽车的净亏损收窄，因为它警告前景坎坷</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-19/xpeng-s-net-loss-narrows-as-it-flags-a-bumpy-outlook</link>
-      <description><![CDATA[与大众汽车合作的中国电动汽车制造商小鹏汽车尽管公布了好于预期的季度收益，但仍表示前景坎坷。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-19/xpeng-s-net-loss-narrows-as-it-flags-a-bumpy-outlook</guid>
-      <pubDate>Tue, 19 Mar 2024 10:29:01 GMT</pubDate>
+      <title>空客放弃收购陷入困境的法国 IT 公司 Atos 部分股份的谈判</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-19/airbus-walks-away-from-talks-to-buy-part-of-struggling-french-it-firm-atos</link>
+      <description><![CDATA[Atos SE 是一家传统 IT 公司，曾被视为法国科技行业的后起之秀，但现在却面临着债务高墙——而且它已经没有办法将其击垮。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-19/airbus-walks-away-from-talks-to-buy-part-of-struggling-french-it-firm-atos</guid>
+      <pubDate>Tue, 19 Mar 2024 07:52:00 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 希望通过新的 Blackwell 芯片扩大 AI 主导地位</title>
