@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 20 Mar 2024 12:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 12:36:02 GMT</lastBuildDate>
     <item>
       <title>关于 Reddit 不寻常的 IPO 需要了解的七件事</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-20/reddit-ipo-how-it-s-not-your-typical-tech-listing</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[科技领域最古老的公司之一一直在悄然击败华尔街一些最热门的股票。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-20/ibm-eyes-first-record-since-2013-as-ai-optimism-fuels-19-rally</guid>
       <pubDate>Wed, 20 Mar 2024 11:46:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>流入非洲初创企业的风险资本下降 31%</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-20/venture-capital-inflows-to-africa-drop-31-as-headwinds-weigh</link>
+      <description><![CDATA[一项调查显示，由于货币疲软和高通胀等经济逆风令投资者望而却步，2023 年流入非洲科技和初创公司的风险资本下降了 31%，至 45 亿美元。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-20/venture-capital-inflows-to-africa-drop-31-as-headwinds-weigh</guid>
+      <pubDate>Wed, 20 Mar 2024 11:34:07 GMT</pubDate>
     </item>
     <item>
       <title>惠普正在将打印机转变为订阅服务</title>
@@ -48,13 +55,6 @@
       <pubDate>Wed, 20 Mar 2024 10:04:25 GMT</pubDate>
     </item>
     <item>
-      <title>英联集团 (Actis) 正在洽谈从 Telkom 手中收购非洲塔公司 Swiftnet</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-20/actis-in-talks-to-buy-africa-tower-firm-swiftnet-from-telkom</link>
-      <description><![CDATA[据知情人士透露，私募股权公司 Actis LLP 正在洽谈收购 Swiftnet，后者是南非 Telkom SA SOC Ltd. 旗下的桅杆和塔台业务。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-20/actis-in-talks-to-buy-africa-tower-firm-swiftnet-from-telkom</guid>
-      <pubDate>Wed, 20 Mar 2024 10:03:57 GMT</pubDate>
-    </item>
-    <item>
       <title>英特尔获得美国 200 亿美元赠款和贷款用于芯片工厂</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-20/intel-wins-almost-20-billion-in-chips-incentives-for-us-plants</link>
       <description><![CDATA[美国将向英特尔公司提供 85 亿美元的赠款和高达 110 亿美元的贷款，以资助其半导体工厂的扩建，这是旨在重振国内芯片行业的计划中获得的最大一笔资助。]]></description>
@@ -62,11 +62,11 @@
       <pubDate>Wed, 20 Mar 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>销售额未达预期，腾讯回购额翻倍至超过 128 亿美元</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-20/tencent-sales-disappoint-after-pervasive-chinese-slowdown-bites</link>
-      <description><![CDATA[腾讯控股有限公司计划到 2024 年将其股票回购计划增加一倍以上，达到至少 128 亿美元，以安抚投资者对中国经济低迷期间增长逐渐消退的担忧。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-20/tencent-sales-disappoint-after-pervasive-chinese-slowdown-bites</guid>
-      <pubDate>Wed, 20 Mar 2024 08:47:43 GMT</pubDate>
+      <title>谷歌在法国与新闻媒体的冲突中被罚款 2.5 亿欧元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-20/google-fined-250-million-in-french-clash-with-news-publishers</link>
+      <description><![CDATA[Alphabet Inc.旗下的谷歌被法国竞争监管机构罚款2.5亿欧元（合2.71亿美元），原因是其未能履行承诺，与媒体机构达成公平协议，发布其内容链接，包括掠夺新闻文章来训练其人工智能技术，而不通知他们。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-20/google-fined-250-million-in-french-clash-with-news-publishers</guid>
+      <pubDate>Wed, 20 Mar 2024 08:10:47 GMT</pubDate>
     </item>
     <item>
       <title>苹果首席执行官抵达中国宣扬其作为 iPhone 基地的作用</title>
