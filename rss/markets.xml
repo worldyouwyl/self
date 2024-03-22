@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 22 Mar 2024 18:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 18:51:25 GMT</lastBuildDate>
     <item>
       <title>凯瑟琳公主正在接受癌症治疗</title>
       <link>https://www.bloomberg.com/news/videos/2024-03-22/princess-catherine-is-being-treated-for-cancer-video</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[您好，欢迎来到每周的《Odd Lot》时事通讯，乔·韦森塔尔和特雷西·阿洛韦为您带来他们对市场、金融和经济最有趣发展的看法。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-03-22/odd-lots-newsletter-we-are-all-supply-siders-now</guid>
       <pubDate>Fri, 22 Mar 2024 18:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>私人信贷与银行争夺支持 Apleona 收购的贷款</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-22/private-credit-vies-with-banks-over-loans-to-back-apleona-buyout</link>
+      <description><![CDATA[据知情人士透露，银行和直接贷款机构正在竞相安排约 18 亿欧元（合 19.5 亿美元）的债务计划，以支持 Apleona Group GmbH 的潜在收购。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-22/private-credit-vies-with-banks-over-loans-to-back-apleona-buyout</guid>
+      <pubDate>Fri, 22 Mar 2024 18:19:36 GMT</pubDate>
     </item>
     <item>
       <title>进一步收紧利差的空间有限：CreditSights 的 Griffiths</title>
@@ -55,13 +62,6 @@
       <pubDate>Fri, 22 Mar 2024 18:03:24 GMT</pubDate>
     </item>
     <item>
-      <title>Diczok：加息需要 12-24 个月才能影响经济</title>
-      <link>https://www.bloomberg.com/news/videos/2024-03-22/rate-hikes-take-12-24-months-to-impact-economy-diczok-video</link>
-      <description><![CDATA[美林证券和美国银行私人银行首席投资办公室固定收益策略主管 Matthew Diczok 讨论了美联储保持在正轨上的问题，并表示加息需要 12 至 24 个月的时间才能对经济产生影响。他与 Vonnie Quinn 就“彭博真实收益率”进行了交谈。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-03-22/rate-hikes-take-12-24-months-to-impact-economy-diczok-video</guid>
-      <pubDate>Fri, 22 Mar 2024 17:49:40 GMT</pubDate>
-    </item>
-    <item>
       <title>共和党寻求更多细节，夏威夷电力股价下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-22/hawaiian-electric-drops-as-gop-seeks-more-details-in-fire-probe</link>
       <description><![CDATA[众议院共和党人要求夏威夷电力公司回答其他问题并提供更多文件，作为调查该公用事业公司在去年致命的拉海纳野火中所扮演角色的一部分。]]></description>
@@ -69,11 +69,11 @@
       <pubDate>Fri, 22 Mar 2024 16:51:31 GMT</pubDate>
     </item>
     <item>
-      <title>美联储周结束时股市徘徊在历史高点附近：市场总结</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-21/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[由于市场猜测美联储最早将在 6 月降息，股市仍难以获得太大吸引力，市场仍将迎来 2024 年表现最好的一周。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-21/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Thu, 21 Mar 2024 22:28:39 GMT</pubDate>
+      <title>由于 ETF 需求下滑，比特币将迎来 8 月份以来最糟糕的一周</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-21/bitcoin-on-track-for-worst-week-in-months-as-etf-demand-falters</link>
+      <description><![CDATA[随着对新兴现货比特币交易所交易基金的兴趣减弱，比特币已从历史高点回落超过 10%，这使得该加密货币将迎来自 8 月份以来最糟糕的一周。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-21/bitcoin-on-track-for-worst-week-in-months-as-etf-demand-falters</guid>
+      <pubDate>Thu, 21 Mar 2024 21:34:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
