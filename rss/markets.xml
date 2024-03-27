@@ -4,13 +4,20 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 27 Mar 2024 10:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 11:03:26 GMT</lastBuildDate>
     <item>
       <title>开始新的一天需要知道的五件事：美洲</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-03-27/five-things-you-need-to-know-to-start-your-day-americas</link>
       <description><![CDATA[早上好。日元兑美元汇率触及 1990 年以来的最低水平，加剧了干预押注，而库存增加则令油价承压。以下是市场今天关注的内容。 —莫文娜·科尼亚姆]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-03-27/five-things-you-need-to-know-to-start-your-day-americas</guid>
       <pubDate>Wed, 27 Mar 2024 10:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国央行银行调查记录了对地缘政治的担忧</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-27/fears-about-geopolitics-at-record-high-in-boe-survey-of-banks</link>
+      <description><![CDATA[英国央行表示，英国银行和其他金融公司对地缘政治风险的担忧达到了有记录以来的最高水平。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-27/fears-about-geopolitics-at-record-high-in-boe-survey-of-banks</guid>
+      <pubDate>Wed, 27 Mar 2024 10:30:01 GMT</pubDate>
     </item>
     <item>
       <title>收入暴跌后，Gamestop 跌幅将达到九个月来最大跌幅</title>
@@ -34,20 +41,6 @@
       <pubDate>Wed, 27 Mar 2024 09:36:14 GMT</pubDate>
     </item>
     <item>
-      <title>日元跌至 34 年低点后日本外汇主管加大警告力度</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-27/japan-finance-officials-gather-after-yen-slumps-to-34-year-low</link>
-      <description><![CDATA[日本首席货币官员神田正人 (Masato Kanda) 承诺采取适当行动应对外汇市场的过度波动，他表示，他认为日元周三早些时候暴跌至 34 年来的低点背后存在投机行为。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-27/japan-finance-officials-gather-after-yen-slumps-to-34-year-low</guid>
-      <pubDate>Wed, 27 Mar 2024 09:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>快时尚零售商 Asos 和 Boohoo 被迫澄清绿色声明</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-27/fast-fashion-retailers-asos-and-boohoo-forced-to-clarify-green-claims</link>
-      <description><![CDATA[在被英国监管机构指控洗绿后，英国主要快时尚零售商将改变其宣传服装环保认证的方式。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-27/fast-fashion-retailers-asos-and-boohoo-forced-to-clarify-green-claims</guid>
-      <pubDate>Wed, 27 Mar 2024 08:48:57 GMT</pubDate>
-    </item>
-    <item>
       <title>瑞典央行开启5月降息之门，利率维持在4%</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-27/riksbank-opens-door-to-possible-rate-cut-before-ecb-and-fed</link>
       <description><![CDATA[瑞典央行最早在五月就为货币宽松奠定了基础，为瑞典陷入衰退的经济提供了即将得到喘息的前景。]]></description>
@@ -62,9 +55,16 @@
       <pubDate>Wed, 27 Mar 2024 06:48:23 GMT</pubDate>
     </item>
     <item>
+      <title>沃尔沃汽车刚刚制造出最后一款柴油车</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-27/volvo-says-diesel-is-history-with-last-xc90-suv-headed-to-museum</link>
+      <description><![CDATA[沃尔沃汽车公司 (Volvo Car AB) 本周生产了最后一辆配备柴油发动机的汽车，结束了该制造商计划到 2030 年只生产电动汽车的时代。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-27/volvo-says-diesel-is-history-with-last-xc90-suv-headed-to-museum</guid>
+      <pubDate>Wed, 27 Mar 2024 06:25:52 GMT</pubDate>
+    </item>
+    <item>
       <title>行业报告显示美国库存增加，油价下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-26/latest-oil-market-news-and-analysis-for-march-27</link>
-      <description><![CDATA[在一份行业报告指出美国库存大幅增加后，油价延续跌势。]]></description>
+      <description><![CDATA[在行业报告指出美国库存大幅增加后，油价延续跌势。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-26/latest-oil-market-news-and-analysis-for-march-27</guid>
       <pubDate>Tue, 26 Mar 2024 23:21:52 GMT</pubDate>
     </item>
