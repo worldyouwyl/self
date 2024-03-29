@@ -4,11 +4,11 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 29 Mar 2024 08:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 09:04:34 GMT</lastBuildDate>
     <item>
       <title>华为利润飙升，抢夺苹果和阿里巴巴份额</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-29/huawei-profit-surges-as-it-takes-share-from-apple-and-alibaba</link>
-      <description><![CDATA[华为技术有限公司保持了强劲的季度利润增长，其基础是其消费者业务相对于苹果公司iPhone的复苏以及其云部门相对于现有阿里巴巴集团控股有限公司的崛起。]]></description>
+      <description><![CDATA[华为技术有限公司维持了强劲的季度利润增长，其基础是其消费者业务相对于苹果公司iPhone的复苏以及其云部门相对于现有阿里巴巴集团控股有限公司的崛起。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-29/huawei-profit-surges-as-it-takes-share-from-apple-and-alibaba</guid>
       <pubDate>Fri, 29 Mar 2024 08:09:27 GMT</pubDate>
     </item>
@@ -22,7 +22,7 @@
     <item>
       <title>微软支持的 Rubrik 准备于下周提交 IPO 申请</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-28/microsoft-backed-rubrik-is-said-ready-to-file-next-week-for-ipo</link>
-      <description><![CDATA[据知情人士透露，由微软公司支持的云和数据安全初创公司 Rubrik Inc. 计划最早于下周提交首次公开募股文件。]]></description>
+      <description><![CDATA[据知情人士透露，微软公司支持的云和数据安全初创公司 Rubrik Inc. 计划最快下周提交首次公开募股文件。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-28/microsoft-backed-rubrik-is-said-ready-to-file-next-week-for-ipo</guid>
       <pubDate>Thu, 28 Mar 2024 23:15:32 GMT</pubDate>
     </item>
@@ -39,13 +39,6 @@
       <description><![CDATA[据知情人士透露，Cumulus Media Inc. 及其部分债权人已就该公司拟议的不良资产交换进行了讨论。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-28/cumulus-creditors-in-discussions-over-proposed-debt-exchange</guid>
       <pubDate>Thu, 28 Mar 2024 21:04:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 将取消美国和澳大利亚的 Facebook 新闻标签，减少政治内容</title>
-      <link>https://www.bloomberg.com/en/news/thp/2024-03-28/facebook-news-tab-will-soon-be-unavailable-as-meta-scales-back-news-and-political-content</link>
-      <description><![CDATA[随着该平台进一步淡化新闻和政治，Meta 将于 4 月初停止为美国和澳大利亚用户提供 Facebook 新闻服务。该功能去年在英国、法国和德国被关闭。]]></description>
-      <guid>https://www.bloomberg.com/en/news/thp/2024-03-28/facebook-news-tab-will-soon-be-unavailable-as-meta-scales-back-news-and-political-content</guid>
-      <pubDate>Thu, 28 Mar 2024 20:47:16 GMT</pubDate>
     </item>
     <item>
       <title>花旗集团北美技术 ECM 联席主管 Feige 离职</title>
@@ -69,11 +62,18 @@
       <pubDate>Thu, 28 Mar 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>小米凭借 29,900 美元的 SU7 系列进入残酷的电动汽车竞赛</title>
+      <title>小米推出售价 29,900 美元的 SU7 系列进入残酷的电动汽车竞赛</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-28/xiaomi-unveils-ambitious-pricing-for-entry-in-cutthroat-ev-race</link>
       <description><![CDATA[小米公司正以激进的定价开始销售其首款电动汽车，押注这家中国智能手机制造商能够在苹果公司步履蹒跚的残酷市场中取得成功。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-28/xiaomi-unveils-ambitious-pricing-for-entry-in-cutthroat-ev-race</guid>
       <pubDate>Thu, 28 Mar 2024 12:53:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊在全球裁员之际向印度推出新书</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-19/amazon-bets-big-on-india-with-70-new-titles-amid-global-cutbacks</link>
+      <description><![CDATA[亚马逊公司未来几年将在其印度流媒体平台上发布 70 多部新电视节目和电影，以寻求新的订户并与包括 Netflix 公司和印度当地媒体业务合并创建的新巨头在内的竞争对手展开竞争。信实工业有限公司和华特迪士尼公司]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-19/amazon-bets-big-on-india-with-70-new-titles-amid-global-cutbacks</guid>
+      <pubDate>Tue, 19 Mar 2024 14:03:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
