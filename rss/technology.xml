@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 15:21:00 GMT</lastBuildDate>
+    <item>
+      <title>Meta 推出新 AI 芯片，旨在减少对 Nvidia 的依赖</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-10/meta-debuts-new-ai-chip-aiming-to-decrease-reliance-on-nvidia</link>
+      <description><![CDATA[Meta Platforms Inc. 正在部署一款新的国产芯片来帮助其人工智能服务，旨在减少对 Nvidia Corp. 和其他外部公司半导体的依赖。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-10/meta-debuts-new-ai-chip-aiming-to-decrease-reliance-on-nvidia</guid>
+      <pubDate>Wed, 10 Apr 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>元广告商称其自动化系统出现故障</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-10/meta-s-automated-advertising-system-is-on-the-fritz-marketers-say</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[特斯拉公司令华尔街感到震惊，两名分析师目前预测今年的销量将下降。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-10/tesla-sales-outlook-worsens-with-two-analysts-seeing-2024-drop</guid>
       <pubDate>Wed, 10 Apr 2024 10:55:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球人工智能服务器需求激增，台湾出口“火爆”</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-10/taiwan-exports-on-fire-as-global-demand-for-ai-servers-surges</link>
-      <description><![CDATA[随着支撑全球人工智能繁荣的计算机硬件出货量飙升超过 400%，台湾的出口以两年来最快的速度激增。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-10/taiwan-exports-on-fire-as-global-demand-for-ai-servers-surges</guid>
-      <pubDate>Wed, 10 Apr 2024 09:17:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
