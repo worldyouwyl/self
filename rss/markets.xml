@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 11 Apr 2024 12:56:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 13:07:38 GMT</lastBuildDate>
+    <item>
+      <title>PPI 较一年前上涨 2.1%，初请失业金人数下降</title>
+      <link>https://www.bloomberg.com/news/videos/2024-04-11/ppi-rises-2-1-from-a-year-ago-jobless-claims-drop</link>
+      <description><![CDATA[劳工部数据显示，美国最终需求生产者价格指数较 2023 年 3 月上涨 2.1%。从月度来看，PPI 在 2 月份大幅上涨后上涨了 0.2%。首次申请失业救济人数下降至 211,000 人。迈克·麦基报道。 （来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-04-11/ppi-rises-2-1-from-a-year-ago-jobless-claims-drop</guid>
+      <pubDate>Thu, 11 Apr 2024 12:56:50 GMT</pubDate>
+    </item>
     <item>
       <title>彭博简报 (04/11/2024)</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-11/bloomberg-brief-04-11-2024</link>
@@ -20,6 +27,13 @@
       <pubDate>Thu, 11 Apr 2024 12:37:41 GMT</pubDate>
     </item>
     <item>
+      <title>苏富比稀有债券将得到伦勃朗、沃霍尔艺术的支持</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-11/sotheby-s-rare-bond-to-be-backed-by-rembrandt-warhol-art</link>
+      <description><![CDATA[据知情人士透露，与伦勃朗·范·莱恩 (Rembrandt van Rijn) 和安迪·沃霍尔 (Andy Warhol) 的艺术品相关的贷款是苏富比金融服务公司 (Sotheby&#39;s Financial Services) 发行的价值 5 亿美元不同寻常债券的资产之一。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-11/sotheby-s-rare-bond-to-be-backed-by-rembrandt-warhol-art</guid>
+      <pubDate>Thu, 11 Apr 2024 12:35:46 GMT</pubDate>
+    </item>
+    <item>
       <title>欧洲央行第五次会议维持利率稳定</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-11/ecb-holds-rates-steady-for-fifth-meeting</link>
       <description><![CDATA[欧洲央行周四将存款利率维持在创纪录的4%，同时发出明确信号，即通胀降温将很快允许其开始降息。莉兹·伯登 (Lizzy Burden) 接受彭博电视台报道。]]></description>
@@ -27,25 +41,11 @@
       <pubDate>Thu, 11 Apr 2024 12:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>CFA 期末考试通过率升至 49%，低于十年平均水平</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-11/cfa-final-exam-pass-rate-rises-to-49-below-the-decade-average</link>
-      <description><![CDATA[特许金融分析师考试最终级别的通过率保持在十年平均水平以下，而首次参加考试的人比选择推迟考试的人的成功率更高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-11/cfa-final-exam-pass-rate-rises-to-49-below-the-decade-average</guid>
-      <pubDate>Thu, 11 Apr 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>欧洲央行维持利率不变，发出开始降息的最明确信号</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/ecb-holds-interest-rates-and-firms-path-to-first-cut-in-june</link>
       <description><![CDATA[欧洲央行第五次会议维持利率不变，同时发出迄今为止最明确的信号，即通胀降温将很快允许其开始降息。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-11/ecb-holds-interest-rates-and-firms-path-to-first-cut-in-june</guid>
       <pubDate>Thu, 11 Apr 2024 12:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行让市场为 6 月份首次降息做好准备</title>
-      <link>https://www.bloomberg.com/news/live-blog/2024-04-11/ecb-interest-rate-decision-lagarde-briefing</link>
-      <description><![CDATA[克里斯蒂娜·拉加德 摄影师：Alex Kraus/彭博社]]></description>
-      <guid>https://www.bloomberg.com/news/live-blog/2024-04-11/ecb-interest-rate-decision-lagarde-briefing</guid>
-      <pubDate>Thu, 11 Apr 2024 10:40:38 GMT</pubDate>
     </item>
     <item>
       <title>债券交易员正在为 5% 的收益率、不降息的世界做准备</title>
@@ -69,9 +69,9 @@
       <pubDate>Wed, 10 Apr 2024 23:30:25 GMT</pubDate>
     </item>
     <item>
-      <title>PPI后库存波动；欧洲央行令欧元下跌：市场休整</title>
+      <title>随着生产者物价指数 (PPI) 显示美联储目标之路崎岖不平，股市走势：市场结束</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-10/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[最新通胀数据低于预期后，股市波动，突显美联储在实现 2% 目标方面面临的坎坷道路。随着欧洲央行在 6 月份确定首次降息，欧元下跌。]]></description>
+      <description><![CDATA[由于最新的通胀数据突显出美联储在实现 2% 目标方面面临的坎坷道路，股市难以站稳脚跟。欧洲央行利率决定后，欧元波动。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-10/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 10 Apr 2024 22:45:34 GMT</pubDate>
     </item>
