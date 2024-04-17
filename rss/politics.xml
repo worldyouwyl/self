@@ -4,7 +4,7 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Wed, 17 Apr 2024 22:51:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 23:04:04 GMT</lastBuildDate>
     <item>
       <title>厄瓜多尔总统诺博亚因电力危机关闭国家</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-17/ecuador-president-noboa-shuts-down-nation-on-electricity-crisis</link>
@@ -15,7 +15,7 @@
     <item>
       <title>英国因安全风险考虑对境外投资实施新限制</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-17/uk-mulls-new-curbs-on-outward-investment-over-security-risks</link>
-      <description><![CDATA[英国正在考虑对人工智能和半导体等新兴技术的对外投资实施新的限制，理由是援助俄罗斯和中国等敌对国家存在潜在的安全风险。]]></description>
+      <description><![CDATA[英国正考虑对人工智能和半导体等新兴技术的对外投资实施新的限制，理由是援助俄罗斯和中国等敌对国家存在潜在安全风险。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-17/uk-mulls-new-curbs-on-outward-investment-over-security-risks</guid>
       <pubDate>Wed, 17 Apr 2024 21:00:00 GMT</pubDate>
     </item>
@@ -41,11 +41,18 @@
       <pubDate>Wed, 17 Apr 2024 20:48:32 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰援助，约翰逊的命运可能掌握在民主党手中</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-04-17/ukraine-aid-johnson-s-fate-may-be-left-in-democrats-hands</link>
-      <description><![CDATA[这是华盛顿版，关于国家首都金钱、权力和政治的时事通讯。今天，国会记者比利·豪斯 (Billy House) 关注众议院议长迈克·约翰逊 (Mike Johnson) 在援助计划上的策略。在此注册并通过@bpolitics 关注我们。请在此处向我们的编辑发送电子邮件。]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-04-17/ukraine-aid-johnson-s-fate-may-be-left-in-democrats-hands</guid>
-      <pubDate>Wed, 17 Apr 2024 20:37:45 GMT</pubDate>
+      <title>马约卡斯弹劾案在参议院失败，挫败了共和党的攻击</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-17/mayorkas-impeachment-dies-in-senate-thwarting-republican-attack</link>
+      <description><![CDATA[周三，共和党领导的罢免国土安全部长亚历杭德罗·马约卡斯的行动遭遇了虎头蛇尾但可以预见的命运，因为参议院迅速搁置了对他的指控。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-17/mayorkas-impeachment-dies-in-senate-thwarting-republican-attack</guid>
+      <pubDate>Wed, 17 Apr 2024 20:18:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>克罗地亚总理普伦科维奇在激烈的选举中遭遇挫折</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-17/croatia-s-plenkovic-may-lose-majority-in-vote-exit-polls-show</link>
+      <description><![CDATA[克罗地亚总理安德烈·普连科维奇在紧张的全国选举中遭遇挫折，因为他面临总统佐兰·米拉诺维奇的挑战，后者嘲笑对乌克兰的军事援助。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-17/croatia-s-plenkovic-may-lose-majority-in-vote-exit-polls-show</guid>
+      <pubDate>Wed, 17 Apr 2024 17:01:19 GMT</pubDate>
     </item>
     <item>
       <title>微软认为俄罗斯业务放缓，中国影响投票的努力</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[在确定尼古拉斯·马杜罗政权未能履行允许在定于 7 月举行的选举中进行更公平投票的协议后，总统乔·拜登政府重新对委内瑞拉实施石油制裁，结束了六个月的缓期执行。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-17/us-to-reimpose-venezuela-oil-ban-unless-maduro-acts-quickly</guid>
       <pubDate>Wed, 17 Apr 2024 14:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>委内瑞拉将把被扣押的康菲石油公司资产交给鲜为人知的公司</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-17/venezuela-to-hand-seized-conoco-oil-assets-to-little-known-firm</link>
-      <description><![CDATA[委内瑞拉计划利用一家鲜为人知的公司来接管曾经由康菲石油公司运营的关键油田和设施，并在美国决定是否恢复制裁的最后期限之前迅速签署协议。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-17/venezuela-to-hand-seized-conoco-oil-assets-to-little-known-firm</guid>
-      <pubDate>Wed, 17 Apr 2024 13:48:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
