@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 21:41:23 GMT</lastBuildDate>
     <item>
       <title>理解中国 5.3% 的神奇增长</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-17/china-s-strong-growth-is-puzzling-the-chinese</link>
@@ -29,7 +29,7 @@
     <item>
       <title>参议院对波音的哗然不会让你的飞行更安全</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-17/boeing-s-safety-won-t-be-helped-by-senate-grandstanding</link>
-      <description><![CDATA[这家飞机制造商不需要越来越多的反对者来解决其详细存在的问题，无论这些问题是否是其自身造成的。]]></description>
+      <description><![CDATA[这家飞机制造商不需要越来越多的反对者来解决其详细的问题，无论这些问题是否是自己造成的。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-17/boeing-s-safety-won-t-be-helped-by-senate-grandstanding</guid>
       <pubDate>Wed, 17 Apr 2024 18:21:28 GMT</pubDate>
     </item>
