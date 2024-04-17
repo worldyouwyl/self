@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 17 Apr 2024 06:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:29:17 GMT</lastBuildDate>
     <item>
       <title>持续走高正在将美元力量推向极限</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-17/dollar-power-fed-s-higher-for-longer-is-turning-the-currency-screws</link>
@@ -43,7 +43,7 @@
     <item>
       <title>Humane 的 Ai Pin 被榨汁了</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-16/humane-s-ai-pin-got-juicero-ed-by-marques-brownlee-joanna-stern-and-more</link>
-      <description><![CDATA[当然，如果这个小工具有用的话，那就太酷了。]]></description>
+      <description><![CDATA[当然，如果这个小玩意儿能用的话，那一定超酷。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-16/humane-s-ai-pin-got-juicero-ed-by-marques-brownlee-joanna-stern-and-more</guid>
       <pubDate>Tue, 16 Apr 2024 21:04:09 GMT</pubDate>
     </item>
