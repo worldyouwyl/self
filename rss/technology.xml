@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Apr 2024 16:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 16:27:53 GMT</lastBuildDate>
     <item>
       <title>Charter要求客户在云DVR出现故障后删除视频</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/charter-asks-customers-to-delete-videos-amid-cloud-dvr-glitches</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 19 Apr 2024 14:51:52 GMT</pubDate>
     </item>
     <item>
-      <title>超微因盈利担忧而跌至近两个月低点</title>
+      <title>超微股价因盈利担忧跌至近两个月低点</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/super-micro-drops-near-two-month-low-on-earnings-concerns</link>
       <description><![CDATA[服务器制造商超微电脑公司(Super Micro Computer Inc.)公布了第三季度业绩的日期，但没有预先公布业绩，该公司股价周五出现约两个月来的最大跌幅。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-19/super-micro-drops-near-two-month-low-on-earnings-concerns</guid>
@@ -48,13 +48,6 @@
       <pubDate>Fri, 19 Apr 2024 11:35:02 GMT</pubDate>
     </item>
     <item>
-      <title>电动汽车芯片制造商错过人工智能涨势后考验投资者信心</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-19/ev-chipmakers-test-investor-faith-after-missing-out-on-ai-rally</link>
-      <description><![CDATA[电动汽车市场的疲软正在拖累汽车芯片制造公司的股价，这些公司在人工智能领域的投资有限，无法参与更广泛的上涨。但分析师敦促长期投资者保持信心。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-19/ev-chipmakers-test-investor-faith-after-missing-out-on-ai-rally</guid>
-      <pubDate>Fri, 19 Apr 2024 11:34:23 GMT</pubDate>
-    </item>
-    <item>
       <title>随着用户涌向昂贵的高级卡，美国运通收入猛增</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/amex-revenue-jumps-as-consumers-flock-to-pricey-premium-cards</link>
       <description><![CDATA[美国运通公司报告称，由于消费者继续涌向该公司的优质信用卡产品，今年前三个月的收入超出了预期。]]></description>
@@ -62,9 +55,9 @@
       <pubDate>Fri, 19 Apr 2024 11:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>施耐德正在洽谈斥资 170 亿美元收购软件制造商 Bentley</title>
+      <title>施耐德与美国软件制造商宾利进行交易谈判</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/schneider-electric-says-it-s-holding-talks-with-bentley-systems</link>
-      <description><![CDATA[施耐德电气 (Schneider Electric SE) 正在与价值 170 亿美元的工程软件制造商 Bentley Systems Inc. 就一项潜在交易进行谈判，这将是法国公司对美国公司的最大收购之一。]]></description>
+      <description><![CDATA[施耐德电气公司正在与工程软件制造商 Bentley Systems Inc. 就一项潜在交易进行谈判，这可能为法国企业对美国公司的最大收购之一铺平道路。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-19/schneider-electric-says-it-s-holding-talks-with-bentley-systems</guid>
       <pubDate>Fri, 19 Apr 2024 06:50:28 GMT</pubDate>
     </item>
@@ -74,6 +67,13 @@
       <description><![CDATA[周五，Netflix Inc. 股价创下九个月来最大跌幅，原因是收入预测疲软，并且警告这家流媒体巨头将在 2025 年停止报告用户数量，这给今年原本强劲的开局蒙上了阴影。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-18/netflix-adds-9-33-million-customers-crushing-street-forecasts</guid>
       <pubDate>Thu, 18 Apr 2024 20:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 首次推出 Llama 3，这是为聊天机器人提供动力的最新 AI 模型</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-18/meta-debuts-llama-3-latest-ai-model-for-training-chatbots</link>
+      <description><![CDATA[Facebook 母公司 Meta Platforms Inc. 推出了强大的 Llama 人工智能模型的新版本，这是其为跟上 OpenAI 和 Alphabet Inc. 旗下谷歌等公司类似技术的步伐而做出的最新努力。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-18/meta-debuts-llama-3-latest-ai-model-for-training-chatbots</guid>
+      <pubDate>Thu, 18 Apr 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
