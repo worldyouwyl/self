@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Mon, 22 Apr 2024 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 03:23:03 GMT</lastBuildDate>
     <item>
       <title>特斯拉降价引发中国新一轮电动车价格战</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-22/tesla-s-price-cuts-trigger-new-round-in-china-ev-price-war</link>
@@ -25,6 +25,13 @@
       <description><![CDATA[澳大利亚正准备与埃隆·马斯克和美国社交媒体巨头展开斗争，指控他们在过去 10 天悉尼发生的两起暴力袭击事件中未能足够快地采取行动来监管图形内容和错误信息。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-22/australia-flags-fight-with-elon-musk-over-social-media-takedowns</guid>
       <pubDate>Mon, 22 Apr 2024 01:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能明星寻求 2030 年将自动驾驶汽车引入日本</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-22/this-100-million-firm-seeks-self-driving-cars-in-japan-by-2030</link>
+      <description><![CDATA[当山本一政的算法击败日本顶级国际象棋棋手时，他成为日本最著名的人工智能开发者之一。现在，他正在追求一项更具挑战性的人体仿真任务：实现完全自动驾驶的汽车系统。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-22/this-100-million-firm-seeks-self-driving-cars-in-japan-by-2030</guid>
+      <pubDate>Mon, 22 Apr 2024 01:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Salesforce 与 Informatica 就价格问题进行 Cool 谈判</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[据知情人士透露，TikTok 正准备解雇一名关键高管，该高管负责说服美国政府，该公司已采取足够措施，以避免对其与中国的关系引发的国家安全担忧。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-21/tiktok-set-to-remove-executive-tasked-with-fending-off-us-claims</guid>
       <pubDate>Sun, 21 Apr 2024 01:47:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉利用周末降低汽车和 FSD 软件价格</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-21/tesla-cuts-china-us-prices-after-sales-slow-inventories-rise</link>
-      <description><![CDATA[由于销量下滑和库存过剩，特斯拉公司整个周末都在中国、欧洲和美国下调了其车型的价格。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-21/tesla-cuts-china-us-prices-after-sales-slow-inventories-rise</guid>
-      <pubDate>Sun, 21 Apr 2024 01:10:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
