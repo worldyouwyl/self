@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 23 Apr 2024 17:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 17:51:32 GMT</lastBuildDate>
     <item>
       <title>TikTok 根据新的数字规则努力避免欧盟罚款</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-23/tiktok-makes-effort-to-avoid-eu-fine-under-new-digital-rules</link>
@@ -48,13 +48,6 @@
       <pubDate>Tue, 23 Apr 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>AI 搜索初创公司 Perplexity 在本轮融资中估值达 10 亿美元</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-23/ai-search-startup-perplexity-valued-at-1-billion-in-funding-round</link>
-      <description><![CDATA[Perplexity 的估值在三个月内翻了一番，清楚地表明投资者对该公司的人工智能聊天机器人充满热情。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-23/ai-search-startup-perplexity-valued-at-1-billion-in-funding-round</guid>
-      <pubDate>Tue, 23 Apr 2024 13:00:15 GMT</pubDate>
-    </item>
-    <item>
       <title>特斯拉股价在盈利前暴跌 43% 后陷入“无人区”</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-23/tesla-stock-in-no-man-s-land-after-43-rout-ahead-of-earnings</link>
       <description><![CDATA[埃隆·马斯克以挑战现状而闻名——这正是特斯拉公司投资者目前所担心的。]]></description>
@@ -74,6 +67,13 @@
       <description><![CDATA[欧洲股市创下自 1 月份以来最好的一天，诺华公司 (Novartis AG) 和 SAP SE 的强劲盈利报告掩盖了对利率的担忧。欧洲银行股飙升至2015年以来的最高水平。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-23/solid-earnings-from-novartis-sap-drive-european-stocks-higher</guid>
       <pubDate>Tue, 23 Apr 2024 07:25:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telegram 允许使用 Tether 稳定币支付</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-19/telegram-messaging-service-to-allow-tether-stablecoin-payments</link>
+      <description><![CDATA[Tether 是世界上最常用的稳定币发行商，它已与 TON 基金会合作，允许客户使用流行的 Telegram 加密即时消息服务发送加密支付。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-19/telegram-messaging-service-to-allow-tether-stablecoin-payments</guid>
+      <pubDate>Fri, 19 Apr 2024 13:58:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
