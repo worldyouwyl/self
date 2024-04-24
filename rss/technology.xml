@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 24 Apr 2024 14:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 14:51:23 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉股东要求法官维持马斯克在特拉华州的薪酬斗争</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-24/tesla-shareholder-asks-judge-to-keep-musk-pay-fight-in-delaware</link>
+      <description><![CDATA[成功挑战联合创始人埃隆·马斯克 560 亿美元薪酬方案的特斯拉公司股东正在请求特拉华州法院下令禁止马斯克在德克萨斯州再次就此事提起诉讼。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-24/tesla-shareholder-asks-judge-to-keep-musk-pay-fight-in-delaware</guid>
+      <pubDate>Wed, 24 Apr 2024 14:20:50 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 同意收购以色列人工智能软件提供商 Run:ai</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-24/nvidia-agrees-to-acquire-israeli-ai-software-provider-run-ai</link>
@@ -24,13 +31,6 @@
       <link>https://www.bloomberg.com/news/articles/2024-04-24/biden-makes-11-billion-push-to-beat-china-at-chip-research</link>
       <description><![CDATA[拜登政府振兴芯片行业的努力主要集中在为国内工厂提供数十亿美元的补助。但这一推动还有一个较少被讨论的方面：将尖端半导体研究变成对美国人来说更有吸引力的领域。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-24/biden-makes-11-billion-push-to-beat-china-at-chip-research</guid>
-      <pubDate>Wed, 24 Apr 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 阻止青少年性勒索的裸露模糊功能引起了关注</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-24/meta-whistleblower-slams-nudity-blurring-feature-meant-to-deter-teen-sextortion</link>
-      <description><![CDATA[一项旨在模糊 Instagram 私信中发送给青少年的裸照的新功能在推出之前就受到了攻击。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-24/meta-whistleblower-slams-nudity-blurring-feature-meant-to-deter-teen-sextortion</guid>
       <pubDate>Wed, 24 Apr 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
@@ -55,13 +55,6 @@
       <pubDate>Wed, 24 Apr 2024 11:06:52 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 的 AI 播放列表能否带来正确的氛围？</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-04-24/can-spotify-s-new-ai-playlist-feature-build-the-right-sounds-from-text-prompt</link>
-      <description><![CDATA[关于人工智能如何潜在地增强聆听体验的新闻往往退居二线，而人们担心它会破坏音乐和艺术家的生计。 Spotify 希望改变这一现状。但首先...]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-04-24/can-spotify-s-new-ai-playlist-feature-build-the-right-sounds-from-text-prompt</guid>
-      <pubDate>Wed, 24 Apr 2024 11:05:15 GMT</pubDate>
-    </item>
-    <item>
       <title>AT&T 无线用户数量猛增，利润超出预期</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-24/at-t-beats-profit-estimates-on-jump-in-wireless-subscribers</link>
       <description><![CDATA[AT&amp;T 公司第一季度的利润超出了分析师的预期，因为该公司增加的无线电话客户数量超出了预期。]]></description>
@@ -74,6 +67,13 @@
       <description><![CDATA[Orange SA 在其最大的电信公司法国本土市场的收入复苏受到第一季度宽带客户流失的影响。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-24/orange-sales-rise-less-than-forecast-on-declines-in-europe</guid>
       <pubDate>Wed, 24 Apr 2024 05:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>德州仪器 (TI) 因乐观预测而实现 2020 年以来最大涨幅</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-23/texas-instruments-gives-solid-forecast-in-sign-of-chip-comeback</link>
+      <description><![CDATA[德州仪器 (Texas Instruments) 的营收预测表明需求下滑可能正在缓解，周三该公司股价上涨 8.5%，创四年多来最大盘中涨幅。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-23/texas-instruments-gives-solid-forecast-in-sign-of-chip-comeback</guid>
+      <pubDate>Tue, 23 Apr 2024 20:06:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
