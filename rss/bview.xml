@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Thu, 25 Apr 2024 23:31:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 23:41:43 GMT</lastBuildDate>
     <item>
       <title>日元是货币交易者最好的朋友和最大的敌人</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-25/yen-is-a-currency-trader-s-best-friend-and-worst-enemy</link>
@@ -50,7 +50,7 @@
     <item>
       <title>强劲的经济并不一定会让美联储的工作变得更加困难</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-25/us-gdp-strong-economy-doesn-t-make-the-fed-s-job-harder</link>
-      <description><![CDATA[过去一年的情况表明，通货膨胀有可能迅速下降，同时失业率较低，增长强劲。]]></description>
+      <description><![CDATA[过去的一年表明，通货膨胀有可能迅速下降，同时失业率较低，增长强劲。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/us-gdp-strong-economy-doesn-t-make-the-fed-s-job-harder</guid>
       <pubDate>Thu, 25 Apr 2024 13:15:20 GMT</pubDate>
     </item>
