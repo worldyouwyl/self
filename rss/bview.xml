@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:51:37 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Thu, 25 Apr 2024 19:02:30 GMT</lastBuildDate>
+    <item>
+      <title>日本最不可思议的啦啦队长是美国大使</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-04-25/rahm-emanuel-redefines-role-as-us-ambassador-to-japan</link>
+      <description><![CDATA[直言不讳的前白宫办公厅主任拉姆·伊曼纽尔重新定义了华盛顿驻东京特使的角色——通过放大日本的信息并威吓北京。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/rahm-emanuel-redefines-role-as-us-ambassador-to-japan</guid>
+      <pubDate>Thu, 25 Apr 2024 19:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>期货交易所是为交易者服务的</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-25/futures-exchanges-are-for-traders</link>
@@ -22,7 +29,7 @@
     <item>
       <title>强劲的经济并不一定会让美联储的工作变得更加困难</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-25/us-gdp-strong-economy-doesn-t-make-the-fed-s-job-harder</link>
-      <description><![CDATA[过去的一年表明，通货膨胀有可能迅速下降，同时失业率较低，增长强劲。]]></description>
+      <description><![CDATA[过去一年的情况表明，通货膨胀有可能迅速下降，同时失业率较低，增长强劲。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/us-gdp-strong-economy-doesn-t-make-the-fed-s-job-harder</guid>
       <pubDate>Thu, 25 Apr 2024 13:15:20 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 25 Apr 2024 11:34:30 GMT</pubDate>
     </item>
     <item>
-      <title>美国电网遇到麻烦了。托马斯·爱迪生可以提供帮助。</title>
+      <title>美国电网陷入困境。托马斯·爱迪生可以提供帮助。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-25/thomas-edison-s-dc-system-could-be-key-to-connecting-the-grid</link>
       <description><![CDATA[我们的电力系统创建一个多世纪后，我们仍然没有弄清楚如何将电力从一个海岸输送到另一个海岸。这种情况可能很快就会改变。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/thomas-edison-s-dc-system-could-be-key-to-connecting-the-grid</guid>
@@ -60,13 +67,6 @@
       <description><![CDATA[应对混乱的气候变化的答案是让地球变得更适合儿童，而不是停止生孩子。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/is-having-kids-bad-for-the-planet</guid>
       <pubDate>Thu, 25 Apr 2024 11:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于美联储，住房将变得更加昂贵</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-04-25/fed-policy-will-make-housing-more-expensive</link>
-      <description><![CDATA[解决高住房成本的主要驱动因素的唯一方法是建造更多的公寓和房屋。高利率阻止了这种情况的发生。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/fed-policy-will-make-housing-more-expensive</guid>
-      <pubDate>Thu, 25 Apr 2024 10:30:17 GMT</pubDate>
     </item>
     <item>
       <title>如果您认为第三次世界大战难以想象，请阅读本文</title>
