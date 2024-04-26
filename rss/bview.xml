@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 26 Apr 2024 10:51:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 11:03:25 GMT</lastBuildDate>
     <item>
-      <title>特朗普正在吓唬共和党人放弃拯救地球</title>
+      <title>不要相信关于弱拜登的 MAGA Meme</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-04-26/don-t-buy-the-maga-meme-about-weak-biden-strong-trump</link>
+      <description><![CDATA[唐纳德·特朗普的“实力”类似于德皇威廉二世。乔·拜登的实力是货真价实的。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-04-26/don-t-buy-the-maga-meme-about-weak-biden-strong-trump</guid>
+      <pubDate>Fri, 26 Apr 2024 11:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普正在吓唬共和党人，让他们放弃拯救地球</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-26/trump-s-climate-change-denial-is-scaring-republicans-who-believe</link>
       <description><![CDATA[党内大多数人都承认气候变化是真实存在的，但许多人因担心激怒有报复心的前总统而放弃了行动承诺。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-26/trump-s-climate-change-denial-is-scaring-republicans-who-believe</guid>
@@ -27,14 +34,14 @@
       <pubDate>Fri, 26 Apr 2024 04:00:22 GMT</pubDate>
     </item>
     <item>
-      <title>美国目前无需担心中国人工智能</title>
+      <title>目前美国无需担心中国人工智能</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-26/china-s-ai-cold-war-with-america-is-more-of-a-slow-burn</link>
-      <description><![CDATA[中国在人工智能领域还远远未能赶上其竞争对手。]]></description>
+      <description><![CDATA[中国在人工智能方面距离赶上竞争对手还很远。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-26/china-s-ai-cold-war-with-america-is-more-of-a-slow-burn</guid>
       <pubDate>Fri, 26 Apr 2024 04:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>以色列是时候扣留人质以报复加沙了</title>
+      <title>以色列是时候扣押人质以报复加沙了</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-26/saving-gaza-s-hostages-matters-more-than-striking-hamas-in-rafah</link>
       <description><![CDATA[在美国和其他 17 个关注哈马斯的国家联合呼吁后，以色列应该倾向于达成协议。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-26/saving-gaza-s-hostages-matters-more-than-striking-hamas-in-rafah</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[直言不讳的前白宫办公厅主任拉姆·伊曼纽尔重新定义了华盛顿驻东京特使的角色——通过放大日本的信息并威吓北京。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/rahm-emanuel-redefines-role-as-us-ambassador-to-japan</guid>
       <pubDate>Thu, 25 Apr 2024 19:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你认为第三次世界大战不可想象，请阅读本文</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii</link>
-      <description><![CDATA[小说家和电影制片人长期以来一直在发展重大冲突的另类历史，这应该成为对自满的美国人的警告。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-02-11/what-would-america-look-like-if-it-lost-world-war-iii</guid>
-      <pubDate>Sun, 11 Feb 2024 05:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
