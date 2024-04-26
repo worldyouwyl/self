@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:56:26 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Fri, 26 Apr 2024 13:07:36 GMT</lastBuildDate>
+    <item>
+      <title>开始对乳制品工人进行禽流感大规模检测</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-04-26/how-many-people-have-bird-flu-we-won-t-know-unless-we-test</link>
+      <description><![CDATA[H5N1 病毒已在奶牛中悄然传播。它是否也会在人类中悄然传播？]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-04-26/how-many-people-have-bird-flu-we-won-t-know-unless-we-test</guid>
+      <pubDate>Fri, 26 Apr 2024 13:00:15 GMT</pubDate>
+    </item>
     <item>
       <title>非竞争交易是好是坏？可能两者都有。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-26/noncompete-clauses-ftc-rule-ignores-workforce-complexities</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[随着国家经济、文化影响力的恢复，在世界舞台上变得更加活跃。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/japan-s-soft-power-is-making-up-for-its-lost-decades-lvfqvgoa</guid>
       <pubDate>Thu, 25 Apr 2024 21:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度尼西亚兑美元汇率增加了一点辣椒</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-04-25/indonesia-rates-risky-bid-for-monetary-leadership-against-the-dollar</link>
-      <description><![CDATA[令人震惊的加息完全与当地货币有关，而不是与经济有关。其他亚洲国家也面临同样的艰难选择。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-04-25/indonesia-rates-risky-bid-for-monetary-leadership-against-the-dollar</guid>
-      <pubDate>Thu, 25 Apr 2024 20:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
