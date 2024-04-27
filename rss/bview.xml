@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sat, 27 Apr 2024 18:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:51:43 GMT</lastBuildDate>
     <item>
       <title>杰克·史密斯在特朗普 1 月 6 日案件中面临艰难抉择</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-27/supreme-court-trump-immunity-question-poses-challenge-for-jack-smith</link>
@@ -71,7 +71,7 @@
     <item>
       <title>特朗普正在吓唬共和党人放弃拯救地球</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-26/trump-s-climate-change-denial-is-scaring-republicans-who-believe</link>
-      <description><![CDATA[党内大多数人都承认气候变化是真实存在的，但许多人因担心激怒怀恨在心的前总统而放弃了行动承诺。]]></description>
+      <description><![CDATA[党内大多数人都承认气候变化是真实存在的，但许多人因担心激怒有报复心的前总统而放弃了行动承诺。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-26/trump-s-climate-change-denial-is-scaring-republicans-who-believe</guid>
       <pubDate>Fri, 26 Apr 2024 10:30:15 GMT</pubDate>
     </item>
