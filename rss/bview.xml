@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sun, 28 Apr 2024 23:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 23:51:42 GMT</lastBuildDate>
     <item>
       <title>塑料污染不断加剧。以下是解决该问题的三种方法</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-28/plastic-pollution-keeps-growing-here-are-three-ways-to-solve-it</link>
@@ -36,7 +36,7 @@
     <item>
       <title>在 Earningspalooza 期间，Chipotle 就是整个 Enchilada</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-28/chipotle-with-its-chicken-al-pastor-tacos-wins-earnings-week</link>
-      <description><![CDATA[第一季度的赢家不是大型石油公司、大型奢侈品牌或大型科技公司。这是大墨西哥卷饼。]]></description>
+      <description><![CDATA[第一季度的赢家不是石油巨头、奢侈品巨头或科技巨头，而是墨西哥卷饼巨头。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-28/chipotle-with-its-chicken-al-pastor-tacos-wins-earnings-week</guid>
       <pubDate>Sun, 28 Apr 2024 12:00:23 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>杰克·史密斯在特朗普 1 月 6 日案件中面临艰难抉择</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-27/supreme-court-trump-immunity-question-poses-challenge-for-jack-smith</link>
-      <description><![CDATA[特别检察官可能必须做出决定，是以较少的干预选举罪名审判唐纳德·特朗普，还是根本不审判。]]></description>
+      <description><![CDATA[特别检察官可能必须决定是少对唐纳德·特朗普提起干预选举的指控，还是根本不提起审判。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-27/supreme-court-trump-immunity-question-poses-challenge-for-jack-smith</guid>
       <pubDate>Sat, 27 Apr 2024 12:00:26 GMT</pubDate>
     </item>
