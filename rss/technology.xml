@@ -4,11 +4,11 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 30 Apr 2024 22:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 22:20:43 GMT</lastBuildDate>
     <item>
-      <title>IBM 获得 16 亿美元挖角奖，BMC 上诉被驳回</title>
+      <title>IBM 赢得逆转 BMC 16 亿美元挖角奖</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-30/ibm-gets-1-6-billion-poaching-award-to-bmc-thrown-out-on-appeal</link>
-      <description><![CDATA[国际商业机器公司 (International Business Machines Corp.) 赢得了一项法庭判决，推翻了因在为共同客户提供服务时更换自己的软件而于 2022 年向 BMC Software Inc. 支付 16 亿美元的罚款。]]></description>
+      <description><![CDATA[国际商业机器公司 (International Business Machines Corp.) 赢得了一项法庭裁决，推翻了该公司被判于 2022 年向 BMC Software Inc. 支付的 16 亿美元赔偿金，因为该公司在为共同客户 AT&amp;T Inc. 提供服务时更换了自己的软件。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-30/ibm-gets-1-6-billion-poaching-award-to-bmc-thrown-out-on-appeal</guid>
       <pubDate>Tue, 30 Apr 2024 21:48:38 GMT</pubDate>
     </item>
@@ -22,7 +22,7 @@
     <item>
       <title>派拉蒙 CEO 离职，亚马逊、AMD 公布财报 |彭博科技</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-30/paramount-ceo-is-out-and-amazon-amd-report-earnings-bloomberg-technology</link>
-      <description><![CDATA[彭博社的卡罗琳·海德和埃德·勒德洛探讨了派拉蒙更换首席执行官的问题，因为并购热潮掩盖了好坏参半的结果。另外：亚马逊、AMD 和 Pinterest 均在盘后发布报告，币安前首席执行官因检察官寻求三年监禁而出庭。 （来源：彭博社）]]></description>
+      <description><![CDATA[彭博社的卡罗琳·海德（Caroline Hyde）和埃德·勒德洛（Ed Ludlow）探讨了派拉蒙更换首席执行官的问题，因为并购热潮掩盖了喜忧参半的结果。另外：亚马逊、AMD 和 Pinterest 均在盘后发布报告，币安前首席执行官因检察官寻求三年监禁而出庭。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-04-30/paramount-ceo-is-out-and-amazon-amd-report-earnings-bloomberg-technology</guid>
       <pubDate>Tue, 30 Apr 2024 21:04:57 GMT</pubDate>
     </item>
@@ -34,9 +34,16 @@
       <pubDate>Tue, 30 Apr 2024 20:46:43 GMT</pubDate>
     </item>
     <item>
-      <title>由于游戏芯片需求疲软，AMD 给出不温不火的预测</title>
+      <title>派拉蒙与查特同意延长续约谈判</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-30/paramount-charter-agree-to-extend-talks-on-contract-renewal</link>
+      <description><![CDATA[知情人士称，哥伦比亚广播公司 (CBS) 和 MTV 的所有者派拉蒙全球公司 (Paramount Global) 同意延长与付费电视提供商 Charter Communications Inc. 的续约谈判，以防止其有线电视服务频道关闭。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-30/paramount-charter-agree-to-extend-talks-on-contract-renewal</guid>
+      <pubDate>Tue, 30 Apr 2024 20:28:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 芯片预测低于预期后 AMD 股价下滑</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-30/amd-gives-tepid-forecast-amid-weak-demand-for-gaming-chips</link>
-      <description><![CDATA[由于视频游戏硬件芯片需求低迷，第二大计算机处理器制造商 Advanced Micro Devices Inc. 对当前时期的收入预测不高。]]></description>
+      <description><![CDATA[Advanced Micro Devices Inc. 的股价在盘后交易中下跌了 9.1%，此前这家芯片制造商对人工智能处理器的预测令人失望，该市场目前由 Nvidia 公司主导，利润丰厚。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-30/amd-gives-tepid-forecast-amid-weak-demand-for-gaming-chips</guid>
       <pubDate>Tue, 30 Apr 2024 20:22:27 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[超微电脑公司公布的季度销售额比去年同期增长了两倍，但略低于预期，这令投资者感到失望，他们对这家服务器制造商的业务将受益于人工智能相关的需求抱有极高的期望。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-30/super-micro-gives-sunny-sales-outlook-fueling-ai-enthusiasm</guid>
       <pubDate>Tue, 30 Apr 2024 20:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>亿万富翁支持的加州新城建设项目进入 11 月投票</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-30/billionaire-backed-developer-secures-win-to-build-new-california-city</link>
-      <description><![CDATA[一群旨在在加利福尼亚州建立新城市的硅谷投资者已经获得了居民的足够支持，以便在即将举行的投票中制定一项关键的分区变更措施。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-30/billionaire-backed-developer-secures-win-to-build-new-california-city</guid>
-      <pubDate>Tue, 30 Apr 2024 19:45:18 GMT</pubDate>
     </item>
     <item>
       <title>英特尔股价遭遇数十年来最糟糕的一个月</title>
