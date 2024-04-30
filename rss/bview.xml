@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Tue, 30 Apr 2024 16:51:33 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Tue, 30 Apr 2024 17:03:42 GMT</lastBuildDate>
+    <item>
+      <title>自动驾驶特斯拉无法避开中美硅幕墙</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-04-30/tesla-s-self-driving-cars-can-t-duck-us-china-silicon-curtain</link>
+      <description><![CDATA[埃隆·马斯克与搜索巨头百度合作的决定是有道理的。这承认他需要与竞争对手汇集专业知识才能跟上步伐。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/tesla-s-self-driving-cars-can-t-duck-us-china-silicon-curtain</guid>
+      <pubDate>Tue, 30 Apr 2024 17:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>JP Spinetto：“外国佬”并不是墨西哥城最大的问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-30/los-gringos-no-son-el-mayor-problema-de-ciudad-de-mexico-jp-spinetto</link>
@@ -29,7 +36,7 @@
     <item>
       <title>选民无法区分纵火犯和消防员</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-30/in-trump-biden-climate-faceoff-voters-can-t-tell-between-arsonist-and-fireman</link>
-      <description><![CDATA[特朗普和拜登在气候问题上截然相反，但总统的成就在公众舆论中几乎没有获得什么关注。]]></description>
+      <description><![CDATA[特朗普和拜登在气候问题上立场完全相反，但总统的成就却没有引起公众的关注。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/in-trump-biden-climate-faceoff-voters-can-t-tell-between-arsonist-and-fireman</guid>
       <pubDate>Tue, 30 Apr 2024 11:30:29 GMT</pubDate>
     </item>
@@ -60,13 +67,6 @@
       <description><![CDATA[Reinold Geiger 将该公司私有化的提议并不成功，也没有达到去年提出的目标。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/-6-4-billion-for-l-occitane-doesn-t-pass-the-smell-test</guid>
       <pubDate>Tue, 30 Apr 2024 09:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普的美联储计划毫无意义，甚至对他来说也是如此</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-04-30/trump-s-plans-for-the-fed-make-no-sense-even-for-him</link>
-      <description><![CDATA[独立的央行对于经济稳定至关重要，而且实际上对总统在政治上也很有用。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/trump-s-plans-for-the-fed-make-no-sense-even-for-him</guid>
-      <pubDate>Tue, 30 Apr 2024 09:30:29 GMT</pubDate>
     </item>
     <item>
       <title>以色列和哈马斯现在可以结束他们永远的战争</title>
