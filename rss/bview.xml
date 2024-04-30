@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Tue, 30 Apr 2024 08:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 09:08:15 GMT</lastBuildDate>
+    <item>
+      <title>美联储的量化宽松计划成本过高</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-04-30/the-fed-s-quantitative-easing-program-cost-too-much</link>
+      <description><![CDATA[总账单可能超过 5000 亿美元。正确的评估应该会使下一个更便宜。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/the-fed-s-quantitative-easing-program-cost-too-much</guid>
+      <pubDate>Tue, 30 Apr 2024 09:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>日本对日元保持沉默是因为它必须如此</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-30/yen-intervention-japan-is-quiet-because-it-has-to-be</link>
@@ -15,14 +22,14 @@
     <item>
       <title>托尔斯泰讲述英国不愉快的铁路之旅</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-30/britain-s-railways-labour-party-approach-misses-bigger-point</link>
-      <description><![CDATA[除非当局同时扭转私有化带来的分裂局面，否则将混乱的体系重新交到公众手中无济于事。]]></description>
+      <description><![CDATA[除非当局同时扭转私有化带来的分裂，否则将混乱的体系重新交到公众手中无济于事。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/britain-s-railways-labour-party-approach-misses-bigger-point</guid>
       <pubDate>Tue, 30 Apr 2024 04:00:36 GMT</pubDate>
     </item>
     <item>
       <title>我们需要谈谈资本利得税</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-30/uk-real-estate-we-need-to-talk-about-capital-gains-taxes</link>
-      <description><![CDATA[英国的征税是无效的，其对房地产的影响正在推高租金。]]></description>
+      <description><![CDATA[英国的征税无效，其对房地产的影响正在帮助推高租金。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/uk-real-estate-we-need-to-talk-about-capital-gains-taxes</guid>
       <pubDate>Tue, 30 Apr 2024 04:00:33 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>无论谁经营诺福克南方航空，都将成为利润的奴隶</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-29/norfolk-southern-ancora-proxy-fight-whoever-wins-will-be-a-slave-to-margins</link>
-      <description><![CDATA[现有管理层和维权人士 Ancora 都没有表现出任何改掉铁路行业现金充裕、无增长习惯的倾向。]]></description>
+      <description><![CDATA[无论是现有管理层还是激进投资者 Ancora，都没有表现出任何意愿摆脱铁路行业资金密集、缺乏增长的习惯。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-29/norfolk-southern-ancora-proxy-fight-whoever-wins-will-be-a-slave-to-margins</guid>
       <pubDate>Mon, 29 Apr 2024 15:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>以财政纪律应对气候变化</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-04-29/climate-change-fight-demands-fiscal-discipline-financial-stability</link>
-      <description><![CDATA[负责任的预算、金融稳定和向绿色能源的过渡可以而且必须齐头并进。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-04-29/climate-change-fight-demands-fiscal-discipline-financial-stability</guid>
-      <pubDate>Mon, 29 Apr 2024 12:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
