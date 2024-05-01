@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 01 May 2024 23:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 23:31:49 GMT</lastBuildDate>
     <item>
-      <title>中国有 350 艘军舰。美国有 290 艘。这是个问题。</title>
+      <title>中国有350艘军舰。美国有 290 个。这是一个问题。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-01/china-s-navy-can-be-blocked-by-us-japan-philippines-australia-korea</link>
       <description><![CDATA[随着北京海军实力的增强，美国需要在南海组建盟友联盟。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/china-s-navy-can-be-blocked-by-us-japan-philippines-australia-korea</guid>
@@ -27,9 +27,9 @@
       <pubDate>Wed, 01 May 2024 21:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>拜登拥抱沙特，对以色列采取强硬措施</title>
+      <title>拜登拥抱沙特以强硬以色列</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-01/biden-hugs-the-saudis-to-strong-arm-israel</link>
-      <description><![CDATA[如果美国总统设法恢复与利雅得的协议，他可以温和以色列，同时仍然孤立伊朗。但这是一个很大的假设。]]></description>
+      <description><![CDATA[如果美国总统成功与利雅得恢复协议，他可以在孤立伊朗的同时缓和以色列的关系。但这只是个假设。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/biden-hugs-the-saudis-to-strong-arm-israel</guid>
       <pubDate>Wed, 01 May 2024 20:43:25 GMT</pubDate>
     </item>
