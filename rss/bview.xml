@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 01 May 2024 09:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:22:43 GMT</lastBuildDate>
     <item>
       <title>美联储还不会降息。其他人等不及了</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-01/rate-cuts-fed-won-t-climb-down-yet-but-others-can-t-wait-any-longer</link>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 01 May 2024 04:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>如果俄罗斯在乌克兰获胜怎么办？询问格鲁吉亚</title>
+      <title>如果俄罗斯在乌克兰获胜会怎样？问问格鲁吉亚</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-01/what-if-russia-wins-in-ukraine-ask-georgia</link>
       <description><![CDATA[第比利斯的一位亿万富翁领导人呼应莫斯科，谴责“全球战争政党”。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/what-if-russia-wins-in-ukraine-ask-georgia</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>阿波罗有一些死亡赌注</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-30/apollo-had-some-death-bets</link>
-      <description><![CDATA[STOLI、达美一号、CZ 的判决以及麦肯锡的 Chumbawumba。]]></description>
+      <description><![CDATA[STOLI、Delta One、CZ 的判决以及麦肯锡的 Chumbawumba。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/apollo-had-some-death-bets</guid>
       <pubDate>Tue, 30 Apr 2024 18:31:19 GMT</pubDate>
     </item>
