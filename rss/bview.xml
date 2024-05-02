@@ -3,10 +3,17 @@
   <channel>
     <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Thu, 02 May 2024 09:51:35 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Thu, 02 May 2024 10:08:19 GMT</lastBuildDate>
     <item>
-      <title>堕胎是否会促使选民在 11 月投票？尚不清楚</title>
+      <title>当孩子们因工作而死亡时，这就是罪魁祸首</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-02/when-child-labor-gets-out-of-hand-here-s-whom-to-blame</link>
+      <description><![CDATA[国会一直向劳工部发出明确的信息：不要执法。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/when-child-labor-gets-out-of-hand-here-s-whom-to-blame</guid>
+      <pubDate>Thu, 02 May 2024 10:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>堕胎会促使选民参加 11 月的投票吗？尚不清楚</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-02/abortion-rights-gain-support-among-republican-voters</link>
       <description><![CDATA[新数据显示民主党和共和党在选择上的差距正在缩小，但这并不意味着这将是他们在总统选举中的首要任务。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/abortion-rights-gain-support-among-republican-voters</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>你不能称杰罗姆·鲍威尔为大戏子</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-02/fed-rates-powell-wasn-t-a-big-teaser-but-markets-daytripped-anyway</link>
-      <description><![CDATA[美联储在利率上的表现完全符合预期——什么也没做。无论如何，一日游者都同意了。]]></description>
+      <description><![CDATA[美联储在利率问题上采取的措施完全符合预期——没有采取任何措施。但一日游游客还是接受了。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/fed-rates-powell-wasn-t-a-big-teaser-but-markets-daytripped-anyway</guid>
       <pubDate>Thu, 02 May 2024 04:14:11 GMT</pubDate>
     </item>
@@ -62,16 +69,9 @@
       <pubDate>Wed, 01 May 2024 21:29:01 GMT</pubDate>
     </item>
     <item>
-      <title>新加坡办公室需要新一波租户</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-01/singapore-offices-await-a-new-wave-of-tenants</link>
-      <description><![CDATA[科技行业提供工作空间需求的八年周期即将结束。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/singapore-offices-await-a-new-wave-of-tenants</guid>
-      <pubDate>Wed, 01 May 2024 21:00:29 GMT</pubDate>
-    </item>
-    <item>
       <title>日本对日元保持沉默是因为它必须如此</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-04-30/yen-intervention-japan-is-quiet-because-it-has-to-be</link>
-      <description><![CDATA[当局不会确认代表日元进行干预，因为他们知道真正重要的是美联储正在决定。]]></description>
+      <description><![CDATA[当局不会确认为日元进行干预，因为他们知道真正重要的事是由美联储决定的。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-04-30/yen-intervention-japan-is-quiet-because-it-has-to-be</guid>
       <pubDate>Tue, 30 Apr 2024 04:02:04 GMT</pubDate>
     </item>
