@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Thu, 02 May 2024 07:25:31 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Thu, 02 May 2024 07:31:37 GMT</lastBuildDate>
     <item>
       <title>你不能称杰罗姆·鲍威尔为大戏子</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-02/fed-rates-powell-wasn-t-a-big-teaser-but-markets-daytripped-anyway</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 02 May 2024 04:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能无法拒绝你不好、非常糟糕的想法</title>
+      <title>人工智能无法拒绝你的不好的、非常糟糕的想法</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-02/ai-businesses-should-reconsider-purging-creative-workers</link>
       <description><![CDATA[跳过可以抵制企业客户的真人将导致大量令人麻木的二流营销。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/ai-businesses-should-reconsider-purging-creative-workers</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>德国主导的紧缩政策当时并没有奏效。现在不行了。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-02/european-economy-worry-about-growth-not-debt-levels</link>
-      <description><![CDATA[ 增长和生产率停滞应该敲响警钟，而不是公共债务上升。]]></description>
+      <description><![CDATA[ 应该敲响警钟的是经济增长和生产力停滞，而不是公共债务上升。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/european-economy-worry-about-growth-not-debt-levels</guid>
       <pubDate>Thu, 02 May 2024 04:00:32 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Thu, 02 May 2024 04:00:30 GMT</pubDate>
     </item>
     <item>
-      <title>中国有 350 艘军舰。美国有 290 艘。这是个问题。</title>
+      <title>中国有350艘军舰。美国有 290 个。这是一个问题。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-01/china-s-navy-can-be-blocked-by-us-japan-philippines-australia-korea</link>
       <description><![CDATA[随着北京海军实力的增强，美国需要在南海组建盟友联盟。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/china-s-navy-can-be-blocked-by-us-japan-philippines-australia-korea</guid>
