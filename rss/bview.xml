@@ -3,12 +3,33 @@
   <channel>
     <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Thu, 02 May 2024 03:51:29 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Thu, 02 May 2024 04:08:38 GMT</lastBuildDate>
+    <item>
+      <title>人工智能无法拒绝你不好、非常糟糕的想法</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-02/ai-businesses-should-reconsider-purging-creative-workers</link>
+      <description><![CDATA[跳过可以抵制企业客户的真人将导致大量令人麻木的二流营销。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/ai-businesses-should-reconsider-purging-creative-workers</guid>
+      <pubDate>Thu, 02 May 2024 04:00:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国主导的紧缩政策当时并没有奏效。现在不行了。</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-02/european-economy-worry-about-growth-not-debt-levels</link>
+      <description><![CDATA[ 增长和生产率停滞应该敲响警钟，而不是公共债务上升。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/european-economy-worry-about-growth-not-debt-levels</guid>
+      <pubDate>Thu, 02 May 2024 04:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法在纽约预订餐桌？还可能会更糟糕的。</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-02/japan-s-no-first-time-customers-reservation-policy-may-help-some-restaurants</link>
+      <description><![CDATA[日本“没有第一次顾客”的做法对于一些餐馆来说可能是一种有前途的商业模式。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/japan-s-no-first-time-customers-reservation-policy-may-help-some-restaurants</guid>
+      <pubDate>Thu, 02 May 2024 04:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>中国有350艘军舰。美国有 290 个。这是一个问题。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-01/china-s-navy-can-be-blocked-by-us-japan-philippines-australia-korea</link>
-      <description><![CDATA[随着北京海军实力的增强，美国需要在南海组建盟友联盟。]]></description>
+      <description><![CDATA[随着北京海军力量的增强，美国需要在南海组建盟友联盟。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/china-s-navy-can-be-blocked-by-us-japan-philippines-australia-korea</guid>
       <pubDate>Wed, 01 May 2024 21:30:29 GMT</pubDate>
     </item>
@@ -20,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 21:29:01 GMT</pubDate>
     </item>
     <item>
-      <title>新加坡办公室等待新一波租户</title>
+      <title>新加坡办公室需要新一波租户</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-01/singapore-offices-await-a-new-wave-of-tenants</link>
       <description><![CDATA[科技行业提供工作空间需求的八年周期即将结束。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/singapore-offices-await-a-new-wave-of-tenants</guid>
@@ -46,27 +67,6 @@
       <description><![CDATA[该应用程序专门提供的那种随机、民主化的活力不再为印度人的屏幕增光添彩。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/india-s-tiktok-ban-has-had-unseen-costs</guid>
       <pubDate>Wed, 01 May 2024 19:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>银行仍然是没有钱的地方</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-01/banks-are-still-where-the-money-isn-t</link>
-      <description><![CDATA[银行业务范围更窄、比尔·黄 (Bill Hwang) 资金失败以及如何做空私营科技初创公司。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/banks-are-still-where-the-money-isn-t</guid>
-      <pubDate>Wed, 01 May 2024 18:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>赢家通吃的经济也在毁掉艺术</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-01/whitney-biennial-winner-take-all-economy-is-ruining-art-too</link>
-      <description><![CDATA[今年的惠特尼双年展展示了美国的精英机构如何扼杀创新和创造力。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/whitney-biennial-winner-take-all-economy-is-ruining-art-too</guid>
-      <pubDate>Wed, 01 May 2024 12:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>学术欺诈浪费纳税人的钱</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-01/academic-misconduct-and-fraud-hurt-public-trust-in-science</link>
-      <description><![CDATA[需要提高透明度，让研究人员承担责任。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-01/academic-misconduct-and-fraud-hurt-public-trust-in-science</guid>
-      <pubDate>Wed, 01 May 2024 12:00:29 GMT</pubDate>
     </item>
     <item>
       <title>日本对日元保持沉默是因为它必须如此</title>
