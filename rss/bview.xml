@@ -3,12 +3,19 @@
   <channel>
     <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Thu, 02 May 2024 19:51:31 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Thu, 02 May 2024 20:07:00 GMT</lastBuildDate>
+    <item>
+      <title>北京正在南海玩一场危险的游戏</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-02/beijing-s-dangerous-game-in-the-south-china-sea</link>
+      <description><![CDATA[数十亿美元的石油和天然气储量——以及亚洲国家对有争议的水道的主权权利——保持平衡。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/beijing-s-dangerous-game-in-the-south-china-sea</guid>
+      <pubDate>Thu, 02 May 2024 20:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>习近平欧洲之行是一次救捞任务</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-02/xi-jinping-s-europe-tour-is-a-salvage-mission</link>
-      <description><![CDATA[如果唐纳德·特朗普 (Donald Trump) 在 11 月获胜，中国领导人所能希望的最好结果就是防止两国关系进一步恶化并寻找新的机会。]]></description>
+      <description><![CDATA[如果唐纳德·特朗普 (Donald Trump) 在 11 月获胜，中国领导人所能期望的最好结果就是防止两国关系进一步恶化并寻找新的机会。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/xi-jinping-s-europe-tour-is-a-salvage-mission</guid>
       <pubDate>Thu, 02 May 2024 19:00:29 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 12:30:29 GMT</pubDate>
     </item>
     <item>
-      <title>指数基金需要被动，而不是政治化</title>
+      <title>指数基金需要是被动的，而不是政治性的</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-02/big-three-index-funds-need-to-be-passive-not-political</link>
       <description><![CDATA[国会应该对投资巨头设定限制，以保护美国储户。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/big-three-index-funds-need-to-be-passive-not-political</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[新法律是该国最严格的法律之一，将加剧该州本已广泛的经济、社会和健康差距。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/florida-s-six-week-abortion-ban-will-affect-access-across-the-south</guid>
       <pubDate>Thu, 02 May 2024 11:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>想购买 TikTok 吗？小心二手货</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-02/want-to-buy-tiktok-beware-of-secondhand-social-networks</link>
-      <description><![CDATA[成功的社交媒体收购需要保留人才和技术。在中国应用程序的交易中，这两种情况都不太可能发生。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-02/want-to-buy-tiktok-beware-of-secondhand-social-networks</guid>
-      <pubDate>Thu, 02 May 2024 10:30:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
