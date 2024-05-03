@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 03 May 2024 12:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 12:52:33 GMT</lastBuildDate>
     <item>
       <title>谷歌和微软不关心美联储 2% 的通胀目标</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/google-and-microsoft-s-ai-spending-is-beyond-fed-s-control</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 03 May 2024 12:20:29 GMT</pubDate>
     </item>
     <item>
-      <title>申请大学不应该这么复杂</title>
+      <title>申请大学不应该那么复杂</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/college-application-process-should-be-less-complicated</link>
       <description><![CDATA[更简单的流程将提高低迷的入学率并扩大低收入学生的机会。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/college-application-process-should-be-less-complicated</guid>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 03 May 2024 09:30:29 GMT</pubDate>
     </item>
     <item>
-      <title>哥伦比亚抗议者的投资策略错误</title>
+      <title>哥伦比亚抗议者的投资策略是错误的</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/columbia-protests-students-have-the-wrong-investment-strategy</link>
       <description><![CDATA[剥离一些股份不会改变公司或市场。下大赌注并在谈判桌上获得积极的声音才是真正的压力。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/columbia-protests-students-have-the-wrong-investment-strategy</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>英国首席执行官的薪酬是否太低？错误的问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/are-british-ceos-paid-too-little-wrong-question</link>
-      <description><![CDATA[英国股市需要催化剂来推动。但让首席执行官的薪酬飙升不太可能奏效。]]></description>
+      <description><![CDATA[英国股市需要催化剂来推动。但让首席执行官薪酬飙升不太可能奏效。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/are-british-ceos-paid-too-little-wrong-question</guid>
       <pubDate>Fri, 03 May 2024 04:00:33 GMT</pubDate>
     </item>
