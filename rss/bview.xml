@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 03 May 2024 17:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 17:51:35 GMT</lastBuildDate>
     <item>
       <title>市场感到困惑和误导。美联储并非如此</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/markets-were-confused-and-misled-the-fed-wasn-t</link>
-      <description><![CDATA[从通胀角度来看，第一季度的数据一团糟。早期迹象表明四月将更加令人鼓舞。]]></description>
+      <description><![CDATA[从通胀角度来看，第一季度的数据一团糟。早期迹象表明四月会更加令人鼓舞。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/markets-were-confused-and-misled-the-fed-wasn-t</guid>
       <pubDate>Fri, 03 May 2024 16:29:07 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>Z 世代感到沮丧，但这并非没有原因</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/gen-z-is-frustrated-because-financial-security-seems-elusive</link>
-      <description><![CDATA[如果你有工作、有房子、有股票，那你可能过得很好。但美国的双轨经济让很多人落后，尤其是年轻人。]]></description>
+      <description><![CDATA[如果你有工作、房子和一些股票，你可能会做得很好。但美国的双轨经济正在将许多人抛在后面，尤其是年轻人。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/gen-z-is-frustrated-because-financial-security-seems-elusive</guid>
       <pubDate>Fri, 03 May 2024 09:30:29 GMT</pubDate>
     </item>
