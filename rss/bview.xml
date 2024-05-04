@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Sat, 04 May 2024 05:41:41 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Sat, 04 May 2024 05:51:43 GMT</lastBuildDate>
     <item>
-      <title>金钱的东西：播客：金钱失败了！</title>
+      <title>金钱事宜：播客：金钱失败了！</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/money-stuff-the-podcast-money-failed</link>
       <description><![CDATA[死亡赌注，派拉蒙和Archegos。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/money-stuff-the-podcast-money-failed</guid>
@@ -15,7 +15,7 @@
     <item>
       <title>市场感到困惑和误导。美联储并非如此</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/markets-were-confused-and-misled-the-fed-wasn-t</link>
-      <description><![CDATA[从通胀角度来看，第一季度的数据一团糟。早期迹象表明四月会更加令人鼓舞。]]></description>
+      <description><![CDATA[从通胀角度来看，第一季度的数据一团糟。早期迹象表明四月将更加令人鼓舞。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/markets-were-confused-and-misled-the-fed-wasn-t</guid>
       <pubDate>Fri, 03 May 2024 16:29:07 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>谷歌和微软不关心美联储 2% 的通胀目标</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/google-and-microsoft-s-ai-spending-is-beyond-fed-s-control</link>
-      <description><![CDATA[高利率不会阻止大型科技公司的支出，因为它们竞相在人工智能领域占据主导地位。]]></description>
+      <description><![CDATA[高利率不会阻止大型科技公司在人工智能领域争夺主导地位的支出。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/google-and-microsoft-s-ai-spending-is-beyond-fed-s-control</guid>
       <pubDate>Fri, 03 May 2024 12:20:29 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>特德·拉索知道：降级是真正的竞争</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/premier-league-football-can-teach-us-soccer-how-to-stop-wimping-out</link>
-      <description><![CDATA[美国运动队应该效仿欧洲模式：失败者会被放逐，而不是被纵容。]]></description>
+      <description><![CDATA[美国运动队应该效仿欧洲模式：失败者会被流放，而不是被溺爱。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/premier-league-football-can-teach-us-soccer-how-to-stop-wimping-out</guid>
       <pubDate>Fri, 03 May 2024 10:00:30 GMT</pubDate>
     </item>
