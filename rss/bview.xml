@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Sat, 04 May 2024 14:06:25 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Sat, 04 May 2024 14:21:44 GMT</lastBuildDate>
     <item>
       <title>唐纳德·特朗普正在破坏共和党与赛车运动的关系</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-04/miami-grand-prix-trump-is-ruining-republicans-relationship-with-motor-sports</link>
@@ -36,7 +36,7 @@
     <item>
       <title>金钱的东西：播客：金钱失败了！</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/money-stuff-the-podcast-money-failed</link>
-      <description><![CDATA[死亡赌注，派拉蒙和Archegos。]]></description>
+      <description><![CDATA[死亡赌注，派拉蒙和 Archegos。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/money-stuff-the-podcast-money-failed</guid>
       <pubDate>Fri, 03 May 2024 18:29:39 GMT</pubDate>
     </item>
