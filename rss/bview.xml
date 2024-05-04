@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Sat, 04 May 2024 05:51:43 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Sat, 04 May 2024 06:07:58 GMT</lastBuildDate>
+    <item>
+      <title>保守党能重建他们的政党残骸吗？</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-04/uk-elections-can-the-tories-rebuild-their-train-wreck-of-a-party</link>
+      <description><![CDATA[如果您是中间派英国选民，那么今天的保守党不适合您。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-04/uk-elections-can-the-tories-rebuild-their-train-wreck-of-a-party</guid>
+      <pubDate>Sat, 04 May 2024 06:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>金钱事宜：播客：金钱失败了！</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/money-stuff-the-podcast-money-failed</link>
@@ -15,7 +22,7 @@
     <item>
       <title>市场感到困惑和误导。美联储并非如此</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/markets-were-confused-and-misled-the-fed-wasn-t</link>
-      <description><![CDATA[从通胀角度来看，第一季度的数据一团糟。早期迹象表明四月将更加令人鼓舞。]]></description>
+      <description><![CDATA[从通胀角度来看，第一季度的数据一团糟。早期迹象表明四月会更加令人鼓舞。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/markets-were-confused-and-misled-the-fed-wasn-t</guid>
       <pubDate>Fri, 03 May 2024 16:29:07 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>谷歌和微软不关心美联储 2% 的通胀目标</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/google-and-microsoft-s-ai-spending-is-beyond-fed-s-control</link>
-      <description><![CDATA[高利率不会阻止大型科技公司在人工智能领域争夺主导地位的支出。]]></description>
+      <description><![CDATA[高利率不会阻止大型科技公司的支出，因为它们竞相在人工智能领域占据主导地位。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/google-and-microsoft-s-ai-spending-is-beyond-fed-s-control</guid>
       <pubDate>Fri, 03 May 2024 12:20:29 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>经济学家并不是最擅长预测经济的</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-03/economists-aren-t-the-best-judges-about-where-us-economy-is-headed</link>
-      <description><![CDATA[事实证明，44 年前出版的一本关于美国经济未来的书既不正确，又令人放心。]]></description>
+      <description><![CDATA[44 年前出版的一本有关美国经济未来的书被证明是既不正确又令人放心的。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/economists-aren-t-the-best-judges-about-where-us-economy-is-headed</guid>
       <pubDate>Fri, 03 May 2024 11:30:29 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国运动队应该效仿欧洲模式：失败者会被流放，而不是被溺爱。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/premier-league-football-can-teach-us-soccer-how-to-stop-wimping-out</guid>
       <pubDate>Fri, 03 May 2024 10:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Z 世代感到沮丧，但这并非没有原因</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-03/gen-z-is-frustrated-because-financial-security-seems-elusive</link>
-      <description><![CDATA[如果你有工作、房子和一些股票，你可能会做得很好。但美国的双轨经济正在将许多人抛在后面，尤其是年轻人。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-03/gen-z-is-frustrated-because-financial-security-seems-elusive</guid>
-      <pubDate>Fri, 03 May 2024 09:30:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
