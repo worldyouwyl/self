@@ -3,8 +3,15 @@
   <channel>
     <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Sun, 05 May 2024 19:51:25 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Sun, 05 May 2024 20:04:39 GMT</lastBuildDate>
+    <item>
+      <title>“熊熊燃烧的熔炉”将越南变成中国的另一个省份</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-05/-blazing-furnace-turns-vietnam-into-another-chinese-province</link>
+      <description><![CDATA[反腐败运动正在将经济繁荣转移到更靠近边境的地方。这开启了新的南北鸿沟。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-05/-blazing-furnace-turns-vietnam-into-another-chinese-province</guid>
+      <pubDate>Sun, 05 May 2024 20:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>清洁技术贸易战显示帝国如何衰落</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-05/a-clean-technology-trade-war-shows-how-empires-fall</link>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 05 May 2024 12:00:32 GMT</pubDate>
     </item>
     <item>
-      <title>美国不是为行走而生的，它正在杀死我们</title>
+      <title>美国不适合步行，而步行正在害死我们</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-05/america-wasn-t-made-for-walking-and-it-s-killing-us</link>
       <description><![CDATA[在美国，除了几个大城市之外，每天很难达到一万步，而疫情似乎让情况变得更糟。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-05/america-wasn-t-made-for-walking-and-it-s-killing-us</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[迈阿密大奖赛最近的行动表明，保守派与赛车之间的联系不再有市场。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-04/miami-grand-prix-trump-is-ruining-republicans-relationship-with-motor-sports</guid>
       <pubDate>Sat, 04 May 2024 12:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>将加沙抗议活动与 60 年代进行比较是错误的 –和危险</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-04/gaza-campus-protests-aren-t-repeating-the-1960s-vietnam-war-movement</link>
-      <description><![CDATA[将几周的亲巴勒斯坦激进主义与长达十多年的运动混为一谈可能会导致不必要的悲剧。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-04/gaza-campus-protests-aren-t-repeating-the-1960s-vietnam-war-movement</guid>
-      <pubDate>Sat, 04 May 2024 12:00:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
