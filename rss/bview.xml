@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Mon, 06 May 2024 10:51:29 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Mon, 06 May 2024 11:03:11 GMT</lastBuildDate>
+    <item>
+      <title>经济适用房不会来自欺凌美联储</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-06/affordable-housing-won-t-come-from-bullying-the-fed</link>
+      <description><![CDATA[想要迫使央行降低利率以缓解抵押贷款成本的民主党人是自找麻烦。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/affordable-housing-won-t-come-from-bullying-the-fed</guid>
+      <pubDate>Mon, 06 May 2024 11:00:31 GMT</pubDate>
+    </item>
     <item>
       <title>汇款可以彻底改变拉丁美洲的金融：JP Spinetto</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/las-remesas-pueden-revolucionar-las-finanzas-de-america-latina</link>
@@ -22,7 +29,7 @@
     <item>
       <title>比尔·格罗斯是债券之王，但多元化才是王道</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/bill-gross-is-the-bond-king-but-diversification-is-emperor</link>
-      <description><![CDATA[很难否认这位著名投资者所看到的美国债务上升带来的风险，但债券是平衡投资组合的重要组成部分。]]></description>
+      <description><![CDATA[这位著名投资者认为美国债务上升所带来的风险是无可争辩的，但债券是平衡投资组合的重要组成部分。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/bill-gross-is-the-bond-king-but-diversification-is-emperor</guid>
       <pubDate>Mon, 06 May 2024 09:30:29 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>如果人工智能破坏民主，我们可能永远不会知道</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/ai-s-capacity-to-spoil-elections-could-be-harder-to-detect</link>
-      <description><![CDATA[宣传不再需要通过病毒式传播来影响选举。这使得人工智能的影响更加隐蔽且更难以检测。]]></description>
+      <description><![CDATA[宣传不再需要通过病毒式传播来影响选举。这使得人工智能的影响更加隐蔽，更难以察觉。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/ai-s-capacity-to-spoil-elections-could-be-harder-to-detect</guid>
       <pubDate>Mon, 06 May 2024 04:00:33 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[反腐败运动正在将经济繁荣转移到更靠近边境的地方。这开启了新的南北鸿沟。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-05/-blazing-furnace-turns-vietnam-into-another-chinese-province</guid>
       <pubDate>Sun, 05 May 2024 20:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>清洁技术贸易战展现帝国如何衰落</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-05/a-clean-technology-trade-war-shows-how-empires-fall</link>
-      <description><![CDATA[美国霸权可能难以维持。如果它退回到孤立主义的外壳里，那几乎是不可能的。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-05/a-clean-technology-trade-war-shows-how-empires-fall</guid>
-      <pubDate>Sun, 05 May 2024 19:00:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
