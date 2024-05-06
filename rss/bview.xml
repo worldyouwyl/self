@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Mon, 06 May 2024 19:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 20:06:49 GMT</lastBuildDate>
+    <item>
+      <title>谢谢，游客们。富士山的景观现已被遮挡</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-06/mt-fuji-overtourism-furor-tests-limits-of-japan-s-hospitality</link>
+      <description><![CDATA[日本正在争论其著名的热情好客的局限性，因为日元疲软推动游客涌入，这让人们的耐心变得紧张。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/mt-fuji-overtourism-furor-tests-limits-of-japan-s-hospitality</guid>
+      <pubDate>Mon, 06 May 2024 20:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>香港市场快速而神秘的上涨背后</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/hong-kong-shares-sharp-rally-shows-return-of-the-china-trade</link>
-      <description><![CDATA[全球投资者在北亚地区进行着一场零和游戏，日本、台湾和中国三者争执不下。]]></description>
+      <description><![CDATA[全球投资者正在北亚玩一场零和游戏，在日本、台湾和中国之间展开角力。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/hong-kong-shares-sharp-rally-shows-return-of-the-china-trade</guid>
       <pubDate>Mon, 06 May 2024 19:00:29 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>经济适用房不会来自欺凌美联储</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/affordable-housing-won-t-come-from-bullying-the-fed</link>
-      <description><![CDATA[那些想强迫央行降低利率以降低抵押贷款成本的民主党人是在自找麻烦。]]></description>
+      <description><![CDATA[想要迫使央行降低利率以缓解抵押贷款成本的民主党人是自找麻烦。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/affordable-housing-won-t-come-from-bullying-the-fed</guid>
       <pubDate>Mon, 06 May 2024 11:00:31 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[这位前总统助手的证词与他周围许多人的心态形成鲜明对比，这些人生来就将内疚、悔恨、同理心和同情心留在家里。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/hope-hicks-tears-are-a-rare-sight-in-trump-world</guid>
       <pubDate>Mon, 06 May 2024 09:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街避免灾难的随机游走</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-06/wall-street-iran-fed-yen-magnificent-seven-jobs-don-t-trip-up-random-walkk</link>
-      <description><![CDATA[随着第二季度的到来，市场上出现了许多潜在的陷阱。 它们基本上都被回避了。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/wall-street-iran-fed-yen-magnificent-seven-jobs-don-t-trip-up-random-walkk</guid>
-      <pubDate>Mon, 06 May 2024 04:19:39 GMT</pubDate>
     </item>
     <item>
       <title>不要让加沙帮助伊朗掩盖自己的镇压</title>
