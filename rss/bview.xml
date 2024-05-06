@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Mon, 06 May 2024 11:22:24 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Mon, 06 May 2024 11:31:41 GMT</lastBuildDate>
     <item>
       <title>经济适用房不会来自欺凌美联储</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/affordable-housing-won-t-come-from-bullying-the-fed</link>
@@ -29,7 +29,7 @@
     <item>
       <title>比尔·格罗斯是债券之王，但多元化才是王道</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/bill-gross-is-the-bond-king-but-diversification-is-emperor</link>
-      <description><![CDATA[这位著名投资者认为美国债务上升所带来的风险是无可争辩的，但债券是平衡投资组合的重要组成部分。]]></description>
+      <description><![CDATA[很难否认这位著名投资者所看到的美国债务上升带来的风险，但债券是平衡投资组合的重要组成部分。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/bill-gross-is-the-bond-king-but-diversification-is-emperor</guid>
       <pubDate>Mon, 06 May 2024 09:30:29 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>不要让加沙帮助伊朗掩盖自己的镇压</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/don-t-let-gaza-help-iran-cloak-its-own-repression</link>
-      <description><![CDATA[还记得女人、生命、自由吗？虐待行为从未消失。]]></description>
+      <description><![CDATA[还记得“女人、生命、自由”吗？虐待从未消失。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/don-t-let-gaza-help-iran-cloak-its-own-repression</guid>
       <pubDate>Mon, 06 May 2024 04:00:31 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>“熊熊燃烧的熔炉”将越南变成中国的另一个省份</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-05/-blazing-furnace-turns-vietnam-into-another-chinese-province</link>
-      <description><![CDATA[反腐败运动正在将经济繁荣转移到更靠近边境的地方。这开启了新的南北鸿沟。]]></description>
+      <description><![CDATA[反腐运动正在将经济繁荣转移到更靠近边境的地方。这正在开辟一条新的南北鸿沟。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-05/-blazing-furnace-turns-vietnam-into-another-chinese-province</guid>
       <pubDate>Sun, 05 May 2024 20:00:29 GMT</pubDate>
     </item>
