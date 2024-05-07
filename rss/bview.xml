@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Tue, 07 May 2024 19:51:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 20:04:12 GMT</lastBuildDate>
+    <item>
+      <title>莫迪想要一个选举替罪羊。他有一个</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/modi-wanted-an-election-scapegoat-he-s-got-one</link>
+      <description><![CDATA[总理赢得第三个任期的目标是将目标放在该国的穆斯林少数民族身上。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/modi-wanted-an-election-scapegoat-he-s-got-one</guid>
+      <pubDate>Tue, 07 May 2024 20:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国的惊人繁荣并未引起人们的注意</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/south-korea-s-export-boom-is-going-unnoticed</link>
+      <description><![CDATA[该国正受益于美国的出口繁荣。但其公民并没有获得好处。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/south-korea-s-export-boom-is-going-unnoticed</guid>
+      <pubDate>Tue, 07 May 2024 20:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>鞋匠期待奥运会取得巨大成功</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/nike-adidas-look-to-paris-olympics-to-turn-fortunes-around</link>
@@ -22,12 +36,12 @@
     <item>
       <title>马斯克对巴菲特的特斯拉推销绝非“显而易见”</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/musk-s-tesla-pitch-to-buffett-is-anything-but-obvious</link>
-      <description><![CDATA[这家电动汽车公司最近的股价上涨背后的故事与去年的复苏截然不同。而且价值并不是其中的一部分。]]></description>
+      <description><![CDATA[这家电动汽车公司近期的股价上涨背后的故事与去年的复苏截然不同。而且价值并不是其中的一部分。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/musk-s-tesla-pitch-to-buffett-is-anything-but-obvious</guid>
       <pubDate>Tue, 07 May 2024 15:22:20 GMT</pubDate>
     </item>
     <item>
-      <title>加沙停火应随着哈马斯的流亡而结束</title>
+      <title>加沙停火应以哈马斯流亡结束</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/gaza-ceasefire-should-end-with-hamas-s-exile</link>
       <description><![CDATA[正确的协议是用哈马斯领导人下台换取以色列撤军并接受政治解决的必要性。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/gaza-ceasefire-should-end-with-hamas-s-exile</guid>
@@ -48,7 +62,7 @@
       <pubDate>Tue, 07 May 2024 11:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>马克龙与习近平的蜜月过后，干邑白兰地的宿醉</title>
+      <title>马克龙和习近平蜜月后，干邑宿醉</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/xi-s-visit-leaves-sobering-reality-for-macron-and-europe</link>
       <description><![CDATA[法国和中国领导人对奢侈品关税的积极言论并不能掩盖阴郁情绪。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/xi-s-visit-leaves-sobering-reality-for-macron-and-europe</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[根据新研究，即使是技术水平较低的移民到美国，每人的净财政收益也约为 750 美元。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/new-immigrants-don-t-cost-the-government-money</guid>
       <pubDate>Tue, 07 May 2024 11:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>佛罗里达州民主党人需要让每个人都进入 2024 年的帐篷</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/florida-democrats-want-to-make-a-comeback-but-don-t-seem-to-have-a-plan</link>
-      <description><![CDATA[该党必须包容其成员的许多差异，并吸引反特朗普的共和党人和独立人士。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/florida-democrats-want-to-make-a-comeback-but-don-t-seem-to-have-a-plan</guid>
-      <pubDate>Tue, 07 May 2024 11:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登需要停止向以色列运送美国炸弹</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/biden-s-ready-to-pause-sending-us-bombs-to-israel</link>
-      <description><![CDATA[作为以色列最大的军事供应国，美国有能力影响加沙地带的战争。是时候使用它了。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/biden-s-ready-to-pause-sending-us-bombs-to-israel</guid>
-      <pubDate>Tue, 07 May 2024 10:30:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
