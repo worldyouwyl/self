@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Tue, 07 May 2024 18:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 18:27:54 GMT</lastBuildDate>
+    <item>
+      <title>债券市场是新的股票市场</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/bond-markets-are-the-new-stock-markets</link>
+      <description><![CDATA[电子化、私人二级市场、Bill Hwang 的动机和 Hunterbrook 的音乐部分。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/bond-markets-are-the-new-stock-markets</guid>
+      <pubDate>Tue, 07 May 2024 18:15:21 GMT</pubDate>
+    </item>
     <item>
       <title>马斯克对巴菲特的特斯拉推销绝非“显而易见”</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/musk-s-tesla-pitch-to-buffett-is-anything-but-obvious</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 07 May 2024 14:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>您会接受阿尔茨海默氏症基因检测吗？</title>
+      <title>您会接受阿尔茨海默病基因检测吗？</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/is-there-a-test-for-alzheimer-s-new-study-looks-at-genetics</link>
       <description><![CDATA[早期诊断可以帮助一些患者制定长期计划——研究人员可以评估新的干预措施。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/is-there-a-test-for-alzheimer-s-new-study-looks-at-genetics</guid>
@@ -34,9 +41,9 @@
       <pubDate>Tue, 07 May 2024 11:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>马克龙和习近平蜜月后，干邑宿醉</title>
+      <title>马克龙与习近平的蜜月过后，干邑白兰地的宿醉</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/xi-s-visit-leaves-sobering-reality-for-macron-and-europe</link>
-      <description><![CDATA[尽管中法两国领导人在奢侈品关税问题上发表了积极言论，但两国领导人的言论仍无法掩盖两国关系的阴霾。]]></description>
+      <description><![CDATA[法国和中国领导人对奢侈品关税的积极言论并不能掩盖阴郁情绪。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/xi-s-visit-leaves-sobering-reality-for-macron-and-europe</guid>
       <pubDate>Tue, 07 May 2024 11:35:34 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>佛罗里达州民主党人需要让每个人都进入 2024 年的帐篷</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/florida-democrats-want-to-make-a-comeback-but-don-t-seem-to-have-a-plan</link>
-      <description><![CDATA[该党必须包容其内部成员的诸多分歧，并争取反特朗普的共和党人和独立人士的支持。]]></description>
+      <description><![CDATA[该党必须包容其成员的许多差异，并吸引反特朗普的共和党人和独立人士。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/florida-democrats-want-to-make-a-comeback-but-don-t-seem-to-have-a-plan</guid>
       <pubDate>Tue, 07 May 2024 11:00:29 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这家全球第二大市值公司将于周二推出新型号，应该消除人为限制，打造真正的便携式计算机。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/apple-ipad-needs-to-lose-its-restraints-and-become-a-portable-computer</guid>
       <pubDate>Tue, 07 May 2024 09:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用价格的力量阻止气候变化</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/climate-change-carbon-pricing-can-be-incentive-to-reduce-emissions</link>
-      <description><![CDATA[石油价格推动了人类的巨大努力。碳排放价格也可以起到同样的作用。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/climate-change-carbon-pricing-can-be-incentive-to-reduce-emissions</guid>
-      <pubDate>Tue, 07 May 2024 05:00:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
