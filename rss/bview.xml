@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Tue, 07 May 2024 18:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 19:02:48 GMT</lastBuildDate>
+    <item>
+      <title>鞋匠期待奥运会取得巨大成功</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/nike-adidas-look-to-paris-olympics-to-turn-fortunes-around</link>
+      <description><![CDATA[亚洲供应商表示耐克和阿迪达斯等公司即将出现反弹。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/nike-adidas-look-to-paris-olympics-to-turn-fortunes-around</guid>
+      <pubDate>Tue, 07 May 2024 19:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>债券市场是新的股票市场</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/bond-markets-are-the-new-stock-markets</link>
@@ -15,7 +22,7 @@
     <item>
       <title>马斯克对巴菲特的特斯拉推销绝非“显而易见”</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/musk-s-tesla-pitch-to-buffett-is-anything-but-obvious</link>
-      <description><![CDATA[这家电动汽车公司近期的股价上涨背后的故事与去年的复苏截然不同。而且价值并不是其中的一部分。]]></description>
+      <description><![CDATA[这家电动汽车公司最近的股价上涨是由与去年的复苏截然不同的叙述支撑的。而且价值并不是其中的一部分。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/musk-s-tesla-pitch-to-buffett-is-anything-but-obvious</guid>
       <pubDate>Tue, 07 May 2024 15:22:20 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 07 May 2024 14:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>您会接受阿尔茨海默病基因检测吗？</title>
+      <title>您会接受阿尔茨海默氏症基因检测吗？</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/is-there-a-test-for-alzheimer-s-new-study-looks-at-genetics</link>
       <description><![CDATA[早期诊断可以帮助一些患者制定长期计划——研究人员可以评估新的干预措施。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/is-there-a-test-for-alzheimer-s-new-study-looks-at-genetics</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[作为以色列最大的军事供应国，美国有能力影响加沙地带的战争。是时候使用它了。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/biden-s-ready-to-pause-sending-us-bombs-to-israel</guid>
       <pubDate>Tue, 07 May 2024 10:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果需要让 iPad 超越幼儿阶段</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/apple-ipad-needs-to-lose-its-restraints-and-become-a-portable-computer</link>
-      <description><![CDATA[这家全球第二大市值公司将于周二推出新型号，应该消除人为限制，打造真正的便携式计算机。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/apple-ipad-needs-to-lose-its-restraints-and-become-a-portable-computer</guid>
-      <pubDate>Tue, 07 May 2024 09:00:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
