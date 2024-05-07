@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Tue, 07 May 2024 14:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 14:27:12 GMT</lastBuildDate>
     <item>
       <title>您会接受阿尔茨海默病基因检测吗？</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/is-there-a-test-for-alzheimer-s-new-study-looks-at-genetics</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 07 May 2024 11:46:26 GMT</pubDate>
     </item>
     <item>
-      <title>马克龙和习近平蜜月后，干邑宿醉</title>
+      <title>马克龙与习近平的蜜月过后，干邑白兰地的宿醉</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/xi-s-visit-leaves-sobering-reality-for-macron-and-europe</link>
       <description><![CDATA[法国和中国领导人对奢侈品关税的积极言论并不能掩盖阴郁情绪。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/xi-s-visit-leaves-sobering-reality-for-macron-and-europe</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>中国人对咖啡的新喜爱即将来临</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/chinese-coffee-drinkers-may-underpin-higher-for-longer-prices</link>
-      <description><![CDATA[该国对这种饮料的强烈需求将持续下去。]]></description>
+      <description><![CDATA[这个国家对饮料的强烈需求将持续下去。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/chinese-coffee-drinkers-may-underpin-higher-for-longer-prices</guid>
       <pubDate>Tue, 07 May 2024 04:00:31 GMT</pubDate>
     </item>
