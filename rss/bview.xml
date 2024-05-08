@@ -3,8 +3,15 @@
   <channel>
     <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Wed, 08 May 2024 20:51:26 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Wed, 08 May 2024 21:08:28 GMT</lastBuildDate>
+    <item>
+      <title>印度是时候摆脱对乌克兰的围墙了</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-08/ukraine-war-india-s-modi-should-push-putin-to-the-negotiating-table</link>
+      <description><![CDATA[如果印度领导人真的认为战争应该通过谈判结束，他们就必须尽自己的一份力量让弗拉基米尔·普京坐到谈判桌前。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/ukraine-war-india-s-modi-should-push-putin-to-the-negotiating-table</guid>
+      <pubDate>Wed, 08 May 2024 21:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>任天堂的下一代机器必须改变过去的模式</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/nintendo-must-switch-past-patterns-with-new-games-machine</link>
@@ -22,7 +29,7 @@
     <item>
       <title>苹果的 iPad 广告引发了我们对人工智能最黑暗的恐惧</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/apple-puts-out-new-ipad-ad-triggering-ai-fears</link>
-      <description><![CDATA[摧毁人类创造力并不是销售平板电脑或向科技巨头灌输信心的方法。]]></description>
+      <description><![CDATA[压制人类的创造力根本不可能销售平板电脑，也无法让人们对科技巨头产生信心。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/apple-puts-out-new-ipad-ad-triggering-ai-fears</guid>
       <pubDate>Wed, 08 May 2024 18:53:49 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>TikTok的言论自由诉讼存在逻辑问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/tiktok-free-speech-lawsuit-has-a-problem</link>
-      <description><![CDATA[不幸的是，对于字节跳动旗下的社交媒体应用程序来说，没有法律禁止愚蠢的法律。]]></description>
+      <description><![CDATA[不幸的是，对于字节跳动旗下的社交媒体应用来说，没有法律可以禁止这些愚蠢的法律。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/tiktok-free-speech-lawsuit-has-a-problem</guid>
       <pubDate>Wed, 08 May 2024 16:30:29 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Wed, 08 May 2024 12:30:29 GMT</pubDate>
     </item>
     <item>
-      <title>如何修正美国残酷且不寻常的税法</title>
+      <title>如何解决美国残酷且不寻常的税法</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/america-s-cruel-and-unusual-tax-code-can-be-fixed</link>
       <description><![CDATA[一个更简单的系统将更容易让国税局更容易管理，也更容易让纳税人理解和忍受。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/america-s-cruel-and-unusual-tax-code-can-be-fixed</guid>
       <pubDate>Wed, 08 May 2024 12:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果猪感染禽流感，我们可能会陷入真正的噩梦</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-08/how-can-bird-flu-spread-to-humans-through-pigs</link>
-      <description><![CDATA[H5N1 病毒已经传播到数量惊人的哺乳动物中。如果传播到猪身上，它很可能会变异成可能威胁人类的病毒。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/how-can-bird-flu-spread-to-humans-through-pigs</guid>
-      <pubDate>Wed, 08 May 2024 11:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
