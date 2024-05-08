@@ -4,9 +4,16 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 08 May 2024 02:31:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 02:41:23 GMT</lastBuildDate>
     <item>
-      <title>澳航老板表示，头等舱座位的需求创历史新高</title>
+      <title>数十亿美元的资金和战略冲突推动了配送应用 Getir 的兴衰</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-08/turkish-delivery-app-getir-failed-to-replicate-domestic-success-in-europe</link>
+      <description><![CDATA[对于纳齐姆·萨鲁尔 (Nazim Salur) 来说，近十年来在土耳其建立全球快递强国的梦想结束了。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-08/turkish-delivery-app-getir-failed-to-replicate-domestic-success-in-europe</guid>
+      <pubDate>Wed, 08 May 2024 02:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳航老板称头等舱座位需求创历史新高</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-08/qantas-boss-says-demand-for-premium-class-seats-at-record-levels</link>
       <description><![CDATA[澳洲航空首席执行官凡妮莎·哈德森 (Vanessa Hudson) 表示，随着航空旅行摆脱了全球生活成本危机，头等舱预订量创下历史新高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-08/qantas-boss-says-demand-for-premium-class-seats-at-record-levels</guid>
@@ -27,23 +34,9 @@
       <pubDate>Tue, 07 May 2024 23:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>ST表示，新加坡金管局要求星展银行查明停电原因</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-07/singapore-s-mas-asks-dbs-to-identify-cause-of-outages-st-says</link>
-      <description><![CDATA[据《海峡时报》援引新加坡金融管理局发言人的话说，新加坡监管机构已要求星展集团找出最近其网上银行和支付服务中断的根本原因，并进行有效处理。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-07/singapore-s-mas-asks-dbs-to-identify-cause-of-outages-st-says</guid>
-      <pubDate>Tue, 07 May 2024 23:23:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉是 Luminar 第一季度最大的传感器客户</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-07/tesla-was-luminar-s-largest-lidar-customer-in-the-first-quarter</link>
-      <description><![CDATA[埃隆·马斯克（Elon Musk）有句名言：激光雷达是愚蠢的差事。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-07/tesla-was-luminar-s-largest-lidar-customer-in-the-first-quarter</guid>
-      <pubDate>Tue, 07 May 2024 22:54:08 GMT</pubDate>
-    </item>
-    <item>
       <title>美国撤销英特尔、高通向华为出售芯片的许可</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</link>
-      <description><![CDATA[据知情人士透露，美国已吊销华为技术有限公司从高通公司和英特尔公司购买半导体的许可证，进一步收紧了针对这家中国电信设备制造商的出口限制。]]></description>
+      <description><![CDATA[据知情人士透露，美国已撤销华为技术有限公司从高通公司和英特尔公司购买半导体的许可，进一步加强对这家中国电信设备制造商的出口限制。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei</guid>
       <pubDate>Tue, 07 May 2024 21:51:29 GMT</pubDate>
     </item>
@@ -74,6 +67,13 @@
       <description><![CDATA[任天堂公司警告利润大幅下滑并暗示下一代 Switch 要到 2025 年才会上市，该公司股价创下一个多月来最大跌幅。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-07/nintendo-braces-for-profit-decline-while-users-await-next-switch</guid>
       <pubDate>Tue, 07 May 2024 06:36:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音星际客机的发射至少又推迟一周</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-07/boeing-starliner-launch-is-postponed-due-to-issue-with-rocket</link>
+      <description><![CDATA[波音公司 Starliner 太空舱的首次载人飞行任务已被推迟到至少 5 月 17 日，此前由于技术问题导致周一首次飞行无法进行。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-07/boeing-starliner-launch-is-postponed-due-to-issue-with-rocket</guid>
+      <pubDate>Tue, 07 May 2024 01:08:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
