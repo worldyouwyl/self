@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 08 May 2024 10:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 10:33:59 GMT</lastBuildDate>
+    <item>
+      <title>结束与 Z 世代的战争，看看谁的处境更糟</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-08/think-gen-z-has-it-too-hard-too-easy-you-re-right</link>
+      <description><![CDATA[在几代人之间关于年轻时有多艰难的战争中，每个人都有自己的观点。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/think-gen-z-has-it-too-hard-too-easy-you-re-right</guid>
+      <pubDate>Wed, 08 May 2024 10:30:29 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普希望他的副总统有一个“迷你我”</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/kristi-noem-and-jd-vance-trump-vp-will-be-his-clone</link>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 08 May 2024 05:51:50 GMT</pubDate>
     </item>
     <item>
-      <title>不，杰罗姆·鲍威尔没有玩政治</title>
+      <title>不，杰罗姆·鲍威尔没有玩弄政治</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/federal-reserve-s-jerome-powell-isn-t-playing-politics</link>
       <description><![CDATA[美联储已经证明它依赖数据来做出利率决策。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/federal-reserve-s-jerome-powell-isn-t-playing-politics</guid>
@@ -36,12 +43,12 @@
     <item>
       <title>进步主义者忘记了他们的自由贸易传统，后果自负</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/progressives-abandon-free-trade-past-for-economic-nationalist-future</link>
-      <description><![CDATA[在急于拥抱经济民族主义的过程中，左派正在放弃其支持自由贸易的悠久传统，从而带来潜在的危险后果。]]></description>
+      <description><![CDATA[在急于拥抱经济民族主义的过程中，左派正在放弃其支持自由贸易的悠久传统，这可能会带来潜在的危险后果。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/progressives-abandon-free-trade-past-for-economic-nationalist-future</guid>
       <pubDate>Wed, 08 May 2024 04:01:31 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 CVC 的“吃你杀的东西”薪酬模式脱颖而出</title>
+      <title>为什么 CVC 的“吃你杀了什么”付费模式脱颖而出</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-08/why-cvc-na-s-eat-what-you-kill-pay-model-stands-out</link>
       <description><![CDATA[这家私募股权公司测试了现代华尔街的惯例，即共享膳食会增加利润。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-08/why-cvc-na-s-eat-what-you-kill-pay-model-stands-out</guid>
@@ -62,18 +69,11 @@
       <pubDate>Tue, 07 May 2024 20:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>韩国的惊人繁荣却被忽视</title>
+      <title>韩国的惊人繁荣并未引起人们的注意</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-07/south-korea-s-export-boom-is-going-unnoticed</link>
       <description><![CDATA[该国正受益于美国的出口繁荣。但其公民并没有获得好处。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/south-korea-s-export-boom-is-going-unnoticed</guid>
       <pubDate>Tue, 07 May 2024 20:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>鞋匠期待奥运会取得巨大成功</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-07/nike-adidas-look-to-paris-olympics-to-turn-fortunes-around</link>
-      <description><![CDATA[亚洲供应商表示耐克和阿迪达斯等公司即将出现反弹。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-07/nike-adidas-look-to-paris-olympics-to-turn-fortunes-around</guid>
-      <pubDate>Tue, 07 May 2024 19:00:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
