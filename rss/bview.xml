@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Thu, 09 May 2024 19:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 19:16:11 GMT</lastBuildDate>
     <item>
-      <title>中国严厉批评美国校园抗议活动</title>
+      <title>中国严厉批评美国校园抗议</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-09/china-criticizes-us-campus-protests-to-win-the-global-south</link>
       <description><![CDATA[北京的立场具有内在的讽刺意味，但它正在赢得南半球的关注。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-09/china-criticizes-us-campus-protests-to-win-the-global-south</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>您想了解龙卷风和飓风的好消息还是坏消息吗？</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-09/hurricanes-and-tornadoes-may-occur-less-but-destroy-more-as-climate-changes</link>
-      <description><![CDATA[气候变化可能会使地震发生频率降低，但破坏力却更大。]]></description>
+      <description><![CDATA[气候变化可能会降低它们的发生频率，但更具破坏性。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-09/hurricanes-and-tornadoes-may-occur-less-but-destroy-more-as-climate-changes</guid>
       <pubDate>Thu, 09 May 2024 12:30:29 GMT</pubDate>
     </item>
