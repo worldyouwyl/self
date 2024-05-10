@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 10 May 2024 10:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 11:03:32 GMT</lastBuildDate>
     <item>
-      <title>特朗普和石油巨头是气候地狱中的绝配</title>
+      <title>佐治亚州最高法院竞选演变为堕胎之战</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-10/georgia-supreme-court-candidate-sues-to-block-ethics-ruling</link>
+      <description><![CDATA[在后罗伊世界中，典型的无党派竞争已成为政治性。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/georgia-supreme-court-candidate-sues-to-block-ethics-ruling</guid>
+      <pubDate>Fri, 10 May 2024 11:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普和石油巨头是气候地狱中的天作之合</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/trump-and-big-oil-are-a-match-made-in-climate-hell</link>
       <description><![CDATA[这位前总统承诺，如果能帮助他重新入主白宫，就会满足该行业的每一个愿望，但这是短视的。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/trump-and-big-oil-are-a-match-made-in-climate-hell</guid>
@@ -15,26 +22,26 @@
     <item>
       <title>德鲁肯米勒出售了一些 Nvidia 股票。不要恐慌。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/druckenmiller-sold-some-nvidia-stock-don-t-panic</link>
-      <description><![CDATA[亿万富翁沃伦·巴菲特和一大批公司内部人士一直在抛售七大豪门股票——这是风险管理的一个教训。]]></description>
+      <description><![CDATA[亿万富翁沃伦·巴菲特和许多企业内部人士一直在出售 Magnificent 7 股票——这是风险管理的一课。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/druckenmiller-sold-some-nvidia-stock-don-t-panic</guid>
       <pubDate>Fri, 10 May 2024 10:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>工党绝不能忽视其失去的选民</title>
+      <title>工党不能忽视正在失去的选民</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/uk-local-elections-labour-shouldn-t-overlook-the-voters-it-s-losing</link>
       <description><![CDATA[该党在最近的地方选举中获胜。但每一次胜利，都蕴藏着失败的种子。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/uk-local-elections-labour-shouldn-t-overlook-the-voters-it-s-losing</guid>
       <pubDate>Fri, 10 May 2024 08:05:49 GMT</pubDate>
     </item>
     <item>
-      <title>破碎的托利党领袖里希·苏纳克有祸了</title>
+      <title>破碎的托利党领袖里希·苏纳克（Rishi Sunak）有祸了</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/woe-is-rishi-sunak-leader-of-the-broken-uk-conservative-party</link>
       <description><![CDATA[问题不在于首相的工作不好。而是他必须领导一个与自己交战的政党。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/woe-is-rishi-sunak-leader-of-the-broken-uk-conservative-party</guid>
       <pubDate>Fri, 10 May 2024 04:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>微软针对 OpenAI 的对冲非常有意义</title>
+      <title>微软对 OpenAI 的对冲非常有意义</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/microsoft-ceo-nadella-s-hedge-against-openai-is-true-to-form</link>
       <description><![CDATA[如果有人遵循“不把所有鸡蛋放在同一个篮子里”的信条，那么这个人就是首席执行官萨蒂亚·纳德拉 (Satya Nadella)。  ]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/microsoft-ceo-nadella-s-hedge-against-openai-is-true-to-form</guid>
@@ -50,12 +57,12 @@
     <item>
       <title>多语言者的困境</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/being-a-polyglot-is-tough-work-but-what-you-need-is-practice-and-inspiration</link>
-      <description><![CDATA[有些人有天赋在各种语言之间无缝切换。对于大多数多语言使用者来说，这可能是 Babel。]]></description>
+      <description><![CDATA[有些人有能力在不同语言之间无缝切换。对于大多数多语言使用者来说，它可以是 Babel。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/being-a-polyglot-is-tough-work-but-what-you-need-is-practice-and-inspiration</guid>
       <pubDate>Fri, 10 May 2024 01:00:08 GMT</pubDate>
     </item>
     <item>
-      <title>北亚迫切需要一个绿色能源联盟</title>
+      <title>北亚迫切需要绿色能源联盟</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-09/japan-taiwan-south-korea-need-a-green-energy-pact</link>
       <description><![CDATA[单独行动太慢且昂贵。日本、韩国和台湾可以从鼓励合作的贸易协定中受益。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-09/japan-taiwan-south-korea-need-a-green-energy-pact</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Viktor Orbán 正在学习如何将经济实惠的电动汽车引入欧盟。民主国家也能应对挑战。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-09/orban-xi-hungary-will-put-europeans-in-a-10-000-electric-car</guid>
       <pubDate>Thu, 09 May 2024 21:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的住房混乱终于降临在习近平自己身上</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-09/china-s-housing-crisis-is-stressing-xi-jinping-s-state-owned-developers</link>
-      <description><![CDATA[北京正在打开房地产火箭筒的大门。但只有少数开发者会受益。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-09/china-s-housing-crisis-is-stressing-xi-jinping-s-state-owned-developers</guid>
-      <pubDate>Thu, 09 May 2024 20:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
