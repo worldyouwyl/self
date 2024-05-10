@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 10 May 2024 22:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 22:32:27 GMT</lastBuildDate>
     <item>
       <title>越南曾经是加一，现在是一个问号</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/vietnam-was-key-to-china-plus-one-now-politics-might-make-it-a-big-minus-lw0t0qem</link>
@@ -22,7 +22,7 @@
     <item>
       <title>停止保护新车经销商</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-10/new-car-buyers-should-be-freed-from-dealer-protections</link>
-      <description><![CDATA[州法律禁止汽车制造商直接向消费​​者销售车辆，这曾经是合理的。但现在不再合理了。]]></description>
+      <description><![CDATA[禁止汽车制造商直接向消费​​者销售车辆的州法律曾经是有道理的。不再是了。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-10/new-car-buyers-should-be-freed-from-dealer-protections</guid>
       <pubDate>Fri, 10 May 2024 12:00:11 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>如果人工智能破坏民主，我们可能永远不会知道</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-06/ai-s-capacity-to-spoil-elections-could-be-harder-to-detect</link>
-      <description><![CDATA[宣传不再需要通过病毒式传播来影响选举。这使得人工智能的影响更加隐蔽且更难以检测。]]></description>
+      <description><![CDATA[宣传不再需要通过病毒式传播来影响选举。这使得人工智能的影响更加隐蔽，更难以察觉。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-06/ai-s-capacity-to-spoil-elections-could-be-harder-to-detect</guid>
       <pubDate>Mon, 06 May 2024 04:00:33 GMT</pubDate>
     </item>
