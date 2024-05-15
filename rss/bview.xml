@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 15 May 2024 08:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 09:08:42 GMT</lastBuildDate>
+    <item>
+      <title>谷歌的新搜索引擎对网络经济来说是个坏消息</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-15/google-s-new-search-engine-ai-overviews-is-bad-news-for-the-web-economy</link>
+      <description><![CDATA[一项意义重大的人工智能更新如果按预期发挥作用，可以显着减少网站收到的流量。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-15/google-s-new-search-engine-ai-overviews-is-bad-news-for-the-web-economy</guid>
+      <pubDate>Wed, 15 May 2024 09:00:24 GMT</pubDate>
+    </item>
     <item>
       <title>从乐高到麦肯锡，分心管理会毁掉公司</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-15/from-lego-to-mckinsey-distracted-managing-can-kill-companies</link>
@@ -15,7 +22,7 @@
     <item>
       <title>泰勒·斯威夫特 (Taylor Swift) 可以从 Billie Eilish 的专辑 Drop 中学习</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-15/taylor-swift-can-learn-from-billie-eilish-s-eco-friendly-album-drop</link>
-      <description><![CDATA[音乐产业需要采取更多措施来遏制其碳足迹。]]></description>
+      <description><![CDATA[音乐产业需要采取更多措施来减少其碳足迹。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-15/taylor-swift-can-learn-from-billie-eilish-s-eco-friendly-album-drop</guid>
       <pubDate>Wed, 15 May 2024 04:00:25 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 14 May 2024 21:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>美元正在狂暴，但并未发起进攻</title>
+      <title>美元正在暴涨，但并未发起攻击</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-14/surging-dollar-it-s-on-a-rampage-not-on-the-attack</link>
       <description><![CDATA[美元的飙升和亚洲货币的贬值，并不是世界正在进入一场新的外汇战争的迹象。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-14/surging-dollar-it-s-on-a-rampage-not-on-the-attack</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[Meme 金融、交易课程、Weiss 多重策略、CFTC 作为选举警察、交叉销售财富管理和投资银行家作为治疗师。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-14/amc-is-back-too</guid>
       <pubDate>Tue, 14 May 2024 18:29:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国清洁技术不是敌人</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-14/china-clean-tech-is-not-the-enemy-on-net-zero</link>
-      <description><![CDATA[北京去年的风能和太阳能装机量相当于全球其他地区的总和。我们需要这样的规模来脱碳。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-14/china-clean-tech-is-not-the-enemy-on-net-zero</guid>
-      <pubDate>Tue, 14 May 2024 18:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
