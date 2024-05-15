@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 15 May 2024 12:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 12:44:44 GMT</lastBuildDate>
     <item>
       <title>拜登和国会应该为 FDIC 的丑闻承担责任</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-15/biden-congress-deserve-blame-for-fdic-s-harassment-discrimination-scandal</link>
@@ -71,7 +71,7 @@
     <item>
       <title>南非经济深陷困境。情况可能会变得更糟。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-15/south-africa-elections-investors-rightly-fear-a-populist-turn</link>
-      <description><![CDATA[非洲大陆最大经济体之一的民粹主义转向可能会导致通胀政策，从而吓跑投资者。]]></description>
+      <description><![CDATA[作为非洲大陆最大的经济体之一，该国的民粹主义转向可能导致通胀政策，从而吓跑投资者。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-15/south-africa-elections-investors-rightly-fear-a-populist-turn</guid>
       <pubDate>Wed, 15 May 2024 04:00:20 GMT</pubDate>
     </item>
