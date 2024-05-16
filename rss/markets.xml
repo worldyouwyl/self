@@ -4,11 +4,18 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 16 May 2024 20:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 20:31:13 GMT</lastBuildDate>
+    <item>
+      <title>应用材料公司股价上涨后预测不尽如人意</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-16/applied-materials-forecast-fails-to-impress-after-stock-run-up</link>
+      <description><![CDATA[美国最大的芯片制造机械制造商应用材料公司(Applied Materials Inc.)在今年股价上涨后，其最新预测未能给投资者留下深刻印象。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-16/applied-materials-forecast-fails-to-impress-after-stock-run-up</guid>
+      <pubDate>Thu, 16 May 2024 20:16:20 GMT</pubDate>
+    </item>
     <item>
       <title>Genco 首席执行官谈巴尔的摩大桥倒塌和运输成本</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-16/genco-ceo-on-baltimore-bridge-collapse-shipping-costs-video</link>
-      <description><![CDATA[Genco 航运和贸易首席执行官约翰·沃本史密斯 (John Wobensmith) 表示，在 Key Bridge 被一艘集装箱船撞毁后，仍有大量煤炭等待从巴尔的摩运出。他还谈到了船舶避开红海和运输成本的问题。 （来源：彭博社）]]></description>
+      <description><![CDATA[Genco Shipping and Trading 首席执行官 John Wobensmith 表示，在 Key Bridge 被集装箱船撞毁后，仍有大量煤炭等待运出巴尔的摩。他还谈到了避开红海的船只和运输成本。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-16/genco-ceo-on-baltimore-bridge-collapse-shipping-costs-video</guid>
       <pubDate>Thu, 16 May 2024 20:04:52 GMT</pubDate>
     </item>
@@ -27,20 +34,6 @@
       <pubDate>Thu, 16 May 2024 18:25:09 GMT</pubDate>
     </item>
     <item>
-      <title>法雷尔·威廉姆斯支持的冲浪公园项目获得弗吉尼亚海滩资金</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-16/pharrell-backed-virginia-beach-development-gets-funds-from-town</link>
-      <description><![CDATA[弗吉尼亚海滩利用市政债券市场来资助冲浪公园的开发，该项目由多次获得格莱美奖的艺术家法瑞尔·威廉姆斯 (Pharrell Williams) 支持。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-16/pharrell-backed-virginia-beach-development-gets-funds-from-town</guid>
-      <pubDate>Thu, 16 May 2024 18:23:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着铜、金价格飙升，多伦多股票销量反弹 98%</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-16/share-sales-rebound-98-in-toronto-as-copper-gold-prices-surge</link>
-      <description><![CDATA[在经历了一年的股票销售惨淡之后，由于铜和金价格飙升，矿业公司筹集了资金，加拿大最大的交易所出现了反弹。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-16/share-sales-rebound-98-in-toronto-as-copper-gold-prices-surge</guid>
-      <pubDate>Thu, 16 May 2024 18:16:50 GMT</pubDate>
-    </item>
-    <item>
       <title>Millennium、Point72 和 Elliott 都是比特币 ETF 买家</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-16/millennium-point72-and-citadel-are-among-buyers-of-bitcoin-etfs</link>
       <description><![CDATA[当谈到比特币 ETF 时，不仅仅是散户交易人群在冒险。现在很明显，在交易所交易基金推出十多年后，对冲基金、养老基金和银行也向这些基金投入了资金。]]></description>
@@ -55,6 +48,13 @@
       <pubDate>Thu, 16 May 2024 17:07:15 GMT</pubDate>
     </item>
     <item>
+      <title>GameStop 和 AMC 继续低迷，因 Meme 推动的涨势瓦解</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-16/gamestop-amc-extend-slump-as-meme-fueled-rally-unravels</link>
+      <description><![CDATA[GameStop Corp. 和 AMC Entertainment Holdings Inc. 连续第二天下跌，原因是本周早些时候席卷市场的迷因股票狂潮有所减弱。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-16/gamestop-amc-extend-slump-as-meme-fueled-rally-unravels</guid>
+      <pubDate>Thu, 16 May 2024 10:37:11 GMT</pubDate>
+    </item>
+    <item>
       <title>中国监管机构周五将与银行讨论房地产援助</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-16/china-to-discuss-property-aid-with-banks-regulators-on-friday</link>
       <description><![CDATA[据知情人士透露，中国政府计划于周五上午与主要官员举行会议，讨论房地产市场，包括清理过剩住房库存的提议。]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 16 May 2024 08:27:58 GMT</pubDate>
     </item>
     <item>
-      <title>美国库存减少加剧风险偏好，油价上涨</title>
+      <title>美国库存减少加剧风险情绪，油价上涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-15/latest-oil-market-news-and-analysis-for-may-16</link>
       <description><![CDATA[油价收复早盘跌幅，收高，但仍维持在窄幅区间内，因为交易员权衡美国库存萎缩和全球最大经济体的通胀前景。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-15/latest-oil-market-news-and-analysis-for-may-16</guid>
