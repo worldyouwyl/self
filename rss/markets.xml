@@ -4,13 +4,27 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 16 May 2024 18:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 18:51:26 GMT</lastBuildDate>
     <item>
       <title>将现实世界连接到任何区块链</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-16/connecting-real-world-to-any-blockchain-video</link>
       <description><![CDATA[Sergey Nazarov 是 Chainlink 的联合创始人，该公司连接区块链并将现实世界的数据带到链上，与法国巴黎银行、美国银行和花旗银行等银行合作。他与卡罗琳·海德和埃德·勒德洛一起讨论“彭博科技”的新趋势。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-16/connecting-real-world-to-any-blockchain-video</guid>
       <pubDate>Thu, 16 May 2024 18:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>法雷尔·威廉姆斯支持的冲浪公园项目获得弗吉尼亚海滩资金</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-16/pharrell-backed-virginia-beach-development-gets-funds-from-town</link>
+      <description><![CDATA[弗吉尼亚海滩利用市政债券市场来资助冲浪公园的开发，该项目由多次获得格莱美奖的艺术家法瑞尔·威廉姆斯 (Pharrell Williams) 支持。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-16/pharrell-backed-virginia-beach-development-gets-funds-from-town</guid>
+      <pubDate>Thu, 16 May 2024 18:23:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着铜、金价格飙升，多伦多股票销量反弹 98%</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-16/share-sales-rebound-98-in-toronto-as-copper-gold-prices-surge</link>
+      <description><![CDATA[在经历了一年的股票销售惨淡之后，由于铜和金价格飙升，矿业公司筹集了资金，加拿大最大的交易所出现了反弹。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-16/share-sales-rebound-98-in-toronto-as-copper-gold-prices-surge</guid>
+      <pubDate>Thu, 16 May 2024 18:16:50 GMT</pubDate>
     </item>
     <item>
       <title>意大利 ERG 计划增加对美国可再生能源的投资</title>
@@ -20,7 +34,7 @@
       <pubDate>Thu, 16 May 2024 18:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>铜空头挤压震动金属市场</title>
+      <title>铜空头挤压震撼金属市场</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-16/copper-short-squeeze-rocks-metal-markets-video</link>
       <description><![CDATA[纽约和其他大宗商品交易所交易的铜价之间的巨大错位震动了全球铜市场，并引发了对运往美国的供应的疯狂争夺。彭博资讯 (Bloomberg Intelligence) 的迈克·麦格隆 (Mike McGlone) 讲述了这个故事。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-16/copper-short-squeeze-rocks-metal-markets-video</guid>
@@ -55,21 +69,7 @@
       <pubDate>Thu, 16 May 2024 17:56:32 GMT</pubDate>
     </item>
     <item>
-      <title>Millennium、Point72 和 Citadel 都是比特币 ETF 的买家</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-16/millennium-point72-and-citadel-are-among-buyers-of-bitcoin-etfs</link>
-      <description><![CDATA[当谈到比特币 ETF 时，不仅仅是散户交易人群在冒险。现在很明显，在交易所交易基金推出十多年后，对冲基金、养老基金和银行也向这些基金投入了资金。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-16/millennium-point72-and-citadel-are-among-buyers-of-bitcoin-etfs</guid>
-      <pubDate>Thu, 16 May 2024 17:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>银行信托部门管理的基金受到 SEC 审查</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-16/funds-managed-by-bank-trust-departments-draw-scrutiny-from-sec</link>
-      <description><![CDATA[美国证券交易委员会主席加里·詹斯勒周四表示，美国最高监管机构正在推动加强对银行信托部门管理的投资基金的监管。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-16/funds-managed-by-bank-trust-departments-draw-scrutiny-from-sec</guid>
-      <pubDate>Thu, 16 May 2024 15:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>道琼斯指数短暂触及 40,000 点后股市涨势停滞：市场结束</title>
+      <title>道琼斯平均指数正在接近历史性的 40,000 点大关：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-15/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[全球最大的股市徘徊在历史高点附近，道琼斯工业平均指数触及历史性的 40,000 点大关，因为人们押注降息将继续为美国企业界提供动力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-15/stock-market-today-dow-s-p-live-updates</guid>
