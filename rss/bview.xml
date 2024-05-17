@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 17 May 2024 14:32:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 14:41:37 GMT</lastBuildDate>
     <item>
       <title>美国野火季节现在无处不在</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/air-quality-will-plummet-as-wildfire-season-lasts-longer</link>
@@ -20,7 +20,7 @@
       <pubDate>Fri, 17 May 2024 12:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>德桑蒂斯的移民政策并未完全按照计划进行</title>
+      <title>德桑蒂斯的移民噱头并未完全按计划进行</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/migrants-desantis-sent-to-martha-s-vineyard-granted-special-status</link>
       <description><![CDATA[佛罗里达州州长试图利用移民谋取政治利益。相反，他为他们赢得了更多在美国的时间。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/migrants-desantis-sent-to-martha-s-vineyard-granted-special-status</guid>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 17 May 2024 09:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>道琼斯指数突破 40,000 点。这无所谓。</title>
+      <title>道指触及 40,000 点。没关系。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/the-dow-industrials-broke-through-40-000-it-doesn-t-matter</link>
       <description><![CDATA[该股指的奇怪方法过多地代表了一些成分公司，而低估了其他公司。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/the-dow-industrials-broke-through-40-000-it-doesn-t-matter</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>学生撤资的胜利感觉良好，但收效甚微</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/student-divestment-victories-feel-good-but-do-little</link>
-      <description><![CDATA[你能做并不代表你应该做。]]></description>
+      <description><![CDATA[仅仅因为你可以，并不意味着你应该这样做。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/student-divestment-victories-feel-good-but-do-little</guid>
       <pubDate>Fri, 17 May 2024 04:00:27 GMT</pubDate>
     </item>
