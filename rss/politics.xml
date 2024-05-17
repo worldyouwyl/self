@@ -4,13 +4,27 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Fri, 17 May 2024 14:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 14:23:01 GMT</lastBuildDate>
     <item>
-      <title>德国即将禁止华为 5G，数字部抵制</title>
+      <title>Tennet Grid 交易陷入停滞，暴露了德国联盟的裂痕</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-17/german-coalition-rifts-revealed-by-stalled-tennet-grid-deal</link>
+      <description><![CDATA[德国未能敲定收购电网运营商 Tennet Holding BV 部分股份的交易，暴露了奥拉夫·肖尔茨 (Olaf Scholz) 执政联盟内部新的分歧。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-17/german-coalition-rifts-revealed-by-stalled-tennet-grid-deal</guid>
+      <pubDate>Fri, 17 May 2024 14:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国数字部抵制华为 5G 禁令</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-17/germany-closing-in-on-huawei-5g-ban-as-digital-ministry-resists</link>
       <description><![CDATA[据知情人士透露，德国即将做出到 2026 年从该国 5G 核心网络中剔除中国关键组件的决定，四个相关部委中有三个支持这一举措。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-17/germany-closing-in-on-huawei-5g-ban-as-digital-ministry-resists</guid>
       <pubDate>Fri, 17 May 2024 13:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>米莱在马德里访问期间选择极右翼集会反对西班牙首相</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-17/milei-picks-far-right-rally-over-spanish-pm-during-madrid-visit</link>
+      <description><![CDATA[对于大多数国家元首来说，访问另一个国家而不会见其领导人而是参加反对派集会是不可想象的。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-17/milei-picks-far-right-rally-over-spanish-pm-during-madrid-visit</guid>
+      <pubDate>Fri, 17 May 2024 13:46:32 GMT</pubDate>
     </item>
     <item>
       <title>泽连斯基敦促盟友提供能够打击俄罗斯的武器</title>
@@ -34,27 +48,6 @@
       <pubDate>Fri, 17 May 2024 12:14:30 GMT</pubDate>
     </item>
     <item>
-      <title>新喀里多尼亚进入紧急状态。到底出了什么问题？</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-17/new-caledonia-riots-why-french-pacific-territory-is-in-a-state-of-emergency</link>
-      <description><![CDATA[新喀里多尼亚是位于太平洋的法国领土，因拟议的选举投票规则修改而发生骚乱。巴黎政府已宣布该岛进入紧急状态，赋予地方官员广泛的权力，禁止大型公众集会并强迫人们留在家中。这场骚乱已造成五人死亡，这对法国总统埃马纽埃尔·马克龙来说是一个不受欢迎的发展，他面临着在法律和秩序方面采取强硬路线的压力，以阻止一场挑战]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-17/new-caledonia-riots-why-french-pacific-territory-is-in-a-state-of-emergency</guid>
-      <pubDate>Fri, 17 May 2024 11:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在经济方面，选民更喜欢特朗普而不是拜登。这些数据说明了原因</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-17/trump-leads-biden-on-income-living-standards-election-2024-economy-scorecard</link>
-      <description><![CDATA[拜登创造了数十年来最强劲的就业市场，但通货膨胀减缓了生活水平的提高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-17/trump-leads-biden-on-income-living-standards-election-2024-economy-scorecard</guid>
-      <pubDate>Fri, 17 May 2024 11:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>前索罗斯明星斯科特·贝森特与约翰·保尔森共同管理特朗普的财政部</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-17/donald-trump-treasury-pick-money-machine-john-paulson-or-ex-soros-star-bessent</link>
-      <description><![CDATA[在唐纳德·特朗普眼中，一个人就是一台“赚钱机器”。另一个是一个名叫“斯科特”的人。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-17/donald-trump-treasury-pick-money-machine-john-paulson-or-ex-soros-star-bessent</guid>
-      <pubDate>Fri, 17 May 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>以色列告诉联合国法院，加沙战争是“悲剧”，但不是种族灭绝</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-17/gaza-war-is-terrible-but-not-genocide-israel-tells-un-court</link>
       <description><![CDATA[在南非向国际法院提出紧急措施以阻止其所谓的对巴勒斯坦飞地的破坏之后，以色列否认在加沙实施种族灭绝。]]></description>
@@ -69,11 +62,18 @@
       <pubDate>Fri, 17 May 2024 07:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>普京探究弱点，而泽伦斯基则填补防御漏洞</title>
+      <title>普京探索弱点，泽连斯基弥补防御漏洞</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-17/putin-attacks-kharkiv-as-ukraine-scrambles-to-plug-vulnerable-defenses</link>
       <description><![CDATA[俄罗斯在乌克兰东北部持续一周的攻势给基辅敲响了警钟，总统泽伦斯基和他的将军们急忙加强防御。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-17/putin-attacks-kharkiv-as-ukraine-scrambles-to-plug-vulnerable-defenses</guid>
       <pubDate>Fri, 17 May 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>主要保守派团体建议特朗普：进一步减税，不加征关税</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-17/key-conservative-group-advises-trump-more-tax-cuts-no-tariffs</link>
+      <description><![CDATA[一个与亿万富翁杰夫·亚斯(Jeff Yass)和航运巨头理查德·尤莱因(Richard Uihlein)有联系的反税收倡导组织正在争取，如果唐纳德·特朗普(Donald Trump)赢得白宫第二个任期，将实施新一轮的企业税削减。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-17/key-conservative-group-advises-trump-more-tax-cuts-no-tariffs</guid>
+      <pubDate>Fri, 17 May 2024 00:01:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
