@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 17 May 2024 11:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 11:41:26 GMT</lastBuildDate>
+    <item>
+      <title>德桑蒂斯的移民噱头并未完全按计划进行</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-17/migrants-desantis-sent-to-martha-s-vineyard-granted-special-status</link>
+      <description><![CDATA[佛罗里达州州长试图利用移民谋取政治利益。相反，他为他们赢得了更多在美国的时间。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/migrants-desantis-sent-to-martha-s-vineyard-granted-special-status</guid>
+      <pubDate>Fri, 17 May 2024 11:30:21 GMT</pubDate>
+    </item>
     <item>
       <title>堕胎斗争表明红州选民和领导人并不一致</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/missouri-and-south-dakota-join-states-pushing-to-get-abortion-rights-on-november</link>
@@ -15,7 +22,7 @@
     <item>
       <title>内华达州的摇摆州繁荣并非侥幸</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/nevada-s-swing-state-prosperity-under-joe-biden-is-no-fluke</link>
-      <description><![CDATA[在扭转特朗普政府造成的经济衰退之后，白银州的前景比以往任何时候都更好。]]></description>
+      <description><![CDATA[在扭转了特朗普政府造成的经济衰退之后，银州的前景比以往任何时候都好。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/nevada-s-swing-state-prosperity-under-joe-biden-is-no-fluke</guid>
       <pubDate>Fri, 17 May 2024 10:30:23 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>道指触及 40,000 点。没关系。</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/the-dow-industrials-broke-through-40-000-it-doesn-t-matter</link>
-      <description><![CDATA[该股指的奇怪方法过多地代表了一些成分公司，而低估了其他公司。]]></description>
+      <description><![CDATA[该股票指数的奇怪方法高估了一些成分公司，而低估了其他成分公司。&lt;​​/p&gt;]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/the-dow-industrials-broke-through-40-000-it-doesn-t-matter</guid>
       <pubDate>Fri, 17 May 2024 04:04:34 GMT</pubDate>
     </item>
     <item>
       <title>学生撤资的胜利感觉良好，但收效甚微</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/student-divestment-victories-feel-good-but-do-little</link>
-      <description><![CDATA[仅仅因为你可以，并不意味着你应该这样做。]]></description>
+      <description><![CDATA[你能做并不代表你应该做。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/student-divestment-victories-feel-good-but-do-little</guid>
       <pubDate>Fri, 17 May 2024 04:00:27 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[堪萨斯城酋长队的踢球者和密苏里州国务卿共和党候选人瓦伦蒂娜·戈麦斯有什么共同点？]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-16/harrison-butker-commencement-speech-on-stay-at-home-moms-isn-t-reality</guid>
       <pubDate>Thu, 16 May 2024 21:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>泰国大麻的大转变是一个警示故事</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-16/thailand-s-cannabis-u-turn-is-a-cautionary-tale</link>
-      <description><![CDATA[在急于将毒品合法化以促进农业和旅游业发展后，政府正在重新考虑]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-16/thailand-s-cannabis-u-turn-is-a-cautionary-tale</guid>
-      <pubDate>Thu, 16 May 2024 21:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
