@@ -4,11 +4,18 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Sat, 18 May 2024 13:51:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 14:03:14 GMT</lastBuildDate>
     <item>
-      <title>从东京到纽约，世界各地的股市都创下历史新高</title>
+      <title>Netflix 存在密码共享问题。Greg Peters 已修复此问题</title>
+      <link>https://www.bloomberg.com/news/features/2024-05-18/netflix-password-sharing-crackdown-was-the-start-of-nflx-comeback</link>
+      <description><![CDATA[现在他需要弄清楚的是直播节目、体育、游戏、定价，哦，还有广告。]]></description>
+      <guid>https://www.bloomberg.com/news/features/2024-05-18/netflix-password-sharing-crackdown-was-the-start-of-nflx-comeback</guid>
+      <pubDate>Sat, 18 May 2024 14:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>从东京到纽约，全球股市正在创下历史新高</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-18/tokyo-to-new-york-stock-markets-are-on-a-record-hitting-spree-around-the-world</link>
-      <description><![CDATA[从纽约到伦敦再到东京，如果说世界股票市场有一个相似之处的话，那就是：创下历史新高。]]></description>
+      <description><![CDATA[从纽约到伦敦再到东京，如果说世界股市有一个相似之处的话那就是：创历史新高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-18/tokyo-to-new-york-stock-markets-are-on-a-record-hitting-spree-around-the-world</guid>
       <pubDate>Sat, 18 May 2024 13:00:07 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[纽约梅隆银行 (Bank of New York Mellon Corp.) 是纽约运营时间最长的公司、标准普尔 500 指数中历史最悠久的成员公司，也是纽约证券交易所第一家上市的股票，该公司正在加倍投资人工智能，以帮助推动其扩张。其首席执行官。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-17/bny-mellon-ceo-robin-vince-touts-ai-in-future-growth-push</guid>
       <pubDate>Fri, 17 May 2024 20:27:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>首席科学家 Sutskever 离职后，OpenAI 解散了备受瞩目的安全团队</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit</link>
-      <description><![CDATA[“Superalignment”小组将并入公司更广泛的研究工作。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit</guid>
-      <pubDate>Fri, 17 May 2024 15:59:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
