@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sat, 18 May 2024 10:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 10:51:45 GMT</lastBuildDate>
     <item>
       <title>斯塔默呼应布莱尔击败苏纳克·通道·撒切尔</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-18/sunak-as-thatcher-isn-t-as-successful-as-starmer-as-blair</link>
@@ -55,9 +55,9 @@
       <pubDate>Fri, 17 May 2024 11:00:24 GMT</pubDate>
     </item>
     <item>
-      <title>拜登正在弥补特朗普对摇摆州内华达州造成的经济损害</title>
+      <title>拜登正在消除特朗普在摇摆州内华达州造成的经济损失</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/nevada-s-swing-state-prosperity-under-joe-biden-is-no-fluke</link>
-      <description><![CDATA[在扭转特朗普政府造成的经济衰退之后，白银州的前景比以往任何时候都更好。]]></description>
+      <description><![CDATA[在扭转了特朗普政府造成的经济衰退之后，银州的前景比以往任何时候都好。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/nevada-s-swing-state-prosperity-under-joe-biden-is-no-fluke</guid>
       <pubDate>Fri, 17 May 2024 10:30:23 GMT</pubDate>
     </item>
