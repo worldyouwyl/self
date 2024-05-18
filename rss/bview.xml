@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sat, 18 May 2024 14:51:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 15:04:00 GMT</lastBuildDate>
     <item>
       <title>卷心生菜的复兴已经枯萎</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-18/which-lettuce-is-best-iceberg-is-out-romaine-and-cabbage-are-in</link>
@@ -15,7 +15,7 @@
     <item>
       <title>恭喜罗恩·德桑蒂斯刚刚消除了气候变化</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-18/florida-governor-ron-desantis-solved-climate-change</link>
-      <description><![CDATA[现在已成为法律：州长表示佛罗里达州必须假装自己与全球变暖快车超速行驶的铁轨无关。]]></description>
+      <description><![CDATA[现在这是法律：州长说佛罗里达州必须假装它没有被全球变暖快车所束缚。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-18/florida-governor-ron-desantis-solved-climate-change</guid>
       <pubDate>Sat, 18 May 2024 12:00:26 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>德桑蒂斯的移民噱头并未完全按计划进行</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-17/migrants-desantis-sent-to-martha-s-vineyard-granted-special-status</link>
-      <description><![CDATA[佛罗里达州州长试图利用移民获取政治利益。相反，他为他们在美国争取了更多时间。]]></description>
+      <description><![CDATA[佛罗里达州州长试图利用移民谋取政治利益。相反，他为他们赢得了更多在美国的时间。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-17/migrants-desantis-sent-to-martha-s-vineyard-granted-special-status</guid>
       <pubDate>Fri, 17 May 2024 11:30:21 GMT</pubDate>
     </item>
