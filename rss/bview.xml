@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sun, 19 May 2024 20:51:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 21:06:15 GMT</lastBuildDate>
+    <item>
+      <title>中国和印度应该改掉煤炭习惯</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-19/china-india-should-cancel-new-coal-plants</link>
+      <description><![CDATA[亚洲巨头几乎单枪匹马地维持着世界上最肮脏的燃料的生存。他们有能力缩减新工厂的计划。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-19/china-india-should-cancel-new-coal-plants</guid>
+      <pubDate>Sun, 19 May 2024 21:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>上田最终强化了他对日元疲软的看法</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-19/japan-economy-ueda-toughens-his-message-on-the-weak-yen</link>
@@ -15,7 +22,7 @@
     <item>
       <title>美国正与亦敌亦友的国家一起重返化石燃料俱乐部</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-19/climate-america-joins-its-frenemies-in-the-fossil-fuel-club</link>
-      <description><![CDATA[巨大的石油储量意味着美国对能源转型的热情不如正在大力推进清洁能源技术的中国。]]></description>
+      <description><![CDATA[大量的石油储量意味着美国对能源转型的热情不如正在大力发展清洁技术的中国。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-19/climate-america-joins-its-frenemies-in-the-fossil-fuel-club</guid>
       <pubDate>Sun, 19 May 2024 19:00:18 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>剥削儿童并不是解决劳动力短缺的方法</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-19/states-are-rolling-back-child-labor-laws-to-fill-worker-shortage</link>
-      <description><![CDATA[随着各州取消对童工的保护，违法行为激增。]]></description>
+      <description><![CDATA[随着各州取消童工保护，违法行为激增。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-19/states-are-rolling-back-child-labor-laws-to-fill-worker-shortage</guid>
       <pubDate>Sun, 19 May 2024 12:00:26 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>拜登无法摆脱第二次冷战的困扰</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-19/us-can-t-pay-other-countries-to-wage-cold-war-ii-against-russia-china</link>
-      <description><![CDATA[正如英国发现拿破仑的反对一样，在某些时候你将不得不脚踏实地。]]></description>
+      <description><![CDATA[正如英国对抗拿破仑时所发现的那样，在某个时候你必须亲自踏上征程。 ]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-19/us-can-t-pay-other-countries-to-wage-cold-war-ii-against-russia-china</guid>
       <pubDate>Sun, 19 May 2024 04:00:18 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[几十年来，它被时尚的绿色蔬菜推到一边，现在在沙拉混合物中被......卷心菜取代。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-18/which-lettuce-is-best-iceberg-is-out-romaine-and-cabbage-are-in</guid>
       <pubDate>Sat, 18 May 2024 12:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>恭喜罗恩·德桑蒂斯刚刚消除了气候变化</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-18/florida-governor-ron-desantis-solved-climate-change</link>
-      <description><![CDATA[现在已成为法律：州长表示佛罗里达州必须假装自己与全球变暖快车超速行驶的铁轨无关。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-18/florida-governor-ron-desantis-solved-climate-change</guid>
-      <pubDate>Sat, 18 May 2024 12:00:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
