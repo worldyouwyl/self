@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Mon, 20 May 2024 14:23:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 14:32:57 GMT</lastBuildDate>
+    <item>
+      <title>伊朗总统莱西是个失败者</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-20/iran-president-raisi-who-died-in-helicopter-crash-failed</link>
+      <description><![CDATA[他在直升机失事中丧生，开启了哈梅内伊继任者的竞争。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/iran-president-raisi-who-died-in-helicopter-crash-failed</guid>
+      <pubDate>Mon, 20 May 2024 14:30:34 GMT</pubDate>
+    </item>
     <item>
       <title>拜登经济学让愚蠢的电动汽车关税成为必要</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-20/bidenomics-makes-dumb-ev-tariffs-necessary</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 20 May 2024 11:30:18 GMT</pubDate>
     </item>
     <item>
-      <title>精神航空和边疆航空在乘客流失方面正处于劣势</title>
+      <title>精神航空和边疆航空在传单方面正在玩一场失败的游戏</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-20/frontier-spirit-airlines-offer-premium-and-loyalty-programs</link>
       <description><![CDATA[提供全方位服务的承运商现在正在为那些在 Spirit 和 Frontier 最受喜爱的钓鱼洞中居住的注重价值的休闲旅客寻找服务。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/frontier-spirit-airlines-offer-premium-and-loyalty-programs</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>民主党必须解决他们的犯罪问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-20/california-crime-bill-targets-retail-theft</link>
-      <description><![CDATA[即使加州的进步人士也承认，该党必须采取行动来改变这种状况。]]></description>
+      <description><![CDATA[即使是加州进步人士也认识到该党必须采取一些措施来改变叙事。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/california-crime-bill-targets-retail-theft</guid>
       <pubDate>Mon, 20 May 2024 10:00:20 GMT</pubDate>
     </item>
@@ -55,18 +62,11 @@
       <pubDate>Mon, 20 May 2024 04:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>亲爱的同学们，缴费回家吧</title>
+      <title>亲爱的学生，付款回家</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-20/it-s-open-season-on-international-students-across-the-world</link>
       <description><![CDATA[试图解决想象中的问题并不是管理政府的方法。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/it-s-open-season-on-international-students-across-the-world</guid>
       <pubDate>Mon, 20 May 2024 04:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>《Roaring Kitty》是痴迷 Meme 的 T 一代的典型代表</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-20/gamestop-amc-roaring-kitty-is-the-poster-child-for-meme-obsessed-generation-t</link>
-      <description><![CDATA[年轻投资者比年长投资者更愿意承担风险。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/gamestop-amc-roaring-kitty-is-the-poster-child-for-meme-obsessed-generation-t</guid>
-      <pubDate>Mon, 20 May 2024 04:00:23 GMT</pubDate>
     </item>
     <item>
       <title>学生撤资的胜利感觉良好，但收效甚微</title>
