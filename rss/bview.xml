@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Mon, 20 May 2024 14:32:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 14:41:35 GMT</lastBuildDate>
     <item>
       <title>伊朗总统莱西是个失败者</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-20/iran-president-raisi-who-died-in-helicopter-crash-failed</link>
@@ -41,9 +41,9 @@
       <pubDate>Mon, 20 May 2024 10:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克在特斯拉机器人出租车的竞争中失去了自主权</title>
+      <title>马斯克在特斯拉自动驾驶出租车竞赛中失去自主权</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-20/musk-loses-autonomy-in-race-for-tesla-robotaxis</link>
-      <description><![CDATA[无人驾驶汽车的进步速度取决于社会和谨慎的官僚们的容忍度。]]></description>
+      <description><![CDATA[无人驾驶汽车的发展速度只能与社会和谨慎的官僚一样快。可以忍受。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/musk-loses-autonomy-in-race-for-tesla-robotaxis</guid>
       <pubDate>Mon, 20 May 2024 09:30:18 GMT</pubDate>
     </item>
