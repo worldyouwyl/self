@@ -3,8 +3,15 @@
   <channel>
     <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Tue, 21 May 2024 20:41:41 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Tue, 21 May 2024 20:51:45 GMT</lastBuildDate>
+    <item>
+      <title>我们对睡眠的痴迷让我们彻夜难眠</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-21/sleep-deprived-americans-are-addicted-to-phones-and-health-trackers</link>
+      <description><![CDATA[美国人在床上花费的时间越来越多，但我们仍然很累。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/sleep-deprived-americans-are-addicted-to-phones-and-health-trackers</guid>
+      <pubDate>Tue, 21 May 2024 20:50:26 GMT</pubDate>
+    </item>
     <item>
       <title>托运人无法抗拒中墨航线的诱惑</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-21/shippers-can-t-resist-the-lure-of-china-mexico-routes</link>
@@ -20,9 +27,9 @@
       <pubDate>Tue, 21 May 2024 17:40:50 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们在床上花费更多时间会如此疲惫</title>
+      <title>为什么我们在床上待的时间越长就越疲惫</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-21/why-am-i-tired-americans-spend-more-time-in-bed-but-feel-exhausted</link>
-      <description><![CDATA[几项新的调查显示出了有趣的结果：美国人的睡眠时间更长了，但感觉休息得更少了。]]></description>
+      <description><![CDATA[一些新的调查显示了奇怪的结果：美国人的睡眠时间更长，但感觉休息得更少。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/why-am-i-tired-americans-spend-more-time-in-bed-but-feel-exhausted</guid>
       <pubDate>Tue, 21 May 2024 12:30:18 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[明尼苏达州的一项新法律禁止图书禁令，并明确赋予图书馆员对选择过程的控制权。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/minnesota-law-bans-book-bans-and-gives-librarians-control-of-selection-process</guid>
       <pubDate>Tue, 21 May 2024 10:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登将莫尔豪斯视为竞选进站</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-21/biden-treated-morehouse-like-a-campaign-pit-stop</link>
-      <description><![CDATA[总统与年轻黑人选民的脱节以及他为了赢得他们的支持而给 2024 届毕业生的庆祝活动蒙上阴影。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/biden-treated-morehouse-like-a-campaign-pit-stop</guid>
-      <pubDate>Tue, 21 May 2024 10:30:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
