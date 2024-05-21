@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Tue, 21 May 2024 09:51:30 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Tue, 21 May 2024 10:07:27 GMT</lastBuildDate>
+    <item>
+      <title>最高法院的 CFPB 裁决也拯救了美联储</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-21/the-supreme-court-s-cfpb-ruling-saved-the-federal-reserve-too</link>
+      <description><![CDATA[即使是保守派托马斯大法官也不想破坏全球金融体系。但阿利托大法官的情况却并非如此。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/the-supreme-court-s-cfpb-ruling-saved-the-federal-reserve-too</guid>
+      <pubDate>Tue, 21 May 2024 10:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>工党的承诺有利于民粹主义而非真正的改革</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-21/keir-starmer-s-6-big-labour-pledges-favor-populism-over-real-reform</link>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 20 May 2024 22:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>人们不会怀念伊朗总统</title>
+      <title>伊朗总统不会被错过</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-20/death-of-iran-president-raisi-prompts-new-questions-about-leadership-lwfhstlf</link>
       <description><![CDATA[Ebrahim Raisi 的意外死亡留下了有毒的遗产。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/death-of-iran-president-raisi-prompts-new-questions-about-leadership-lwfhstlf</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[无论在国外还是在国内，无论是在加沙还是在海牙，美国不能仅在既喜欢规则又喜欢法律的情况下才支持法治。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/us-should-respond-to-icc-netanyahu-and-gallant-warrants-by-fighting-in-court</guid>
       <pubDate>Mon, 20 May 2024 18:24:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>无尽的虾调查</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-20/the-endless-shrimp-investigation</link>
-      <description><![CDATA[Red Lobster、转向 T+1、Greenlight 的宏观负责人、Flashbots 漏洞利用和可可映射。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-20/the-endless-shrimp-investigation</guid>
-      <pubDate>Mon, 20 May 2024 17:15:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
