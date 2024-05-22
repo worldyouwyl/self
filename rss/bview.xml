@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 22 May 2024 09:51:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 10:07:23 GMT</lastBuildDate>
+    <item>
+      <title>固特异飞艇瘫痪作为创新的象征</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-22/goodyear-blimp-goes-limp-as-a-symbol-of-innovation</link>
+      <description><![CDATA[虽然这艘船有它的粉丝，但它在空中提醒着我们公司的古板。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/goodyear-blimp-goes-limp-as-a-symbol-of-innovation</guid>
+      <pubDate>Wed, 22 May 2024 10:00:20 GMT</pubDate>
+    </item>
     <item>
       <title>美联储统一利率伴随着风险</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/the-fed-s-uniformity-on-rates-comes-with-risks</link>
@@ -20,14 +27,14 @@
       <pubDate>Wed, 22 May 2024 09:00:23 GMT</pubDate>
     </item>
     <item>
-      <title>飞行变得更加动荡。航空公司最好系好安全带</title>
+      <title>飞行越来越颠簸。航空公司最好系好安全带</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/singapore-airlines-flight-air-travel-is-getting-more-turbulent-buckle-up</link>
       <description><![CDATA[气候危机在使航空旅行变得更加不稳定方面所发挥的作用是不容忽视的。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/singapore-airlines-flight-air-travel-is-getting-more-turbulent-buckle-up</guid>
       <pubDate>Wed, 22 May 2024 08:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>通胀低于预期或将推迟英国央行降息，但不应成为其降息的阻碍</title>
+      <title>通胀失控可能会推迟，但不应阻止英国央行降息</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/inflation-miss-may-delay-but-shouldn-t-deter-bank-of-england-rate-cut</link>
       <description><![CDATA[政策制定者将在 6 月会议之前获得另一组消费者价格数据。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/inflation-miss-may-delay-but-shouldn-t-deter-bank-of-england-rate-cut</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>一些在线金融诈骗损失就在你身上</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/some-online-finance-scam-losses-are-on-you</link>
-      <description><![CDATA[如果我们自动补偿在诈骗中损失金钱的人，他们可能会变得更加不警惕。]]></description>
+      <description><![CDATA[如果我们自动赔偿那些因诈骗而损失金钱的人，他们可能会变得更加缺乏警惕。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/some-online-finance-scam-losses-are-on-you</guid>
       <pubDate>Wed, 22 May 2024 04:00:18 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国“有计划的模糊性”的核学说已经过时且危险。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/biden-should-outfox-xi-and-china-and-pledge-no-first-use-of-nukes</guid>
       <pubDate>Tue, 21 May 2024 21:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度教徒与穆斯林的分裂并不是印度最危险的分歧</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-21/india-elections-tensions-between-states-are-most-dangerous-divide</link>
-      <description><![CDATA[如果长期以来围绕国家权利达成的共识继续受到侵蚀，该国将陷入真正的麻烦。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/india-elections-tensions-between-states-are-most-dangerous-divide</guid>
-      <pubDate>Tue, 21 May 2024 21:00:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
