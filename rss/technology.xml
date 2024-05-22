@@ -4,9 +4,23 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 22 May 2024 20:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 20:31:42 GMT</lastBuildDate>
     <item>
-      <title>英国科技明星林奇在美国欺诈审判中作证的冒险举动</title>
+      <title>Nvidia 给出强劲预测，反映出人工智能的持续发展势头</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-22/nvidia-gives-strong-forecast-reflecting-sustained-ai-momentum</link>
+      <description><![CDATA[处于人工智能热潮中心的芯片制造商英伟达公司再次给出了乐观的销售预测，表明人工智能计算方面的支出仍然强劲。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-22/nvidia-gives-strong-forecast-reflecting-sustained-ai-momentum</guid>
+      <pubDate>Wed, 22 May 2024 20:22:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snowflake 预计销售额将强劲增长，重点关注人工智能产品</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-22/snowflake-projects-strong-sales-growth-with-focus-on-ai-products</link>
+      <description><![CDATA[Snowflake Inc.给出的本季度销售前景超出预期，表明新的人工智能产品可以帮助加速增长。该股在延长交易中上涨。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-22/snowflake-projects-strong-sales-growth-with-focus-on-ai-products</guid>
+      <pubDate>Wed, 22 May 2024 20:17:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国科技明星林奇冒险出庭作证美国欺诈案审判</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-22/uk-tech-star-lynch-makes-risky-move-to-testify-in-us-fraud-trial</link>
       <description><![CDATA[英国科技大亨迈克·林奇 (Mike Lynch) 做出了一个大胆的决定，对自己 13 年前欺骗惠普公司 (Hewlett Packard Co.) 以 110 亿美元收购其软件初创公司的刑事指控进行辩护。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-22/uk-tech-star-lynch-makes-risky-move-to-testify-in-us-fraud-trial</guid>
@@ -20,7 +34,7 @@
       <pubDate>Wed, 22 May 2024 18:11:23 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大网络安全计划针对远程工作和老化技术</title>
+      <title>加拿大网络安全计划重点关注远程工作和老化技术</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-22/remote-work-aging-tech-targeted-by-canada-cybersecurity-plan</link>
       <description><![CDATA[加拿大周三发布了首个针对联邦政府部门和机构的网络安全战略，旨在应对远程工作、云计算、老化基础设施和招聘带来的挑战。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-22/remote-work-aging-tech-targeted-by-canada-cybersecurity-plan</guid>
@@ -34,14 +48,14 @@
       <pubDate>Wed, 22 May 2024 17:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊注资打造规模 AI 公司，估值近 140 亿美元</title>
+      <title>亚马逊资助的 Scale AI 估值近 $14B</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-22/scale-ai-valued-at-nearly-14b-with-amazon-funding-video</link>
       <description><![CDATA[Scale AI 是一家帮助顶级科技公司改进用于构建人工智能产品的数据的初创公司，其估值大约翻了一番，达到 138 亿美元，并在今年最大的融资交易之一中筹集了 10 亿美元。 Scale AI 首席执行官 Alexandr Wang 与 Ed Ludlow 和 Caroline Hyde 共同探讨“彭博科技”。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-22/scale-ai-valued-at-nearly-14b-with-amazon-funding-video</guid>
       <pubDate>Wed, 22 May 2024 17:31:18 GMT</pubDate>
     </item>
     <item>
-      <title>Salesforce AI 首席执行官：数据云的爆炸式增长</title>
+      <title>Salesforce AI CEO：数据云爆炸式增长</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-22/salesforce-ai-ceo-explosive-growth-in-data-cloud-video</link>
       <description><![CDATA[Salesforce 正在为商家和营销人员推出 Einstein Copilot，借助人工智能帮助企业在营销、商务、销售和服务方面实现个性化客户互动。 Salesforce AI 首席执行官 Clara Shih 与 Ed Ludlow 和 Caroline Hyde 共同探讨“彭博科技”。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-22/salesforce-ai-ceo-explosive-growth-in-data-cloud-video</guid>
@@ -50,23 +64,9 @@
     <item>
       <title>苹果计划请求法院驳回反垄断案件</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-22/apple-plans-to-ask-court-to-dismiss-antitrust-case-video</link>
-      <description><![CDATA[苹果公司正在采取措施，要求法院驳回司法部针对这家 iPhone 制造商的反垄断诉讼，这是一次成功的尝试，以避免一场漫长的法律斗争。彭博资讯的阿努拉格·拉纳 (Anurag Rana) 与埃德·勒德洛 (Ed Ludlow) 和卡罗琳·海德 (Caroline Hyde) 共同探讨“彭博科技”。 （来源：彭博社）]]></description>
+      <description><![CDATA[苹果正在采取措施，要求法院驳回美国司法部针对这家 iPhone 制造商的反垄断诉讼，以期避免这场注定漫长的法律纠纷。彭博情报的 Anurag Rana 与 Ed Ludlow 和 Caroline Hyde 一起参加了“彭博科技”节目。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-22/apple-plans-to-ask-court-to-dismiss-antitrust-case-video</guid>
       <pubDate>Wed, 22 May 2024 17:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密货币市场对以太坊 ETF 持乐观态度</title>
-      <link>https://www.bloomberg.com/news/videos/2024-05-22/crypto-markets-optimistic-on-ether-etf-video</link>
-      <description><![CDATA[人们越来越乐观地认为监管机构将批准直接投资于以太坊的交易所交易基金，这标志着市场情绪的急剧逆转。 Strike 首席执行官杰克·马勒斯 (Jack Mallers) 与埃德·勒德洛 (Ed Ludlow) 和卡罗琳·海德 (Caroline Hyde) 一起参加“彭博科技”节目。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-05-22/crypto-markets-optimistic-on-ether-etf-video</guid>
-      <pubDate>Wed, 22 May 2024 17:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>二西格玛任命 Nekmouche 领导人工智能战略，Baron 辞职</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-22/two-sigma-taps-nekmouche-to-head-ai-strategy-baron-steps-down</link>
-      <description><![CDATA[Two Sigma Investments LP 选择 Ali-Milan Nekmouche 领导一个新的人工智能和机器学习团队，这家价值 600 亿美元的对冲基金寻求利用可以增强传统量化投资的技术。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-22/two-sigma-taps-nekmouche-to-head-ai-strategy-baron-steps-down</guid>
-      <pubDate>Wed, 22 May 2024 17:10:59 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 是 Mega Tech 盈利胜利的最后障碍</title>
