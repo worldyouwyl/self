@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Wed, 22 May 2024 08:10:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:27:57 GMT</lastBuildDate>
+    <item>
+      <title>飞行变得更加动荡。航空公司最好系好安全带</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-22/singapore-airlines-flight-air-travel-is-getting-more-turbulent-buckle-up</link>
+      <description><![CDATA[气候危机在使航空旅行变得更加不稳定方面所发挥的作用是不容忽视的。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/singapore-airlines-flight-air-travel-is-getting-more-turbulent-buckle-up</guid>
+      <pubDate>Wed, 22 May 2024 08:25:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>通胀失控可能会推迟，但不应阻止英国央行降息</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-22/inflation-miss-may-delay-but-shouldn-t-deter-bank-of-england-rate-cut</link>
+      <description><![CDATA[政策制定者将在 6 月会议之前获得另一组消费者价格数据。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/inflation-miss-may-delay-but-shouldn-t-deter-bank-of-england-rate-cut</guid>
+      <pubDate>Wed, 22 May 2024 08:10:40 GMT</pubDate>
+    </item>
     <item>
       <title>“新兴市场”比“全球南方”提供更多希望</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/-emerging-markets-offer-more-hope-than-global-south</link>
@@ -41,7 +55,7 @@
       <pubDate>Tue, 21 May 2024 21:09:02 GMT</pubDate>
     </item>
     <item>
-      <title>印度教徒与穆斯林的分裂并不是印度最危险的分歧</title>
+      <title>印度教徒与穆斯林的分裂并非印度最危险的分歧</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-21/india-elections-tensions-between-states-are-most-dangerous-divide</link>
       <description><![CDATA[如果长期以来围绕国家权利达成的共识继续受到侵蚀，该国将陷入真正的麻烦。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/india-elections-tensions-between-states-are-most-dangerous-divide</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[华盛顿和北京之间日益紧张的局势正在改变全球交通枢纽。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/shippers-can-t-resist-the-lure-of-china-mexico-routes</guid>
       <pubDate>Tue, 21 May 2024 20:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司为自己工作</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-21/the-companies-work-for-themselves</link>
-      <description><![CDATA[共同所有权、无尽的虾、斯嘉丽·约翰逊和私人股票估值。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/the-companies-work-for-themselves</guid>
-      <pubDate>Tue, 21 May 2024 17:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我们在床上花费更多时间会如此疲惫</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-21/why-am-i-tired-americans-spend-more-time-in-bed-but-feel-exhausted</link>
-      <description><![CDATA[一些新的调查显示了奇怪的结果：美国人的睡眠时间更长，但感觉休息得更少。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-21/why-am-i-tired-americans-spend-more-time-in-bed-but-feel-exhausted</guid>
-      <pubDate>Tue, 21 May 2024 12:30:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
