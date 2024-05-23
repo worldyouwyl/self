@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博观点</description>
-    <lastBuildDate>Thu, 23 May 2024 00:30:16 GMT</lastBuildDate>
+    <description>彭博社观点</description>
+    <lastBuildDate>Thu, 23 May 2024 01:38:11 GMT</lastBuildDate>
+    <item>
+      <title>印度选举存在透明度问题</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-23/india-s-election-has-a-transparency-problem</link>
+      <description><![CDATA[投票过程中莫名其妙的不透明削弱了民意调查监督机构的权威。最高法院要求得到答复。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/india-s-election-has-a-transparency-problem</guid>
+      <pubDate>Thu, 23 May 2024 01:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>对于里希·苏纳克和保守党来说，事情只会变得更加糟糕</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-july-election-things-can-only-get-wetter-for-rishi-sunak-and-the-tories</link>
-      <description><![CDATA[英国首相呼吁 7 月 4 日进行投票，可能意味着保守党 14 年统治的结束。]]></description>
+      <description><![CDATA[英国首相呼吁 7 月 4 日进行投票可能意味着保守党 14 年统治的结束。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-july-election-things-can-only-get-wetter-for-rishi-sunak-and-the-tories</guid>
       <pubDate>Wed, 22 May 2024 21:39:29 GMT</pubDate>
     </item>
@@ -29,14 +36,14 @@
     <item>
       <title>英美资源集团在必和必拓之战中只剩下一筹码</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/bhp-s-sweeteners-finally-wear-down-anglo-american</link>
-      <description><![CDATA[在其澳大利亚追求者又抛出了一个甜言蜜语后，这家矿业公司正在与必和必拓进行接触。英美资源集团的防御可能较弱，但仍能获得更高的价格。]]></description>
+      <description><![CDATA[在其澳大利亚追求者又抛出了另一个甜言蜜语后，这家矿业公司正在与必和必拓进行接触。英美资源集团的防御可能较弱，但仍能获得更高的价格。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/bhp-s-sweeteners-finally-wear-down-anglo-american</guid>
       <pubDate>Wed, 22 May 2024 17:58:41 GMT</pubDate>
     </item>
     <item>
       <title>花旗错过了一个胖手指</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger</link>
-      <description><![CDATA[还有 Revolut 人质自拍、追溯的 Damien Hirst NFT 和无休止的虾否认。]]></description>
+      <description><![CDATA[还有 Revolut 人质自拍照、回溯达米恩·赫斯特 NFT 和无休止的虾否认。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger</guid>
       <pubDate>Wed, 22 May 2024 16:53:58 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 22 May 2024 16:44:32 GMT</pubDate>
     </item>
     <item>
-      <title>苏纳克呼吁 7 月 4 日举行大选，让保守党摆脱痛苦</title>
+      <title>苏纳克呼吁在 7 月 4 日举行选举，让保守党摆脱困境</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-election-sunak-s-call-for-a-july-4-vote-puts-his-party-out-of-its-misery</link>
       <description><![CDATA[过去 14 年的保守党统治几乎考验了所有人的耐心。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-election-sunak-s-call-for-a-july-4-vote-puts-his-party-out-of-its-misery</guid>
@@ -62,14 +69,7 @@
       <pubDate>Wed, 22 May 2024 13:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>Elon Musk 的 X 社区笔记功能正在发挥作用</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-22/elon-musk-s-community-notes-feature-on-x-is-working</link>
-      <description><![CDATA[众包事实核查比内容审核更能减少错误信息。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/elon-musk-s-community-notes-feature-on-x-is-working</guid>
-      <pubDate>Wed, 22 May 2024 12:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>固特异飞艇“柔软”飞行，彰显创新</title>
+      <title>固特异飞艇瘫痪作为创新的象征</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/goodyear-blimp-goes-limp-as-a-symbol-of-innovation</link>
       <description><![CDATA[虽然这艘船有它的粉丝，但它在空中提醒着我们公司的古板。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/goodyear-blimp-goes-limp-as-a-symbol-of-innovation</guid>
