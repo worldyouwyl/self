@@ -3,8 +3,15 @@
   <channel>
     <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Thu, 23 May 2024 09:31:44 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Thu, 23 May 2024 09:41:35 GMT</lastBuildDate>
+    <item>
+      <title>英国选举的困惑将考验凯尔·斯塔默的勇气</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-23/uk-election-perplexities-will-test-keir-starmer-s-mettle</link>
+      <description><![CDATA[活动期间任何事情都可能发生 - 而且通常都会发生。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/uk-election-perplexities-will-test-keir-starmer-s-mettle</guid>
+      <pubDate>Thu, 23 May 2024 09:39:11 GMT</pubDate>
+    </item>
     <item>
       <title>苏纳克承受着历史的压力</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/uk-election-sunak-has-the-weight-of-history-against-him</link>
@@ -15,7 +22,7 @@
     <item>
       <title>一次性汽车的兴起</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite</link>
-      <description><![CDATA[像 Copart 这样的废品拍卖公司因越来越多的车辆报废而获益，但汽车所有者却面临着不太愉快的结果的风险。]]></description>
+      <description><![CDATA[Copart 等报废拍卖公司受益于更多车辆被毁坏，但车主却面临着不太令人愉快的结果。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite</guid>
       <pubDate>Thu, 23 May 2024 06:03:15 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>查尔斯国王的肖像是巧妙的宣传</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/charles-iii-s-portrait-rankles-but-that-s-kind-of-the-point</link>
-      <description><![CDATA[皇家肖像曾经是超凡脱俗的权力投射。然而，正如查理三世所表明的那样，王冠的人性一面更具影响力。]]></description>
+      <description><![CDATA[皇室肖像曾经是权力的超凡体现。然而，正如查理三世所表明的那样，王室的人性一面更具影响力。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/charles-iii-s-portrait-rankles-but-that-s-kind-of-the-point</guid>
       <pubDate>Thu, 23 May 2024 04:00:18 GMT</pubDate>
     </item>
@@ -62,14 +69,7 @@
       <pubDate>Wed, 22 May 2024 20:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>习近平在住房和消费问题上真的改变主意了吗？</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-22/china-economy-did-xi-u-turn-on-housing-and-consumption</link>
-      <description><![CDATA[近期的政策举措表明，中国的经济重点已从产业升级转向提振内需。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/china-economy-did-xi-u-turn-on-housing-and-consumption</guid>
-      <pubDate>Wed, 22 May 2024 19:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>固特异飞艇“柔软”飞行，彰显创新</title>
+      <title>固特异飞艇瘫痪作为创新的象征</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/goodyear-blimp-goes-limp-as-a-symbol-of-innovation</link>
       <description><![CDATA[虽然这艘船有它的粉丝，但它在空中提醒着我们公司的古板。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/goodyear-blimp-goes-limp-as-a-symbol-of-innovation</guid>
