@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Thu, 23 May 2024 09:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 09:24:10 GMT</lastBuildDate>
     <item>
       <title>苏纳克承受着历史的压力</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/uk-election-sunak-has-the-weight-of-history-against-him</link>
@@ -29,7 +29,7 @@
     <item>
       <title>选举临近，英国资产并没有什么令人厌恶的</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/uk-stocks-are-not-excited-about-the-upcoming-election</link>
-      <description><![CDATA[如果 Rishi Sunak 认为情况会变得更好，他就应该等待。提前去投票表明他预计情况会变得更糟。]]></description>
+      <description><![CDATA[如果里希·苏纳克认为情况会好转，他就应该等待。提前去投票表明他预计情况会变得更糟。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/uk-stocks-are-not-excited-about-the-upcoming-election</guid>
       <pubDate>Thu, 23 May 2024 04:00:23 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>对于里希·苏纳克和保守党来说，事情只会变得更加糟糕</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-july-election-things-can-only-get-wetter-for-rishi-sunak-and-the-tories</link>
-      <description><![CDATA[英国首相呼吁在7月4日进行投票，这可能意味着保守党14年执政的结束。]]></description>
+      <description><![CDATA[英国首相呼吁 7 月 4 日进行投票可能意味着保守党 14 年统治的结束。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-july-election-things-can-only-get-wetter-for-rishi-sunak-and-the-tories</guid>
       <pubDate>Wed, 22 May 2024 21:39:29 GMT</pubDate>
     </item>
