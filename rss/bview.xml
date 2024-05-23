@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博社观点</description>
-    <lastBuildDate>Thu, 23 May 2024 01:38:11 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Thu, 23 May 2024 02:17:34 GMT</lastBuildDate>
     <item>
       <title>印度选举存在透明度问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/india-s-election-has-a-transparency-problem</link>
-      <description><![CDATA[投票过程中莫名其妙的不透明削弱了民意调查监督机构的权威。最高法院要求得到答复。]]></description>
+      <description><![CDATA[投票过程中莫名其妙的不透明性削弱了选举监督机构的权威。最高法院要求对此作出解释。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/india-s-election-has-a-transparency-problem</guid>
       <pubDate>Thu, 23 May 2024 01:00:18 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 22 May 2024 16:44:32 GMT</pubDate>
     </item>
     <item>
-      <title>苏纳克呼吁在 7 月 4 日举行选举，让保守党摆脱困境</title>
+      <title>苏纳克呼吁 7 月 4 日举行大选，让保守党摆脱痛苦</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-election-sunak-s-call-for-a-july-4-vote-puts-his-party-out-of-its-misery</link>
       <description><![CDATA[过去 14 年的保守党统治几乎考验了所有人的耐心。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-22/uk-election-sunak-s-call-for-a-july-4-vote-puts-his-party-out-of-its-misery</guid>
