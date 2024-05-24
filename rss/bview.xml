@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 24 May 2024 11:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 11:31:37 GMT</lastBuildDate>
+    <item>
+      <title>我们仍然没有对足够的农民进行禽流感检测</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-24/second-human-case-of-bird-flu-at-dairy-farms-requires-urgent-action</link>
+      <description><![CDATA[全国只有 40 人接受过 H5N1 检测。让我们来了解一下。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/second-human-case-of-bird-flu-at-dairy-farms-requires-urgent-action</guid>
+      <pubDate>Fri, 24 May 2024 11:30:18 GMT</pubDate>
+    </item>
     <item>
       <title>西班牙的一些前殖民地越来越忽视它</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/milei-brawl-exposes-spain-s-dwindling-latin-american-influence</link>
@@ -29,7 +36,7 @@
     <item>
       <title>联合办公正在向郊区转移</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/without-wework-coworking-is-moving-to-the-suburbs</link>
-      <description><![CDATA[由于 WeWork 已今非昔比，行业领导者 IWG 认为大城市以外的混合型工作者才是未来。]]></description>
+      <description><![CDATA[WeWork 已脱胎换骨，行业领导者 IWG 押注大城市以外的混合型员工才是未来。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/without-wework-coworking-is-moving-to-the-suburbs</guid>
       <pubDate>Fri, 24 May 2024 10:00:18 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>苏纳克的末日循环让英国无处可去</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/sunak-s-public-transport-doom-loop-after-hs2-is-unsustainable</link>
-      <description><![CDATA[首相叫停具有里程碑意义的 HS2 铁路项目，让英国人陷入困境。如何才能让该项目重获生机？]]></description>
+      <description><![CDATA[首相暂停了具有里程碑意义的 HS2 铁路项目，让英国人陷入了困境。怎样才能让它复活？]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/sunak-s-public-transport-doom-loop-after-hs2-is-unsustainable</guid>
       <pubDate>Fri, 24 May 2024 04:00:25 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[英国的新资金和监管可能会推动苦苦挣扎的技术向前发展。  ]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</guid>
       <pubDate>Fri, 24 May 2024 04:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>战争是英国夏季选举的核心</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-24/uk-july-4-election-rishi-sunak-puts-war-and-defense-at-heart-of-campaign</link>
-      <description><![CDATA[首相将在更加危险的世界中保护英国的问题作为竞选的中心主题是正确的。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/uk-july-4-election-rishi-sunak-puts-war-and-defense-at-heart-of-campaign</guid>
-      <pubDate>Fri, 24 May 2024 04:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
