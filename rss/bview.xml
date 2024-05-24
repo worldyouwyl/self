@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 24 May 2024 05:23:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 05:31:42 GMT</lastBuildDate>
     <item>
       <title>阿特拉斯耸耸肩，邦德抢走了英伟达的风头</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</link>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 24 May 2024 04:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶汽车正在开辟新的试验场</title>
+      <title>自动驾驶汽车正在迎来新的试验场</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</link>
       <description><![CDATA[英国的新资金和新法规可能会推动陷入困境的技术向前发展。 ]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</guid>
@@ -55,7 +55,7 @@
       <pubDate>Thu, 23 May 2024 20:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>听够央行言论了吗？准备迎接更多</title>
+      <title>央行言论听够了吗？准备好迎接更多</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/central-bankers-are-getting-reading-to-talk-even-more</link>
       <description><![CDATA[货币政策负责人因其错误而处于前线。但向内转并不是解决问题的办法。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/central-bankers-are-getting-reading-to-talk-even-more</guid>
