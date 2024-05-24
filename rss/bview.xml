@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 24 May 2024 09:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 09:31:48 GMT</lastBuildDate>
+    <item>
+      <title>亚利桑那州可能会改变特朗普的叙述</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-24/arizona-fake-electors-case-could-rally-voters-for-biden</link>
+      <description><![CDATA[检察官将假选民告上法庭的做法比纽约同行更有优势— 选民理解这些指控。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/arizona-fake-electors-case-could-rally-voters-for-biden</guid>
+      <pubDate>Fri, 24 May 2024 09:30:18 GMT</pubDate>
+    </item>
     <item>
       <title>阿特拉斯耸耸肩，邦德抢走了英伟达的风头</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</link>
-      <description><![CDATA[AI 芯片制造商提升风险资产的举动到此为止。美联储仍然占上风。]]></description>
+      <description><![CDATA[AI 芯片制造商提升风险资产的行为已经到此为止。美联储仍然占上风。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</guid>
       <pubDate>Fri, 24 May 2024 04:05:34 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 24 May 2024 04:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶汽车正在开辟新的试验场</title>
+      <title>自动驾驶汽车正在迎来新的试验场</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</link>
       <description><![CDATA[英国的新资金和监管可能会推动苦苦挣扎的技术向前发展。  ]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[在北京展示军事实力的同时，赖清德也在与国内反对派作斗争。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/taiwan-s-new-president-gets-a-perilous-debut</guid>
       <pubDate>Thu, 23 May 2024 19:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coinbase 在最高法院的败诉是其自身的过错</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-23/coinbase-supreme-court-loss-is-cryptocurrency-platform-s-own-fault</link>
-      <description><![CDATA[加密货币平台的律师犯了一个错误——或者高管们可能没有听取他们的建议。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/coinbase-supreme-court-loss-is-cryptocurrency-platform-s-own-fault</guid>
-      <pubDate>Thu, 23 May 2024 18:45:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
