@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 24 May 2024 04:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 04:42:37 GMT</lastBuildDate>
     <item>
       <title>阿特拉斯耸耸肩，邦德抢走了英伟达的风头</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</link>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 24 May 2024 04:00:25 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶汽车正在开辟新的试验场</title>
+      <title>自动驾驶汽车正在迎来新的试验场</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</link>
       <description><![CDATA[英国的新资金和监管可能会推动苦苦挣扎的技术向前发展。  ]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>台湾新总统的首次亮相充满危险</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/taiwan-s-new-president-gets-a-perilous-debut</link>
-      <description><![CDATA[在北京展示军事实力的同时，赖清德还面临着国内反对派的斗争。]]></description>
+      <description><![CDATA[在北京展示军事实力的同时，赖清德也在与国内反对派作斗争。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/taiwan-s-new-president-gets-a-perilous-debut</guid>
       <pubDate>Thu, 23 May 2024 19:00:18 GMT</pubDate>
     </item>
