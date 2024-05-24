@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 24 May 2024 23:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 23:25:30 GMT</lastBuildDate>
     <item>
       <title>生活学院</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-24/school-of-life</link>
@@ -13,14 +13,28 @@
       <pubDate>Fri, 24 May 2024 23:06:57 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能热潮的持久性</title>
+      <title>房东阿德勒与债券持有人达成协议以重组债务</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-24/landlord-adler-strikes-deal-with-bondholders-to-overhaul-debt</link>
+      <description><![CDATA[德国房东阿德勒集团 (Adler Group SA) 已与大多数债券持有人达成协议，为债务再融资，并为这家陷入困境的公司注入更多流动性，这将是过去两年来的第二次债务重组。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-24/landlord-adler-strikes-deal-with-bondholders-to-overhaul-debt</guid>
+      <pubDate>Fri, 24 May 2024 23:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能热潮的持久力</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-24/longevity-of-the-ai-boom</link>
       <description><![CDATA[花旗美国股票策略师 Scott Chronert 告诉我们，人工智能是城镇新的增长动力，推动市场发展。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-24/longevity-of-the-ai-boom</guid>
       <pubDate>Fri, 24 May 2024 23:03:52 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街选票：特朗普 1.0 与 2.0 的区别</title>
+      <title>下一页 英国政府面临 70 年来最严峻的财政挑战</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-24/next-uk-government-faces-hardest-fiscal-challenge-in-70-years</link>
+      <description><![CDATA[财政研究所智库表示，英国所有政党都需要诚实面对下一届政府在即将到来的竞选活动中面临的痛苦财政选择。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-24/next-uk-government-faces-hardest-fiscal-challenge-in-70-years</guid>
+      <pubDate>Fri, 24 May 2024 23:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街投票：特朗普1.0和2.0之间的差异</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-24/wall-street-votes-differences-between-trump-1-0-and-2-0</link>
       <description><![CDATA[诺贝尔经济学奖获得者、纽约城市大学研究生中心杰出教授保罗·克鲁格曼表示，那些认为特朗普第二届政府将与第一届政府类似的人将会感到震惊。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-24/wall-street-votes-differences-between-trump-1-0-and-2-0</guid>
@@ -43,14 +57,14 @@
     <item>
       <title>数据中心的环境成本</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-24/environmental-cost-of-data-centers</link>
-      <description><![CDATA[生成式人工智能的蓬勃发展促进了对数据中心的需求，而数据中心需要大量的电力。前新泽西州州长、美国环保署署长、美国联合民主中心联合创始人兼联合主席克里斯汀·托德·惠特曼向我们介绍小型模块化反应堆如何减轻数据中心供电对环境的影响。 （来源：彭博社）]]></description>
+      <description><![CDATA[生成式人工智能的蓬勃发展促进了对数据中心的需求，而数据中心需要大量的电力。新泽西州前州长、美国环保署署长、美国联合民主中心联合创始人兼联合主席克里斯汀·托德·惠特曼向我们介绍小型模块化反应堆如何减轻数据中心供电对环境的影响。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-05-24/environmental-cost-of-data-centers</guid>
       <pubDate>Fri, 24 May 2024 22:48:38 GMT</pubDate>
     </item>
     <item>
       <title>Altman 支持的 Oklo 认为数据中心将推动核需求</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-24/altman-backed-oklo-sees-rising-nuke-demand-from-data-centers</link>
-      <description><![CDATA[在宣布向数据中心提供核能的交易一天后，Oklo Inc. 表示，预计将与耗电行业签署更多合同。]]></description>
+      <description><![CDATA[奥克洛公司 (Oklo Inc.) 宣布向数据中心提供核能的协议一天后，该公司表示，预计将与这个耗电行业签署更多合同。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-24/altman-backed-oklo-sees-rising-nuke-demand-from-data-centers</guid>
       <pubDate>Fri, 24 May 2024 22:04:13 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[中国警方为阻止数十亿美元的非法外汇交易而进行的突袭突显出，尽管北京禁止数字资产交易，但加密货币仍在继续使用。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-24/china-s-raids-on-forex-gangs-point-to-crypto-ban-being-flouted</guid>
       <pubDate>Fri, 24 May 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>富人为何逃离马萨诸塞州</title>
-      <link>https://www.bloomberg.com/news/videos/2024-05-24/why-the-wealthy-are-fleeing-massachusetts-video</link>
-      <description><![CDATA[到 2030 年，马萨诸塞州每年的收入将损失近 10 亿美元，因为高额税收和住房成本迫使富裕居民迁往其他地方。这项研究的主要研究员、波士顿大学奎斯特罗姆商学院讲师马克·威廉姆斯在彭博电视台上解释了这一情况。]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-05-24/why-the-wealthy-are-fleeing-massachusetts-video</guid>
-      <pubDate>Fri, 24 May 2024 21:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oklo 首席执行官谈核电、上市和人工智能</title>
-      <link>https://www.bloomberg.com/news/videos/2024-05-24/oklo-ceo-on-nuclear-power-becoming-a-public-company-ai-video</link>
-      <description><![CDATA[Oklo 首席执行官杰克·德威特 (Jake DeWitte) 表示，核能是最安全的能源形式之一，消费者需要廉价且可靠的电力。德威特在彭博电视台发表讲话时还谈到了成为一家上市公司和利用人工智能。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-05-24/oklo-ceo-on-nuclear-power-becoming-a-public-company-ai-video</guid>
-      <pubDate>Fri, 24 May 2024 20:56:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
