@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 24 May 2024 11:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 11:25:31 GMT</lastBuildDate>
     <item>
       <title>西班牙的一些前殖民地越来越忽视它</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/milei-brawl-exposes-spain-s-dwindling-latin-american-influence</link>
@@ -22,12 +22,12 @@
     <item>
       <title>特朗普需要的不仅仅是咆哮才能把明尼苏达州变成红色</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/trump-s-plan-to-win-minnesota-faces-steep-odds</link>
-      <description><![CDATA[资金不足且四分五裂的州共和党面临着巨大的困难。]]></description>
+      <description><![CDATA[资金不足且四分五裂的共和党面临着巨大的困难。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/trump-s-plan-to-win-minnesota-faces-steep-odds</guid>
       <pubDate>Fri, 24 May 2024 10:30:20 GMT</pubDate>
     </item>
     <item>
-      <title>联合办公正在向郊区迁移</title>
+      <title>联合办公正在向郊区转移</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/without-wework-coworking-is-moving-to-the-suburbs</link>
       <description><![CDATA[由于 WeWork 已今非昔比，行业领导者 IWG 认为大城市以外的混合型工作者才是未来。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/without-wework-coworking-is-moving-to-the-suburbs</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>阿特拉斯耸耸肩，邦德抢走了英伟达的风头</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</link>
-      <description><![CDATA[AI 芯片制造商提升风险资产的举动到此为止。美联储仍然占上风。]]></description>
+      <description><![CDATA[人工智能芯片制造商提升风险资产的情况就到此为止了。美联储仍然占据上风。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</guid>
       <pubDate>Fri, 24 May 2024 04:05:34 GMT</pubDate>
     </item>
