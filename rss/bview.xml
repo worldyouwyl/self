@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 24 May 2024 04:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 04:35:45 GMT</lastBuildDate>
     <item>
       <title>阿特拉斯耸耸肩，邦德抢走了英伟达的风头</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</link>
@@ -36,7 +36,7 @@
     <item>
       <title>战争是英国夏季选举的核心</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/uk-july-4-election-rishi-sunak-puts-war-and-defense-at-heart-of-campaign</link>
-      <description><![CDATA[首相将在更加危险的世界中保护英国的问题作为竞选的中心主题是正确的。]]></description>
+      <description><![CDATA[首相把如何在更加危险的世界里保护英国作为这次活动的中心主题是正确的。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/uk-july-4-election-rishi-sunak-puts-war-and-defense-at-heart-of-campaign</guid>
       <pubDate>Fri, 24 May 2024 04:00:18 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 23 May 2024 21:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>报废汽车变得越来越容易</title>
+      <title>清理你的汽车变得越来越容易</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-totaled-as-repair-costs-rise-for-insurers-lwjqfu4u</link>
       <description><![CDATA[车辆变得越来越脆弱，而且维修成本也越来越高。对机械师不利，但对废品堆有利。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-totaled-as-repair-costs-rise-for-insurers-lwjqfu4u</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>台湾新总统的首次亮相充满危险</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/taiwan-s-new-president-gets-a-perilous-debut</link>
-      <description><![CDATA[在北京展示军事实力的同时，赖清德也在与国内反对派作斗争。]]></description>
+      <description><![CDATA[在北京展示军事实力的同时，赖清德还面临着国内反对派的斗争。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/taiwan-s-new-president-gets-a-perilous-debut</guid>
       <pubDate>Thu, 23 May 2024 19:00:18 GMT</pubDate>
     </item>
