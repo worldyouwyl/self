@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Fri, 24 May 2024 05:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 05:23:45 GMT</lastBuildDate>
     <item>
       <title>阿特拉斯耸耸肩，邦德抢走了英伟达的风头</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/bond-market-selloff-overshadows-nvidia-s-impressive-earnings</link>
@@ -29,7 +29,7 @@
     <item>
       <title>自动驾驶汽车正在开辟新的试验场</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</link>
-      <description><![CDATA[英国的新资金和监管可能会推动苦苦挣扎的技术向前发展。  ]]></description>
+      <description><![CDATA[英国的新资金和新法规可能会推动陷入困境的技术向前发展。 ]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/wayve-s-1-billion-and-uk-law-give-self-driving-cars-a-boost</guid>
       <pubDate>Fri, 24 May 2024 04:00:24 GMT</pubDate>
     </item>
@@ -48,21 +48,21 @@
       <pubDate>Thu, 23 May 2024 21:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>报废汽车越来越容易</title>
+      <title>清理你的汽车变得越来越容易</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-totaled-as-repair-costs-rise-for-insurers-lwjqfu4u</link>
       <description><![CDATA[车辆变得越来越脆弱，而且维修成本也越来越高。对机械师不利，但对废品堆有利。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-totaled-as-repair-costs-rise-for-insurers-lwjqfu4u</guid>
       <pubDate>Thu, 23 May 2024 20:55:45 GMT</pubDate>
     </item>
     <item>
-      <title>央行言论听够了吗？准备好迎接更多</title>
+      <title>听够央行言论了吗？准备迎接更多</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/central-bankers-are-getting-reading-to-talk-even-more</link>
       <description><![CDATA[货币政策负责人因其错误而处于前线。但向内转并不是解决问题的办法。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/central-bankers-are-getting-reading-to-talk-even-more</guid>
       <pubDate>Thu, 23 May 2024 20:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>台湾新总统首次亮相充满危险</title>
+      <title>台湾新总统的首次亮相充满危险</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-23/taiwan-s-new-president-gets-a-perilous-debut</link>
       <description><![CDATA[在北京展示军事实力的同时，赖清德也在与国内反对派作斗争。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-23/taiwan-s-new-president-gets-a-perilous-debut</guid>
