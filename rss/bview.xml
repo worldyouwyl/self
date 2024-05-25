@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sat, 25 May 2024 20:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 20:20:25 GMT</lastBuildDate>
     <item>
       <title>虚假科学研究是一个越来越难解决的问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-25/fake-science-generated-by-paper-mills-will-get-worse-with-ai</link>
-      <description><![CDATA[Wiley 决定关闭数家充斥着欺诈行为的期刊，这是一个重大举措，但这还不够。]]></description>
+      <description><![CDATA[威利决定砍掉几家充满欺诈行为的期刊，这是一个戏剧性的一步，但这还不够。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-25/fake-science-generated-by-paper-mills-will-get-worse-with-ai</guid>
       <pubDate>Sat, 25 May 2024 12:00:27 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>西班牙的一些前殖民地越来越忽视它</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/milei-brawl-exposes-spain-s-dwindling-latin-american-influence</link>
-      <description><![CDATA[西班牙与阿根廷的外交争端是其在拉丁美洲政治影响力萎缩的最新例子。]]></description>
+      <description><![CDATA[西班牙与阿根廷的外交争端是其在拉丁美洲政治影响力下降的最新例证。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/milei-brawl-exposes-spain-s-dwindling-latin-american-influence</guid>
       <pubDate>Fri, 24 May 2024 11:00:23 GMT</pubDate>
     </item>
