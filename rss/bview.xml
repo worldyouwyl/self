@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sat, 25 May 2024 15:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 15:31:46 GMT</lastBuildDate>
     <item>
-      <title>伪造科学研究是一个越来越难解决的问题</title>
+      <title>虚假科学研究是一个越来越难解决的问题</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-25/fake-science-generated-by-paper-mills-will-get-worse-with-ai</link>
       <description><![CDATA[Wiley 决定砍掉几家充满欺诈行为的期刊，这是一个戏剧性的一步，但这还不够。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-25/fake-science-generated-by-paper-mills-will-get-worse-with-ai</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>为什么印度不按数字来绘画？</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/india-election-issue-what-is-the-country-s-real-gdp-lwkt6mvs</link>
-      <description><![CDATA[随着该国大规模选举的继续，一个关于其“实际 GDP”的敏感问题出现了。]]></description>
+      <description><![CDATA[随着该国大规模选举的继续，其“实际 GDP”出现了一个敏感问题。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/india-election-issue-what-is-the-country-s-real-gdp-lwkt6mvs</guid>
       <pubDate>Fri, 24 May 2024 15:00:21 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 24 May 2024 12:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>我们仍然没有对足够的农民进行禽流感检测</title>
+      <title>我们仍未对足够多的农民进行禽流感检测</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/second-human-case-of-bird-flu-at-dairy-farms-requires-urgent-action</link>
       <description><![CDATA[全国只有 40 人接受了 H5N1 病毒检测。让我们明白这一点。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/second-human-case-of-bird-flu-at-dairy-farms-requires-urgent-action</guid>
