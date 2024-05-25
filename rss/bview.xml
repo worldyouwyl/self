@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博观点</title>
+    <title>彭博社观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Sat, 25 May 2024 09:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 10:07:42 GMT</lastBuildDate>
     <item>
       <title>分手热让江森自控和霍尼韦尔成为十字星</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/breakup-fever-puts-conglomerates-johnson-controls-and-honeywell-in-crosshairs</link>
@@ -29,7 +29,7 @@
     <item>
       <title>加州可能会破坏货运铁路网络</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-24/climate-regulation-california-may-break-the-railroad-network</link>
-      <description><![CDATA[旨在减少碳排放的善意计划可能会产生相反的效果 - 并可能削弱航运业。]]></description>
+      <description><![CDATA[一项旨在减少碳排放的善意计划可能会产生相反的效果——并可能削弱航运业。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-24/climate-regulation-california-may-break-the-railroad-network</guid>
       <pubDate>Fri, 24 May 2024 12:00:18 GMT</pubDate>
     </item>
