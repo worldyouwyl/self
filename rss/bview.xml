@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博社观点</title>
+    <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
     <description>彭博社观点</description>
-    <lastBuildDate>Tue, 28 May 2024 12:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 12:59:11 GMT</lastBuildDate>
+    <item>
+      <title>加密货币需要一点监管</title>
+      <link>https://www.bloomberg.com/opinion/articles/2024-05-28/regulate-crypto-even-libertarians-should-support-this-bill</link>
+      <description><![CDATA[众议院上周通过的一项法案将帮助美国数字货币市场与其他国家的市场竞争。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2024-05-28/regulate-crypto-even-libertarians-should-support-this-bill</guid>
+      <pubDate>Tue, 28 May 2024 12:55:18 GMT</pubDate>
+    </item>
     <item>
       <title>拜登的电动汽车关税将推迟重要的转型</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-28/biden-s-tariffs-on-china-evs-delay-clean-energy-worsen-climate-change</link>
@@ -15,7 +22,7 @@
     <item>
       <title>美国需要更多“捕食者”潜艇来阻止中国</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-28/america-needs-more-attack-submarines-to-stop-china</link>
-      <description><![CDATA[五角大楼表示，预算限制迫使其每年仅购买一艘弗吉尼亚级攻击艇。]]></description>
+      <description><![CDATA[五角大楼称，由于预算限制，其每年只能购买一艘弗吉尼亚级攻击艇。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-28/america-needs-more-attack-submarines-to-stop-china</guid>
       <pubDate>Tue, 28 May 2024 11:30:20 GMT</pubDate>
     </item>
@@ -48,9 +55,9 @@
       <pubDate>Tue, 28 May 2024 04:01:18 GMT</pubDate>
     </item>
     <item>
-      <title>摩根大通可以从摩根士丹利和曼联学到什么</title>
+      <title>摩根大通可以从摩根士丹利和曼联身上学到什么</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-05-28/what-jpmorgan-can-learn-from-morgan-stanley-and-manchester-united</link>
-      <description><![CDATA[杰米·戴蒙 (Jamie Dimon) 正在考虑辞去首席执行官职务后继续担任董事长。这可能并不明智。]]></description>
+      <description><![CDATA[杰米·戴蒙正在考虑卸任首席执行官后继续担任董事长。这可能不是明智之举。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-28/what-jpmorgan-can-learn-from-morgan-stanley-and-manchester-united</guid>
       <pubDate>Tue, 28 May 2024 04:00:25 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[但逮捕令、校园抗议和种族灭绝指控并非不可避免。这些都是内塔尼亚胡选择的直接结果。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-05-28/israeli-rafah-strike-netanyahu-leads-country-down-wrong-path-in-gaza</guid>
       <pubDate>Tue, 28 May 2024 04:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国市场并不害怕工党政府</title>
-      <link>https://www.bloomberg.com/opinion/articles/2024-05-28/uk-election-gilts-and-sterling-aren-t-afraid-of-a-labour-government</link>
-      <description><![CDATA[英国国债和英镑对凯尔·斯塔默 (Keir Starmer) 成为首相的前景感到放松。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2024-05-28/uk-election-gilts-and-sterling-aren-t-afraid-of-a-labour-government</guid>
-      <pubDate>Tue, 28 May 2024 04:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
