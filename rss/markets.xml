@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 30 May 2024 15:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 15:51:19 GMT</lastBuildDate>
+    <item>
+      <title>交易员报告标普 500 指数和道琼斯指数的实时定价问题</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-30/traders-reporting-live-pricing-issues-for-s-p-dow-jones-indices</link>
+      <description><![CDATA[交易员报告了标准普尔 500 指数和道琼斯工业平均指数的实时定价问题，自纽约时间上午 10:41 以来，这两个指数就没有显示过价格更新。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-30/traders-reporting-live-pricing-issues-for-s-p-dow-jones-indices</guid>
+      <pubDate>Thu, 30 May 2024 15:38:40 GMT</pubDate>
+    </item>
     <item>
       <title>KKR 220 亿欧元收购意大利电信交易获欧盟无条件批准</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-30/kkr-s-22-billion-telecom-italia-deal-wins-unconditional-eu-nod</link>
@@ -27,9 +34,9 @@
       <pubDate>Thu, 30 May 2024 14:45:41 GMT</pubDate>
     </item>
     <item>
-      <title>诺伊曼放弃收购后，WeWork 获准退出破产程序</title>
+      <title>WeWork 获准退出破产程序，摆脱诺伊曼遗产</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-30/wework-cleared-to-exit-bankruptcy-after-neumann-ends-buyout-bid</link>
-      <description><![CDATA[WeWork Inc. 获得破产法庭批准，摆脱数十亿美元的债务，从其办公空间组合中取消无利可图的租约，并留下其联合创始人亚当·诺伊曼的遗产。]]></description>
+      <description><![CDATA[WeWork Inc. 获得破产法庭批准，摆脱数十亿美元的债务，从其办公空间组合中取消无利可图的租约，并留下联合创始人亚当·诺伊曼的遗产。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-30/wework-cleared-to-exit-bankruptcy-after-neumann-ends-buyout-bid</guid>
       <pubDate>Thu, 30 May 2024 14:40:37 GMT</pubDate>
     </item>
@@ -39,13 +46,6 @@
       <description><![CDATA[周三，华尔街在向更快交易系统迈进的首次重大考验中表现出色，美国未能结算的证券交易比例基本保持稳定。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-30/trade-fails-are-steady-as-wall-street-adjusts-to-t-1-settlement</guid>
       <pubDate>Thu, 30 May 2024 13:50:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>南非在意外投票后维持利率不变</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-30/south-african-central-bank-holds-rates-in-shadow-of-election</link>
-      <description><![CDATA[在南非举行关键选举的第二天，南非央行做出了维持借贷利率不变的决议，这一决定符合人们普遍预期。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-30/south-african-central-bank-holds-rates-in-shadow-of-election</guid>
-      <pubDate>Thu, 30 May 2024 13:09:47 GMT</pubDate>
     </item>
     <item>
       <title>如果将 REIT 债务考虑在内，大银行的 CRE 敞口将上升 40%</title>
@@ -69,7 +69,7 @@
       <pubDate>Wed, 29 May 2024 23:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街对“双刃剑”数据的看法分歧：市场综述</title>
+      <title>股市下跌，债券上涨，受“双刃剑” GDP 数据推动：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-29/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[在最新一轮经济数据暗示经济势头放缓后，华尔街交易员推低了股票价格，推高了债券价格。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-29/stock-market-today-dow-s-p-live-updates</guid>
