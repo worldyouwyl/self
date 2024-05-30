@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 30 May 2024 19:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 20:08:25 GMT</lastBuildDate>
+    <item>
+      <title>苹果计划基于人工智能对 Siri 进行全面改造，以控制单个应用程序功能</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-30/apple-ios-18-siri-ai-update-will-let-users-control-features-in-apps-with-voice</link>
+      <description><![CDATA[据知情人士透露，苹果公司正计划以更先进的人工智能彻底改造其 Siri 虚拟助手，此举将允许用户通过语音控制单个应用程序的功能。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-30/apple-ios-18-siri-ai-update-will-let-users-control-features-in-apps-with-voice</guid>
+      <pubDate>Thu, 30 May 2024 19:54:45 GMT</pubDate>
+    </item>
     <item>
       <title>美国正在控制 Nvidia、AMD 对中东的 AI 芯片销售</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-30/us-officials-rein-in-ai-chip-sales-to-middle-east-by-nvidia-amd</link>
@@ -42,20 +49,6 @@
       <pubDate>Thu, 30 May 2024 17:00:18 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 改进了 Facebook 的 Feed 功能以抵御 TikTok 并赢回年轻用户</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-30/facebook-pushes-recommendations-to-rival-tiktok-win-back-young-adults</link>
-      <description><![CDATA[Facebook 母公司 Meta Platforms Inc. 过去几年一直在对其旗舰社交网络应用程序进行彻底改造，对人们的推送消息进行调整，以提供更广泛的帖子和视频，以抵御来自 TikTok 的竞争并赢回年轻用户。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-30/facebook-pushes-recommendations-to-rival-tiktok-win-back-young-adults</guid>
-      <pubDate>Thu, 30 May 2024 16:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>雷诺将在中国开发大量售价低于 20,000 欧元的电动汽车</title>
-      <link>https://www.bloomberg.com/news/articles/2024-05-30/renault-said-to-develop-sub-20-000-twingo-ev-in-china</link>
-      <description><![CDATA[据知情人士透露，雷诺汽车公司 (Renault SA) 将在中国开发大部分售价低于 20,000 欧元（21,700 美元）的 Twingo，此举是该制造商加快将平价电动汽车推向市场的举措之一。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-05-30/renault-said-to-develop-sub-20-000-twingo-ev-in-china</guid>
-      <pubDate>Thu, 30 May 2024 16:20:24 GMT</pubDate>
-    </item>
-    <item>
       <title>亚马逊获监管机构批准扩大美国无人机服务</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-30/amazon-to-expand-us-drone-service-after-getting-regulator-s-nod</link>
       <description><![CDATA[亚马逊公司的 Prime Air 无人机项目已获得美国监管机构的批准，允许设备在飞行员的视线之外飞行，从而增加飞行范围并让更多客户享受该服务。]]></description>
@@ -75,6 +68,13 @@
       <description><![CDATA[美国陆军与Palantir Technologies Inc. 签订了一份价值 4.8 亿美元的合同，用于一项名为 Maven 智能系统的项目。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-30/palantir-wins-480-million-ai-computer-vision-deal-with-us-army</guid>
       <pubDate>Thu, 30 May 2024 00:24:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>惠普 PC 销售恢复，股价创 2015 年分拆以来最大涨幅</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-29/hp-reports-increased-computer-sales-with-optimism-rising-for-ai-pcs</link>
+      <description><![CDATA[惠普公司 (HP Inc.) 公布其个人电脑销量两年来首次增长，创下 2015 年与姊妹公司惠普企业 (Hewlett Packard Enterprise) 分拆以来的最大涨幅，这是市场期待已久的反弹的乐观信号。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-29/hp-reports-increased-computer-sales-with-optimism-rising-for-ai-pcs</guid>
+      <pubDate>Wed, 29 May 2024 20:17:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
