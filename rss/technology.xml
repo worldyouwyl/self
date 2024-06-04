@@ -4,9 +4,23 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 04 Jun 2024 20:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 20:31:34 GMT</lastBuildDate>
     <item>
-      <title>HPE 报告称，受人工智能服务器推动，销售额超出预期</title>
+      <title>分析初创公司 AppsFlyer 寻求银行协助上市</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-04/analytics-startup-appsflyer-weighs-ipo-for-this-year</link>
+      <description><![CDATA[据知情人士透露，营销分析提供商 AppsFlyer 正在考虑首次公开募股 (IPO) 计划。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-04/analytics-startup-appsflyer-weighs-ipo-for-this-year</guid>
+      <pubDate>Tue, 04 Jun 2024 20:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔同意以 110 亿美元的价格将工厂 49% 的股份出售给阿波罗</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-04/intel-agrees-to-sell-49-of-factory-to-apollo-for-11-billion</link>
+      <description><![CDATA[英特尔公司同意以 110 亿美元的价格将其爱尔兰一家工厂的股份出售给阿波罗全球管理公司 (Apollo Global Management Inc.)，以帮助为其工厂网络的大规模扩张引入更多外部资金。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-04/intel-agrees-to-sell-49-of-factory-to-apollo-for-11-billion</guid>
+      <pubDate>Tue, 04 Jun 2024 20:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>HPE 报告称，人工智能服务器业务推动销售强劲</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-04/hpe-reports-sales-that-top-estimates-on-boost-from-ai-servers</link>
       <description><![CDATA[惠普企业公司 (Hewlett Packard Enterprise Co.) 公布的营收超出分析师预期，得益于用于处理人工智能工作的服务器销量大幅增长。该公司股价在盘后交易中上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-04/hpe-reports-sales-that-top-estimates-on-boost-from-ai-servers</guid>
@@ -15,7 +29,7 @@
     <item>
       <title>亚马逊工会提议加入卡车司机工会，尚待投票</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-04/amazon-labor-union-proposes-teamsters-affiliation-pending-vote</link>
-      <description><![CDATA[亚马逊工会已与国际卡车司机兄弟会建立联系，这种潜在的合作关系可能有助于这个新兴组织向亚马逊公司施压，要求其与纽约市仓库的工人签订合同。]]></description>
+      <description><![CDATA[亚马逊工会已与国际卡车司机兄弟会建立联系，这种潜在的合作伙伴关系可能有助于这个新兴组织向亚马逊公司施压，迫使其与纽约市仓库的工人签订合同。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-04/amazon-labor-union-proposes-teamsters-affiliation-pending-vote</guid>
       <pubDate>Tue, 04 Jun 2024 19:53:40 GMT</pubDate>
     </item>
@@ -42,23 +56,9 @@
       <pubDate>Tue, 04 Jun 2024 16:48:09 GMT</pubDate>
     </item>
     <item>
-      <title>英国《金融时报》风险投资部门投资加拿大科技和商业新闻网站</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-04/financial-times-venture-unit-invests-in-canadian-tech-and-business-news-site</link>
-      <description><![CDATA[加拿大商业和技术新闻出版物《Logic》从包括金融时报集团风险投资部门在内的一群投资者那里筹集了新的扩张资金。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-04/financial-times-venture-unit-invests-in-canadian-tech-and-business-news-site</guid>
-      <pubDate>Tue, 04 Jun 2024 16:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>思科将向人工智能初创企业投资 10 亿美元，助力行业蓬勃发展</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-04/cisco-to-invest-1-billion-in-ai-startups-to-capitalize-on-boom</link>
-      <description><![CDATA[思科系统公司计划向致力于“安全可靠”的人工智能服务的初创企业投资 10 亿美元，这是该公司力争在人工智能技术领域发挥更大作用的一部分。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-04/cisco-to-invest-1-billion-in-ai-startups-to-capitalize-on-boom</guid>
-      <pubDate>Tue, 04 Jun 2024 15:06:00 GMT</pubDate>
-    </item>
-    <item>
       <title>CrowdStrike 的高估值使其成为软件领域的异类</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-04/crowdstrike-s-steep-valuation-makes-it-outlier-in-software-space</link>
-      <description><![CDATA[CrowdStrike Holdings Inc. 的投资者在该网络安全公司下一份盈利报告中面临着不稳定的局面，因为该公司的高估值与软件股市场人气的迅速恶化形成鲜明对比。]]></description>
+      <description><![CDATA[CrowdStrike Holdings Inc. 的投资者在该网络安全公司下一份盈利报告中面临着不稳定的局面，因为该公司高昂的估值与软件股市场人气的迅速恶化形成鲜明对比。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-04/crowdstrike-s-steep-valuation-makes-it-outlier-in-software-space</guid>
       <pubDate>Tue, 04 Jun 2024 13:34:21 GMT</pubDate>
     </item>
