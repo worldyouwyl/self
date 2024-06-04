@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 04 Jun 2024 14:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 14:41:29 GMT</lastBuildDate>
     <item>
       <title>Evercore 的 Emanuel 表示 GameStop 和 Nvidia 引发的狂热令人担忧</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-06-04/nvidia-gamestop-frenzy-points-to-worrisome-froth-in-stocks-evercore-says</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[富国银行投资研究所的萨米尔·萨马纳 (Sameer Samana) 预计，市场可能要到 11 月大选之后才会创下新高。拉斐特学院的克里希纳·梅马尼 (Krishna Memani) 表示，资产价格的整体前景可能更高。他们在“彭博监视”节目中发表了讲话。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-04/markets-will-be-very-choppy-samana-says-video</guid>
       <pubDate>Tue, 04 Jun 2024 14:18:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>希腊航运老板称红海可能导致新鲜运费飙升</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-04/greek-shipping-boss-says-red-sea-may-cause-fresh-rate-spike</link>
+      <description><![CDATA[希腊船东埃万杰洛斯·马里纳基斯 (Evangelos Marinakis) 周二表示，如果红海胡塞武装的袭击持续造成运输中断，未来几个月集装箱和商品运输费率可能会上涨。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-04/greek-shipping-boss-says-red-sea-may-cause-fresh-rate-spike</guid>
+      <pubDate>Tue, 04 Jun 2024 14:12:54 GMT</pubDate>
     </item>
     <item>
       <title>五月就业报告为何表现糟糕？</title>
@@ -41,20 +48,6 @@
       <pubDate>Tue, 04 Jun 2024 13:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>美国生产的芯片的未来</title>
-      <link>https://www.bloomberg.com/news/videos/2024-06-04/the-future-of-chips-produced-in-the-us</link>
-      <description><![CDATA[《芯片战争》作者、塔夫茨大学国际史教授克里斯·米勒剖析了重振美国芯片制造业的斗争。他与大卫·威斯汀一起在《华尔街周刊》每日节目中报道。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-06-04/the-future-of-chips-produced-in-the-us</guid>
-      <pubDate>Tue, 04 Jun 2024 13:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行将要求部分德国银行提供更多商业房地产贷款拨备</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-04/ecb-to-demand-more-cre-loan-provisions-from-some-german-banks</link>
-      <description><![CDATA[欧洲央行将很快敦促几家德国银行增加应对房地产贷款违约的准备金，此举将削减这些银行的利润。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-04/ecb-to-demand-more-cre-loan-provisions-from-some-german-banks</guid>
-      <pubDate>Tue, 04 Jun 2024 13:14:59 GMT</pubDate>
-    </item>
-    <item>
       <title>兴登堡做空特朗普银行股票后，Axos 股价下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-04/axos-financial-shares-sink-after-hindenburg-issues-short-report</link>
       <description><![CDATA[Axos Financial Inc. 曾为包括前总统唐纳德·特朗普的纽约旗舰大厦在内的房地产提供贷款。在兴登堡研究公司 (Hindenburg Research) 表示由于该银行在有问题的商业房地产贷款方面存在风险，因此做空该股票后，该公司股价暴跌。]]></description>
@@ -62,18 +55,25 @@
       <pubDate>Tue, 04 Jun 2024 12:43:58 GMT</pubDate>
     </item>
     <item>
+      <title>交易所库存持续上升，铜价跌破 10,000 美元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-04/copper-rises-on-us-rate-cut-optimism-china-recovery-signs</link>
+      <description><![CDATA[由于交易商担心全球库存大幅增加和美国就业岗位数据疲软，强化了人们对美联储今年将能够降息的预期，铜价跌至每吨 10,000 美元以下。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-04/copper-rises-on-us-rate-cut-optimism-china-recovery-signs</guid>
+      <pubDate>Tue, 04 Jun 2024 05:26:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>OPEC+ 看跌情绪加深，油价跌至四个月低点</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-03/latest-oil-market-news-and-analysis-for-april-4</link>
+      <description><![CDATA[由于 OPEC+ 计划今年放松产量限制，加深了市场的看跌情绪，油价延续跌势，跌至 2 月份以来的最低水平。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-03/latest-oil-market-news-and-analysis-for-april-4</guid>
+      <pubDate>Mon, 03 Jun 2024 23:30:53 GMT</pubDate>
+    </item>
+    <item>
       <title>JOLTS 刺激美联储降息预期加速，美国国债价格上涨：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-03/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[数据显示劳动力市场进一步降温，增强了人们对美联储今年将能够降息的猜测，债券市场因此上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-03/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Mon, 03 Jun 2024 22:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>股票涨幅惨淡，做空者濒临灭绝</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-03/jim-chanos-leads-short-seller-retreat-after-markets-surge</link>
-      <description><![CDATA[由于看跌投资者面临各方面的威胁，押注股市下跌的业务正在萎缩。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-03/jim-chanos-leads-short-seller-retreat-after-markets-surge</guid>
-      <pubDate>Mon, 03 Jun 2024 21:00:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
