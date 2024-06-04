@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 04 Jun 2024 17:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 17:28:43 GMT</lastBuildDate>
     <item>
       <title>Databricks 收购初创公司 Tabular，以扩大其 AI 覆盖范围</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-04/databricks-to-buy-startup-tabular-in-effort-to-broaden-ai-reach</link>
@@ -50,16 +50,23 @@
     <item>
       <title>伦敦医院遭受网络攻击，影响输血</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-04/london-hospitals-hit-by-critical-incident-impacting-transfusions</link>
-      <description><![CDATA[一家负责管理输血和实验室服务的供应商遭遇勒索软件攻击，导致伦敦几家医院的服务中断。]]></description>
+      <description><![CDATA[一家负责管理输血和实验室服务的供应商遭遇勒索软件攻击，导致伦敦多家医院的服务中断。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-04/london-hospitals-hit-by-critical-incident-impacting-transfusions</guid>
       <pubDate>Tue, 04 Jun 2024 14:17:42 GMT</pubDate>
     </item>
     <item>
       <title>CoreWeave 出价约 10 亿美元收购 Core Scientific</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-04/coreweave-said-to-offer-to-buy-core-scientific-for-5-75-share</link>
-      <description><![CDATA[据知情人士透露，私有云计算提供商 CoreWeave Inc. 已提出以约 10 亿美元收购比特币矿商 Core Scientific Inc.。]]></description>
+      <description><![CDATA[据知情人士透露，私人持股的云计算提供商 CoreWeave Inc. 已提出以约 10 亿美元收购比特币矿商 Core Scientific Inc.。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-04/coreweave-said-to-offer-to-buy-core-scientific-for-5-75-share</guid>
       <pubDate>Tue, 04 Jun 2024 12:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅赛德斯和 Stellantis 暂停电动汽车电池工厂建设</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-04/mercedes-stellantis-pause-battery-plans-to-weigh-low-cost-cells</link>
+      <description><![CDATA[鉴于对价格仍然昂贵的电动汽车的需求放缓，Stellantis NV 和梅赛德斯-奔驰集团暂停了两家电动汽车电池厂的建设，并可能转向生产成本较低的电池。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-04/mercedes-stellantis-pause-battery-plans-to-weigh-low-cost-cells</guid>
+      <pubDate>Tue, 04 Jun 2024 11:28:30 GMT</pubDate>
     </item>
     <item>
       <title>与中国竞争日益激烈，前谷歌首席执行官资助欧洲顶级物理中心 CERN 的人工智能研究</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[在西方与中国之间的技术竞赛日益激烈之际，谷歌前首席执行官埃里克·施密特向欧洲顶尖粒子物理实验室捐款，预示着一种资助前沿研究的新方式。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-04/ex-google-ceo-funds-ai-research-at-europe-s-top-physics-hub-amid-china-rivalry</guid>
       <pubDate>Tue, 04 Jun 2024 10:54:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔首席执行官瞄准英伟达，争夺 AI 芯片主导地位</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-04/intel-ceo-fires-back-at-nvidia-in-battle-for-ai-chip-leadership</link>
-      <description><![CDATA[英特尔公司首席执行官帕特·基辛格在台湾台北国际电脑展上发表演讲，介绍他认为有助于扭转市场份额落后于同行（包括人工智能领导者英伟达公司）的新产品。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-04/intel-ceo-fires-back-at-nvidia-in-battle-for-ai-chip-leadership</guid>
-      <pubDate>Tue, 04 Jun 2024 04:09:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
