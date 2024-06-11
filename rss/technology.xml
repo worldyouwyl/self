@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 11 Jun 2024 04:51:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:08:31 GMT</lastBuildDate>
     <item>
       <title>让我们驾驭潮流</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-06-11/uk-s-tidal-power-can-heighten-green-energy-security</link>
@@ -13,7 +13,14 @@
       <pubDate>Tue, 11 Jun 2024 04:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>TECHnalysis：苹果将为 GenAI 的更广泛应用奠定基础</title>
+      <title>苹果供应商股价下跌，因人工智能活动缺乏亮点</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-11/apple-supplier-stocks-drop-as-ai-event-seen-lacking-wow-factor</link>
+      <description><![CDATA[苹果公司备受期待的全新人工智能功能的发布并未获得广泛好评，导致该公司一些主要亚洲供应商的股价下跌。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-11/apple-supplier-stocks-drop-as-ai-event-seen-lacking-wow-factor</guid>
+      <pubDate>Tue, 11 Jun 2024 03:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>TECHnalysis：苹果将为 GenAI 的更广泛应用做好准备</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-11/apple-to-stage-stage-for-broader-genai-usage-o-donnell-video</link>
       <description><![CDATA[TECHnalysis Research 总裁兼首席分析师 Bob O’Donnell 分享了他对 Apple Inc. 全球开发者大会的看法。Apple 揭开了人们期待已久的全新人工智能功能的神秘面纱，其中包括与 ChatGPT 制造商 OpenAI 的合作，并押注个性化和低调的技术方法将赢得客户。O’Donnell 在“彭博：中国秀”上发表讲话。]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-11/apple-to-stage-stage-for-broader-genai-usage-o-donnell-video</guid>
@@ -32,20 +39,6 @@
       <description><![CDATA[安斯泰来制药公司正在寻求在日本和欧洲批准眼科治疗药物 Izervay，以扩大销量，应对其顶级抗癌药物可能出现的收入下降。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-11/astellas-seeks-green-light-for-eye-drug-izervay-in-europe-japan</guid>
       <pubDate>Tue, 11 Jun 2024 01:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加坡航空为轻微湍流伤害提供 10,000 美元赔偿</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-11/singapore-air-offers-10-000-for-minor-injuries-after-turbulence</link>
-      <description><![CDATA[新加坡航空有限公司向上个月在航班遭遇严重颠簸而受轻伤的乘客提供 10,000 美元的赔偿。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-11/singapore-air-offers-10-000-for-minor-injuries-after-turbulence</guid>
-      <pubDate>Tue, 11 Jun 2024 01:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>《读卖新闻》：丰田的错误认证也违反了联合国规则</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-11/toyota-s-faulty-certifications-also-breach-un-rules-yomiuri</link>
-      <description><![CDATA[《读卖新闻》周二报道称，日本政府发现，丰田汽车公司多款车型存在的监管差异也违反了 62 个国家和地区采用的联合国标准。但报道未指明来源。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-11/toyota-s-faulty-certifications-also-breach-un-rules-yomiuri</guid>
-      <pubDate>Tue, 11 Jun 2024 00:58:43 GMT</pubDate>
     </item>
     <item>
       <title>台积电相对于中芯国际的溢价表明中国芯片基金面临挑战</title>
@@ -67,6 +60,13 @@
       <description><![CDATA[亿万富翁埃隆·马斯克表示，如果 OpenAI 的人工智能软件集成到操作系统层面，他将禁止苹果公司的设备进入他的公司，并称这种合作存在安全风险。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-10/elon-musk-to-ban-apple-devices-if-openai-is-integrated-into-os</guid>
       <pubDate>Mon, 10 Jun 2024 20:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 在苹果人工智能发布会上扮演次要角色</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-10/openai-plays-minor-role-in-apple-s-artificial-intelligence-event</link>
+      <description><![CDATA[苹果公司与 OpenAI 的合作筹备了数月，但在周一备受期待的开发者活动中才被简要提及，而这家 iPhone 制造商的自主研发技术成为了大部分关注的焦点。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-10/openai-plays-minor-role-in-apple-s-artificial-intelligence-event</guid>
+      <pubDate>Mon, 10 Jun 2024 20:28:57 GMT</pubDate>
     </item>
     <item>
       <title>苹果推出期待已久的 AI 工具，与 ChatGPT 合作</title>
