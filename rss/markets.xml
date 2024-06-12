@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 12 Jun 2024 19:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 19:17:46 GMT</lastBuildDate>
     <item>
       <title>美联储维持利率不变，称通胀“过高”</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-12/fed-holds-rates-steady-says-inflation-is-elevated</link>
@@ -15,9 +15,16 @@
     <item>
       <title>埃里安：美联储声明表面看来“过于鹰派”</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-12/el-erian-fed-statement-overly-hawkish-at-face-value</link>
-      <description><![CDATA[彭博观点撰稿人穆罕默德·埃里安 (Mohamed El-Erian) 表示，他认为美联储政策制定机构联邦公开市场委员会 (Federal Open Market Committee) 的最新声明并未完全反映彭博电视台最新发布的美国通胀数据。埃里安的观点仅代表他个人观点。]]></description>
+      <description><![CDATA[彭博观点撰稿人穆罕默德·埃里安 (Mohamed El-Erian) 表示，他认为美联储政策制定机构联邦公开市场委员会 (Federal Open Market Committee) 的最新声明并未完全反映彭博电视上公布的最新美国通胀数据。埃里安的观点仅代表他个人观点。]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-12/el-erian-fed-statement-overly-hawkish-at-face-value</guid>
       <pubDate>Wed, 12 Jun 2024 18:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储维持利率不变，华尔街降息梦想仍需等待</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-12/wall-street-s-rate-cut-dreams-have-to-wait-as-fed-stays-on-hold</link>
+      <description><![CDATA[美联储 (FED) 预计 2024 年仅降息一次，交易员们希望央行能更积极地降低借贷成本，华尔街周三面临现实的考验。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-12/wall-street-s-rate-cut-dreams-have-to-wait-as-fed-stays-on-hold</guid>
+      <pubDate>Wed, 12 Jun 2024 18:38:35 GMT</pubDate>
     </item>
     <item>
       <title>凯雷的 Bernasek 表示，“信贷市场强劲”</title>
@@ -27,18 +34,11 @@
       <pubDate>Wed, 12 Jun 2024 18:17:04 GMT</pubDate>
     </item>
     <item>
-      <title>许多人都希望看到抵押贷款利率下降：斯珀林</title>
-      <link>https://www.bloomberg.com/news/videos/2024-06-12/many-would-love-to-see-mortgage-rates-go-down-sperling-video</link>
-      <description><![CDATA[白宫高级顾问吉恩·斯珀林表示，许多人都希望看到抵押贷款减少，但创纪录的小企业申请则表明人们对经济充满信心。他在“彭博市场”节目中与索纳莉·巴萨克进行了交谈。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-06-12/many-would-love-to-see-mortgage-rates-go-down-sperling-video</guid>
-      <pubDate>Wed, 12 Jun 2024 18:05:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯雷准备在投资领域实现“多次”退出</title>
-      <link>https://www.bloomberg.com/news/videos/2024-06-12/carlyle-ready-to-make-a-number-of-exits-in-investments-video</link>
-      <description><![CDATA[凯雷集团美洲企业私募股权联席主管 Brian Bernasek 表示，随着私募股权交易市场反弹，凯雷集团正准备退出“大量”投资。他表示，强劲的信贷市场和稳定的利率是部分原因。他接受了彭博社 Sonali Basak 的采访。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-06-12/carlyle-ready-to-make-a-number-of-exits-in-investments-video</guid>
-      <pubDate>Wed, 12 Jun 2024 18:03:34 GMT</pubDate>
+      <title>道明银行称，罗杰斯-华纳交易后 Corus 股票可能一文不值</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-12/corus-shares-may-be-worthless-after-rogers-television-raid-td-says</link>
+      <description><![CDATA[TD Cowen 分析师表示，如果罗杰斯通讯公司 (Rogers Communications Inc.) 成功夺走华纳兄弟探索公司 (Warner Bros Discovery Inc.) 旗下频道的节目和商标交易，加拿大媒体公司 Corus Entertainment Inc. 的股价可能会跌至零。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-12/corus-shares-may-be-worthless-after-rogers-television-raid-td-says</guid>
+      <pubDate>Wed, 12 Jun 2024 16:27:32 GMT</pubDate>
     </item>
     <item>
       <title>Stifel 关闭卡尔加里办事处，削减多伦多银行家职位</title>
@@ -69,9 +69,9 @@
       <pubDate>Wed, 12 Jun 2024 05:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>鲍威尔讲话后股市上涨，债券收益率下跌：市场综述</title>
+      <title>鲍威尔讲话后标普 500 指数继续攀升：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-11/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[随着交易员们仔细研究杰罗姆·鲍威尔的讲话以寻找有关美联储下一步行动的更多线索，股市创下历史新高，债券收益率暴跌。]]></description>
+      <description><![CDATA[尽管美联储的预期更为保守，但其并未改变华尔街对今年利率将至少下降两次的押注，股市因此创下历史新高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-11/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Tue, 11 Jun 2024 22:44:58 GMT</pubDate>
     </item>
