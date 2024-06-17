@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博市场</title>
+    <title></title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 17 Jun 2024 17:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 17:51:56 GMT</lastBuildDate>
+    <item>
+      <title>私募股权公司大量举债，为投资者带来高风险回报</title>
+      <link>https://www.bloomberg.com/news/videos/2024-06-17/pe-firms-gorge-on-debt-for-a-risky-payoff-to-investors-video</link>
+      <description><![CDATA[养老金和捐赠基金等大型投资者从私人投资基金获得的资金比他们预期的要少。私募股权公司缓解流动性紧缩的一种方式是利用债务市场。NEPC 合伙人 Sarah Samuels 在“彭博市场”节目中告诉 Sonali Basak，事情的进展如下。（来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-06-17/pe-firms-gorge-on-debt-for-a-risky-payoff-to-investors-video</guid>
+      <pubDate>Mon, 17 Jun 2024 17:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>彭博公开赛 06/17/2024</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-17/bloomberg-the-open-06-17-2024</link>
@@ -53,13 +60,6 @@
       <description><![CDATA[在美国联邦贸易委员会指控先锋自然资源公司前负责人斯科特谢菲尔德试图与石油输出国组织勾结后，谢菲尔德聘请了华盛顿特区一家实力强大的游说公司。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-17/ex-pioneer-ceo-accused-of-opec-collusion-taps-dc-lobbying-firm</guid>
       <pubDate>Mon, 17 Jun 2024 16:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>EchoStar 的 Hughes 债权人聘请律师调查租赁交易</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-17/creditors-to-echostar-s-hughes-hire-lawyers-to-probe-lease-deal</link>
-      <description><![CDATA[据知情人士透露，休斯卫星系统公司 (Hughes Satellite Systems Corp.) 的一些债权人聘请了 Glenn Agre Bergman &amp; Fuentes 律师事务所来审查一项昂贵的租赁安排，他们称这项安排将现金从该部门转移到其母公司 EchoStar。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-17/creditors-to-echostar-s-hughes-hire-lawyers-to-probe-lease-deal</guid>
-      <pubDate>Mon, 17 Jun 2024 16:44:08 GMT</pubDate>
     </item>
     <item>
       <title>交易商押注夏季需求增长，油价延续周线涨势</title>
