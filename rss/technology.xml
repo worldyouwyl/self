@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 18 Jun 2024 15:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 15:23:53 GMT</lastBuildDate>
+    <item>
+      <title>美国立法者希望禁止芯片法案获胜者使用中国工具</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-18/lawmakers-look-to-bar-chips-act-winners-from-using-chinese-tools</link>
+      <description><![CDATA[美国立法者希望阻止获得联邦芯片制造基金的公司在政府支持的工厂使用中国制造的设备，这是限制北京对国内芯片生产影响的努力的一部分。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-18/lawmakers-look-to-bar-chips-act-winners-from-using-chinese-tools</guid>
+      <pubDate>Tue, 18 Jun 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Pritzker 选择 IBM 和 Discover 竞购联邦量子基金</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-18/pritzker-taps-ibm-discover-in-bid-for-federal-quantum-funds</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 18 Jun 2024 14:50:17 GMT</pubDate>
     </item>
     <item>
-      <title>红杉资本投资一家人工智能初创公司，实现工程任务自动化</title>
+      <title>红杉资本支持自动化工程任务的人工智能初创公司</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-18/sequoia-backs-ai-startup-that-automates-engineering-tasks</link>
       <description><![CDATA[Factory 正在使用 AI 帮助企业生成软件功能、审查代码和解决错误。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-18/sequoia-backs-ai-startup-that-automates-engineering-tasks</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>什么是模因股票狂潮？为何它们会失败？</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-18/gme-amc-about-meme-stock-frenzies-and-why-they-fizzle</link>
-      <description><![CDATA[有些股票容易突然上涨然后迅速下跌，这并不是因为它们的基础业务发生了变化，而是因为社交媒体人物的影响。自 5 月以来，GameStop Corp. 两次重新唤醒了“表情包股”的动物精神，而这都是由一位知名 Reddit 用户引发的，他在 2021 年引发了第一次狂热。今年的少数表情包时刻已经导致数十亿美元的股价波动——也让交易迟到的投资者蒙受了巨大损失。]]></description>
+      <description><![CDATA[有些股票容易突然上涨然后迅速下跌，这并不是因为它们的基础业务发生了变化，而是因为社交媒体人物的影响。自 5 月以来，GameStop Corp. 两次重新唤醒了“表情包股”的动物精神，而这都是由一位知名 Reddit 用户引发的，他在 2021 年引发了第一次狂热。今年的几次表情包事件已经导致数十亿美元的股价波动——也给交易迟到的投资者带来了巨大损失。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-18/gme-amc-about-meme-stock-frenzies-and-why-they-fizzle</guid>
       <pubDate>Tue, 18 Jun 2024 12:24:36 GMT</pubDate>
     </item>
@@ -36,16 +43,9 @@
     <item>
       <title>墨西哥支付独角兽 Clip 获 1 亿美元融资</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-18/mexico-payment-unicorn-clip-raises-100-million-in-funding-round</link>
-      <description><![CDATA[墨西哥支付初创公司 Clip 从摩根士丹利 Tactical Value 和另一家西海岸投资者处筹集了 1 亿美元。]]></description>
+      <description><![CDATA[墨西哥支付初创公司 Clip 从摩根士丹利 Tactical Value 和另一位西海岸投资者处筹集了 1 亿美元。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-18/mexico-payment-unicorn-clip-raises-100-million-in-funding-round</guid>
       <pubDate>Tue, 18 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>史蒂夫·科恩的 Point72 准备成立针对人工智能股票的新对冲基金</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-18/steve-cohen-s-point72-readies-new-hedge-fund-targeting-ai-stocks</link>
-      <description><![CDATA[据知情人士透露，史蒂夫科恩的 Point72 Asset Management 正寻求筹集约 10 亿美元，用于成立一个专注于人工智能的新型选股对冲基金。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-18/steve-cohen-s-point72-readies-new-hedge-fund-targeting-ai-stocks</guid>
-      <pubDate>Tue, 18 Jun 2024 11:50:27 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 内部人士趁股价上涨获利，股票销售额突破 7 亿美元</title>
@@ -55,18 +55,18 @@
       <pubDate>Tue, 18 Jun 2024 11:15:01 GMT</pubDate>
     </item>
     <item>
-      <title>Waabi 融资 2 亿美元，计划在 2025 年前部署无人驾驶卡车</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-18/waabi-raises-200-million-to-deploy-driverless-trucks-by-2025</link>
-      <description><![CDATA[自动驾驶初创公司 Waabi Innovation Inc. 已从 Uber Technologies Inc.、Nvidia Corp. 和沃尔沃 AB 的风险投资部门等投资者那里筹集了 2 亿美元，以支持其最早在 2025 年部署无人驾驶卡车。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-18/waabi-raises-200-million-to-deploy-driverless-trucks-by-2025</guid>
-      <pubDate>Tue, 18 Jun 2024 11:06:52 GMT</pubDate>
-    </item>
-    <item>
       <title>百思买为微软 AI 笔记本电脑发布会培训了 30,000 名员工</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-18/best-buy-bby-trains-thousands-before-microsoft-msft-ai-laptops-launch</link>
       <description><![CDATA[百思买公司 (Best Buy Co.) 正在准备推出今年最大的产品之一：人工智能计算机。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-18/best-buy-bby-trains-thousands-before-microsoft-msft-ai-laptops-launch</guid>
       <pubDate>Tue, 18 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国与印度访问期间重启敏感技术谈判</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-18/us-india-resume-talks-on-sensitive-technologies-during-visit</link>
+      <description><![CDATA[美印两国国家安全顾问在新德里举行会晤后发表的联合声明表示，两国在芯片、人工智能和太空等战略领域的合作仍在继续。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-18/us-india-resume-talks-on-sensitive-technologies-during-visit</guid>
+      <pubDate>Tue, 18 Jun 2024 06:37:09 GMT</pubDate>
     </item>
     <item>
       <title>华为在中国市场超越 iPhone，考虑应用商店收费</title>
