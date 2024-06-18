@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 18 Jun 2024 21:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 21:41:42 GMT</lastBuildDate>
+    <item>
+      <title>LendingTree 表示正在调查与 Snowflake 相关的可能数据泄露事件</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-18/lendingtree-says-it-s-probing-potential-snowflake-related-data-breach</link>
+      <description><![CDATA[在线借贷平台 LendingTree Inc. 正在调查其是否是针对云数据分析公司 Snowflake Inc. 客户的更大规模黑客攻击的受害者。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-18/lendingtree-says-it-s-probing-potential-snowflake-related-data-breach</guid>
+      <pubDate>Tue, 18 Jun 2024 21:27:43 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 的反弹和 TikTok 的撤资或禁令出价 | 彭博科技</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-18/nvidia-s-rally-and-tiktok-s-divest-or-ban-bid-bloomberg-technology</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 18 Jun 2024 20:48:26 GMT</pubDate>
     </item>
     <item>
-      <title>英国医院黑客称要求赎金 5000 万美元</title>
+      <title>英国医院黑客称已索要 5000 万美元赎金</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-18/uk-hospital-hackers-say-they-ve-demanded-50-million-in-ransom</link>
       <description><![CDATA[据该组织的代表称，一群讲俄语的黑客向英国一家实验室服务提供商索要 5000 万美元，以结束勒索软件攻击。此次攻击已导致伦敦医院的服务陷入数周的瘫痪。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-18/uk-hospital-hackers-say-they-ve-demanded-50-million-in-ransom</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>AMD 正在调查公司数据遭黑客攻击的指控</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-18/amd-is-investigating-claims-that-company-data-was-stolen-in-hack</link>
-      <description><![CDATA[全球第二大个人电脑处理器制造商美国超微半导体公司 (Advanced Micro Devices Inc.) 正在调查公司信息遭黑客攻击的事件。]]></description>
+      <description><![CDATA[全球第二大个人电脑处理器制造商美国超微半导体公司 (Advanced Micro Devices Inc.) 正在调查有关公司信息遭黑客攻击的事件。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-18/amd-is-investigating-claims-that-company-data-was-stolen-in-hack</guid>
       <pubDate>Tue, 18 Jun 2024 20:22:32 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[一名美国高级官员即将访问日本和荷兰，要求两国对中国半导体行业增加新的限制，包括其生产人工智能所需的高端存储芯片的能力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-18/us-to-seek-curbs-on-asml-tokyo-electron-support-for-china-s-ai-memory-chips</guid>
       <pubDate>Tue, 18 Jun 2024 16:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>牛市预期 Nvidia 估值接近 5 万亿美元，股价延续涨势</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-18/nvidia-nvda-extends-rally-as-bull-sees-valuation-nearing-5-trillion</link>
-      <description><![CDATA[英伟达公司 (Nvidia Corp.) 的股价在过去一年中飙升了 200% 以上，一位最看好的分析师预测，这家半导体巨头将延续涨势，在未来一年将其市值推高至近 5 万亿美元。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-18/nvidia-nvda-extends-rally-as-bull-sees-valuation-nearing-5-trillion</guid>
-      <pubDate>Tue, 18 Jun 2024 15:45:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
