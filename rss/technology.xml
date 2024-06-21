@@ -4,7 +4,21 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 21 Jun 2024 16:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 16:37:06 GMT</lastBuildDate>
+    <item>
+      <title>人工智能已经对全球电力系统造成严重破坏</title>
+      <link>https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/</link>
+      <description><![CDATA[全球正在快速增加人工智能数据中心，这给电网带来了巨大压力，并威胁到全球清洁能源目标。]]></description>
+      <guid>https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/</guid>
+      <pubDate>Fri, 21 Jun 2024 16:34:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果因监管问题不会在欧盟市场推出人工智能技术</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns</link>
+      <description><![CDATA[苹果公司 (Apple Inc.) 因担心欧盟监管机构试图控制大型科技公司而暂停向欧盟数亿消费者提供一系列新技术。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns</guid>
+      <pubDate>Fri, 21 Jun 2024 16:31:19 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 短暂成为顶级股票后市值缩水 2000 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-21/nvidia-sheds-200-billion-in-value-after-short-run-as-top-stock</link>
@@ -41,13 +55,6 @@
       <pubDate>Fri, 21 Jun 2024 14:54:38 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的人工智能涨势可能使其估值超越现实</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-21/apple-s-ai-rally-puts-valuation-at-risk-of-outpacing-reality</link>
-      <description><![CDATA[苹果公司创纪录的股价上涨引发了人们的怀疑，即其人工智能战略是否能证明其股价是合理的。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-21/apple-s-ai-rally-puts-valuation-at-risk-of-outpacing-reality</guid>
-      <pubDate>Fri, 21 Jun 2024 12:11:08 GMT</pubDate>
-    </item>
-    <item>
       <title>汽车经销商遭遇网络攻击，1.2 万亿美元市场陷入困境</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-21/car-dealer-chaos-arises-from-cyberattack-on-1-2-trillion-market</link>
       <description><![CDATA[凤凰城的一家经销商正在手写纸质合同，并靠猜测来衡量信誉。阿拉巴马州的一位吉普车主不断打电话询问更换零件何时有货。新泽西州的一户人家正在等待消息，看何时可以收到他们的新奥迪。]]></description>
@@ -57,23 +64,16 @@
     <item>
       <title>英国医院黑客声称发布被盗的 NHS 患者数据</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-21/uk-hospital-hackers-claim-to-publish-stolen-nhs-data</link>
-      <description><![CDATA[本月早些时候，网络犯罪分子声称对伦敦医院的黑客攻击负责，并公布了他们所称的在此次攻击中窃取的数据。]]></description>
+      <description><![CDATA[本月早些时候，网络犯罪分子声称对伦敦医院遭到黑客攻击，并公布了他们所称的在此次攻击中窃取的数据。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-21/uk-hospital-hackers-claim-to-publish-stolen-nhs-data</guid>
       <pubDate>Fri, 21 Jun 2024 07:10:33 GMT</pubDate>
     </item>
     <item>
-      <title>比亚迪墨西哥工厂将创造 10,000 个就业岗位</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-21/byd-mexico-plant-will-create-10-000-jobs-executive-says</link>
-      <description><![CDATA[比亚迪公司计划在墨西哥建厂，将创造约 10,000 个就业岗位，其规模将与墨西哥一些最大的汽车厂相当。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-21/byd-mexico-plant-will-create-10-000-jobs-executive-says</guid>
-      <pubDate>Fri, 21 Jun 2024 00:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客拍卖被盗的 LendingTree 消费者数据</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-20/hackers-auction-off-stolen-lendingtree-consumers-information</link>
-      <description><![CDATA[据知情人士透露，在 LendingTree Inc. 子公司 QuoteWizard 检测到 Snowflake Inc. 托管的云数据库受到未经授权的访问后，黑客正在出售有关该公司消费者的数据。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-20/hackers-auction-off-stolen-lendingtree-consumers-information</guid>
-      <pubDate>Thu, 20 Jun 2024 20:09:27 GMT</pubDate>
+      <title>美国司法部撤销对 TikTok 误导美国消费者的指控</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-20/doj-drops-tiktok-claims-raised-by-ftc-over-misleading-consumers</link>
+      <description><![CDATA[美国司法部撤销了针对字节跳动有限公司旗下 TikTok 的两项拟议指控之一，计划在今年晚些时候将消费者保护诉讼的重点放在儿童隐私上，而不是指控该视频共享平台在数据安全方面误导消费者。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-20/doj-drops-tiktok-claims-raised-by-ftc-over-misleading-consumers</guid>
+      <pubDate>Thu, 20 Jun 2024 22:06:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
