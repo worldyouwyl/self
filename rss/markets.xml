@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 27 Jun 2024 13:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 14:07:03 GMT</lastBuildDate>
     <item>
       <title>潜在的大西洋飓风即将与撒哈拉沙尘云发生碰撞</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-27/will-a-cloud-of-saharan-dust-kill-the-atlantic-s-next-hurricane</link>
@@ -36,16 +36,9 @@
     <item>
       <title>玻利维亚债券因政府遏制军事起义而反弹</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-27/bolivia-bonds-rebound-as-government-contains-military-uprising</link>
-      <description><![CDATA[军队攻占总统府数小时后，玻利维亚军队夺取政权的企图失败，玻利维亚美元债券于周四反弹。]]></description>
+      <description><![CDATA[在士兵冲击总统府几个小时后，玻利维亚军队夺取政权的企图失败，玻利维亚美元债券于周四反弹。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-27/bolivia-bonds-rebound-as-government-contains-military-uprising</guid>
       <pubDate>Thu, 27 Jun 2024 12:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界第二大可卡因生产国可卡因原料产量下降</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-27/production-of-cocaine-ingredient-falls-in-world-s-no-2-producer</link>
-      <description><![CDATA[秘鲁当局周三称，世界第二大可卡因生产国秘鲁的可卡因原料种植面积多年来首次下降。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-27/production-of-cocaine-ingredient-falls-in-world-s-no-2-producer</guid>
-      <pubDate>Thu, 27 Jun 2024 12:45:58 GMT</pubDate>
     </item>
     <item>
       <title>英伟达股价剧烈波动，人工智能反弹势头受关注</title>
@@ -64,16 +57,23 @@
     <item>
       <title>数据显示美联储高利率正在产生影响，债券价格上涨：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-26/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[最新一轮经济报告强化了人们对美联储今年将能够降息以防止经济进一步放缓的猜测，全球最大的债券市场因此上涨。]]></description>
+      <description><![CDATA[最新一轮经济报告强化了人们对美联储今年将能够降息以防止美国经济进一步放缓的猜测，全球最大的债券市场因此上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-26/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 26 Jun 2024 22:21:42 GMT</pubDate>
     </item>
     <item>
       <title>圣保罗水务公司股份出售仅吸引一名竞标者</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-26/sao-paulo-water-utility-s-privization-said-to-lure-single-bidder</link>
-      <description><![CDATA[巴西电力公司赤道能源公司 (Equatorial Energia SA) 成为竞购 Sabesp 关键股权的唯一竞标者，Sabesp 是一家水务公司，圣保罗州将通过数十亿美元的股票发行将其私有化。]]></description>
+      <description><![CDATA[巴西电力公司赤道能源公司 (Equatorial Energia SA) 成为竞购 Sabesp 大部分股权​​的唯一竞标者，Sabesp 是一家水务公司，圣保罗州将通过发行数十亿美元的股票将其私有化。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-26/sao-paulo-water-utility-s-privization-said-to-lure-single-bidder</guid>
       <pubDate>Wed, 26 Jun 2024 22:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>QuickTake：津巴布韦将通过黄金支持实现稳定货币</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-26/zimbabwe-s-new-zig-currency-how-does-it-work-and-can-it-last</link>
+      <description><![CDATA[在制定可信国家货币的最新努力中，津巴布韦用 ZWG（津巴布韦黄金的缩写）取代了其美元。新货币单位由央行持有的金条和外汇储备支持。总而言之，这是该国自 2008 年以来第六次尝试建立自己的货币，当时通胀率超过 5000 亿美元（国际货币基金组织估计）。这不仅使其变得一文不值，还使该货币单位成为全球笑柄：美国财政部]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-26/zimbabwe-s-new-zig-currency-how-does-it-work-and-can-it-last</guid>
+      <pubDate>Fri, 26 Apr 2024 09:32:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
