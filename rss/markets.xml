@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 28 Jun 2024 15:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 15:41:06 GMT</lastBuildDate>
     <item>
       <title>最高法院推翻雪佛龙裁决</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-28/supreme-court-overturns-chevron-ruling-video</link>
@@ -27,27 +27,6 @@
       <pubDate>Fri, 28 Jun 2024 14:43:53 GMT</pubDate>
     </item>
     <item>
-      <title>奈拉下跌，成为上半年表现最差的货币</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-28/naira-drop-makes-it-the-worst-performing-currency-in-first-half</link>
-      <description><![CDATA[尼日利亚奈拉兑美元连续第九天走弱，成为上半年表现最差的货币，原因是奈拉大幅贬值、美元流动性不足和市场波动阻碍了阻止其贬值的努力。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-28/naira-drop-makes-it-the-worst-performing-currency-in-first-half</guid>
-      <pubDate>Fri, 28 Jun 2024 14:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>耐克的销售预警导致摩根士丹利、摩根大通等暂停股票买入评级</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-28/nike-nke-sales-warning-leads-morgan-stanley-jpmorgan-and-more-to-downgrade</link>
-      <description><![CDATA[耐克公司 (Nike Inc.) 对未来一年业绩将放缓的警告，导致数名分析师撤回了对该股的买入评级，令华尔街对该股的前景展望跌至六年来的最低点。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-28/nike-nke-sales-warning-leads-morgan-stanley-jpmorgan-and-more-to-downgrade</guid>
-      <pubDate>Fri, 28 Jun 2024 14:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉投资者为股价大幅波动做好准备，主要催化剂即将到来</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-28/tesla-investors-brace-for-big-share-price-moves-as-major-catalysts-loom</link>
-      <description><![CDATA[特斯拉公司 (Tesla Inc.) 股价罕见的平静期即将结束，投资者将在未来六周内迎接三个关键事件，这些事件可能会再次引发这家电动汽车制造商股价经常出现的大幅波动。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-28/tesla-investors-brace-for-big-share-price-moves-as-major-catalysts-loom</guid>
-      <pubDate>Fri, 28 Jun 2024 14:06:10 GMT</pubDate>
-    </item>
-    <item>
       <title>微软 130 亿美元 OpenAI 协议面临欧盟额外审查</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-28/microsoft-s-13-billion-openai-pact-faces-extra-eu-scrutiny</link>
       <description><![CDATA[微软公司对 OpenAI Inc. 的 130 亿美元投资将受到欧盟反垄断监管机构的进一步审查，他们准备向竞争对手询问该人工智能公司是否独家使用微软的云技术。]]></description>
@@ -55,7 +34,28 @@
       <pubDate>Fri, 28 Jun 2024 10:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>Bharti Airtel 跟随 Reliance 涨价，上调印度移动套餐价格</title>
+      <title>华尔街警察 Finra 因案件数量大幅下降而停止巡逻</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-28/wall-street-cop-finra-goes-quiet-on-the-beat-as-its-caseload-plunges</link>
+      <description><![CDATA[圣诞节过后两天，一位著名的华尔街监管机构更新了数据库，其中包含业内关注的新闻：一家市值 1.4 万亿美元的经纪公司因涉嫌丢失近一百万笔交易的记录，被处以今年最大的罚款之一。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-28/wall-street-cop-finra-goes-quiet-on-the-beat-as-its-caseload-plunges</guid>
+      <pubDate>Fri, 28 Jun 2024 10:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗布斯塔咖啡价格上涨 40%，创 2008 年以来上半年最大涨幅</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-28/robusta-s-40-jump-marks-biggest-first-half-rally-since-2008</link>
+      <description><![CDATA[一份报告显示巴西的产量强于预期，导致原糖期货下跌，抹去了早前的涨幅。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-28/robusta-s-40-jump-marks-biggest-first-half-rally-since-2008</guid>
+      <pubDate>Fri, 28 Jun 2024 10:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>以太币超越比特币，Solana 押注加密货币 ETF 炒作</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-28/crypto-etf-hype-shifts-to-ether-eth-solana-sol-from-bitcoin-btc</link>
+      <description><![CDATA[随着围绕美国加密货币交易所交易基金的炒作转向两种较小的数字资产，比特币的表现开始被以太币和 Solana 代币所掩盖。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-28/crypto-etf-hype-shifts-to-ether-eth-solana-sol-from-bitcoin-btc</guid>
+      <pubDate>Fri, 28 Jun 2024 04:40:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bharti Airtel 随信实电信涨价上调印度移动套餐价格</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-28/bharti-raises-india-mobile-plan-prices-following-reliance-hike</link>
       <description><![CDATA[印度第三大电话运营商 Vodafone Idea 有限公司周五在一份声明中表示，该公司将从 7 月 4 日起与其竞争对手一起上调了移动套餐价格。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-28/bharti-raises-india-mobile-plan-prices-following-reliance-hike</guid>
@@ -69,7 +69,7 @@
       <pubDate>Thu, 27 Jun 2024 23:33:04 GMT</pubDate>
     </item>
     <item>
-      <title>市场综述：标普 500 指数突破 5,500 点，经济数据“近乎完美”</title>
+      <title>股市因“令人鼓舞”的经济信号而上涨：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-27/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[由于通胀降温的迹象增强了人们对美联储将在今年开始降息的预期，华尔街交易员推动股市创下历史新高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-27/stock-market-today-dow-s-p-live-updates</guid>
