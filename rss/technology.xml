@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 05 Jul 2024 04:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 04:51:20 GMT</lastBuildDate>
     <item>
       <title>TCS、HCL 盈利复苏或将因人工智能需求进一步推动</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-05/tcs-hcl-earnings-recovery-may-get-further-push-from-ai-demand</link>
@@ -29,7 +29,7 @@
     <item>
       <title>Netflix、派拉蒙向加拿大法院请求修改特鲁多新税</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-04/netflix-paramount-ask-canada-court-to-quash-trudeau-s-new-levy</link>
-      <description><![CDATA[美国流媒体服务巨头正在请求加拿大法院修改总理贾斯汀·特鲁多对其在加拿大的收入征收的 5% 的新税，以取消要求它们资助当地新闻的要求。]]></description>
+      <description><![CDATA[美国流媒体服务巨头正在请求加拿大法院修改总理贾斯汀·特鲁多对其在加拿大收入征收的 5% 新税，以取消必须资助当地新闻的要求。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-04/netflix-paramount-ask-canada-court-to-quash-trudeau-s-new-levy</guid>
       <pubDate>Thu, 04 Jul 2024 18:01:30 GMT</pubDate>
     </item>
@@ -46,6 +46,13 @@
       <description><![CDATA[由于未能打击危险内容，埃隆·马斯克的社交媒体平台 X 将受到正式警告，这是欧盟监管机构最近几周第三次对大型科技公司采取强硬措施。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-04/musk-s-x-to-get-final-eu-warning-over-dangerous-content</guid>
       <pubDate>Thu, 04 Jul 2024 17:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲央行行长西波隆称人工智能可以帮助央行，但需要保障措施</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-04/ecb-s-cipollone-says-ai-can-help-central-banks-needs-safeguards</link>
+      <description><![CDATA[欧洲央行执委会委员皮耶罗·西波洛内表示，人工智能可以为央行提供帮助，但其使用必须受到监控和适当的监督。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-04/ecb-s-cipollone-says-ai-can-help-central-banks-needs-safeguards</guid>
+      <pubDate>Thu, 04 Jul 2024 15:38:57 GMT</pubDate>
     </item>
     <item>
       <title>Meta 的 Threads 寻求相关性，成为马斯克 X 的真正竞争对手</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[尽管美国警告称将采取贸易报复措施，加拿大总理贾斯汀·特鲁多领导的政府仍批准对大型外国科技公司征收数字服务税。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-04/canada-enacts-digital-services-tax-despite-us-retaliation-threat</guid>
       <pubDate>Thu, 04 Jul 2024 02:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>贸易紧张局势升级，中国电动汽车捍卫欧洲市场份额</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-03/chinese-ev-brands-including-byd-saic-defend-europe-share-amid-trade-friction</link>
-      <description><![CDATA[在新一轮关税出台以保护本土汽车制造商免受低成本进口产品冲击之前，中国电动汽车品牌 5 月份在低迷的欧洲电动汽车市场中仍保住了自己的份额。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-03/chinese-ev-brands-including-byd-saic-defend-europe-share-amid-trade-friction</guid>
-      <pubDate>Wed, 03 Jul 2024 22:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
