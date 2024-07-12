@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 12 Jul 2024 09:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 09:31:02 GMT</lastBuildDate>
     <item>
       <title>日本央行报告显示，美国 CPI 数据公布后，日本出手干预，提振日元</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-12/boj-accounts-suggest-japan-intervened-to-boost-yen-after-us-cpi</link>
@@ -43,7 +43,7 @@
     <item>
       <title>普京与习近平会晤后俄罗斯从中国进口量再次上升</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-12/russian-imports-from-china-tick-up-again-after-putin-xi-meeting</link>
-      <description><![CDATA[尽管美国威胁实施二级制裁和限制莫斯科主要交易所导致俄罗斯外贸支付出现困难，但俄罗斯从中国的进口量6月份开始复苏。]]></description>
+      <description><![CDATA[尽管美国威胁实施二级制裁和限制莫斯科主要交易所导致俄罗斯外贸支付出现困难，但俄罗斯从中国的进口在6月份开始复苏。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-12/russian-imports-from-china-tick-up-again-after-putin-xi-meeting</guid>
       <pubDate>Fri, 12 Jul 2024 08:29:06 GMT</pubDate>
     </item>
@@ -53,13 +53,6 @@
       <description><![CDATA[在法国提前举行的选举中联手赢得最多席位的左翼政党正在努力联合起来推选总理候选人。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-12/french-left-struggles-to-unite-to-solve-prime-minister-puzzle</guid>
       <pubDate>Fri, 12 Jul 2024 08:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉推迟 Robotaxi 活动</title>
-      <link>https://www.bloomberg.com/news/videos/2024-07-12/tesla-delays-robotaxi-event-video</link>
-      <description><![CDATA[特斯拉将 Robotaxi 的发布时间推迟到 10 月，以留出更多时间制造更多原型车，随后股价下跌。彭博社的 Annabelle Droulers 报道。]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-07-12/tesla-delays-robotaxi-event-video</guid>
-      <pubDate>Fri, 12 Jul 2024 08:22:31 GMT</pubDate>
     </item>
     <item>
       <title>瑞银因担忧反弹而下调特斯拉评级，股价下跌</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[由于通胀降温增强了对美联储降息的押注，美国国债已经抹去了今年的跌幅，投资者目前转向生产者价格来确认通货紧缩趋势。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-12/treasuries-wipe-out-this-year-s-loss-as-traders-bet-on-rate-cuts</guid>
       <pubDate>Fri, 12 Jul 2024 05:06:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>进一步通胀数据公布前，金价稳定在 2,400 美元上方</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-12/gold-steadies-above-2-400-as-markets-boost-bets-on-fed-pivot</link>
+      <description><![CDATA[黄金价格稳定在每盎司 2,400 美元以上，交易商等待周五的生产者价格指数，以寻找有关可能降息的进一步线索。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-12/gold-steadies-above-2-400-as-markets-boost-bets-on-fed-pivot</guid>
+      <pubDate>Fri, 12 Jul 2024 00:54:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
