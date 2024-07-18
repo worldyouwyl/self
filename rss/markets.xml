@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 18 Jul 2024 09:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 09:51:13 GMT</lastBuildDate>
     <item>
       <title>祖马因南非选举叛乱接受非洲人国民大会听证会</title>
       <link>https://www.bloomberg.com/news/videos/2024-07-18/zuma-faces-anc-hearing-over-his-south-african-election-rebellion</link>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 18 Jul 2024 09:30:51 GMT</pubDate>
     </item>
     <item>
-      <title>通胀开始缓解后，孟加拉国维持关键政策利率不变</title>
+      <title>通胀开始缓解后，孟加拉国维持政策利率不变</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-18/bangladesh-holds-key-policy-rate-after-inflation-starts-to-ease</link>
       <description><![CDATA[孟加拉国央行维持关键政策利率不变，以支持经济增长并严格控制上个月刚刚开始缓解的通胀。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-18/bangladesh-holds-key-policy-rate-after-inflation-starts-to-ease</guid>
@@ -48,13 +48,6 @@
       <pubDate>Thu, 18 Jul 2024 09:24:17 GMT</pubDate>
     </item>
     <item>
-      <title>尼日利亚考虑对银行外汇利润征收一次性 50% 暴利税</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-18/nigeria-mulls-one-time-50-windfall-tax-on-bank-forex-profits</link>
-      <description><![CDATA[尼日利亚总统博拉·蒂努布计划对银行在去年奈拉贬值后因巨额货币收益而获得的暴利征收 50% 的一次性税。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-18/nigeria-mulls-one-time-50-windfall-tax-on-bank-forex-profits</guid>
-      <pubDate>Thu, 18 Jul 2024 08:56:51 GMT</pubDate>
-    </item>
-    <item>
       <title>欧洲股市波动，因欧洲央行会议前科技股继续下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-18/european-shares-rebound-from-tech-route-as-investors-await-ecb</link>
       <description><![CDATA[由于科技股周三进一步下跌，且投资者等待欧洲央行的利率决定，欧洲股市出现波动。]]></description>
@@ -62,18 +55,25 @@
       <pubDate>Thu, 18 Jul 2024 07:13:58 GMT</pubDate>
     </item>
     <item>
+      <title>法国准备举行大选后首次债券拍卖 结束财政担忧</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-18/france-readies-first-bond-auction-since-election-ends-fears-of-fical</link>
+      <description><![CDATA[本月初，法国大选以来首次债券拍卖需求旺盛，这一结果将有助于该国市场结束动荡时期。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-18/france-readies-first-bond-auction-since-election-ends-fears-of-fical</guid>
+      <pubDate>Thu, 18 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>马克龙临时政府已准备好长期执政法国</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-18/macron-s-caretaker-government-is-digging-in-for-the-long-haul</link>
+      <description><![CDATA[埃马纽埃尔·马克龙正在为在未来数月内以权力有限的看守政府来管理法国做准备，因为他将把法国推向未知的宪法领域。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-18/macron-s-caretaker-government-is-digging-in-for-the-long-haul</guid>
+      <pubDate>Thu, 18 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>美国原油库存再次下降，油价上涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-17/latest-oil-market-news-and-analysis-for-july-18</link>
       <description><![CDATA[由于美国原油库存连续第三周下降，油价创下一个月来最大单日涨幅，维持涨势。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-17/latest-oil-market-news-and-analysis-for-july-18</guid>
       <pubDate>Wed, 17 Jul 2024 23:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>台积电盈利超预期后纳斯达克有望小幅反弹：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-17/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[由于台湾半导体制造公司发布的乐观盈利报告帮助恢复了人们对该行业的信心，美国科技股本周的跌幅有望有所收窄。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-17/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Wed, 17 Jul 2024 22:17:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
