@@ -4,18 +4,25 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Jul 2024 17:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 17:34:22 GMT</lastBuildDate>
     <item>
-      <title>马斯克称，他已在系统中断后删除了 CrowdStrike</title>
+      <title>独立游戏开发商如何侥幸逃脱破产</title>
+      <link>https://www.bloomberg.com/news/newsletters/2024-07-19/how-one-indie-game-maker-narrowly-dodged-bankruptcy</link>
+      <description><![CDATA[Terrible Posture Games 从一个意想不到的来源获得了资金帮助：另一家独立开发商]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2024-07-19/how-one-indie-game-maker-narrowly-dodged-bankruptcy</guid>
+      <pubDate>Fri, 19 Jul 2024 17:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克称，在发生中断后，他已从系统中删除了 CrowdStrike</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/musk-says-he-s-deleted-crowdstrike-from-systems-after-outage</link>
-      <description><![CDATA[特斯拉公司首席执行官埃隆·马斯克表示，由于该网络安全公司发布的一次拙劣更新导致全球计算机系统崩溃，他已停止使用 CrowdStrike Holdings Inc. 软件。]]></description>
+      <description><![CDATA[特斯拉公司首席执行官埃隆·马斯克表示，由于该网络安全公司发布的一次失败的更新导致全球计算机系统崩溃，他已停止使用 CrowdStrike Holdings Inc. 的软件。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/musk-says-he-s-deleted-crowdstrike-from-systems-after-outage</guid>
       <pubDate>Fri, 19 Jul 2024 17:02:52 GMT</pubDate>
     </item>
     <item>
       <title>CrowdStrike 和全球 IT 中断的解释</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-microsoft-it-outage-what-caused-it-what-comes-next</link>
-      <description><![CDATA[7 月 19 日星期五，CrowdStrike Holdings Inc. 发生大规模 IT 故障，导致航班停飞、市场混乱、全球企业陷入混乱。CrowdStrike 股价一度下跌 15%。此次中断的影响预计将持续数天，而微软 Azure 云服务的一个看似无关的问题加剧了此次中断的影响。]]></description>
+      <description><![CDATA[7 月 19 日星期五，CrowdStrike Holdings Inc. 发生大规模 IT 故障，导致航班停飞、市场混乱，全球企业陷入混乱。CrowdStrike 股价一度下跌 15%。此次中断的影响预计将持续数天，而微软 Azure 云服务的一个看似无关的问题加剧了此次中断的影响。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-microsoft-it-outage-what-caused-it-what-comes-next</guid>
       <pubDate>Fri, 19 Jul 2024 16:40:20 GMT</pubDate>
     </item>
@@ -39,13 +46,6 @@
       <description><![CDATA[造成此次网络故障的网络安全公司 CrowdStrike Holdings Inc. 在周五的一份声明中表示，周五发生的全球 IT 故障导致所有受其影响的 Windows 计算机都需要手动重启。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-gaffe-forces-manual-reboot-of-computers-around-world</guid>
       <pubDate>Fri, 19 Jul 2024 15:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>私人信贷、银行竞相资助独家网络收购</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-19/private-credit-banks-compete-to-fund-exclusive-networks-buyout</link>
-      <description><![CDATA[知情人士透露，私人信贷基金和银行正在商谈提供高达 10 亿欧元（11 亿美元）的资金，用于资助对法国网络安全专家 Exclusive Networks SA 的潜在收购。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-19/private-credit-banks-compete-to-fund-exclusive-networks-buyout</guid>
-      <pubDate>Fri, 19 Jul 2024 14:17:38 GMT</pubDate>
     </item>
     <item>
       <title>全球 IT 崩溃使网络公司 CrowdStrike 成为焦点</title>
