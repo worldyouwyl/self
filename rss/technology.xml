@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Jul 2024 03:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 03:42:38 GMT</lastBuildDate>
+    <item>
+      <title>微软云服务问题扰乱航空旅行运营</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</link>
+      <description><![CDATA[微软公司正在调查周四晚间导致美国飞机停飞并扰乱航班运营的云服务中断事件，不过一些受影响的航空公司表示运营已经恢复。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</guid>
+      <pubDate>Fri, 19 Jul 2024 03:31:32 GMT</pubDate>
+    </item>
     <item>
       <title>日本麦当劳因系统故障关闭 30% 门店</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/mcdonald-s-in-japan-hit-by-systems-outage-closing-30-of-stores</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[印孚瑟斯公司 (Infosys Ltd.) 自 2023 年初以来首次上调了年度销售预测，反映出人们越来越希望人工智能等新兴趋势可能有助于扭转企业科技支出多年来的低迷局面。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-18/infosys-raises-sales-forecast-as-clients-boost-software-spending</guid>
       <pubDate>Thu, 18 Jul 2024 10:10:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>因日元担忧影响套利交易，拉丁美洲外汇继续下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-18/emerging-market-stocks-have-longest-selloff-in-year-on-tech-rout</link>
-      <description><![CDATA[受大宗商品价格下跌和日元即将走强的猜测影响，拉丁美洲货币周四继续下跌，削弱了套利交易的吸引力。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-18/emerging-market-stocks-have-longest-selloff-in-year-on-tech-rout</guid>
-      <pubDate>Thu, 18 Jul 2024 09:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
