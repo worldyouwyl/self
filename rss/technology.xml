@@ -4,11 +4,18 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Jul 2024 13:00:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 13:18:06 GMT</lastBuildDate>
+    <item>
+      <title>UPS 警告全球技术中断将导致快递延迟</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-19/ups-warns-of-delivery-delays-from-global-technology-outage</link>
+      <description><![CDATA[联合包裹服务公司 (United Parcel Service Inc.) 警告称，由于该公司正努力应对大规模 IT 故障带来的影响，包裹递送可能出现延误，此次故障正在颠覆市场并使全球各地的公司陷入瘫痪。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-19/ups-warns-of-delivery-delays-from-global-technology-outage</guid>
+      <pubDate>Fri, 19 Jul 2024 13:07:06 GMT</pubDate>
+    </item>
     <item>
       <title>全球 IT 崩溃使网络公司 CrowdStrike 成为焦点</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/global-it-collapse-puts-cyber-firm-crowdstrike-in-spotlight</link>
-      <description><![CDATA[导致航班停飞、市场混乱、全球企业运营受到影响的大规模 IT 故障的背后是一家网络安全公司：CrowdStrike Holdings Inc.]]></description>
+      <description><![CDATA[导致航班停飞、市场混乱、全球企业陷入瘫痪的大规模 IT 故障的背后是一家网络安全公司：CrowdStrike Holdings Inc.]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/global-it-collapse-puts-cyber-firm-crowdstrike-in-spotlight</guid>
       <pubDate>Fri, 19 Jul 2024 12:18:52 GMT</pubDate>
     </item>
@@ -27,9 +34,9 @@
       <pubDate>Fri, 19 Jul 2024 11:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>全球 IT 中断影响了英国各地的医生预约</title>
+      <title>从纽约到伦敦、巴黎的医院都遭遇技术故障</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/global-it-outage-is-hitting-doctor-appointments-across-the-uk</link>
-      <description><![CDATA[英国各地的医生就诊受到了全球计算机中断的影响，人们担心这种情况会给患者带来风险，并给本已陷入困境的国家医疗服务体系带来进一步的压力。]]></description>
+      <description><![CDATA[受全球数字中断影响，从航空旅行到紧急服务等重要资源陷入混乱，世界各地的卫生系统取消了相关程序，转而使用手写记录。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/global-it-outage-is-hitting-doctor-appointments-across-the-uk</guid>
       <pubDate>Fri, 19 Jul 2024 10:21:23 GMT</pubDate>
     </item>
@@ -48,13 +55,6 @@
       <pubDate>Fri, 19 Jul 2024 10:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>美国准备使用干扰设备攻击俄罗斯和中国卫星</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-19/us-space-force-prepares-jammers-to-blunt-russia-china-satellites</link>
-      <description><![CDATA[美国太空部队透露，美国即将部署一种新型地基干扰器，旨在阻止中国或俄罗斯卫星在冲突期间传输有关美军的信息。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-19/us-space-force-prepares-jammers-to-blunt-russia-china-satellites</guid>
-      <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>挪威银行称流动性运营问题已得到解决</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/norges-bank-reports-technical-problem-with-liquidity-operations</link>
       <description><![CDATA[挪威央行表示，已解决周五早些时候报告的影响其流动性运营的技术问题。]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>航空公司开始设法摆脱严重航班中断的影响</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/global-aviation-grinds-to-halt-as-united-delta-stop-operations</link>
-      <description><![CDATA[受全球范围的软件崩溃影响，航空公司当天开局一片混乱，数以千计的航班延误或取消，系统有可能在数天内陷入瘫痪，之后航空公司开始缓慢恢复部分运营。]]></description>
+      <description><![CDATA[在全球大规模软件崩溃之后，航空公司开始缓慢恢复部分运营，但数千个航班的延误或取消可能会持续数天。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/global-aviation-grinds-to-halt-as-united-delta-stop-operations</guid>
       <pubDate>Fri, 19 Jul 2024 08:22:20 GMT</pubDate>
     </item>
