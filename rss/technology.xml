@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Jul 2024 21:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 21:25:58 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 首席执行官的公关失误：未能立即道歉</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-crwd-ceo-s-pr-blunder-failing-to-say-sorry-right-away</link>
+      <description><![CDATA[CrowdStrike Holdings Inc. 首席执行官乔治·库尔茨 (George Kurtz) 合著了一本书，这本书被普遍称为计算机安全圣经。不过，在危机管理方面，他的观点不太可靠。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-crwd-ceo-s-pr-blunder-failing-to-say-sorry-right-away</guid>
+      <pubDate>Fri, 19 Jul 2024 21:17:25 GMT</pubDate>
+    </item>
     <item>
       <title>埃里森与派拉蒙达成交易后，甲骨文首席执行官离开迪士尼董事会</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/oracle-ceo-leaves-disney-board-after-ellisons-paramount-deal</link>
@@ -29,16 +36,9 @@
     <item>
       <title>摩根大通数千台 ATM 因全球 IT 中断而瘫痪</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/thousands-of-jpmorgan-chase-atms-down-in-global-it-outage</link>
-      <description><![CDATA[据知情人士透露，受全球 IT 中断影响，摩根大通公司上周五的数千台 ATM 机于下午 12 点瘫痪。]]></description>
+      <description><![CDATA[据知情人士透露，摩根大通公司上周五遭遇全球 IT 中断，数千台 ATM 机瘫痪。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/thousands-of-jpmorgan-chase-atms-down-in-global-it-outage</guid>
       <pubDate>Fri, 19 Jul 2024 19:43:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>诈骗者趁 CrowdStrike 失败之际准备黑客工具</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-07-19/scammers-pounce-on-crowdstrike-fail-prepping-hacking-tools</link>
-      <description><![CDATA[新域名在数小时内出现，旨在欺骗用户。]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-07-19/scammers-pounce-on-crowdstrike-fail-prepping-hacking-tools</guid>
-      <pubDate>Fri, 19 Jul 2024 19:08:46 GMT</pubDate>
     </item>
     <item>
       <title>Meta 因分享 WhatsApp 数据被尼日利亚罚款 2.2 亿美元</title>
@@ -46,13 +46,6 @@
       <description><![CDATA[WhatsApp 所有者 Meta Platforms Inc. 被尼日利亚反垄断机构罚款 2.2 亿美元，该机构称其隐私政策违反了数据和隐私法。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/nigeria-s-antitrust-agency-slaps-meta-with-220-million-fine</guid>
       <pubDate>Fri, 19 Jul 2024 18:08:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>增强现实初创公司 Magic Leap 裁减销售和营销团队</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-19/magic-leap-cuts-sales-marketing-teams-in-ar-about-face</link>
-      <description><![CDATA[据两位知情人士透露，曾经备受推崇的增强现实初创公司 Magic Leap Inc. 周四裁员约 75 人，包括整个销售和营销部门。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-19/magic-leap-cuts-sales-marketing-teams-in-ar-about-face</guid>
-      <pubDate>Fri, 19 Jul 2024 17:31:42 GMT</pubDate>
     </item>
     <item>
       <title>CrowdStrike 崩溃导致受影响的计算机手动重启</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[周五凌晨 3:30，加里·鲍洛斯醒来准备接受心脏直视手术，修复 8 处堵塞。肯塔基州帕迪尤卡医院打来电话，很快改变了他的计划。由于全球技术故障导致手术中断，手术将重新安排。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/global-it-outage-is-hitting-doctor-appointments-across-the-uk</guid>
       <pubDate>Fri, 19 Jul 2024 10:21:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 ATM 到航班，史诗级 IT 崩溃留下毁灭痕迹</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</link>
+      <description><![CDATA[周五，网络安全公司 CrowdStrike Holdings Inc. 的一次失败的软件更新导致全球无数 Microsoft Windows 计算机系统崩溃，这将成为全球有史以来最严重的 IT 故障。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</guid>
+      <pubDate>Fri, 19 Jul 2024 03:31:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
