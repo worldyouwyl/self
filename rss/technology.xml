@@ -4,7 +4,21 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Jul 2024 19:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 20:09:18 GMT</lastBuildDate>
+    <item>
+      <title>英国警方逮捕涉嫌米高梅度假村黑客攻击的 17 岁少年</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-19/uk-police-arrest-17-year-old-in-connection-to-mgm-resorts-hack</link>
+      <description><![CDATA[英国警方逮捕了一名英国青少年，他涉嫌参与一个黑客组织，该组织发动了一系列勒索软件攻击，其中包括去年破坏米高梅国际酒店集团 (MGM Resorts International) 赌场和酒店的攻击。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-19/uk-police-arrest-17-year-old-in-connection-to-mgm-resorts-hack</guid>
+      <pubDate>Fri, 19 Jul 2024 19:49:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通数千台 ATM 因全球 IT 中断而瘫痪</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-19/thousands-of-jpmorgan-chase-atms-down-in-global-it-outage</link>
+      <description><![CDATA[据知情人士透露，受全球 IT 中断影响，摩根大通公司上周五的数千台 ATM 机于下午 12 点瘫痪。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-19/thousands-of-jpmorgan-chase-atms-down-in-global-it-outage</guid>
+      <pubDate>Fri, 19 Jul 2024 19:43:33 GMT</pubDate>
+    </item>
     <item>
       <title>诈骗者趁 CrowdStrike 失败之际准备黑客工具</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-07-19/scammers-pounce-on-crowdstrike-fail-prepping-hacking-tools</link>
@@ -13,7 +27,7 @@
       <pubDate>Fri, 19 Jul 2024 19:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>尼日利亚反垄断机构对 Meta 处以 2.2 亿美元罚款</title>
+      <title>Meta 因分享 WhatsApp 数据被尼日利亚罚款 2.2 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/nigeria-s-antitrust-agency-slaps-meta-with-220-million-fine</link>
       <description><![CDATA[WhatsApp 所有者 Meta Platforms Inc. 被尼日利亚反垄断机构罚款 2.2 亿美元，该机构称其隐私政策违反了数据和隐私法。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/nigeria-s-antitrust-agency-slaps-meta-with-220-million-fine</guid>
@@ -34,11 +48,11 @@
       <pubDate>Fri, 19 Jul 2024 17:30:35 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克称，他已在系统中断后删除了 CrowdStrike</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-19/musk-says-he-s-deleted-crowdstrike-from-systems-after-outage</link>
-      <description><![CDATA[特斯拉公司首席执行官埃隆·马斯克表示，由于该网络安全公司发布的一次拙劣更新导致全球计算机系统崩溃，他已停止使用 CrowdStrike Holdings Inc. 软件。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-19/musk-says-he-s-deleted-crowdstrike-from-systems-after-outage</guid>
-      <pubDate>Fri, 19 Jul 2024 17:02:52 GMT</pubDate>
+      <title>CrowdStrike 崩溃导致受影响的计算机手动重启</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-gaffe-forces-manual-reboot-of-computers-around-world</link>
+      <description><![CDATA[造成此次网络故障的网络安全公司 CrowdStrike Holdings Inc. 在周五的一份声明中表示，周五发生的全球 IT 故障导致所有受其影响的 Windows 计算机都需要手动重启。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-gaffe-forces-manual-reboot-of-computers-around-world</guid>
+      <pubDate>Fri, 19 Jul 2024 15:19:53 GMT</pubDate>
     </item>
     <item>
       <title>全球 IT 故障让网络公司 CrowdStrike 备受关注</title>
@@ -55,25 +69,11 @@
       <pubDate>Fri, 19 Jul 2024 10:21:23 GMT</pubDate>
     </item>
     <item>
-      <title>航空公司努力应对 IT 危机，但影响越来越大</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-19/global-aviation-grinds-to-halt-as-united-delta-stop-operations</link>
-      <description><![CDATA[在全球大规模软件崩溃之后，航空公司开始缓慢恢复部分运营，但数千个航班的延误或取消可能会持续数天。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-19/global-aviation-grinds-to-halt-as-united-delta-stop-operations</guid>
-      <pubDate>Fri, 19 Jul 2024 08:22:20 GMT</pubDate>
-    </item>
-    <item>
       <title>航班和贸易中断后全球 IT 危机有所缓解</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</link>
       <description><![CDATA[网络安全公司 CrowdStrike Holdings Inc. 的一次失败的软件更新导致全球无数的 Microsoft Windows 计算机系统崩溃，这将成为全球有史以来最严重的 IT 故障。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</guid>
       <pubDate>Fri, 19 Jul 2024 03:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克的 Starlink 在饱受战争蹂躏的苏丹寻找官方经销商</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-18/musk-s-starlink-cleared-for-license-to-operate-in-south-sudan</link>
-      <description><![CDATA[据知情人士透露，埃隆·马斯克的 SpaceX 已寻求一家官方经销商来在苏丹运营其 Starlink 卫星互联网服务。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-18/musk-s-starlink-cleared-for-license-to-operate-in-south-sudan</guid>
-      <pubDate>Thu, 18 Jul 2024 19:04:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
