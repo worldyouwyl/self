@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 19 Jul 2024 23:51:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 00:32:03 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 故障导致美国联邦机构中断服务</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-20/us-federal-agencies-hit-in-outage-caused-by-crowdstrike-glitch</link>
+      <description><![CDATA[周五，CrowdStrike Holdings Inc. 发布的缺陷软件更新导致全球计算机网络中断，美国联邦机构也是受到大规模技术故障影响的机构之一。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-20/us-federal-agencies-hit-in-outage-caused-by-crowdstrike-glitch</guid>
+      <pubDate>Sat, 20 Jul 2024 00:20:30 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 的一次常规更新如何导致全球计算机崩溃</title>
       <link>https://www.bloomberg.com/news/features/2024-07-19/crowdstrike-outage-reveals-global-it-fragility-leaving-airports-banks-paralyzed</link>
@@ -48,13 +55,6 @@
       <pubDate>Fri, 19 Jul 2024 19:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>CrowdStrike 崩溃导致受影响的计算机手动重启</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-gaffe-forces-manual-reboot-of-computers-around-world</link>
-      <description><![CDATA[造成此次网络故障的网络安全公司 CrowdStrike Holdings Inc. 在周五的一份声明中表示，周五发生的全球 IT 故障导致所有受其影响的 Windows 计算机都需要手动重启。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-19/crowdstrike-gaffe-forces-manual-reboot-of-computers-around-world</guid>
-      <pubDate>Fri, 19 Jul 2024 15:19:53 GMT</pubDate>
-    </item>
-    <item>
       <title>全球 IT 故障让网络公司 CrowdStrike 备受关注</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/global-it-collapse-puts-cyber-firm-crowdstrike-in-spotlight</link>
       <description><![CDATA[导致航班停飞、市场混乱、全球企业陷入瘫痪的大规模 IT 故障的背后是一家网络安全公司：CrowdStrike Holdings Inc.]]></description>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 19 Jul 2024 08:22:20 GMT</pubDate>
     </item>
     <item>
-      <title>从 ATM 到航班，史诗级 IT 崩溃留下毁灭痕迹</title>
+      <title>从 ATM 到航班，史诗级 IT 崩溃留下一片混乱</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</link>
       <description><![CDATA[周五，网络安全公司 CrowdStrike Holdings Inc. 的一次失败的软件更新导致全球无数 Microsoft Windows 计算机系统崩溃，这将成为全球有史以来最严重的 IT 故障。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-19/microsoft-cloud-service-issues-disrupt-air-travel-operations</guid>
