@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 24 Jul 2024 15:24:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 15:31:34 GMT</lastBuildDate>
+    <item>
+      <title>比尔·杜德利的谨慎提醒日益谨慎的交易员</title>
+      <link>https://www.bloomberg.com/news/newsletters/2024-07-24/bill-dudley-s-new-economic-caution-speaks-to-increasingly-wary-traders</link>
+      <description><![CDATA[有迹象表明经济放缓正在加速]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2024-07-24/bill-dudley-s-new-economic-caution-speaks-to-increasingly-wary-traders</guid>
+      <pubDate>Wed, 24 Jul 2024 15:24:51 GMT</pubDate>
+    </item>
     <item>
       <title>爱沙尼亚计划将 GDP 的 4% 用于国防开支以遏制俄罗斯</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-24/estonia-targets-4-of-gdp-for-defense-spending-to-deter-russia</link>
@@ -41,25 +48,11 @@
       <pubDate>Wed, 24 Jul 2024 14:55:17 GMT</pubDate>
     </item>
     <item>
-      <title>纽约证券交易所 IPO 负责人 John Tuttle 离开交易所，转投 Acrisure</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-24/nyse-s-ipo-leader-john-tuttle-leaves-exchange-for-acrisure</link>
-      <description><![CDATA[约翰·塔特尔（John Tuttle）曾是纽约证券交易所的资深人士，曾帮助该交易所完成了一些著名的首次公开募股。在该公司工作了近二十年后，他将离职，加入一家金融科技公司。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-24/nyse-s-ipo-leader-john-tuttle-leaves-exchange-for-acrisure</guid>
-      <pubDate>Wed, 24 Jul 2024 14:42:53 GMT</pubDate>
-    </item>
-    <item>
       <title>杜德利加剧美联储降息猜测，美国国债收益率下滑</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-24/treasury-yields-slide-as-weak-data-bolster-bets-on-fed-rate-cuts</link>
       <description><![CDATA[由于市场猜测美联储官员将很快下调美国利率，两年期美国国债收益率跌至二月份以来的最低水平。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-24/treasury-yields-slide-as-weak-data-bolster-bets-on-fed-rate-cuts</guid>
       <pubDate>Wed, 24 Jul 2024 14:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯将在 2024 年至 2025 年期间延续 OPEC+ 补偿减产</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-24/russia-to-spread-opec-compensation-oil-cuts-through-2024-2025</link>
-      <description><![CDATA[俄罗斯计划在今年 10 月和 11 月以及 2025 年 3 月至 9 月期间额外削减原油产量，以弥补超过 OPEC+ 配额的产量。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-24/russia-to-spread-opec-compensation-oil-cuts-through-2024-2025</guid>
-      <pubDate>Wed, 24 Jul 2024 12:32:52 GMT</pubDate>
     </item>
     <item>
       <title>泰晤士水务公司削减垃圾处理业务，努力避免罚款</title>
@@ -69,11 +62,18 @@
       <pubDate>Wed, 24 Jul 2024 11:29:43 GMT</pubDate>
     </item>
     <item>
-      <title>市场担忧人工智能仍是“展示给我看”的故事，股市下跌：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-23/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[大型股收益季开局令人失望，引发人们猜测推动牛市的人工智能狂热仍需获得回报，股市受到重创。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-23/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Tue, 23 Jul 2024 23:18:06 GMT</pubDate>
+      <title>超强台风盖米导致台湾停电并袭击中国</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-24/taiwan-philippines-close-markets-as-typhoon-gaemi-floods-manila</link>
+      <description><![CDATA[由于超强台风盖美即将登陆人口稠密的台湾岛，台湾首都台北准备连续第二天关闭，预计可能造成 500 亿美元的损失。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-24/taiwan-philippines-close-markets-as-typhoon-gaemi-floods-manila</guid>
+      <pubDate>Wed, 24 Jul 2024 00:31:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国库存降至 2 月以来最低水平，油价小幅上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-23/latest-oil-market-news-and-analysis-for-july-24</link>
+      <description><![CDATA[政府报告显示美国原油库存跌至 2 月份以来的最低水平，油价小幅走高，从跌势中回升。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-23/latest-oil-market-news-and-analysis-for-july-24</guid>
+      <pubDate>Tue, 23 Jul 2024 23:24:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
