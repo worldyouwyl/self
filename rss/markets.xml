@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 30 Jul 2024 09:23:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 09:31:32 GMT</lastBuildDate>
     <item>
       <title>帝亚吉欧销售下滑</title>
       <link>https://www.bloomberg.com/news/videos/2024-07-30/diageo-tanks-on-sales-slump</link>
@@ -48,20 +48,6 @@
       <pubDate>Tue, 30 Jul 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>利率决定前欧洲股市因稳健数据走高</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-30/european-stocks-hold-steady-on-solid-data-before-rate-decisions</link>
-      <description><![CDATA[由于投资者评估该地区最大经济体的增长数据并等待本周晚些时候美国和英国央行的利率决定，欧洲股市小幅走高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-30/european-stocks-hold-steady-on-solid-data-before-rate-decisions</guid>
-      <pubDate>Tue, 30 Jul 2024 07:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国石油公司保持回购稳定，利润稳定后提高股息</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-30/bp-keeps-buyback-steady-raises-dividend-as-profit-stabilizes</link>
-      <description><![CDATA[英国石油公司 (BP Plc) 保持了股票回购步伐，并增加了股息，因为第二季度原油开采带来的强劲盈利抵消了其他业务部门的疲软。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-30/bp-keeps-buyback-steady-raises-dividend-as-profit-stabilizes</guid>
-      <pubDate>Tue, 30 Jul 2024 06:13:55 GMT</pubDate>
-    </item>
-    <item>
       <title>尽管德国经济意外下滑，欧元区经济增长仍超出预期</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-30/france-s-economic-growth-beats-forecasts-in-boost-for-euro-area</link>
       <description><![CDATA[欧元区经济第二季度增长超过预期，主要国家的强劲扩张使该地区摆脱了德国意外经济萎缩的影响。]]></description>
@@ -69,11 +55,25 @@
       <pubDate>Tue, 30 Jul 2024 05:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>市场综述：GDP 数据好坏参半，欧洲股市涨幅缩减</title>
+      <title>欧洲股市因 GDP 增长意外上涨：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-29/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[欧元区主要经济体公布的国内生产总值数据好坏参半，令人对经济复苏步伐产生怀疑，欧洲股市缩减涨幅。]]></description>
+      <description><![CDATA[欧元区第二季度经济增长超出预期，缓解了人们对经济复苏步伐的担忧，欧洲股市上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-29/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Mon, 29 Jul 2024 22:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际货币基金组织批准 34 亿美元计划后埃塞俄比亚债券价格飙升</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-29/imf-approves-3-4-billion-funding-program-for-ethiopia</link>
+      <description><![CDATA[国际货币基金组织同意在四年内向埃塞俄比亚提供 34 亿美元贷款作为经济改革计划的一部分，此后埃塞俄比亚违约的国际债券价格大幅上涨，这一关键举措预计也将有助于缓解与债权人就债务重组进行的谈判。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-29/imf-approves-3-4-billion-funding-program-for-ethiopia</guid>
+      <pubDate>Mon, 29 Jul 2024 19:06:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>顾问称美国是非洲最大的石油供应国</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-26/us-replaces-africa-as-global-oil-swing-supplier-consultant-says</link>
+      <description><![CDATA[咨询公司 Renaissance Energy Advisors 称，美国原油 WTI Midland 已取代西非石油，成为大西洋盆地和亚洲之间市场的摇摆供应国。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-26/us-replaces-africa-as-global-oil-swing-supplier-consultant-says</guid>
+      <pubDate>Fri, 26 Jul 2024 13:59:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
