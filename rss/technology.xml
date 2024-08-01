@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 01 Aug 2024 11:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 11:20:43 GMT</lastBuildDate>
     <item>
       <title>马斯克的 Deepfake“恶搞”引发令人不安的网络问题</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-08-01/musk-s-deepfake-parody-raises-troubling-online-issues</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[海伦·托纳 (Helen Toner) 正在美国首都树立起作为值得信赖的人工智能专家的声誉。]]></description>
       <guid>https://www.bloomberg.com/news/features/2024-08-01/dc-welcomes-ex-openai-board-member-after-sam-altman-drama</guid>
       <pubDate>Thu, 01 Aug 2024 11:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 收购生成式 AI 初创公司 Memorable AI</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-01/reddit-acquires-generative-ai-startup-memorable-ai</link>
+      <description><![CDATA[Reddit Inc. 正在收购 Memorable AI，这是一家利用生成人工智能帮助营销人员制作更好广告的初创公司，这是该公司自 3 月份上市以来的首次收购。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-01/reddit-acquires-generative-ai-startup-memorable-ai</guid>
+      <pubDate>Thu, 01 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>消费疲软影响前景，Worldline 股价跌至历史低点</title>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 31 Jul 2024 20:19:08 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 的乐观收益为 AI 赌注赢得回报</title>
+      <title>Meta 的乐观收益为 AI 投资带来回报</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-31/meta-reports-better-than-expected-quarterly-advertising-sales</link>
       <description><![CDATA[Meta Platforms Inc. 公布第二季度销售额好于预期，表明该公司在人工智能方面的投资正在帮助其销售更具针对性的广告。盘前交易中股价上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-31/meta-reports-better-than-expected-quarterly-advertising-sales</guid>
@@ -55,18 +62,11 @@
       <pubDate>Wed, 31 Jul 2024 20:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>移动市场复苏缓慢引发担忧，高通股价涨势受阻</title>
+      <title>移动市场复苏缓慢令高通股价涨势放缓</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-31/qualcomm-gives-bullish-forecast-after-phone-demand-perks-up</link>
       <description><![CDATA[全球最大的智能手机处理器销售商高通公司周三盘后股价出现回落，原因是投资者担心手机市场复苏速度低于投资者预期。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-31/qualcomm-gives-bullish-forecast-after-phone-demand-perks-up</guid>
       <pubDate>Wed, 31 Jul 2024 20:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利电信网络出售后利润上升，债务下降</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-31/telecom-italia-earnings-rise-on-enterprise-services-brazil-unit</link>
-      <description><![CDATA[意大利电信公司 (Telecom Italia SpA) 表示，在出售其固定电话网络后，其调整后收益增加，并重申削减债务的指导方针。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-31/telecom-italia-earnings-rise-on-enterprise-services-brazil-unit</guid>
-      <pubDate>Wed, 31 Jul 2024 19:33:34 GMT</pubDate>
     </item>
     <item>
       <title>美国考虑限制中国获取人工智能内存芯片</title>
