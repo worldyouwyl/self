@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 01 Aug 2024 16:29:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 16:40:25 GMT</lastBuildDate>
     <item>
       <title>英国央行贝利谈降息、通胀和英镑</title>
       <link>https://www.bloomberg.com/news/videos/2024-08-01/boe-s-bailey-on-rate-cut-inflation-and-the-pound</link>
@@ -43,16 +43,9 @@
     <item>
       <title>纽约养老金本财年上涨 10%，超过目标</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-01/new-york-city-pensions-gain-10-in-fiscal-year-beating-target</link>
-      <description><![CDATA[纽约市的五家养老金机构在上个财年大幅超额完成了投资目标，并有望因美国股市上涨而为纽约市节省数亿美元的缴款。]]></description>
+      <description><![CDATA[纽约市的五家养老金机构在上个财年大幅超额完成了投资目标，并有望因美国股市上涨而为纽约市节省数亿美元的缴费。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-01/new-york-city-pensions-gain-10-in-fiscal-year-beating-target</guid>
       <pubDate>Thu, 01 Aug 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>捷豹路虎将再投入 30 亿英镑进行改造，以应对电动汽车业务的缓慢转型</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-01/jlr-owner-tata-motors-beats-profit-forecast-on-luxury-suv-sales</link>
-      <description><![CDATA[英国豪华 SUV 制造商捷豹路虎计划再投入 30 亿英镑（38 亿美元）进行战略改革，以应对全球电动汽车转型放缓。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-01/jlr-owner-tata-motors-beats-profit-forecast-on-luxury-suv-sales</guid>
-      <pubDate>Thu, 01 Aug 2024 10:48:26 GMT</pubDate>
     </item>
     <item>
       <title>欧洲股市下跌，法国CAC 40指数进入回调</title>
@@ -62,6 +55,13 @@
       <pubDate>Thu, 01 Aug 2024 07:14:59 GMT</pubDate>
     </item>
     <item>
+      <title>安赛乐米塔尔对中国钢铁出口表示不满</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-01/arcelormittal-cries-foul-on-china-steel-exports-as-profit-falls</link>
+      <description><![CDATA[安赛乐米塔尔公司 (ArcelorMittal SA) 表示，中国的出口已使钢铁市场陷入“难以持续”的境地，该公司报告季度利润出现下滑。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-01/arcelormittal-cries-foul-on-china-steel-exports-as-profit-falls</guid>
+      <pubDate>Thu, 01 Aug 2024 05:10:50 GMT</pubDate>
+    </item>
+    <item>
       <title>需求担忧抑制中东局势升级 油价下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-31/latest-oil-market-news-and-analysis-for-aug-1</link>
       <description><![CDATA[由于美国经济放缓的迹象抵消了对中东冲突可能危及供应的担忧，油价在创下九个多月来最大涨幅后回落。]]></description>
@@ -69,9 +69,9 @@
       <pubDate>Wed, 31 Jul 2024 23:26:32 GMT</pubDate>
     </item>
     <item>
-      <title>“经济警告”导致美国债券收益率下降，股市受创：市场综述</title>
+      <title>市场综述：‘经济警告’导致美国债券收益率下降，股市受创</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-31/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[由于疲软的经济数据引发市场对美联储等待太长时间才开始降息的担忧，债券市场上涨，而股市受到打击。]]></description>
+      <description><![CDATA[疲软的经济数据引发市场对美联储等待太长时间才开始降息的担忧，导致债券价格上涨，而股市受到打击。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-31/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 31 Jul 2024 22:40:30 GMT</pubDate>
     </item>
