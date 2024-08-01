@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 01 Aug 2024 18:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 18:51:34 GMT</lastBuildDate>
     <item>
       <title>Etsy 首席执行官谈盈利和 AI 定制</title>
       <link>https://www.bloomberg.com/news/videos/2024-08-01/etsy-ceo-on-earnings-ai-customization-video</link>
@@ -43,9 +43,16 @@
     <item>
       <title>彭博监控 08/01/2024</title>
       <link>https://www.bloomberg.com/news/videos/2024-08-01/bloomberg-surveillance-08-01-2024</link>
-      <description><![CDATA[Jonathan Ferro、Lisa Abramowicz 和 Annmarie Hordern 每天都会与华尔街、华盛顿及其他地区的领导人和决策者进行交流。没有其他节目能比它更好地为投资者和高管做好交易日的准备。点击此处订阅免费的每日 Surveillance 时事通讯 - https://www.bloomberg.com/account/newsletters/surveillance（来源：彭博社）]]></description>
+      <description><![CDATA[Jonathan Ferro、Lisa Abramowicz 和 Annmarie Hordern 每天都会与华尔街、华盛顿及其他地区的领导人和决策者进行交流。没有其他项目能比它更好地为投资者和高管做好交易日的准备。点击此处订阅免费的每日 Surveillance 简报 - https://www.bloomberg.com/account/newsletters/surveillance（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-08-01/bloomberg-surveillance-08-01-2024</guid>
       <pubDate>Thu, 01 Aug 2024 17:57:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>BharCap 收购支付提供商 EMS 的多数股权</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-01/bharcap-partners-takes-majority-stake-in-payment-provider-ems</link>
+      <description><![CDATA[BharCap Partners 已同意收购支付技术提供商 Electronic Merchant Systems 的多数股权。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-01/bharcap-partners-takes-majority-stake-in-payment-provider-ems</guid>
+      <pubDate>Thu, 01 Aug 2024 15:48:25 GMT</pubDate>
     </item>
     <item>
       <title>嘉能可前石油主管亿万富翁被指控腐败</title>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 01 Aug 2024 14:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>秘鲁将在 2021 年以来首次发行欧洲债券，筹集 30 亿美元</title>
+      <title>秘鲁将于 2021 年以来首次发行欧洲债券，筹资 30 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-01/peru-returns-to-global-markets-with-first-eurobond-since-2021</link>
       <description><![CDATA[秘鲁重返国际市场，三年来首次发行硬通货债券，通过两笔交易测试投资者对其债务的兴趣。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-01/peru-returns-to-global-markets-with-first-eurobond-since-2021</guid>
@@ -78,16 +85,9 @@
     <item>
       <title>经济担忧引发债券热潮，股市下跌：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-31/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[疲软的经济数据引发市场对美联储等待太长时间才开始降息的担忧，导致债券价格上涨，而股市受到打击。]]></description>
+      <description><![CDATA[由于疲软的经济数据引发市场对美联储等待太长时间才开始降息的担忧，债券市场上涨，而股市受到打击。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-31/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 31 Jul 2024 22:40:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>收益丰厚的一天 | 彭博社：2024 年 7 月 30 日收盘</title>
-      <link>https://www.bloomberg.com/news/videos/2024-07-30/huge-day-of-earnings-bloomberg-the-close-07-30-2024</link>
-      <description><![CDATA[彭博电视台为您带来华尔街收盘前和收盘后最后几分钟和几秒的最新新闻和分析。今天的嘉宾有富国银行的 Michael Turrin、空客首席执行官 Guillaume Fauey、摩根大通的 Phoebe White、Envestnet 的 Dana D’Auria、Deepwater Asset Management 的 Doug Clinton、彭博新闻的 Ed Ludlow、彭博情报的 Anurag Rana、Wedbush Securities 的 Nick Stefan 和芝加哥大学的 Raghuram Rajan。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-07-30/huge-day-of-earnings-bloomberg-the-close-07-30-2024</guid>
-      <pubDate>Tue, 30 Jul 2024 23:33:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
