@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 05 Aug 2024 06:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 07:07:51 GMT</lastBuildDate>
+    <item>
+      <title>土耳其消费者通胀放缓速度创 2022 年以来新高</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-05/turkish-consumer-inflation-slows-at-sharpest-pace-since-2022</link>
+      <description><![CDATA[土耳其7月份整体通胀率出现近两年来最大幅度下降，这一放缓主要是由于基数效应，而官员们可能因为关注更直接的价格风险而忽视了这一效应。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-05/turkish-consumer-inflation-slows-at-sharpest-pace-since-2022</guid>
+      <pubDate>Mon, 05 Aug 2024 07:02:58 GMT</pubDate>
+    </item>
     <item>
       <title>伯克希尔减持近一半股份后，苹果供应商股价暴跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-05/apple-supplier-stocks-slump-after-berkshire-nearly-halves-stake</link>
@@ -41,11 +48,18 @@
       <pubDate>Mon, 05 Aug 2024 01:46:05 GMT</pubDate>
     </item>
     <item>
-      <title>全球股市暴跌加剧，纳斯达克期货暴跌：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-05/japanese-stocks-tumble-leading-equities-selloff-markets-wrap</link>
-      <description><![CDATA[由于人们越来越担心美联储对美国经济放缓的政策支持力度不够，周一全球股市抛售加剧，投资者纷纷转向安全的债券。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-05/japanese-stocks-tumble-leading-equities-selloff-markets-wrap</guid>
-      <pubDate>Mon, 05 Aug 2024 00:20:02 GMT</pubDate>
+      <title>恐慌性抛售让亚洲股市迎来严峻的里程碑</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-05/korea-s-kospi-index-plunges-takes-losses-from-july-peak-to-10</link>
+      <description><![CDATA[由于担心美国经济进一步放缓以及日本股市持续暴跌，投资者风险偏好减弱，亚洲股市大幅下跌，而权重科技股的大幅抛售令情况更加糟糕。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-05/korea-s-kospi-index-plunges-takes-losses-from-july-peak-to-10</guid>
+      <pubDate>Mon, 05 Aug 2024 00:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>信心崩塌，日本股市跌入熊市</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-05/japan-s-stock-rout-enters-third-day-with-nikkei-in-bear-market</link>
+      <description><![CDATA[由于投资者信心消失，日本东证股价指数从上月创下的历史高点下跌了 24%，日经 225 股票平均指数以日元计算出现最大单日跌幅。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-05/japan-s-stock-rout-enters-third-day-with-nikkei-in-bear-market</guid>
+      <pubDate>Mon, 05 Aug 2024 00:18:30 GMT</pubDate>
     </item>
     <item>
       <title>套利交易持续走低，比索、澳元下跌，日元和人民币上涨</title>
@@ -55,25 +69,11 @@
       <pubDate>Mon, 05 Aug 2024 00:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>比特币暴跌，以太币遭遇 2021 年以来最大跌幅，加密货币下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-04/bitcoin-btc-drops-below-59-000-after-worst-week-since-ftx-collapse</link>
-      <description><![CDATA[周一，加密货币受到全球市场避险情绪的冲击，比特币下跌超过 14%，排名第二的以太币则遭遇了 2021 年以来最大跌幅。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-04/bitcoin-btc-drops-below-59-000-after-worst-week-since-ftx-collapse</guid>
-      <pubDate>Sun, 04 Aug 2024 23:52:15 GMT</pubDate>
-    </item>
-    <item>
       <title>油价从七个月低点回落，因股市暴跌抵消了伊朗风险</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-04/latest-oil-market-news-and-analysis-for-aug-5</link>
       <description><![CDATA[由于中东地区紧张局势加剧，金融市场普遍出现抛售，交易员担心伊朗可能对以色列采取报复性打击，油价从七个月来的最低收盘价延续跌势。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-04/latest-oil-market-news-and-analysis-for-aug-5</guid>
       <pubDate>Sun, 04 Aug 2024 23:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Novo 的供应紧缩、德国的痛苦：欧洲、中东和非洲地区收益周展望</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-02/novo-s-supply-crunch-germany-s-pain-emea-earnings-week-ahead</link>
-      <description><![CDATA[欧洲最有价值的公司诺和诺德公司 (Novo Nordisk A/S) 可能在本周发布财报时跟随其他制药商上调业绩指引，因为该公司正竞相满足市场对其减肥药物 Wegovy 的巨大需求。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-02/novo-s-supply-crunch-germany-s-pain-emea-earnings-week-ahead</guid>
-      <pubDate>Fri, 02 Aug 2024 07:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
