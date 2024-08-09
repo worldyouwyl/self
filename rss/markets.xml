@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 09 Aug 2024 17:21:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 17:32:05 GMT</lastBuildDate>
     <item>
       <title>YPF 计划出售旗下子公司，加大页岩气业务的剥离力度</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-09/ypf-moves-to-sell-units-as-it-ramps-up-divestments-in-shale-push</link>
@@ -27,6 +27,13 @@
       <pubDate>Fri, 09 Aug 2024 16:51:30 GMT</pubDate>
     </item>
     <item>
+      <title>哈萨克斯坦对卡沙甘油田公司索赔金额上升至 1600 亿美元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-09/kazakh-claims-against-kashagan-oil-majors-rises-to-160-billion</link>
+      <description><![CDATA[据知情人士透露，哈萨克斯坦对开发卡沙甘油田的一批国际石油巨头提起的仲裁索赔金额已超过 1,600 亿美元，原因是该国指控一些交易涉及腐败。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-09/kazakh-claims-against-kashagan-oil-majors-rises-to-160-billion</guid>
+      <pubDate>Fri, 09 Aug 2024 16:48:48 GMT</pubDate>
+    </item>
+    <item>
       <title>彭博可持续商业峰会新加坡亮点</title>
       <link>https://www.bloomberg.com/news/videos/2024-08-09/bloomberg-sustainable-business-summit-singapore-highlights</link>
       <description><![CDATA[日益严格的 ESG 要求迫使企业在日益严格的审查、合规疲劳和激烈的全球竞争与商业价值之间寻找平衡。在新加坡举行的彭博可持续商业峰会上，企业领导者和投资者齐聚一堂，共同促进创新、解读可持续解决方案、推动利润等。（来源：彭博）]]></description>
@@ -34,25 +41,18 @@
       <pubDate>Fri, 09 Aug 2024 16:43:35 GMT</pubDate>
     </item>
     <item>
+      <title>克利夫兰拒绝新球馆计划 布朗体育场紧张局势加剧</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-09/browns-stadium-tensions-grow-as-cleveland-resists-new-arena-plan</link>
+      <description><![CDATA[由于体育场建设方案存在争议，克利夫兰有可能失去其长期效力的国家橄榄球联盟球队。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-09/browns-stadium-tensions-grow-as-cleveland-resists-new-arena-plan</guid>
+      <pubDate>Fri, 09 Aug 2024 16:43:17 GMT</pubDate>
+    </item>
+    <item>
       <title>萨默斯呼吁美国证券交易委员会和交易所调查周一 VIX 飙升事件</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-09/summers-calls-for-sec-exchanges-to-probe-monday-s-vix-surge</link>
       <description><![CDATA[美国前财政部长劳伦斯·萨默斯周一敦促美国证券交易委员会和相关交易所对美国金融波动率最受关注的指标历史性飙升进行调查。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-09/summers-calls-for-sec-exchanges-to-probe-monday-s-vix-surge</guid>
       <pubDate>Fri, 09 Aug 2024 16:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国央行称奥运会将推动法国经济增长</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-09/french-economy-latest-bank-of-france-says-paris-olympics-to-boost-growth</link>
-      <description><![CDATA[法国央行月度调查显示，巴黎奥运会将推动法国第三季度经济增长加速。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-09/french-economy-latest-bank-of-france-says-paris-olympics-to-boost-growth</guid>
-      <pubDate>Fri, 09 Aug 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着经济衰退担忧缓解，欧洲股市收复本周失地</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-09/european-stocks-rise-as-easing-recession-worries-boost-cyclicals</link>
-      <description><![CDATA[由于对美国经济可能陷入衰退的担忧逐渐消退，欧洲股市周五上涨，收复了本周的失地。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-09/european-stocks-rise-as-easing-recession-worries-boost-cyclicals</guid>
-      <pubDate>Fri, 09 Aug 2024 07:14:39 GMT</pubDate>
     </item>
     <item>
       <title>受乌克兰运输风险影响，欧洲天然气价格周度上涨</title>
@@ -69,9 +69,9 @@
       <pubDate>Fri, 09 Aug 2024 05:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>经过几天的动荡，股市以低迷收尾：市场综述</title>
+      <title>华尔街疯狂一周后股市小幅上涨：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-08/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[在市场波动加剧令投资者感到不安之后，市场疯狂的一周以股市低迷的走势结束。]]></description>
+      <description><![CDATA[市场疯狂的一周即将结束，在波动性飙升令投资者感到不安之后，股市试图找回一些支撑位。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-08/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Thu, 08 Aug 2024 22:20:57 GMT</pubDate>
     </item>
