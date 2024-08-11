@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Sun, 11 Aug 2024 19:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 19:17:56 GMT</lastBuildDate>
+    <item>
+      <title>伊拉克官员称降雨充沛，小麦产量增长 21%</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-11/iraq-wheat-production-up-21-official-says-amid-ample-rainfall</link>
+      <description><![CDATA[一位官员说，伊拉克今年的小麦产量达到 630 万吨，同比增长近 21%，这标志着伊拉克连续第二年实现粮食自给。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-11/iraq-wheat-production-up-21-official-says-amid-ample-rainfall</guid>
+      <pubDate>Sun, 11 Aug 2024 18:58:33 GMT</pubDate>
+    </item>
     <item>
       <title>调查提取巴西空难航班和语音数据</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-11/flight-voice-data-from-brazil-plane-crash-extracted-in-probe</link>
@@ -55,25 +62,18 @@
       <pubDate>Sun, 11 Aug 2024 10:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗新总统任命石油部长为内阁成员</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-11/iran-s-new-president-names-oil-minister-in-cabinet-rollout</link>
-      <description><![CDATA[据伊朗半官方的伊朗学生通讯社报道，伊朗国营国家石油公司前副手穆赫辛·帕克内贾德被任命为伊朗新任石油部长。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-11/iran-s-new-president-names-oil-minister-in-cabinet-rollout</guid>
-      <pubDate>Sun, 11 Aug 2024 09:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里斯支持取消小费税，采纳特朗普喜欢的想法</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-11/harris-backs-ending-taxes-on-tips-adopting-idea-trump-floated</link>
-      <description><![CDATA[副总统卡马拉·哈里斯表示，她将寻求取消服务行业工人的小费收入税——这与她的 2024 年竞争对手共和党人唐纳德·特朗普提出的一项提议相一致，旨在争取年轻人和工薪阶层选民。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-11/harris-backs-ending-taxes-on-tips-adopting-idea-trump-floated</guid>
-      <pubDate>Sun, 11 Aug 2024 02:50:33 GMT</pubDate>
-    </item>
-    <item>
       <title>印度证券交易委员会主席否认兴登堡与阿达尼存在利益冲突</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-10/hindenburg-alleges-indian-regulator-s-chair-has-adani-conflict</link>
       <description><![CDATA[兴登堡研究公司 (Hindenburg Research) 指责印度市场监管机构主席存在利益冲突，称这阻碍了对阿达尼集团的操纵和欺诈指控进行彻底调查，而她对此予以坚决否认。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-10/hindenburg-alleges-indian-regulator-s-chair-has-adani-conflict</guid>
       <pubDate>Sat, 10 Aug 2024 21:15:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国通胀小幅上升不会阻止美联储 9 月份降息</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-10/fed-rate-cuts-small-us-inflation-pickup-won-t-derail-a-september-move</link>
+      <description><![CDATA[美国通胀率七月份可能略有上升，但不足以阻止美联储下个月普遍预期的降息。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-10/fed-rate-cuts-small-us-inflation-pickup-won-t-derail-a-september-move</guid>
+      <pubDate>Sat, 10 Aug 2024 20:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
