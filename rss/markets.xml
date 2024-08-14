@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 14 Aug 2024 07:31:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 07:41:12 GMT</lastBuildDate>
     <item>
       <title>3 分钟市场概览：疲软通胀数据提振看涨观点</title>
       <link>https://www.bloomberg.com/news/videos/2024-08-14/soft-inflation-prints-boost-bullish-views-3-minute-mliv-video</link>
@@ -13,9 +13,16 @@
       <pubDate>Wed, 14 Aug 2024 07:14:43 GMT</pubDate>
     </item>
     <item>
+      <title>有消息称中国恒力集团计划将船舶制造业务在香港上市</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-14/china-s-hengli-group-said-to-plan-hong-kong-ipo-of-shipbuilding-unit</link>
+      <description><![CDATA[据知情人士透露，中国恒力集团正考虑让其船舶制造子公司在香港进行首次公开​​募股 (IPO)。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-14/china-s-hengli-group-said-to-plan-hong-kong-ipo-of-shipbuilding-unit</guid>
+      <pubDate>Wed, 14 Aug 2024 07:09:53 GMT</pubDate>
+    </item>
+    <item>
       <title>瑞银的埃尔莫蒂认为市场存在“脆弱因素”</title>
       <link>https://www.bloomberg.com/news/videos/2024-08-14/ubs-ermotti-sees-some-elements-of-fragility-in-markets-video</link>
-      <description><![CDATA[“波动幅度之大应该让人们仔细考虑是否要进行适当的分散投资，并仔细考虑投资方式。”瑞银集团首席执行官塞尔吉奥·埃尔莫蒂在苏黎世接受弗朗辛·拉夸采访时谈到了 8 月 5 日的抛售。“事实上，我们基本上在一两周内就收回了所有损失，在我看来，这不能被视为一个暂时的问题，”埃尔莫蒂补充道。]]></description>
+      <description><![CDATA[“波动幅度之大应该让人们仔细考虑是否要进行适当的分散投资，并仔细考虑投资方式。”瑞银集团首席执行官塞尔吉奥·埃尔莫蒂在苏黎世接受弗朗辛·拉夸采访时谈到了 8 月 5 日的抛售。“事实上，我们基本上在一两周内就收回了所有损失，在我看来，这不能被视为暂时的问题，”埃尔莫蒂补充道。]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-08-14/ubs-ermotti-sees-some-elements-of-fragility-in-markets-video</guid>
       <pubDate>Wed, 14 Aug 2024 07:07:46 GMT</pubDate>
     </item>
@@ -27,13 +34,6 @@
       <pubDate>Wed, 14 Aug 2024 07:06:20 GMT</pubDate>
     </item>
     <item>
-      <title>南非失业率创两年新高</title>
-      <link>https://www.bloomberg.com/news/videos/2024-08-14/south-africa-jobless-rate-at-two-year-high-video</link>
-      <description><![CDATA[南非第二季度失业率意外上升至2022年以来的最高水平，截至6月的三个月内达到33.5%，而上一季度为32.9%。南非统计局公布的数据显示，贸易和农业部门在此期间失业人数最多。彭博社的詹妮弗·扎巴萨贾在约翰内斯堡报道。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-08-14/south-africa-jobless-rate-at-two-year-high-video</guid>
-      <pubDate>Wed, 14 Aug 2024 06:39:43 GMT</pubDate>
-    </item>
-    <item>
       <title>交易员充分预期英国央行今年将再降息两次</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-14/traders-fully-price-two-more-boe-rate-cuts-this-year-after-cpi</link>
       <description><![CDATA[在数据显示通胀增速低于预期后，交易员增加了对英国央行今年降息的押注，完全预期英国央行将再降息两次，每次降息25个基点。]]></description>
@@ -43,7 +43,7 @@
     <item>
       <title>瑞典通胀数据令瑞典央行维持降息预期</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-14/swedish-core-inflation-exceeds-forecasts-ahead-of-rate-decision</link>
-      <description><![CDATA[瑞典核心通胀率的降幅略低于预期，但这一数据不太可能影响押注央行下周降低借贷成本的市场。]]></description>
+      <description><![CDATA[瑞典核心通胀率降幅略低于预期，但这一数据不太可能影响押注央行下周降低借贷成本的市场。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-14/swedish-core-inflation-exceeds-forecasts-ahead-of-rate-decision</guid>
       <pubDate>Wed, 14 Aug 2024 06:19:08 GMT</pubDate>
     </item>
@@ -55,11 +55,11 @@
       <pubDate>Wed, 14 Aug 2024 06:05:59 GMT</pubDate>
     </item>
     <item>
-      <title>电价下跌导致 RWE 上半年盈利下降</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-14/rwe-s-first-half-earnings-drop-after-decline-in-power-prices</link>
-      <description><![CDATA[德国最大的电力生产商 RWE AG 的 2024 年上半年收益较上年同期下降了近三分之一，原因是电价下跌对业绩造成了影响。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-14/rwe-s-first-half-earnings-drop-after-decline-in-power-prices</guid>
-      <pubDate>Wed, 14 Aug 2024 05:00:19 GMT</pubDate>
+      <title>随着欧洲电气化，EON 加大电网支出</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-14/eon-boosts-spending-on-energy-transition-as-europe-electrifies</link>
+      <description><![CDATA[随着德国公用事业公司 EON SE 扩建庞大的电缆网络以推动能源转型，该公司上半年的投资增加了 20% 以上。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-14/eon-boosts-spending-on-energy-transition-as-europe-electrifies</guid>
+      <pubDate>Wed, 14 Aug 2024 05:00:48 GMT</pubDate>
     </item>
     <item>
       <title>全球最大钢铁生产商警告行业危机“严重”</title>
@@ -71,7 +71,7 @@
     <item>
       <title>美国 CPI 数据公布前股市上涨；英镑走弱：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-13/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[欧洲股市跟随亚洲股市上涨，因市场押注周三公布的美国消费者价格报告将促使美联储在 9 月份开始降息。]]></description>
+      <description><![CDATA[欧洲股市追随亚洲股市的上涨，因市场押注周三公布的美国消费者价格报告将促使美联储在 9 月份开始降息。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-13/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Tue, 13 Aug 2024 22:30:44 GMT</pubDate>
     </item>
