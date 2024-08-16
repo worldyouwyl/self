@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 16 Aug 2024 13:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 13:51:15 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 暂停亚马逊送货车生产</title>
+      <link>https://www.bloomberg.com/news/videos/2024-08-16/rivian-pauses-amazon-delivery-van-output</link>
+      <description><![CDATA[Rivian 因零部件短缺暂停了为亚马逊公司生产的电动商用货车的生产。该公司位于伊利诺伊州诺默尔的工厂于本月初开始暂时停产。彭博电视台的 Ed Ludlow 对此进行了报道。（来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-08-16/rivian-pauses-amazon-delivery-van-output</guid>
+      <pubDate>Fri, 16 Aug 2024 13:46:33 GMT</pubDate>
+    </item>
     <item>
       <title>亚德尼称美联储中性利率只是“幻想”</title>
       <link>https://www.bloomberg.com/news/videos/2024-08-16/the-fed-neutral-rate-is-a-fantasy-yardeni-says-video</link>
@@ -18,6 +25,13 @@
       <description><![CDATA[随着亚洲股市上涨，欧洲和美国期货上涨，创下一年多以来的最佳一周，强劲的美国零售和就业数据缓解了人们对经济衰退的担忧。乌克兰表示，它已接受自战争开始以来最大批俄罗斯士兵的投降，而基辅继续进行跨境入侵。瑞典在世卫组织宣布全球卫生紧急事件的第二天，记录了非洲以外第一例新的 mpox 变种病例。随着欧洲各地市场开市，Opening Trade 为您提供所需的一切信息。通过您在其他任何地方都找不到的分析，我们分解了当天的重大新闻，并采访了参与其中的顶级嘉宾。主持人是安娜·爱德华兹和汤姆·麦肯齐。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-08-16/sweden-records-first-case-of-new-mpox-variant-outside-africa-the-opening-trade-08-16</guid>
       <pubDate>Fri, 16 Aug 2024 13:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储利率前景推动现货黄金攀升至历史新高</title>
+      <link>https://www.bloomberg.com/news/articles/2024-08-16/latest-gold-prices--market-news-and-analysis-for-aug--16</link>
+      <description><![CDATA[受美联储即将降息的预期推动，现货黄金价格升至历史新高。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-08-16/latest-gold-prices--market-news-and-analysis-for-aug--16</guid>
+      <pubDate>Fri, 16 Aug 2024 13:12:22 GMT</pubDate>
     </item>
     <item>
       <title>美国新屋开工数降至 2020 年以来最低水平</title>
@@ -41,23 +55,9 @@
       <pubDate>Fri, 16 Aug 2024 12:48:35 GMT</pubDate>
     </item>
     <item>
-      <title>陷入困境的巴西航空公司因货币和气候问题遭受损失</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-16/troubled-brazil-airlines-hit-with-losses-amid-floods-real-woes</link>
-      <description><![CDATA[巴西航空公司已经在高利率和波动的燃料成本中苦苦挣扎，随着货币危机和气候挑战考验该行业的运营弹性，他们遭受了更大的损失。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-16/troubled-brazil-airlines-hit-with-losses-amid-floods-real-woes</guid>
-      <pubDate>Fri, 16 Aug 2024 12:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>储能市场蓬勃发展，欧洲首家大型磷酸铁锂电池工厂开业</title>
-      <link>https://www.bloomberg.com/news/articles/2024-08-16/europe-s-first-gigafactory-opens-in-norway-to-produce-lfp-batteries</link>
-      <description><![CDATA[Morrow Batteries AS 正在筹建欧洲首家磷酸铁锂电池大型工厂，该公司正在加大产量，争取 15 亿瑞典克朗（1.4 亿美元）的政府资助以及足够的客户来满足其第一年全年的产量。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-08-16/europe-s-first-gigafactory-opens-in-norway-to-produce-lfp-batteries</guid>
-      <pubDate>Fri, 16 Aug 2024 12:42:36 GMT</pubDate>
-    </item>
-    <item>
       <title>美国新屋开工速度降至 2020 年 5 月以来最低水平</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-16/new-us-home-construction-falls-to-slowest-pace-since-may-2020</link>
-      <description><![CDATA[由于需求疲软导致库存水平居高不下，建筑商采取应对措施，7 月份美国新屋开工量跌至疫情爆发以来的最低水平。]]></description>
+      <description><![CDATA[由于需求疲软导致库存水平居高不下，建筑商采取措施应对，美国 7 月份新屋开工量跌至疫情爆发以来的最低水平。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-16/new-us-home-construction-falls-to-slowest-pace-since-may-2020</guid>
       <pubDate>Fri, 16 Aug 2024 12:34:29 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 16 Aug 2024 07:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>美国住房数据令人失望，股市失去动力：市场综述</title>
+      <title>消费者信心指数上升导致股市涨势停滞：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-08-15/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[由于房地产市场数据令人失望，交易员们正在等待美国消费者信心数据，股市在强劲上涨的一周结束时失去了动力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-08-15/stock-market-today-dow-s-p-live-updates</guid>
