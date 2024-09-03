@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 03 Sep 2024 11:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 11:20:13 GMT</lastBuildDate>
     <item>
       <title>Uber 在韩国互联网变革中嗅到商机</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-09-03/uber-smells-opportunity-in-south-korean-internet-upheaval</link>
@@ -13,11 +13,32 @@
       <pubDate>Tue, 03 Sep 2024 11:05:01 GMT</pubDate>
     </item>
     <item>
+      <title>短视频正在围绕人工智能繁荣的一些最大问号</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-03/shorts-are-circling-some-of-the-ai-boom-s-biggest-question-marks</link>
+      <description><![CDATA[很多股市狂热都是这样的：一项变革性技术让一些公司受益，随后又有一批更可疑的公司跟进，华尔街将它们全部买下。然后时间会分辨出真假。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-03/shorts-are-circling-some-of-the-ai-boom-s-biggest-question-marks</guid>
+      <pubDate>Tue, 03 Sep 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Solaria 与日本公司签署建设数据中心协议</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-03/solaria-signs-agreement-to-build-spanish-data-center-with-japan-s-datasection</link>
+      <description><![CDATA[据知情人士透露，太阳能开发商 Solaria Energia y Medioambiente SA 已与日本公司 Datasection Inc. 签署了一份谅解备忘录，将在西班牙建设一个容量高达 200 兆瓦的数据中心。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-03/solaria-signs-agreement-to-build-spanish-data-center-with-japan-s-datasection</guid>
+      <pubDate>Tue, 03 Sep 2024 10:48:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Airbnb 敦促纽约市缩减短期租赁监管规定</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-03/airbnb-urges-nyc-to-scale-back-short-term-rental-regulations</link>
       <description><![CDATA[Airbnb 公司正在敦促纽约市官员缩减一项当地法规，该法规在近一年前生效，禁止了该公司的大部分短期租赁房源，理由是该法规对旅行者和房东产生了影响。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-03/airbnb-urges-nyc-to-scale-back-short-term-rental-regulations</guid>
       <pubDate>Tue, 03 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SAP 首席技术官穆勒因“不当”行为将离职</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-03/sap-s-cto-mueller-to-leave-company-over-inappropriate-behavior</link>
+      <description><![CDATA[SAP SE 首席技术官 Juergen Mueller 将于 9 月底因不当行为离职。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-03/sap-s-cto-mueller-to-leave-company-over-inappropriate-behavior</guid>
+      <pubDate>Tue, 03 Sep 2024 09:01:32 GMT</pubDate>
     </item>
     <item>
       <title>AirTrunk、Rightmove 交易前景为澳大利亚银行家带来急需的提振</title>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 03 Sep 2024 08:12:12 GMT</pubDate>
     </item>
     <item>
-      <title>台湾指责中国从其科技公司“挖走”人才</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-03/taiwan-accuses-china-of-poaching-talent-from-its-tech-firms</link>
-      <description><![CDATA[台湾称，中国大陆芯片公司正在“非法挖走”人才和商业机密，凸显出全球在开发手机、汽车和人工智能关键技术方面的激烈竞争。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-03/taiwan-accuses-china-of-poaching-talent-from-its-tech-firms</guid>
-      <pubDate>Tue, 03 Sep 2024 07:43:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加坡完成圣淘沙海滩漏油事件清理工作</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-03/singapore-completes-oil-spill-clean-up-which-hit-sentosa-beach</link>
-      <description><![CDATA[新加坡已完成六月中旬旅游胜地圣淘沙岛附近发生漏油事件后的清理工作。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-03/singapore-completes-oil-spill-clean-up-which-hit-sentosa-beach</guid>
-      <pubDate>Tue, 03 Sep 2024 07:32:04 GMT</pubDate>
-    </item>
-    <item>
       <title>贝恩出价 41 亿美元收购富士软件，日本罕见并购案</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-03/bain-makes-4-1-billion-rival-offer-for-fuji-soft-nikkei-says</link>
       <description><![CDATA[贝恩资本 (Bain Capital) 计划以超过 6000 亿日元（41 亿美元）的价格收购富士软件公司 (Fuji Soft Inc.)，这一出人意料的出价引发了日本与私募股权竞争对手 KKR &amp; Co. 之间罕见的收购战。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-03/bain-makes-4-1-billion-rival-offer-for-fuji-soft-nikkei-says</guid>
       <pubDate>Tue, 03 Sep 2024 06:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本人口下降迫使巴士公司设立对冲基金</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-03/japanese-bus-group-sets-up-forex-fund-to-survive-population-fall</link>
-      <description><![CDATA[日本农村公交线路运营商 Ryobi Holdings Co. 的一个子公司正在设立一只专门从事外汇交易的人工智能对冲基金，以应对东京以外地区人口急剧下降带来的挑战。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-03/japanese-bus-group-sets-up-forex-fund-to-survive-population-fall</guid>
-      <pubDate>Tue, 03 Sep 2024 02:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
