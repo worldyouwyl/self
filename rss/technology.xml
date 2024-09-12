@@ -4,9 +4,16 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 12 Sep 2024 17:51:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:11:04 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 发布具有推理能力的 o1 模型</title>
+      <title>OpenAI、Nvidia 高管与拜登官员讨论 AI 基础设施需求</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-12/openai-nvidia-executives-discuss-ai-infrastructure-needs-with-biden-officials</link>
+      <description><![CDATA[OpenAI 首席执行官 Sam Altman 和 Nvidia 公司首席执行官黄仁勋周四在白宫会见了拜登政府高级官员和其他行业领袖，讨论如何满足人工智能项目对基础设施的大量需求。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-12/openai-nvidia-executives-discuss-ai-infrastructure-needs-with-biden-officials</guid>
+      <pubDate>Thu, 12 Sep 2024 17:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 发布可回答更复杂问题的新 AI 模型</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/openai-releases-o1-model-with-reasoning-capabilities</link>
       <description><![CDATA[新模型在内部被称为 Strawberry，可以处理复杂的数学和编码问题。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/openai-releases-o1-model-with-reasoning-capabilities</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>法国巴黎银行就供应过剩发出警告，美光科技罕见遭遇熊市预测</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/micron-gets-a-rare-bear-call-as-bnp-paribas-warns-on-oversupply</link>
-      <description><![CDATA[美光科技公司股价周四暴跌，这家计算机内存芯片制造商延续了近期的抛售势头，因法国巴黎银行证券部警告称，该股表现将继续不及与人工智能相关的其他股票。]]></description>
+      <description><![CDATA[美光科技公司股价周四暴跌，这家计算机内存芯片制造商延续了近期的抛售趋势，因法国巴黎银行证券部警告称，该股表现将继续不及其他与人工智能相关的股票。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/micron-gets-a-rare-bear-call-as-bnp-paribas-warns-on-oversupply</guid>
       <pubDate>Thu, 12 Sep 2024 14:09:28 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[彭博社的 Caroline Hyde 和 Ed Ludlow 详细分析了卡玛拉·哈里斯和唐纳德·特朗普的首次总统辩论以及他们在筹码方面的争执。此外，随着博彩市场显示出副总统的新势头，加密货币行业出现下滑，亚马逊以 104 亿美元的英国投资计划大举押注英国。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-09-11/bloomberg-technology-09-11-2024-video</guid>
       <pubDate>Wed, 11 Sep 2024 21:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>HPE 就 95 亿美元债务交易征求投资者意见</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-11/hewlett-packard-sounds-out-investors-for-9-5-billion-debt-deal</link>
-      <description><![CDATA[惠普企业公司周三正在向投资者试探一项潜在的 95 亿美元债务计划，以资助其收购瞻博网络。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-11/hewlett-packard-sounds-out-investors-for-9-5-billion-debt-deal</guid>
-      <pubDate>Wed, 11 Sep 2024 13:41:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
