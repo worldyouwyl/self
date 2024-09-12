@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 15:51:04 GMT</lastBuildDate>
     <item>
       <title>罗斯称美国正走向温和衰退</title>
       <link>https://www.bloomberg.com/news/videos/2024-09-12/ross-says-us-is-heading-for-a-mild-recession-video</link>
@@ -13,9 +13,9 @@
       <pubDate>Thu, 12 Sep 2024 15:29:11 GMT</pubDate>
     </item>
     <item>
-      <title>财政年度即将结束之际，美国预算赤字达到 1.9 万亿美元</title>
+      <title>财政年度即将结束之际，美国预算缺口达到 1.9 万亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/us-budget-deficit-hits-1-9-trillion-as-fiscal-year-nears-end</link>
-      <description><![CDATA[距本财年结束仅一个月时间，美国 8 月份预算赤字大幅增加，因为更高的利息成本继续对整体收支平衡造成压力。]]></description>
+      <description><![CDATA[距本财年结束仅一个月时间，美国联邦预算赤字8月份大幅增加，因为较高的利息成本继续对整体收支平衡造成压力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/us-budget-deficit-hits-1-9-trillion-as-fiscal-year-nears-end</guid>
       <pubDate>Thu, 12 Sep 2024 15:21:03 GMT</pubDate>
     </item>
@@ -36,16 +36,9 @@
     <item>
       <title>旧金山耗资 10 亿美元的摩天大楼复兴计划因诉讼而蒙上阴影</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/a-1-billion-san-francisco-tower-s-revival-is-clouded-by-lawsuit</link>
-      <description><![CDATA[旧金山最具标志性的建筑之一，经过四年、耗资 2.5 亿美元的改造后重新开放，旨在象征这座城市的复兴。但这座建筑的重新开放正受到其主要租户之一的诉讼的阴影。]]></description>
+      <description><![CDATA[旧金山最具标志性的建筑之一，在经过四年、耗资 2.5 亿美元的改造后重新开放，旨在象征这座城市的复兴。但这座建筑的重新开放正受到其主要租户之一的诉讼的阴影。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/a-1-billion-san-francisco-tower-s-revival-is-clouded-by-lawsuit</guid>
       <pubDate>Thu, 12 Sep 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>交易平台 eToro 与 SEC 达成和解，限制美国加密货币活动</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-12/trading-platform-etoro-settles-with-sec-limits-us-crypto-activity</link>
-      <description><![CDATA[eToro USA LLC 同意支付 150 万美元，并允许美国客户在其平台上仅交易少量加密货币，以解决美国证券交易委员会对其作为未注册经纪商和清算机构运营的指控。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-12/trading-platform-etoro-settles-with-sec-limits-us-crypto-activity</guid>
-      <pubDate>Thu, 12 Sep 2024 14:51:47 GMT</pubDate>
     </item>
     <item>
       <title>CFPB 禁止 Navient 提供联邦学生贷款，并处以罚款</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[由于对俄罗斯近期出口经由乌克兰的担忧有所缓解，欧洲天然气期货下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/european-gas-slides-as-ukraine-transit-worries-ease-for-now</guid>
       <pubDate>Thu, 12 Sep 2024 06:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲股市上涨，因交易员等待欧洲央行降息</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-12/european-stocks-set-to-gain-ahead-of-ecb-interest-rate-decision</link>
+      <description><![CDATA[在欧洲央行宣布符合预期的降息后，欧洲股市上涨。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-12/european-stocks-set-to-gain-ahead-of-ecb-interest-rate-decision</guid>
+      <pubDate>Thu, 12 Sep 2024 05:53:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
