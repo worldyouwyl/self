@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 12 Sep 2024 11:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 11:20:56 GMT</lastBuildDate>
     <item>
       <title>辩论表明马斯克的特斯拉 X 放弃了政治平衡的伪装</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-09-12/presidential-debate-shows-musk-s-x-is-no-place-for-political-talk</link>
@@ -15,12 +15,19 @@
     <item>
       <title>亿万富翁艾萨克曼开启历史性私人太空行走</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/billionaire-isaacman-embarks-on-historic-private-space-walk</link>
-      <description><![CDATA[亿万富翁贾里德·艾萨克曼周四创造了历史，他走出 SpaceX 太空舱，进行了世界上首次商业太空行走。]]></description>
+      <description><![CDATA[亿万富翁贾里德·艾萨克曼和 SpaceX 工程师莎拉·吉利斯周四创造了历史，进行了世界上首次商业太空行走。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/billionaire-isaacman-embarks-on-historic-private-space-walk</guid>
       <pubDate>Thu, 12 Sep 2024 10:57:16 GMT</pubDate>
     </item>
     <item>
-      <title>微软将在 Xbox 游戏部门裁减 650 个支持职位</title>
+      <title>美国和欧盟打击科技巨头对苹果、谷歌和 X 意味着什么</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-12/what-doj-and-eu-antitrust-cases-mean-for-apple-google-meta-amazon-and-x</link>
+      <description><![CDATA[多年来，全球最大的科技公司基本上能够抵制政府监管。但这种情况正在迅速改变。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-12/what-doj-and-eu-antitrust-cases-mean-for-apple-google-meta-amazon-and-x</guid>
+      <pubDate>Thu, 12 Sep 2024 10:52:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软将在最新一轮 Xbox 部门裁员中裁减 650 个工作岗位</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/microsoft-to-cut-650-support-jobs-in-xbox-games-unit</link>
       <description><![CDATA[微软公司宣布将在 Xbox 部门裁员 650 人，这是该公司今年第三次裁员，原因是该公司试图控制成本并整合其以 690 亿美元收购的动视暴雪公司 (Activision Blizzard Inc.) 的业务。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/microsoft-to-cut-650-support-jobs-in-xbox-games-unit</guid>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 12 Sep 2024 09:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>爱尔兰监管机构调查谷歌人工智能数据保护实践</title>
+      <title>爱尔兰监管机构调查谷歌人工智能数据隐私实践</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/google-s-ai-data-protection-practices-probed-by-irish-regulator</link>
       <description><![CDATA[爱尔兰数据保护委员会已开始调查 Alphabet Inc. 旗下的谷歌在开发其人工智能模型时是否遵守了欧盟隐私法。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/google-s-ai-data-protection-practices-probed-by-irish-regulator</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[欧盟法院对苹果和谷歌的裁决标志着针对科技巨头的更快速监管的新时代。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-09-12/apple-and-google-s-easy-regulatory-ride-is-over</guid>
       <pubDate>Thu, 12 Sep 2024 04:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国要求国内汽车制造商将关键电动汽车技术留在国内</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-12/china-asks-its-carmakers-to-keep-key-ev-technology-at-home</link>
-      <description><![CDATA[知情人士称，中国强烈建议国内汽车制造商确保先进的电动汽车技术留在国内，即使它们在世界各地建厂以逃避针对中国出口产品的惩罚性关税。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-12/china-asks-its-carmakers-to-keep-key-ev-technology-at-home</guid>
-      <pubDate>Thu, 12 Sep 2024 02:13:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
