@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 15:34:30 GMT</lastBuildDate>
     <item>
       <title>通用磨坊出售北美酸奶业务</title>
       <link>https://www.bloomberg.com/news/videos/2024-09-12/general-mills-video</link>
@@ -15,7 +15,7 @@
     <item>
       <title>旧金山耗资 10 亿美元的摩天大楼复兴计划因诉讼而蒙上阴影</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/a-1-billion-san-francisco-tower-s-revival-is-clouded-by-lawsuit</link>
-      <description><![CDATA[旧金山最具标志性的建筑之一，经过四年、耗资 2.5 亿美元的改造后重新开放，旨在象征这座城市的复兴。但这座建筑的重新开放正受到其主要租户之一的诉讼的阴影。]]></description>
+      <description><![CDATA[旧金山最具标志性的建筑之一，在经过四年、耗资 2.5 亿美元的改造后重新开放，旨在象征这座城市的复兴。但这座建筑的重新开放正受到其主要租户之一的诉讼的阴影。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/a-1-billion-san-francisco-tower-s-revival-is-clouded-by-lawsuit</guid>
       <pubDate>Thu, 12 Sep 2024 15:00:00 GMT</pubDate>
     </item>
@@ -39,6 +39,13 @@
       <description><![CDATA[根据与消费者金融保护局达成的和解协议，Navient Corp. 将被禁止提供联邦学生贷款服务，并必须支付 1.2 亿美元。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/cfpb-bans-navient-from-federal-student-loan-servicing-sets-fine</guid>
       <pubDate>Thu, 12 Sep 2024 13:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>基辅称俄罗斯导弹击中中立水域的粮食运输船</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-12/russia-missile-hits-grain-ship-in-neutral-waters-zelenskiy-says</link>
+      <description><![CDATA[俄罗斯总统泽连斯基在 Telegram 上表示，俄罗斯周四在一艘谷物船离开乌克兰水域后立即用导弹击中了该船。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-12/russia-missile-hits-grain-ship-in-neutral-waters-zelenskiy-says</guid>
+      <pubDate>Thu, 12 Sep 2024 13:07:16 GMT</pubDate>
     </item>
     <item>
       <title>经济低迷致德国电力交易价格接近四个月低点</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[由于对俄罗斯近期出口经由乌克兰的担忧有所缓解，欧洲天然气期货下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/european-gas-slides-as-ukraine-transit-worries-ease-for-now</guid>
       <pubDate>Thu, 12 Sep 2024 06:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储在 PPI 数据公布后押注稳定，标普 500 指数波动：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-11/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[由于通胀数据再次快于预期，但并未改变人们对美联储降息的预期，股市出现波动。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-11/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Wed, 11 Sep 2024 22:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
