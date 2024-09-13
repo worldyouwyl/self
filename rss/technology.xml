@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 13 Sep 2024 08:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 08:30:31 GMT</lastBuildDate>
     <item>
       <title>据称 DigitalBridge 正在考虑出售电信塔部门 EdgePoint</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-13/digitalbridge-is-said-to-explore-sale-of-telecom-tower-unit-edgepoint</link>
@@ -13,9 +13,9 @@
       <pubDate>Fri, 13 Sep 2024 07:20:59 GMT</pubDate>
     </item>
     <item>
-      <title>奥运推动下，欧米茄二手手表价格下跌，劳力士价格上涨</title>
+      <title>尽管奥运推动，欧米茄二手手表价格仍下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-13/omega-used-watch-prices-fall-despite-olympic-push-as-rolex-gains</link>
-      <description><![CDATA[尽管瑞士品牌欧米茄作为巴黎奥运会官方计时赞助商获得了很高的知名度，但其二手表的价格在过去一个月里仍然出现下滑。]]></description>
+      <description><![CDATA[尽管瑞士品牌欧米茄作为巴黎奥运会官方计时赞助商获得了高调的关注，但其二手表价格在过去一个月仍然出现下滑。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-13/omega-used-watch-prices-fall-despite-olympic-push-as-rolex-gains</guid>
       <pubDate>Fri, 13 Sep 2024 04:00:00 GMT</pubDate>
     </item>
@@ -27,9 +27,9 @@
       <pubDate>Fri, 13 Sep 2024 03:40:25 GMT</pubDate>
     </item>
     <item>
-      <title>黑客袭击台湾证券交易所和大型银行，引发神秘外国攻击</title>
+      <title>俄罗斯黑客突然袭击台湾证券交易所和银行</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-13/hackers-hit-taiwan-bourse-major-bank-in-mystery-foreign-attack</link>
-      <description><![CDATA[周四，黑客攻击了台湾的金融平台，包括证券交易所和兆丰金控股份有限公司，导致其网站短暂中断，当地媒体称这是外国代理机构的攻击。]]></description>
+      <description><![CDATA[俄罗斯黑客组织短暂破坏了台湾的金融平台，包括证券交易所和兆丰金控的网站，暴露了台湾容易受到外国网络攻击的弱点。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-13/hackers-hit-taiwan-bourse-major-bank-in-mystery-foreign-attack</guid>
       <pubDate>Fri, 13 Sep 2024 02:59:39 GMT</pubDate>
     </item>
@@ -55,13 +55,6 @@
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克称澳大利亚官员在社交媒体法问题上是“法西斯分子”</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-12/musk-calls-australia-officials-fascists-over-social-media-laws</link>
-      <description><![CDATA[科技亿万富翁埃隆·马斯克将澳大利亚政府称为“法西斯”，因为澳大利亚政府提议制定新法律，打击数字虚假信息，特别是社交媒体网站上的虚假信息。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-12/musk-calls-australia-officials-fascists-over-social-media-laws</guid>
-      <pubDate>Thu, 12 Sep 2024 23:34:58 GMT</pubDate>
-    </item>
-    <item>
       <title>全球百万富翁热潮涌动 财富管理公司纷纷涌入台湾</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-12/jpmorgan-allianzgi-seek-piece-of-taiwan-s-ai-wealth-boom</link>
       <description><![CDATA[摩根大通、安联投资及其竞争对手正在竞相抢占蓬勃发展的科技行业带来的现金流。]]></description>
@@ -74,6 +67,13 @@
       <description><![CDATA[由于有线电视和电话服务收入下降，考克斯通讯公司 (Cox Communications Inc.) 将裁员数百人。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-12/cox-communications-to-cut-5-of-workforce-as-sales-decline</guid>
       <pubDate>Thu, 12 Sep 2024 21:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 因销售前景未能体现人工智能的提升而下滑</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-12/adobe-posts-lackluster-growth-with-investors-eager-for-ai-uplift</link>
+      <description><![CDATA[Adobe Inc. 发布的前景未能平息投资者对新人工智能工具开始产生现金的迫切需求，导致该公司股价下跌。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-12/adobe-posts-lackluster-growth-with-investors-eager-for-ai-uplift</guid>
+      <pubDate>Thu, 12 Sep 2024 20:15:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
