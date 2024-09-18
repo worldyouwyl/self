@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 18 Sep 2024 19:51:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 20:08:17 GMT</lastBuildDate>
     <item>
       <title>鲍威尔称美联储计划将通胀率降至 2%</title>
       <link>https://www.bloomberg.com/news/videos/2024-09-18/powell-says-fed-plans-to-get-inflation-down-to-22-video</link>
@@ -15,7 +15,7 @@
     <item>
       <title>谷歌赢得欧盟 17 亿美元罚款诉讼</title>
       <link>https://www.bloomberg.com/news/videos/2024-09-18/google-wins-fight-over-1-7b-eu-fine</link>
-      <description><![CDATA[谷歌在与欧盟的诉讼中获胜，欧盟因谷歌妨碍在线广告竞争而被处以 17 亿美元罚款，这在一定程度上弥补了上周谷歌在另一项滥用垄断权的判决中惨败的遗憾。彭博社的 Samuel Stolton 与 Caroline Hyde 和 Ed Ludlow 一起参加了“彭博科技”节目。（来源：彭博社）]]></description>
+      <description><![CDATA[谷歌在与欧盟的诉讼中获胜，欧盟因谷歌妨碍在线广告竞争而被处以 17 亿美元罚款，这在一定程度上弥补了上周谷歌在另一项滥用垄断权的判决中惨败的遗憾。彭博社的 Samuel Stolton 与 Caroline Hyde 和 Ed Ludlow 一起主持了《彭博科技》节目。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-09-18/google-wins-fight-over-1-7b-eu-fine</guid>
       <pubDate>Wed, 18 Sep 2024 19:28:28 GMT</pubDate>
     </item>
@@ -34,18 +34,11 @@
       <pubDate>Wed, 18 Sep 2024 19:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>美联储四年来首次降息，信贷风险指标有所下降</title>
+      <title>美联储四年来首次降息，信贷风险指标下降</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-18/credit-risk-gauge-eases-as-fed-cuts-for-first-time-in-4-years</link>
       <description><![CDATA[在美国联邦公开市场委员会 (FOMC) 为实现美国经济罕见的软着陆而降息之后，衡量美国公司债券市场风险的一项关键指标周三小幅走低。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-18/credit-risk-gauge-eases-as-fed-cuts-for-first-time-in-4-years</guid>
       <pubDate>Wed, 18 Sep 2024 18:31:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>市场参与者称美联储降息对信贷有利</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-18/fed-cut-is-a-positive-for-credit-market-participants-say</link>
-      <description><![CDATA[美联储周三宣布四年多来首次降息，将利率下调半个百分点，信贷衍生品利差随之收窄。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-18/fed-cut-is-a-positive-for-credit-market-participants-say</guid>
-      <pubDate>Wed, 18 Sep 2024 18:24:49 GMT</pubDate>
     </item>
     <item>
       <title>美联储选择降息半个百分点，交易员押注进一步宽松政策</title>
@@ -62,6 +55,13 @@
       <pubDate>Wed, 18 Sep 2024 18:02:22 GMT</pubDate>
     </item>
     <item>
+      <title>罗杰斯以 35 亿美元的价格控制枫叶队和猛龙队</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-18/rogers-buys-3-5-billion-maple-leaf-sports-stake-sportico-says</link>
+      <description><![CDATA[罗杰斯通讯公司 (Rogers Communications Inc.) 以 47 亿加元（35 亿美元）收购 BCE 公司所持有的枫叶体育娱乐有限公司 (Maple Leaf Sports &amp; Entertainment Ltd.) 的股份，从而使该电信公司控制了加拿大最有价值的体育公司。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-18/rogers-buys-3-5-billion-maple-leaf-sports-stake-sportico-says</guid>
+      <pubDate>Wed, 18 Sep 2024 12:28:13 GMT</pubDate>
+    </item>
+    <item>
       <title>新兴市场货币因鲍威尔讲话而保持涨势</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-18/em-currencies-extend-rally-as-fed-nears-interest-rate-decision</link>
       <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，美联储在降息半个百分点后并不急于放松政策，这提振了对风险资产的兴趣，新兴市场货币随之上涨。]]></description>
@@ -69,9 +69,9 @@
       <pubDate>Wed, 18 Sep 2024 10:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>美联储加大刺激措施 股市震荡，市场综述</title>
+      <title>鲍威尔暗示不会急于加息，标普 500 指数回吐 1% 涨幅：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-17/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[杰罗姆鲍威尔表示美联储在降息半个百分点后并不急于放松政策，股市因此出现波动。]]></description>
+      <description><![CDATA[杰罗姆·鲍威尔表示美联储在将利率下调半个百分点后并不急于放松政策，股市因此下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-17/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Tue, 17 Sep 2024 22:37:09 GMT</pubDate>
     </item>
