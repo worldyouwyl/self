@@ -4,27 +4,20 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 01 Oct 2024 14:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:08:07 GMT</lastBuildDate>
     <item>
-      <title>美国就业岗位增加，美国制造业合同减少</title>
-      <link>https://www.bloomberg.com/news/videos/2024-10-01/us-job-openings-unexpectedly-climb-us-manufacturing-contracts</link>
-      <description><![CDATA[8 月份美国就业岗位空缺数量超出预期，增至三个月以来的最高水平 804 万，而制造业活动则连续第六个月萎缩。迈克尔·麦基在彭博电视台报道。]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-10-01/us-job-openings-unexpectedly-climb-us-manufacturing-contracts</guid>
-      <pubDate>Tue, 01 Oct 2024 14:20:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司考虑通过股票融资至少 100 亿美元</title>
-      <link>https://www.bloomberg.com/news/videos/2024-10-01/boeing-considers-raising-at-least-10-billion-in-stock</link>
-      <description><![CDATA[据知情人士透露，波音公司正考虑通过发行新股筹集至少 100 亿美元，以补充因持续罢工而进一步耗尽的现金储备。Siddharth Philip 在彭博电视台报道。]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-10-01/boeing-considers-raising-at-least-10-billion-in-stock</guid>
-      <pubDate>Tue, 01 Oct 2024 14:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国职位空缺数量攀升至三个月高点，超出预期</title>
+      <title>美国职位空缺数量创三个月新高，超出预期</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-01/us-job-openings-climb-to-three-month-high-exceeding-forecasts</link>
       <description><![CDATA[美国八月份职位空缺数量增至三个月来的最高水平，这一发展与其他表明工人需求放缓的数据形成鲜明对比。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-01/us-job-openings-climb-to-three-month-high-exceeding-forecasts</guid>
       <pubDate>Tue, 01 Oct 2024 14:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>前对冲基金交易员成立团体以结束政治分歧</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-01/ex-hedge-fund-trader-starts-group-to-tackle-political-dysfunction</link>
+      <description><![CDATA[对冲基金 Citadel 前全球固定收益交易主管德里克·考夫曼 (Derek Kaufman) 正在开始尝试突破美国政治的分歧。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-01/ex-hedge-fund-trader-starts-group-to-tackle-political-dysfunction</guid>
+      <pubDate>Tue, 01 Oct 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>二叠纪天然气开始通过德克萨斯州马特洪管道输送</title>
@@ -41,11 +34,18 @@
       <pubDate>Tue, 01 Oct 2024 13:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>微软股价因“人工智能疲劳”而下跌，高倍数抑制反弹</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-01/microsoft-shares-lag-as-ai-fatigue-high-multiple-curb-rebound</link>
-      <description><![CDATA[微软公司的股价在过去几个月中失去了光彩，一些投资者对人工智能交易的兴趣逐渐消退，并寻求该领域其他更好的价值。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-01/microsoft-shares-lag-as-ai-fatigue-high-multiple-curb-rebound</guid>
-      <pubDate>Tue, 01 Oct 2024 11:12:16 GMT</pubDate>
+      <title>罗马尼亚任职时间最长的央行行长获得新任期</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-01/longest-serving-central-bank-chief-to-get-new-mandate-in-romania</link>
+      <description><![CDATA[罗马尼亚央行行长穆古尔·伊萨雷斯库 (Mugur Isarescu) 获得议会批准，延长其五年任期，成为世界上任职时间最长的央行行长。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-01/longest-serving-central-bank-chief-to-get-new-mandate-in-romania</guid>
+      <pubDate>Tue, 01 Oct 2024 11:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿波罗计划五年内每年盈利 100 亿美元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-01/apollo-projects-10-billion-of-annual-earnings-in-five-years</link>
+      <description><![CDATA[阿波罗全球管理公司 (Apollo Global Management Inc.) 预计，到 2029 年，其资产管理和退休业务的年收益将达到 100 亿美元，这得益于投资者对私人信贷和年金的需求。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-01/apollo-projects-10-billion-of-annual-earnings-in-five-years</guid>
+      <pubDate>Tue, 01 Oct 2024 11:45:19 GMT</pubDate>
     </item>
     <item>
       <title>伊朗冲突风险刺激避险需求，美国国债价格上涨</title>
@@ -69,11 +69,11 @@
       <pubDate>Mon, 30 Sep 2024 22:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>埃尔根仍需要他曾经拒绝的债权人来达成 Dish-DirecTV 交易</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-30/ergen-needs-creditors-he-once-spurned-to-seal-dish-directv-deal</link>
-      <description><![CDATA[查理·埃尔根 (Charlie Ergen) 数十年来一直梦想着将他的卫星电视公司 Dish Network Corp. 与竞争对手 DirecTV 合并，而他希望实现这个梦想的前提是，他过去惹恼的债权人愿意注销他们对这家负债累累的公司的部分投资。但有些人还没有被说服。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-30/ergen-needs-creditors-he-once-spurned-to-seal-dish-directv-deal</guid>
-      <pubDate>Mon, 30 Sep 2024 21:24:35 GMT</pubDate>
+      <title>全球债务狂潮带来创纪录的 6000 亿美元债券销售额</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-30/borrowers-smash-global-records-to-sell-600-billion-in-debt</link>
+      <description><![CDATA[过去一个月，全球各地的企业和政府纷纷涌入债券市场，抓住美国总统大选前利率下降的机会，许多人担心大选将引发市场动荡。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-30/borrowers-smash-global-records-to-sell-600-billion-in-debt</guid>
+      <pubDate>Mon, 30 Sep 2024 22:08:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
