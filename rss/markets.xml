@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 17 Oct 2024 21:32:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:41:11 GMT</lastBuildDate>
+    <item>
+      <title>台积电提升芯片产能，亚马逊实现绿色目标</title>
+      <link>https://www.bloomberg.com/news/videos/2024-10-17/tsmc-lifts-chips-amazon-s-green-goals</link>
+      <description><![CDATA[彭博社的 Ed Ludlow 和 Caroline Hyde 讨论了台积电的惊人业绩和预测，这有助于提振投资者对人工智能的信心。此外，我们还采访了亚马逊的核能新交易、AWS 首席执行官 Matt Garman 谈论了他们最新的清洁能源投资，以及 Unity 的游戏目标，并与首席执行官 Matt Bromberg 谈论了他们最新的 Unity 6 平台版本。（来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-10-17/tsmc-lifts-chips-amazon-s-green-goals</guid>
+      <pubDate>Thu, 17 Oct 2024 21:38:52 GMT</pubDate>
+    </item>
     <item>
       <title>DataBank 的扩张计划</title>
       <link>https://www.bloomberg.com/news/videos/2024-10-17/databank-s-expansion-plans-video</link>
@@ -41,13 +48,6 @@
       <pubDate>Thu, 17 Oct 2024 21:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>大型银行应对人工智能应用</title>
-      <link>https://www.bloomberg.com/news/videos/2024-10-17/big-banks-tackle-ai-adoption-video</link>
-      <description><![CDATA[Evident 首席执行官 Alexandra Mousavizadeh 出席了此次活动，讨论了他们在人工智能和金融领域的最新研究，因为大型银行希望在其业务中采用该技术。她与 Ed Ludlow 和 Caroline Hyde 一起在“彭博科技”上发言。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-10-17/big-banks-tackle-ai-adoption-video</guid>
-      <pubDate>Thu, 17 Oct 2024 21:03:18 GMT</pubDate>
-    </item>
-    <item>
       <title>新任首席执行官发布 Unity 6</title>
       <link>https://www.bloomberg.com/news/videos/2024-10-17/unity-6-launches-under-new-ceo-video</link>
       <description><![CDATA[Unity 首席执行官 Matt Bromberg 讨论了他们最新的 Unity 6 平台、游戏中的 AI 利用以及他作为新任首席执行官对公司的目标。他在彭博科技上与 Ed Ludlow 和 Caroline Hyde 进行了交谈。（来源：彭博社）]]></description>
@@ -62,18 +62,18 @@
       <pubDate>Thu, 17 Oct 2024 16:01:15 GMT</pubDate>
     </item>
     <item>
-      <title>强劲数据引发美联储降息疑虑，美国国债收益率攀升</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-17/treasury-yields-climb-as-strong-data-sow-doubt-on-fed-rate-cuts</link>
-      <description><![CDATA[九月份零售额强劲，引发市场对美联储降息速度的怀疑，美国政府债券随之暴跌。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-17/treasury-yields-climb-as-strong-data-sow-doubt-on-fed-rate-cuts</guid>
-      <pubDate>Thu, 17 Oct 2024 13:13:33 GMT</pubDate>
-    </item>
-    <item>
       <title>美国零售和劳动力数据强劲，日元跌至关键的 150 水平</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-17/yen-falls-to-key-150-level-sparking-more-intervention-risk</link>
       <description><![CDATA[强劲的美国经济数据导致交易员减少对美联储降息的押注，从而提振美元，日元兑美元跌破 150 的心理关口。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-17/yen-falls-to-key-150-level-sparking-more-intervention-risk</guid>
       <pubDate>Thu, 17 Oct 2024 12:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>交易员权衡美国数据，中东紧张局势致黄金价格创下新高</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-16/gold-xauusd-holds-near-record-with-tight-us-election-us-data-in-focus</link>
+      <description><![CDATA[在中东局势持续紧张的背景下，金价创下新高，交易员也对美国经济数据感到担忧，这令市场对美联储降息的押注持续升温。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-16/gold-xauusd-holds-near-record-with-tight-us-election-us-data-in-focus</guid>
+      <pubDate>Wed, 16 Oct 2024 23:38:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
