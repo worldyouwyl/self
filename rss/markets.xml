@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 23 Oct 2024 20:09:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 20:28:36 GMT</lastBuildDate>
     <item>
       <title>摩根士丹利的韦弗谈市场</title>
       <link>https://www.bloomberg.com/news/videos/2024-10-23/morgan-stanley-s-weaver-on-markets-video</link>
@@ -36,16 +36,9 @@
     <item>
       <title>Arm 与高通的芯片之争升级</title>
       <link>https://www.bloomberg.com/news/videos/2024-10-23/arm-escalates-chip-feud-with-qualcomm-video</link>
-      <description><![CDATA[Arm 即将废除与长期合作伙伴高通的芯片许可协议，此举可能会阻碍一些智能手机供应链。Bernstein Research 高级分析师 Stacy Rasgon 与 Ed Ludlow 一起在“彭博科技”节目中讨论这一问题。（来源：彭博社）]]></description>
+      <description><![CDATA[Arm 即将取消与长期合作伙伴高通的芯片许可协议，此举可能会阻碍一些智能手机供应链。Bernstein Research 高级分析师 Stacy Rasgon 与 Ed Ludlow 一起在“彭博科技”节目中讨论这一问题。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-10-23/arm-escalates-chip-feud-with-qualcomm-video</guid>
       <pubDate>Wed, 23 Oct 2024 19:29:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jelena McWilliams 关于 Synapse 案件的最新进展</title>
-      <link>https://www.bloomberg.com/news/videos/2024-10-23/jelena-mcwilliams-update-on-synapse-s-case-video</link>
-      <description><![CDATA[前联邦存款保险公司 (FDIC) 主席 Jelena McWilliams 于 5 月被任命为 Synapse 破产案的第 11 章受托人，并试图追回和分配 Synapse 客户资金。她在接受 Sonali Basak 和 Tim Stenovec 在“彭博加密货币”节目采访时介绍了该案的最新进展。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-10-23/jelena-mcwilliams-update-on-synapse-s-case-video</guid>
-      <pubDate>Wed, 23 Oct 2024 19:13:52 GMT</pubDate>
     </item>
     <item>
       <title>西门子正在洽谈收购软件集团 Altair</title>
@@ -55,7 +48,14 @@
       <pubDate>Wed, 23 Oct 2024 19:06:18 GMT</pubDate>
     </item>
     <item>
-      <title>交易员担心“债券市场”导致美国国债价格延续跌势</title>
+      <title>受大选和美联储推动，美元月度表现创两年来最佳</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-23/dollar-s-usd-path-to-best-month-in-two-years-fueled-by-election-fed</link>
+      <description><![CDATA[随着交易员重新定价美联储预期并为可能颠覆宏观市场的总统大选做准备，美元有望创下 2022 年以来最好的月份表现。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-23/dollar-s-usd-path-to-best-month-in-two-years-fueled-by-election-fed</guid>
+      <pubDate>Wed, 23 Oct 2024 17:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>交易员担心债券市场走势，美国国债延续跌势</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-23/treasuries-slide-for-third-straight-day-as-fed-cut-bets-wane</link>
       <description><![CDATA[由于市场普遍重新评估美联储降息预期，美国国债抛售潮周三毫无减弱迹象，连续第三天下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-23/treasuries-slide-for-third-straight-day-as-fed-cut-bets-wane</guid>
