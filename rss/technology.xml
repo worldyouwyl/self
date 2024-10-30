@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 30 Oct 2024 07:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 08:11:43 GMT</lastBuildDate>
+    <item>
+      <title>庞大、笨重、纸质文件——难以破解</title>
+      <link>https://www.bloomberg.com/features/2024-us-voting-machines-clear-ballot/</link>
+      <description><![CDATA[Clear Ballot 的新投票机显示了该行业对数字技术的采用有多么缓慢而稳定。]]></description>
+      <guid>https://www.bloomberg.com/features/2024-us-voting-machines-clear-ballot/</guid>
+      <pubDate>Wed, 30 Oct 2024 08:00:20 GMT</pubDate>
+    </item>
     <item>
       <title>新加坡金融管理局成立新金融科技网络，由前局长领导</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-30/singapore-mas-sets-up-new-fintech-network-led-by-former-chief</link>
@@ -29,7 +36,7 @@
     <item>
       <title>日本 Sakura Internet 为数据中心项目部署 Nvidia 设备</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-30/japan-s-sakura-internet-loads-up-on-nvidia-gear-for-data-center-project</link>
-      <description><![CDATA[樱花互联网公司 (Sakura Internet Inc.) 即将建成的数据中心很可能在三年内投入使用时就被预订一空，这将促使日本政府的本土网络提供商加大对英伟达公司 (Nvidia Corp.) 图形处理器的购买力度。]]></description>
+      <description><![CDATA[Sakura Internet Inc. 即将建成的数据中心很可能在三年内投入使用时就被预订一空，这将促使日本政府的本土网络提供商加大对 Nvidia Corp. 图形处理器的购买力度。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-30/japan-s-sakura-internet-loads-up-on-nvidia-gear-for-data-center-project</guid>
       <pubDate>Wed, 30 Oct 2024 04:20:00 GMT</pubDate>
     </item>
@@ -60,13 +67,6 @@
       <description><![CDATA[据两位知情人士透露，OpenAI 正在与博通公司合作开发一种新型人工智能芯片，专门用于运行经过训练的人工智能模型。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-29/openai-broadcom-working-to-develop-ai-chip-focused-on-inference</guid>
       <pubDate>Tue, 29 Oct 2024 22:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能芯片增长未能激发投资者兴趣，AMD 股价暴跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-29/amd-forecast-falls-short-suggesting-a-slower-pace-of-ai-growth</link>
-      <description><![CDATA[超威半导体公司 (Advanced Micro Devices Inc.) 股价在尾盘交易中下跌，原因是该芯片制造商的营收预测不及分析师预期，这表明其人工智能销售增长速度低于一些人的预期。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-29/amd-forecast-falls-short-suggesting-a-slower-pace-of-ai-growth</guid>
-      <pubDate>Tue, 29 Oct 2024 20:18:46 GMT</pubDate>
     </item>
     <item>
       <title>Alphabet 押注人工智能，云计算和搜索业务获得回报</title>
