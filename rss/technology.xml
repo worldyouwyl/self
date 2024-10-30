@@ -4,11 +4,11 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 30 Oct 2024 13:34:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 13:43:46 GMT</lastBuildDate>
     <item>
-      <title>超微电脑审计师安永因司法部调查辞职</title>
+      <title>超微电脑审计师安永在调查中辞职</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-30/super-micro-computer-auditor-ernst-young-quits-amid-doj-probe</link>
-      <description><![CDATA[陷入困境的服务器制造商超微电脑公司的审计师安永会计师事务所已辞去该公司注册会计师事务所的职务。]]></description>
+      <description><![CDATA[安永会计师事务所 (Ernst &amp; Young LLP) 辞去了陷入困境的服务器制造商 Super Micro Computer Inc. 的审计师职务，理由是对该公司的治理和透明度存在担忧。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-30/super-micro-computer-auditor-ernst-young-quits-amid-doj-probe</guid>
       <pubDate>Wed, 30 Oct 2024 13:09:23 GMT</pubDate>
     </item>
@@ -18,6 +18,13 @@
       <description><![CDATA[由于功能强大的游戏制作工具越来越普及，精简型工作室的数量正在激增]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-30/after-era-of-bloat-veteran-video-game-developers-are-going-smaller</guid>
       <pubDate>Wed, 30 Oct 2024 13:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lumen 将在最新的 AI 光纤交易中连接亚马逊数据中心</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-30/lumen-will-link-amazon-data-centers-in-latest-ai-fiber-deal</link>
+      <description><![CDATA[Lumen Technologies Inc. 已同意为亚马逊公司的部分云计算数据中心提供连接。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-30/lumen-will-link-amazon-data-centers-in-latest-ai-fiber-deal</guid>
+      <pubDate>Wed, 30 Oct 2024 12:20:00 GMT</pubDate>
     </item>
     <item>
       <title>Jumia 和土耳其 Hepsiburada 计划推动非洲电子商务增长</title>
@@ -55,11 +62,11 @@
       <pubDate>Wed, 30 Oct 2024 09:50:45 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能芯片增长未能打动投资者，AMD 股价暴跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-29/amd-forecast-falls-short-suggesting-a-slower-pace-of-ai-growth</link>
-      <description><![CDATA[周三早盘，美国芯片制造商超威半导体公司 (Advanced Micro Devices Inc.) 股价下跌，原因是该公司的营收预期低于华尔街的预期，这表明其人工智能销售增长速度低于一些人的预期。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-29/amd-forecast-falls-short-suggesting-a-slower-pace-of-ai-growth</guid>
-      <pubDate>Tue, 29 Oct 2024 20:18:46 GMT</pubDate>
+      <title>美国投票机如何变得比以往更安全</title>
+      <link>https://www.bloomberg.com/features/2024-us-voting-machines-clear-ballot/</link>
+      <description><![CDATA[Clear Ballot 显示了该行业的发展速度有多么缓慢、稳定以及对纸张的依赖程度。]]></description>
+      <guid>https://www.bloomberg.com/features/2024-us-voting-machines-clear-ballot/</guid>
+      <pubDate>Wed, 30 Oct 2024 08:00:20 GMT</pubDate>
     </item>
     <item>
       <title>Alphabet 的昂贵 AI 赌注在云计算和搜索增长方面获得回报</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[谷歌母公司 Alphabet Inc. 进军人工智能领域的巨额投资开始获得回报，其云计算业务的销售表现好于预期，并推动了其旗舰搜索引擎的使用率提升。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-29/alphabet-beats-quarterly-sales-estimates-on-google-cloud-growth</guid>
       <pubDate>Tue, 29 Oct 2024 20:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 有望在强劲的销售预测后创下历史新高</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-29/reddit-signals-strong-holiday-quarter-to-come-shares-soar</link>
-      <description><![CDATA[由于该公司的销售和预测超出分析师预期，Reddit Inc. 的股价在周三盘前交易中飙升 25%。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-29/reddit-signals-strong-holiday-quarter-to-come-shares-soar</guid>
-      <pubDate>Tue, 29 Oct 2024 20:10:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
