@@ -4,11 +4,18 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 30 Oct 2024 05:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 05:29:25 GMT</lastBuildDate>
+    <item>
+      <title>GQG Partners 削减 Nvidia 持股以进行风险管理</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-30/gqg-partners-cuts-back-nvidia-holdings-for-risk-management</link>
+      <description><![CDATA[投资组合经理 Brian Kersmanc 表示，作为风险管理策略的一部分，GQG Partners LLC 已削减了对 Nvidia Corp. 股票的投资。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-30/gqg-partners-cuts-back-nvidia-holdings-for-risk-management</guid>
+      <pubDate>Wed, 30 Oct 2024 05:05:27 GMT</pubDate>
+    </item>
     <item>
       <title>日本 Sakura Internet 为数据中心项目部署 Nvidia 设备</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-30/japan-s-sakura-internet-loads-up-on-nvidia-gear-for-data-center-project</link>
-      <description><![CDATA[樱花互联网公司 (Sakura Internet Inc.) 即将建成的数据中心很可能在三年内投入使用时就被预订一空，这将促使日本政府的本土网络提供商加大对英伟达公司 (Nvidia Corp.) 图形处理器的购买力度。]]></description>
+      <description><![CDATA[Sakura Internet Inc. 即将建成的数据中心很可能在三年内投入使用时就被预订一空，这将促使日本政府的本土网络提供商加大对 Nvidia Corp. 图形处理器的购买力度。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-30/japan-s-sakura-internet-loads-up-on-nvidia-gear-for-data-center-project</guid>
       <pubDate>Wed, 30 Oct 2024 04:20:00 GMT</pubDate>
     </item>
@@ -32,13 +39,6 @@
       <description><![CDATA[通过支付巨头和加密货币交易所宣布的合作，持有符合条件的借记卡的 Visa Inc. 客户将能够将资金存入他们的 Coinbase Global Inc. 账户——有时是立即存入。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-30/visa-coinbase-offer-real-time-crypto-purchases-via-debit-cards</guid>
       <pubDate>Wed, 30 Oct 2024 00:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软称俄罗斯黑客正瞄准美国官员</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-29/russian-hackers-are-targeting-us-officials-microsoft-says</link>
-      <description><![CDATA[据微软公司称，俄罗斯黑客正在发起一项新的电子邮件网络钓鱼活动，针对美国政府官员、国防工作人员和其他人，该活动的目标是数千人。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-29/russian-hackers-are-targeting-us-officials-microsoft-says</guid>
-      <pubDate>Tue, 29 Oct 2024 22:38:00 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 与博通合作开发 AI 推理芯片</title>
