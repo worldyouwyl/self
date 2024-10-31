@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 31 Oct 2024 06:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 06:37:38 GMT</lastBuildDate>
+    <item>
+      <title>意法半导体第三季度营收因汽车需求疲软而下降</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-31/stmicro-s-third-quarter-revenue-falls-on-flagging-auto-demand</link>
+      <description><![CDATA[意法半导体 (STMicroelectronics NV) 公布营收下滑，原因是其汽车行业客户面临日益恶化的不利因素，该公司表示，今年的销售额可能将达到其预期水平的低端。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-31/stmicro-s-third-quarter-revenue-falls-on-flagging-auto-demand</guid>
+      <pubDate>Thu, 31 Oct 2024 06:11:21 GMT</pubDate>
+    </item>
     <item>
       <title>被指控操纵股票的 Kakao 亿万富翁获准保释</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-31/kakao-billionaire-accused-of-stock-rigging-wins-release-on-bail</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[西门子股份公司已同意以 100 亿美元的企业价值收购软件制造商 Altair Engineering Inc.，这将进一步推动这家德国工程巨头向利润率更高的软件驱动产品线迁移。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-30/siemens-agrees-to-buy-software-group-altair-in-10-billion-deal</guid>
       <pubDate>Wed, 30 Oct 2024 20:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软股价因云计算增长预测令人失望而下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-30/microsoft-cloud-fuels-stronger-than-expected-revenue-growth</link>
-      <description><![CDATA[微软公司股价在尾盘交易中下跌，此前这家软件制造商预测季度云计算收入增长将放缓，反映出该公司难以快速上线数据中心以满足人工智能服务的需求。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-30/microsoft-cloud-fuels-stronger-than-expected-revenue-growth</guid>
-      <pubDate>Wed, 30 Oct 2024 20:12:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
