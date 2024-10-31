@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 31 Oct 2024 07:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 07:51:17 GMT</lastBuildDate>
     <item>
       <title>壳牌维持回购，因天然气增长抵消油价下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-31/shell-maintains-buybacks-as-profit-is-resilient-amid-falling-oil</link>
@@ -20,6 +20,13 @@
       <pubDate>Thu, 31 Oct 2024 07:06:24 GMT</pubDate>
     </item>
     <item>
+      <title>帝斯曼-芬美意因维生素价格上涨上调盈利预期</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-31/dsm-firmenich-raises-profit-outlook-on-higher-vitamin-prices</link>
+      <description><![CDATA[由于供应中断导致部分维生素价格上涨，帝斯曼-芬美意集团今年第二次上调了利润预期。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-31/dsm-firmenich-raises-profit-outlook-on-higher-vitamin-prices</guid>
+      <pubDate>Thu, 31 Oct 2024 07:05:03 GMT</pubDate>
+    </item>
+    <item>
       <title>受欧洲夏季销售不佳和中国市场冲击影响，嘉士伯销量下滑</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-31/carlsberg-volumes-drop-after-poor-europe-weather-and-china-slump</link>
       <description><![CDATA[嘉士伯公司表示，由于欧洲夏季恶劣天气和中国消费市场低迷影响了其啤酒销量，第三季度销量出现下滑。]]></description>
@@ -32,13 +39,6 @@
       <description><![CDATA[由于汽车制造商在大部分主要市场的出货量下降，Stellantis NV 第三季度营收暴跌 27%。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-31/stellantis-revenue-plunges-on-lower-shipments-in-europe-and-us</guid>
       <pubDate>Thu, 31 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>百威英博销量因亚太地区销售不佳而下降</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-31/anheuser-busch-volumes-fall-after-poor-sales-in-asia-pacific</link>
-      <description><![CDATA[百威英博表示，由于中国和阿根廷市场销售持续疲软，其啤酒销量降幅超出预期。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-31/anheuser-busch-volumes-fall-after-poor-sales-in-asia-pacific</guid>
-      <pubDate>Thu, 31 Oct 2024 06:13:54 GMT</pubDate>
     </item>
     <item>
       <title>贷款逆风持续，法国巴黎银行交易业务获得提振</title>
@@ -62,18 +62,18 @@
       <pubDate>Thu, 31 Oct 2024 02:53:48 GMT</pubDate>
     </item>
     <item>
-      <title>油价延续涨势，因美国库存下降和中东局势受关注</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-30/latest-oil-market-news-and-analysis-for-oct-31</link>
-      <description><![CDATA[在美国原油库存减少之后，油价连续第二个交易日上涨，市场关注中东地区可能出现的紧张局势。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-30/latest-oil-market-news-and-analysis-for-oct-31</guid>
-      <pubDate>Wed, 30 Oct 2024 23:30:32 GMT</pubDate>
+      <title>美国大选紧张情绪推动避险需求，金价创下新高</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-31/gold-xauusd-holds-near-record-as-us-election-jitters-drive-haven-demand</link>
+      <description><![CDATA[受美国大选前的避险需求推动，且不受可能影响美联储今年降息规模的数据影响，金价攀升至历史新高。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-31/gold-xauusd-holds-near-record-as-us-election-jitters-drive-haven-demand</guid>
+      <pubDate>Thu, 31 Oct 2024 00:22:10 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲股指期货随亚洲股指下跌：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-30/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[由于美国经济数据强劲，美联储降息前景不明朗，欧洲股指期货和亚洲股市下跌。日本央行公布利率决定后，日元走强。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-30/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Wed, 30 Oct 2024 22:37:54 GMT</pubDate>
+      <title>油价延续涨势，因美国库存下降和中东局势受关注</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-30/latest-oil-market-news-and-analysis-for-oct-31</link>
+      <description><![CDATA[在美国原油库存减少后，油价连续第二个交易日上涨，市场关注中东地区可能出现的紧张局势。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-30/latest-oil-market-news-and-analysis-for-oct-31</guid>
+      <pubDate>Wed, 30 Oct 2024 23:30:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
