@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 11 Nov 2024 15:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 15:51:23 GMT</lastBuildDate>
+    <item>
+      <title>加纳塞地连续第二天上涨，央行抛售 2.14 亿美元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-11/-usd-ghs-ghana-cedi-gains-second-day-as-central-bank-sells-214-million</link>
+      <description><![CDATA[加纳央行向市场抛售美元以提振塞地，导致加纳货币第二天升值。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-11/-usd-ghs-ghana-cedi-gains-second-day-as-central-bank-sells-214-million</guid>
+      <pubDate>Mon, 11 Nov 2024 15:39:44 GMT</pubDate>
+    </item>
     <item>
       <title>华尔街的目光都集中在谁能获得财政部的批准</title>
       <link>https://www.bloomberg.com/news/videos/2024-11-11/wall-street-s-eyes-are-riveted-on-who-gets-treasury-nod-video</link>
@@ -41,20 +48,6 @@
       <pubDate>Mon, 11 Nov 2024 15:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>印度 Hindalco 报告称，由于金属价格高企，利润增长 78%</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-11/india-s-hindalco-reports-78-jump-in-profit-on-high-metal-prices</link>
-      <description><![CDATA[印度最大的铝和铜生产商之一 Hindalco Industries Ltd. 报告称，受金属价格上涨和非核心业务收入增加的推动，其第二季度利润增长了 78%。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-11/india-s-hindalco-reports-78-jump-in-profit-on-high-metal-prices</guid>
-      <pubDate>Mon, 11 Nov 2024 14:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根大通的阿罗诺夫喜欢高质量的公司浮动利率票据</title>
-      <link>https://www.bloomberg.com/news/videos/2024-11-11/jpmorgan-s-aronov-likes-high-quality-floating-rate-notes-video</link>
-      <description><![CDATA[摩根大通资产管理公司市场策略主管 Oksana Aronov 在“彭博监测”节目中讨论利率以及她在固定收益市场中寻找的投资机会时表示：“长期来看，利率走高的可能性更大。” （来源：彭博）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-11-11/jpmorgan-s-aronov-likes-high-quality-floating-rate-notes-video</guid>
-      <pubDate>Mon, 11 Nov 2024 14:53:28 GMT</pubDate>
-    </item>
-    <item>
       <title>MicroStrategy 斥资 20 亿美元购买比特币，为 2020 年以来最大单笔购买</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-11/microstrategy-buys-2-03-billion-of-bitcoin-in-latest-purchase</link>
       <description><![CDATA[MicroStrategy Inc. 以约 20.3 亿美元购买了约 27,200 比特币，这是该加密对冲基金代理自四年多前开始收购数字资产以来的最大一笔购买。]]></description>
@@ -69,11 +62,18 @@
       <pubDate>Sun, 10 Nov 2024 23:26:39 GMT</pubDate>
     </item>
     <item>
-      <title>美元有望创年内新高，股市上涨：市场综述</title>
+      <title>股票轮换推动小型股涨至三年高点：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-10/asian-stocks-set-to-fall-bitcoin-passes-80-000-markets-wrap</link>
-      <description><![CDATA[股市延续大选后的涨势，美元有望创一年新高，交易员们正在等待本周的关键通胀数据，以寻找美联储下一步举措的线索。]]></description>
+      <description><![CDATA[股市连续第五个交易日上涨，比特币突破 84,000 美元，美元有望创一年新高，投资者继续押注这些交易将受益于当选总统唐纳德·特朗普的议程。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-10/asian-stocks-set-to-fall-bitcoin-passes-80-000-markets-wrap</guid>
       <pubDate>Sun, 10 Nov 2024 22:22:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普获胜提振加密货币前景，比特币飙升至 84,000 美元以上</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-10/bitcoin-btc-on-cusp-of-80-000-for-first-time-on-optimism-over-trump</link>
+      <description><![CDATA[受当选总统唐纳德·特朗普对数字资产的支持，以及国会将出现支持加密货币的立法者的前景的推动，比特币首次突破 84,000 美元。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-10/bitcoin-btc-on-cusp-of-80-000-for-first-time-on-optimism-over-trump</guid>
+      <pubDate>Sun, 10 Nov 2024 06:33:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
