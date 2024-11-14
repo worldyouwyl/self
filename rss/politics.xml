@@ -4,7 +4,7 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Thu, 14 Nov 2024 09:51:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 10:09:10 GMT</lastBuildDate>
     <item>
       <title>博茨瓦纳新领导人在戴比尔斯会谈前任命矿业部长</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-14/new-botswana-leader-names-mines-minister-before-de-beers-talks</link>
@@ -15,7 +15,7 @@
     <item>
       <title>以色列希望特朗普获胜以加强中东关系</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-14/israel-hopes-trump-win-builds-middle-east-ties-official-says</link>
-      <description><![CDATA[以色列官员表示，以色列希望唐纳德·特朗普重返白宫将带来中东地区在外交和气候问题上的更多合作。]]></description>
+      <description><![CDATA[以色列官员表示，以色列希望唐纳德·特朗普重返白宫将促进中东地区在外交和气候问题上的更多合作。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-14/israel-hopes-trump-win-builds-middle-east-ties-official-says</guid>
       <pubDate>Thu, 14 Nov 2024 08:25:45 GMT</pubDate>
     </item>
@@ -27,13 +27,6 @@
       <pubDate>Thu, 14 Nov 2024 07:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>日本计划向低收入家庭发放 192 美元补助</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-14/japan-plans-192-handouts-for-low-income-households-in-package</link>
-      <description><![CDATA[据彭博社看到的最新计划草案显示，日本首相石破茂政府正计划发放 30,000 日元（192 美元）现金，帮助低收入家庭应对物价上涨，同时充实即将出台的经济一揽子计划的细节。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-14/japan-plans-192-handouts-for-low-income-households-in-package</guid>
-      <pubDate>Thu, 14 Nov 2024 07:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>斯里兰卡领导人寻求通过议会投票增强权力</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-14/sri-lanka-leader-seeks-to-bolster-power-with-parliamentary-vote</link>
       <description><![CDATA[斯里兰卡即将举行其外来左翼总统获胜以来的首次议会选举，以检验其打击腐败和修改不受欢迎的国际货币基金组织贷款计划的雄心勃勃的承诺。]]></description>
@@ -41,9 +34,16 @@
       <pubDate>Thu, 14 Nov 2024 01:30:00 GMT</pubDate>
     </item>
     <item>
+      <title>习近平的关键人物将带领中国应对又一场特朗普贸易战</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-13/xi-s-key-players-to-lead-china-in-another-trump-trade-fight</link>
+      <description><![CDATA[唐纳德·特朗普重新掌权增加了中美之间再次爆发贸易战的可能性，使得北京的潜在谈判代表成为习近平政府中最重要的人物之一。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-13/xi-s-key-players-to-lead-china-in-another-trump-trade-fight</guid>
+      <pubDate>Wed, 13 Nov 2024 22:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>里夫斯计划立法将养老金打造为“超级基金”以推动增长</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-13/reeves-plans-law-to-create-pension-megafunds-in-uk-growth-push</link>
-      <description><![CDATA[财政大臣雷切尔·里夫斯表示，英国将于明年出台立法，将 1.3 万亿英镑（1.7 万亿美元）的养老金储蓄集中到一系列“巨型基金”中，新工党政府将努力兑现促进私人投资和经济增长的承诺。]]></description>
+      <description><![CDATA[财政大臣雷切尔·里夫斯表示，英国将于明年出台立法，将 1.3 万亿英镑（1.7 万亿美元）的养老金储蓄集中到一系列“巨型基金”中，新工党政府将努力兑现其促进私人投资和经济增长的承诺。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-13/reeves-plans-law-to-create-pension-megafunds-in-uk-growth-push</guid>
       <pubDate>Wed, 13 Nov 2024 22:00:00 GMT</pubDate>
     </item>
@@ -62,9 +62,9 @@
       <pubDate>Wed, 13 Nov 2024 20:42:14 GMT</pubDate>
     </item>
     <item>
-      <title>OMV 称俄罗斯天然气供应可能在仲裁中胜诉后停止</title>
+      <title>OMV 称俄罗斯可能因仲裁结果胜诉而削减天然气供应</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-13/omv-wins-230-million-award-from-gazprom-on-2022-gas-dispute</link>
-      <description><![CDATA[OMV AG 警告称，在与 Gazprom PJSC 的仲裁中，该公司获得了 2.3 亿欧元（2.43 亿美元）的赔偿，此后俄罗斯的天然气供应可能会受到限制，这将提高这家奥地利公司的利润，但可能会终止从克里姆林宫控制的这家公司的采购。]]></description>
+      <description><![CDATA[OMV AG 警告称，俄罗斯天然气供应可能中断，因为该公司打算停止向 Gazprom PJSC 支付进口费用，以收回其在仲裁中赢得的损失。欧洲期货飙升至一年来的最高水平。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-13/omv-wins-230-million-award-from-gazprom-on-2022-gas-dispute</guid>
       <pubDate>Wed, 13 Nov 2024 20:22:13 GMT</pubDate>
     </item>
