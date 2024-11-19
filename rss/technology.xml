@@ -4,7 +4,21 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 19 Nov 2024 14:29:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 14:42:13 GMT</lastBuildDate>
+    <item>
+      <title>支付公司 Neo4j 效仿 Klarna 准备在美国上市</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-19/unicorn-neo4j-follows-klarna-path-and-readies-for-us-listing</link>
+      <description><![CDATA[图形数据库和数据科学工具供应商 Neo4j Inc. 正准备追随客户 Klarna Bank AB 的脚步在美国上市。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-19/unicorn-neo4j-follows-klarna-path-and-readies-for-us-listing</guid>
+      <pubDate>Tue, 19 Nov 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>红杉资本和 GV 支持初创公司为销售人员打造人工智能代理</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-19/sequoia-gv-back-startup-building-ai-agents-for-salespeople</link>
+      <description><![CDATA[Rox 是一家致力于为销售人员开发人工智能代理的初创公司，该公司计划于周二宣布，已从红杉资本和 General Catalyst 等投资者处获得了 5000 万美元的融资。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-19/sequoia-gv-back-startup-building-ai-agents-for-salespeople</guid>
+      <pubDate>Tue, 19 Nov 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊音乐效仿 Spotify，提供免费有声读物</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-19/amazon-music-takes-a-page-from-spotify-offers-free-audiobooks</link>
@@ -36,30 +50,9 @@
     <item>
       <title>Instagram 将允许用户重置其内容推荐</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-19/instagram-will-let-users-reset-their-content-recommendations</link>
-      <description><![CDATA[Meta Platforms Inc. 的 Instagram 将允许部分用户重置其内容推荐，本质上就是重新启动决定用户在动态消息中看到哪些类型的帖子和视频的算法。]]></description>
+      <description><![CDATA[Meta Platforms Inc. 的 Instagram 将允许部分用户重置其内容推荐，本质上是重新启动决定用户在其动态消息中看到哪些类型的帖子和视频的算法。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-19/instagram-will-let-users-reset-their-content-recommendations</guid>
       <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Robinhood 拟以 3 亿美元收购 TradePMR，以推动财富客户发展</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-19/robinhood-to-buy-tradepmr-for-300-million-in-wealth-client-push</link>
-      <description><![CDATA[罗宾汉市场公司 (Robinhood Markets Inc.) 同意收购 TradePMR，这是一家为注册投资顾问提供的托管和投资组合管理平台，因为这家在线经纪公司试图瞄准更广泛的富裕投资者。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-19/robinhood-to-buy-tradepmr-for-300-million-in-wealth-client-push</guid>
-      <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>石油供应过剩将阻碍特朗普“水力压裂、水力压裂、水力压裂”的号召</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-19/oil-glut-set-to-thwart-trump-s-call-to-frack-frack-frack</link>
-      <description><![CDATA[候任总统唐纳德·特朗普的“水力压裂、水力压裂、水力压裂”誓言即将与全球原油过剩局面发生冲突，而全球原油过剩局面最终将抑制页岩油产量创下历史新高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-19/oil-glut-set-to-thwart-trump-s-call-to-frack-frack-frack</guid>
-      <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国国防部长将波罗的海电缆泄露事件视为破坏行为</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-19/german-defense-chief-sees-cable-breaches-in-baltic-as-sabotage</link>
-      <description><![CDATA[德国国防部长鲍里斯·皮斯托利斯表示，波罗的海两条海底数据电缆受损事件必须作为破坏行为进行调查，并指出俄罗斯对欧盟构成了混合威胁和军事威胁。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-19/german-defense-chief-sees-cable-breaches-in-baltic-as-sabotage</guid>
-      <pubDate>Tue, 19 Nov 2024 10:30:16 GMT</pubDate>
     </item>
     <item>
       <title>印度新闻社起诉 OpenAI 侵犯版权</title>
@@ -71,9 +64,16 @@
     <item>
       <title>否认大屠杀商品考验 Shopify 的言论自由精神</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-18/holocaust-denial-tests-tech-giant-shopify-s-free-speech-ethos</link>
-      <description><![CDATA[加拿大最大的科技公司 Shopify Inc. 因拥有一家充满反犹太商品的在线商店而受到批评，这是对该电子商务平台在新的宽松规则下愿意接受什么的测试。]]></description>
+      <description><![CDATA[加拿大最大的科技公司 Shopify Inc. 因开设一家充满反犹太商品的在线商店而受到批评，这是对该电子商务平台在新的宽松规则下愿意接受什么的测试。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-18/holocaust-denial-tests-tech-giant-shopify-s-free-speech-ethos</guid>
       <pubDate>Mon, 18 Nov 2024 22:34:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>超微聘请新审计师以保持上市地位 股价飙升</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-18/super-micro-shares-jump-on-compliance-plan-new-auditor</link>
+      <description><![CDATA[超微电脑公司 (Super Micro Computer Inc.) 聘请了新的审计师并提交了符合纳斯达克上市要求的计划后，其股价一度上涨 27%。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-18/super-micro-shares-jump-on-compliance-plan-new-auditor</guid>
+      <pubDate>Mon, 18 Nov 2024 22:18:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
