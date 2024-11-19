@@ -4,11 +4,18 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 19 Nov 2024 13:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 13:38:48 GMT</lastBuildDate>
+    <item>
+      <title>微软推出简化 AI 应用开发和模型切换的软件</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-19/microsoft-unveils-software-to-ease-ai-app-development-model-switching</link>
+      <description><![CDATA[该软件制造商还预览了新芯片和 Office AI 功能。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-19/microsoft-unveils-software-to-ease-ai-app-development-model-switching</guid>
+      <pubDate>Tue, 19 Nov 2024 13:30:18 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌人因人工智能交易获英国反垄断机构批准</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-19/google-s-anthropic-ai-investment-cleared-by-uk-antitrust-agency</link>
-      <description><![CDATA[英国监管机构表示，根据合并规则，谷歌与人工智能公司 Anthropic 的合作关系不符合全面调查的条件，因此避免了进一步审查。]]></description>
+      <description><![CDATA[英国反垄断监管机构认定谷歌与人工智能公司 Anthropic 的合作关系不符合合并规则下的全面调查条件，因此避免了进一步审查。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-19/google-s-anthropic-ai-investment-cleared-by-uk-antitrust-agency</guid>
       <pubDate>Tue, 19 Nov 2024 12:13:31 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>Instagram 将允许用户重置其内容推荐</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-19/instagram-will-let-users-reset-their-content-recommendations</link>
-      <description><![CDATA[Meta Platforms Inc. 的 Instagram 将允许部分用户重置其内容推荐，本质上就是重新启动决定用户在动态消息中看到哪些类型的帖子和视频的算法。]]></description>
+      <description><![CDATA[Meta Platforms Inc. 的 Instagram 将允许部分用户重置其内容推荐，本质上是重新启动决定用户在其动态消息中看到哪些类型的帖子和视频的算法。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-19/instagram-will-let-users-reset-their-content-recommendations</guid>
       <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
     </item>
@@ -41,13 +48,6 @@
       <pubDate>Tue, 19 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Oura 与血糖仪制造商 Dexcom 达成交易，估值 50 亿美元</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-19/oura-valued-at-5-billion-in-deal-with-glucose-device-maker-dexcom</link>
-      <description><![CDATA[智能戒指制造商 Oura Health Oy 将从医疗设备公司 Dexcom Inc. 获得 7500 万美元的投资，为两家公司共享数据和交叉销售产品奠定了基础。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-19/oura-valued-at-5-billion-in-deal-with-glucose-device-maker-dexcom</guid>
-      <pubDate>Tue, 19 Nov 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>德国国防部长将波罗的海电缆泄露事件视为破坏行为</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-19/german-defense-chief-sees-cable-breaches-in-baltic-as-sabotage</link>
       <description><![CDATA[德国国防部长鲍里斯·皮斯托利斯表示，波罗的海两条海底数据电缆受损事件必须作为破坏行为进行调查，并指出俄罗斯对欧盟构成了混合威胁和军事威胁。]]></description>
@@ -55,9 +55,9 @@
       <pubDate>Tue, 19 Nov 2024 10:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>印度新闻社起诉 OpenAI 侵犯版权内容</title>
+      <title>印度新闻社起诉 OpenAI 侵犯版权</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-19/indian-news-agency-sues-openai-for-copyrighted-content-violation</link>
-      <description><![CDATA[印度最大的通讯社之一亚洲新闻国际公司在印度法院起诉 OpenAI，指控这家美国人工智能公司滥用其受版权保护的新闻内容。]]></description>
+      <description><![CDATA[印度最大的通讯社之一亚洲新闻国际公司在印度法院起诉OpenAI，指控这家美国人工智能公司滥用其受版权保护的新闻内容。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-19/indian-news-agency-sues-openai-for-copyrighted-content-violation</guid>
       <pubDate>Tue, 19 Nov 2024 10:14:07 GMT</pubDate>
     </item>
