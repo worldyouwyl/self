@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:08:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 15:28:36 GMT</lastBuildDate>
+    <item>
+      <title>Instacart 首席执行官称华尔街低估了食品杂货科技投资</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-21/instacart-ceo-says-wall-street-undervalues-grocery-tech-bet</link>
+      <description><![CDATA[在《The Circuit with Emily Chang》这期节目中，Instacart 首席执行官 Fidji Simo 分享了她重塑公司计划背后的一些灵感。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-21/instacart-ceo-says-wall-street-undervalues-grocery-tech-bet</guid>
+      <pubDate>Thu, 21 Nov 2024 15:26:26 GMT</pubDate>
+    </item>
     <item>
       <title>AI 药物研发初创公司 Enveda 融资 1.3 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-21/ai-drug-discovery-startup-enveda-raises-130-million</link>
@@ -34,25 +41,11 @@
       <pubDate>Thu, 21 Nov 2024 12:05:33 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克与特朗普结盟 海湾财富基金瞄准更多美国交易</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-21/musk-trump-alliance-has-saudi-abu-dhabi-wealth-funds-eyeing-more-us-deals</link>
-      <description><![CDATA[在美国总统大选前几周，阿联酋最具影响力的王室成员之一会见了埃隆·马斯克。选举结果公布几天后，这位沙特阿拉伯公共投资基金负责人与唐纳德·特朗普以及帮助他入主白宫的特斯拉公司首席执行官合影。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-21/musk-trump-alliance-has-saudi-abu-dhabi-wealth-funds-eyeing-more-us-deals</guid>
-      <pubDate>Thu, 21 Nov 2024 11:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Temu 所有者 PDD 发出利润恶化警告后股价暴跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-21/temu-owner-pdd-s-sales-slow-sharply-after-china-market-sputters</link>
       <description><![CDATA[PDD Holdings Inc. 警告称，由于中国本土市场的竞争加剧，其盈利能力将逐渐下降，随后其股价暴跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-21/temu-owner-pdd-s-sales-slow-sharply-after-china-market-sputters</guid>
       <pubDate>Thu, 21 Nov 2024 11:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴任命新首席执行官 重组停滞不前的商业部门</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-21/alibaba-anoints-new-e-commerce-chief-in-overhaul-of-stalling-arm</link>
-      <description><![CDATA[阿里巴巴集团控股有限公司任命一位资深高管负责其整个在线电子商务业务，启动对这个规模庞大但陷入困境的业务的重大改革。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-21/alibaba-anoints-new-e-commerce-chief-in-overhaul-of-stalling-arm</guid>
-      <pubDate>Thu, 21 Nov 2024 10:25:57 GMT</pubDate>
     </item>
     <item>
       <title>中国人工智能先驱百度销售额创 2022 年以来最大降幅</title>
@@ -69,7 +62,14 @@
       <pubDate>Thu, 21 Nov 2024 04:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 表示新芯片在预测令人失望后仍有望问世</title>
+      <title>美国司法部寻求出售谷歌 Chrome 以遏制垄断</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-21/justice-department-seeks-google-chrome-sale-to-curb-monopoly</link>
+      <description><![CDATA[美国司法部和一些州提议对 Alphabet Inc. 的谷歌进行重大改革 - 包括强制出售该公司的 Chrome 网络浏览器 - 在一项具有里程碑意义的裁决判定这家科技巨头非法垄断在线搜索之后。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-21/justice-department-seeks-google-chrome-sale-to-curb-monopoly</guid>
+      <pubDate>Thu, 21 Nov 2024 03:54:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 表示新芯片的预期令人失望，但进展顺利</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-20/nvidia-forecast-fails-to-meet-the-loftiest-estimates-for-ai-star</link>
       <description><![CDATA[Nvidia Corp. 向投资者保证，其新的产品阵容可以维持公司由人工智能推动的增长势头，尽管匆忙推出芯片的成本比预期的要高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-20/nvidia-forecast-fails-to-meet-the-loftiest-estimates-for-ai-star</guid>
