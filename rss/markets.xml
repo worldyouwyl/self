@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 21 Nov 2024 05:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 05:45:39 GMT</lastBuildDate>
     <item>
       <title>陷入英国股市和通胀的困境</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-11-21/inflation-worry-uk-needs-to-change-the-conversation-to-stocks</link>
@@ -34,6 +34,13 @@
       <pubDate>Thu, 21 Nov 2024 04:04:32 GMT</pubDate>
     </item>
     <item>
+      <title>C&W 称德国房地产市场因大型交易反弹而回暖</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-21/german-property-market-picks-up-as-big-deals-rebound-c-w-says</link>
+      <description><![CDATA[随着投资者完成更多大额交易，尽管写字楼市场仍然受到冷遇，但德国陷入困境的房地产市场已显露出复苏的初步迹象。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-21/german-property-market-picks-up-as-big-deals-rebound-c-w-says</guid>
+      <pubDate>Thu, 21 Nov 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>美国起诉、取消债券发售后阿达尼股价暴跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-21/adani-bonds-tumble-after-founder-charged-by-us-authorities</link>
       <description><![CDATA[在美国检察官指控创始人高塔姆·阿达尼参与贿赂阴谋后，阿达尼集团旗下子公司的股票和债券大幅下跌。该集团还取消了 6 亿美元的债券发售。]]></description>
@@ -48,13 +55,6 @@
       <pubDate>Thu, 21 Nov 2024 00:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>黑石集团向 Lancium AI 建设投资 5 亿美元</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-21/blackstone-invests-500-million-in-lancium-ai-buildout</link>
-      <description><![CDATA[据知情人士透露，黑石公司向 Lancium 公司投资逾 5 亿美元，后者正在西德克萨斯州建设超过 5 千兆瓦的数据中心，以满足人工智能应用日益增长的能源需求。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-21/blackstone-invests-500-million-in-lancium-ai-buildout</guid>
-      <pubDate>Thu, 21 Nov 2024 00:35:49 GMT</pubDate>
-    </item>
-    <item>
       <title>库存增加后交易商权衡乌克兰风险 油价持稳</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-20/latest-oil-market-news-and-analysis-for-november-21</link>
       <description><![CDATA[在美国原油库存连续第三周增加后，市场关注乌克兰和中东局势的发展，油价因此趋于稳定。]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 20 Nov 2024 23:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市因英伟达和地缘政治风险下跌：市场综述</title>
+      <title>英伟达和地缘政治担忧导致亚洲股市下跌：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-20/stock-market-today-dow-s-p-live-updates</link>
       <description><![CDATA[亚洲股市下跌，反映出对宏观经济的担忧以及英伟达公司 (Nvidia Corp.) 不佳的营收预测引发的华尔街情绪低迷。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-20/stock-market-today-dow-s-p-live-updates</guid>
