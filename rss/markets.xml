@@ -4,9 +4,23 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 27 Nov 2024 09:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 09:39:54 GMT</lastBuildDate>
     <item>
-      <title>俄罗斯天然气工业股份公司北溪 2 号项目因欧盟规则纠纷败诉</title>
+      <title>OPEC 的困境：石油供应再减产一年或油价暴跌</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-27/opec-s-dilemma-another-year-of-oil-supply-curbs-or-price-slump</link>
+      <description><![CDATA[当 OPEC+ 部长本周末开会时，他们面临着一个难以接受的选择：继续限制石油供应直至 2025 年，否则就有可能再次出现油价暴跌。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-27/opec-s-dilemma-another-year-of-oil-supply-curbs-or-price-slump</guid>
+      <pubDate>Wed, 27 Nov 2024 09:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>刺激计划希望在关键会议前升温，中国股市上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-27/chinese-stocks-jump-as-stimulus-hopes-rise-ahead-of-key-meeting</link>
+      <description><![CDATA[由于市场猜测预计于 12 月举行的重要经济会议可能会推出更多刺激措施，中国股市在下午交易中加速反弹。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-27/chinese-stocks-jump-as-stimulus-hopes-rise-ahead-of-key-meeting</guid>
+      <pubDate>Wed, 27 Nov 2024 09:09:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯天然气工业股份公司北溪 2 号管道因欧盟规则纠纷败诉</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-27/gazprom-s-mangled-nord-stream-2-loses-court-clash-over-eu-rules</link>
       <description><![CDATA[俄罗斯备受争议的北溪 2 号管道在与欧盟天然气市场规则的最新一轮法律斗争中失败，对于现已被叫停的项目来说，这次失败很大程度上具有象征意义。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-27/gazprom-s-mangled-nord-stream-2-loses-court-clash-over-eu-rules</guid>
@@ -27,27 +41,6 @@
       <pubDate>Wed, 27 Nov 2024 08:54:25 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行因操纵欧元银行间拆借利率 3200 万欧元罚款在欧盟法庭败诉</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-27/hsbc-loses-eu-court-clash-over-32-million-euribor-rigging-fine</link>
-      <description><![CDATA[汇丰控股有限公司因非法操纵欧元银行间拆借利率基准而被欧盟处以近 3,200 万欧元的反垄断罚款，但最终败诉。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-27/hsbc-loses-eu-court-clash-over-32-million-euribor-rigging-fine</guid>
-      <pubDate>Wed, 27 Nov 2024 08:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Norsk Hydro 的绿色铝转型</title>
-      <link>https://www.bloomberg.com/news/videos/2024-11-27/norsk-hydro-s-green-aluminum-transition</link>
-      <description><![CDATA[由于市场环境严峻，挪威海德鲁公司 (Norsk Hydro ASA) 将停止为其电池和绿色氢能业务提供资金，并逐步淘汰这些业务。首席执行官 Eivind Kallevik 向彭博社的 Tom Mackenzie 讲述了这对公司的可再生能源投资以及未来增长计划意味着什么。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-11-27/norsk-hydro-s-green-aluminum-transition</guid>
-      <pubDate>Wed, 27 Nov 2024 08:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行行长施纳贝尔认为进一步降息的空间有限</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-27/ecb-rate-cuts-schnabel-sees-only-limited-room-for-further-reductions</link>
-      <description><![CDATA[欧洲央行执委会委员伊莎贝尔·施纳贝尔表示，欧洲央行需要警惕过度降息，因为借贷成本已经接近不再抑制经济的水平，降息可能会适得其反。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-27/ecb-rate-cuts-schnabel-sees-only-limited-room-for-further-reductions</guid>
-      <pubDate>Wed, 27 Nov 2024 08:20:00 GMT</pubDate>
-    </item>
-    <item>
       <title>大众汽车出售新疆生产基地 退出争议地区</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-27/volkswagen-sells-xinjiang-sites-to-leave-controversial-region</link>
       <description><![CDATA[迫于投资者对中国西部地区可能存在侵犯人权行为的担忧，大众汽车集团 (Volkswagen AG) 将终止其在新疆的业务。]]></description>
@@ -55,7 +48,7 @@
       <pubDate>Wed, 27 Nov 2024 08:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>海德鲁公司停止绿色氢能和电池项目</title>
+      <title>海德鲁停止绿色氢能和电池项目</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-27/norsk-hydro-pulls-plug-on-green-hydrogen-and-battery-projects</link>
       <description><![CDATA[挪威海德鲁公司 (Norsk Hydro ASA) 将关闭其电池材料和绿色氢业务，这进一步表明努力实现欧洲绿色能源目标的公司面临商业压力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-27/norsk-hydro-pulls-plug-on-green-hydrogen-and-battery-projects</guid>
@@ -74,6 +67,13 @@
       <description><![CDATA[欧洲将迎来自俄罗斯入侵乌克兰以来最寒冷的冬季，由于欧洲大陆以比平常更快的速度消耗其天然气储备，本已高企的能源成本将进一步上升。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-27/europe-set-for-coldest-winter-since-ukraine-war-posing-energy-risk</guid>
       <pubDate>Wed, 27 Nov 2024 05:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普的政策选择和美国数据引发市场关注，股市下跌：市场综述</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-26/stock-market-today-dow-s-p-live-updates</link>
+      <description><![CDATA[由于交易员们消化了唐纳德·特朗普的最新内阁任命，并期待一系列美国经济数据来寻找利率前景的线索，欧洲股市下跌，美国股指期货小幅走低。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-26/stock-market-today-dow-s-p-live-updates</guid>
+      <pubDate>Tue, 26 Nov 2024 22:52:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
