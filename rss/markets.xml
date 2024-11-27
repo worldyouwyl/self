@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 27 Nov 2024 13:48:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 13:54:04 GMT</lastBuildDate>
+    <item>
+      <title>Altice International 因实验室和外汇问题下调盈利前景</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-27/altice-international-lowers-earnings-outlook-on-labs-fx-woes</link>
+      <description><![CDATA[由于帕特里克·德拉希 (Patrick Drahi) 陷入困境的电信帝国的部分业务持续恶化，Altice International 下调了今年的盈利预期。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-27/altice-international-lowers-earnings-outlook-on-labs-fx-woes</guid>
+      <pubDate>Wed, 27 Nov 2024 13:39:57 GMT</pubDate>
+    </item>
     <item>
       <title>德意志银行完成 10 亿美元 CRE 贷款组合出售</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-27/deutsche-bank-completes-sale-of-1-billion-cre-loan-portfolio</link>
@@ -34,14 +41,7 @@
       <pubDate>Wed, 27 Nov 2024 13:17:25 GMT</pubDate>
     </item>
     <item>
-      <title>Grifols 交易失败，银行错失 2.2 亿欧元债务费用</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-27/banks-miss-out-on-220-million-debt-fee-as-grifols-deal-folds</link>
-      <description><![CDATA[布鲁克菲尔德资产管理公司 (Brookfield Asset Management) 表示放弃收购制药商 Grifols 的竞标后，银行业将损失约 2.2 亿欧元（2.32 亿美元）的承销费。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-27/banks-miss-out-on-220-million-debt-fee-as-grifols-deal-folds</guid>
-      <pubDate>Wed, 27 Nov 2024 12:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>电池制造商 Morrow 呼吁挪威就“成败攸关”贷款做出裁决</title>
+      <title>电池制造商 Morrow 呼吁明确关键贷款</title>
       <link>https://www.bloomberg.com/news/articles/2024-11-27/battery-maker-morrow-calls-norway-to-rule-on-make-or-break-loan</link>
       <description><![CDATA[挪威的 Morrow Batteries AS 正面临生存危机，该公司正在等待政府资金批准，而这项资金对于吸引投资者进入因瑞典初创公司 Northvolt AB 倒闭而受到重创的行业至关重要。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-27/battery-maker-morrow-calls-norway-to-rule-on-make-or-break-loan</guid>
@@ -53,13 +53,6 @@
       <description><![CDATA[受全球供应担忧影响，咖啡期货在纽约延续大幅上涨势头，升至 40 多年来的最高水平，有可能进一步提高消费者的成本。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-27/coffee-gets-even-pricier-as-futures-rally-to-highest-since-1977</guid>
       <pubDate>Wed, 27 Nov 2024 11:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿联酋石油巨头计划投资天然气和化学品部门</title>
-      <link>https://www.bloomberg.com/news/articles/2024-11-27/uae-oil-giant-plans-separate-low-carbon-energy-chemicals-firm</link>
-      <description><![CDATA[阿联酋最大的石油生产商将组建一家投资公司，专注于国际天然气、化学品和低碳能源，这三大业务是该公司全球扩张的关键业务。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-11-27/uae-oil-giant-plans-separate-low-carbon-energy-chemicals-firm</guid>
-      <pubDate>Wed, 27 Nov 2024 11:15:47 GMT</pubDate>
     </item>
     <item>
       <title>OPEC 的困境：又一年的供应限制或油价暴跌</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[南非将发放从美国进口的转基因白玉米和黄玉米的进口许可证，此前南非遭遇夏季干旱，导致当地玉米产量下降 23%。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-11-27/south-africa-plans-us-corn-import-permits-as-drought-cuts-crop</guid>
       <pubDate>Wed, 27 Nov 2024 08:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>交易商等待 OPEC+ 生产计划线索，油价小幅上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-11-26/latest-oil-market-news-and-analysis-for-november-27</link>
+      <description><![CDATA[有迹象表明 OPEC+ 将再次推迟恢复产量，抵消了中东地缘政治风险的缓解，油价小幅走高。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-11-26/latest-oil-market-news-and-analysis-for-november-27</guid>
+      <pubDate>Tue, 26 Nov 2024 23:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
