@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 02 Jan 2025 11:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 12:14:19 GMT</lastBuildDate>
+    <item>
+      <title>随着负电价现象加剧，德国电价跌至零以下</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-02/german-power-slips-below-zero-as-negative-price-phenomenon-grows</link>
+      <description><![CDATA[德国电价在年初的第一个交易日跌至零以下，随着可再生能源的扩张，这种现象在欧洲越来越常见。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-02/german-power-slips-below-zero-as-negative-price-phenomenon-grows</guid>
+      <pubDate>Thu, 02 Jan 2025 12:08:11 GMT</pubDate>
+    </item>
     <item>
       <title>美国码头工人与港口雇主谈判即将重启</title>
       <link>https://www.bloomberg.com/news/videos/2025-01-02/us-dockworkers-port-employers-talks-set-to-restart-video</link>
@@ -34,22 +41,6 @@
       <pubDate>Thu, 02 Jan 2025 11:26:50 GMT</pubDate>
     </item>
     <item>
-      <title>新奥尔良袭击，拉斯维加斯特朗普酒店外特斯拉 Cyber​​truck 爆炸</title>
-      <link>https://www.bloomberg.com/news/videos/2025-01-02/2025-1st-trading-day-the-pulse-01-02-video</link>
-      <description><![CDATA[新年前夜，新奥尔良法国区发生致命袭击，造成至少 15 人死亡，数十人受伤，嫌疑人是一名美国陆军老兵，在现场被击毙。几个小时后，在当选总统特朗普位于拉斯维加斯的酒店外，一辆特斯拉 Cyber​​truck 发生致命爆炸，进一步震惊了 2025 年即将到来之际的美国人。这两起事件均受到联邦调查局的调查，促使特朗普、总统乔·拜登和其他美国高级官员发表声明。与此同时，在大宗商品新闻中，欧洲天然气价格在今年第一个交易日上涨，因为该地区在没有主要供应来源的情况下准备迎接寒冷的冬季气温。这一停滞与一些国家气温低于零度的预测相吻合，这将推高供暖需求。
-
-今天的嘉宾：埃里克·尼尔森，富国银行（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2025-01-02/2025-1st-trading-day-the-pulse-01-02-video</guid>
-      <pubDate>Thu, 02 Jan 2025 11:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年的市场：特朗普主导华尔街预测</title>
-      <link>https://www.bloomberg.com/news/newsletters/2025-01-02/markets-in-2025-trump-dominates-wall-street-predictions-m5f889ix</link>
-      <description><![CDATA[从唐纳德·J·特朗普重返白宫，到美国资产价格高得离谱，再到债券义勇军的威胁——以下是金融界最优秀、最聪明的人士对未来一年的看法。在今天的彭博大事记中，我们呈现了来自 50 多家领先金融机构的 700 多个重要电话会议。以下是其中一些亮点：]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2025-01-02/markets-in-2025-trump-dominates-wall-street-predictions-m5f889ix</guid>
-      <pubDate>Thu, 02 Jan 2025 11:12:15 GMT</pubDate>
-    </item>
-    <item>
       <title>欧洲股市下跌，因中国经济疲软拖累汽车和奢侈品市场</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-02/european-stocks-kick-off-new-year-with-gains-as-data-awaited</link>
       <description><![CDATA[欧洲股市在今年第一个交易日下跌，因为中国经济数据疲软，给汽车制造和奢侈品等行业带来压力，这些行业很大一部分销售额依赖于中国。]]></description>
@@ -57,23 +48,30 @@
       <pubDate>Thu, 02 Jan 2025 08:15:17 GMT</pubDate>
     </item>
     <item>
+      <title>俄罗斯通过乌克兰的天然气供应减少，欧洲天然气涨幅缩减</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-02/european-gas-rises-following-loss-of-russian-flows-via-ukraine</link>
+      <description><![CDATA[由于一条主要供应路线的中断，加之该地区北部地区气温降至冰点，欧洲天然气价格在今年第一个交易日缩减涨幅。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-02/european-gas-rises-following-loss-of-russian-flows-via-ukraine</guid>
+      <pubDate>Thu, 02 Jan 2025 07:14:10 GMT</pubDate>
+    </item>
+    <item>
       <title>2025 年开局关注中国，铜价维持近 9 个月低点</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-02/metals-push-higher-with-focus-on-outlook-in-china-as-2025-opens</link>
-      <description><![CDATA[今年第一个交易日，铜价稳定在九个月低点附近，由于中国股市承受压力，投资者正在权衡北京方面在 2025 年是否出台更多刺激措施的可能性。]]></description>
+      <description><![CDATA[今年第一个交易日，铜价稳定在九个月低点附近，由于中国股市承受压力，投资者权衡北京方面在 2025 年出台额外刺激措施的可能性。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-02/metals-push-higher-with-focus-on-outlook-in-china-as-2025-opens</guid>
       <pubDate>Thu, 02 Jan 2025 03:11:15 GMT</pubDate>
     </item>
     <item>
       <title>黄金年化涨幅达 27%，因交易员关注美国利率走势</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-02/gold-xauusd-steadies-after-27-yearly-gain-as-traders-mull-us-rate-path</link>
-      <description><![CDATA[黄金价格创下 2010 年以来最大年度涨幅，因避险情绪席卷大盘，黄金被视为避险资产，因此受益。]]></description>
+      <description><![CDATA[黄金价格创下 2010 年以来最大年度涨幅，因避险情绪席卷大盘，黄金受益于被视为避险资产的金属价格上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-02/gold-xauusd-steadies-after-27-yearly-gain-as-traders-mull-us-rate-path</guid>
       <pubDate>Thu, 02 Jan 2025 00:20:03 GMT</pubDate>
     </item>
     <item>
       <title>美国股市在连续四天下跌后有望反弹：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-01/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[在科技股乐观情绪的推动下，美国股指期货上涨，预示华尔街将从 2024 年底的四天低迷中反弹。]]></description>
+      <description><![CDATA[在对科技股的乐观情绪的推动下，美国股指期货走高，预示着华尔街将从 2024 年底的四天低迷中反弹。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-01/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 01 Jan 2025 22:58:34 GMT</pubDate>
     </item>
