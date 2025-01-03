@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 03 Jan 2025 16:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 16:46:19 GMT</lastBuildDate>
     <item>
       <title>人工智能的未来一年：更先进的代理和新的数据方法</title>
       <link>https://www.bloomberg.com/news/newsletters/2025-01-03/the-year-ahead-in-ai-more-advanced-agents-and-new-approaches-to-data</link>
@@ -55,13 +55,6 @@
       <pubDate>Fri, 03 Jan 2025 10:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>零星散货：中国如何建造如此多的核电站（播客）</title>
-      <link>https://www.bloomberg.com/news/audio/2025-01-03/how-china-builds-so-much-nuclear-power-odd-lots-podcast</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/audio/2025-01-03/how-china-builds-so-much-nuclear-power-odd-lots-podcast</guid>
-      <pubDate>Fri, 03 Jan 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>俄罗斯法院要求 Yandex 隐藏无人机炼油厂图像</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-03/russian-court-orders-yandex-to-hide-refinery-images-over-drones</link>
       <description><![CDATA[俄罗斯正在采取措施限制在线发布该国一家炼油厂的图片和地图，以保护这一关键基础设施免受乌克兰无人机的袭击。]]></description>
@@ -74,6 +67,13 @@
       <description><![CDATA[Zyn 代表着菲利普莫里斯“无烟”战略的成功，同时也带来了重大挑战：公司如何才能销售不那么诱人的香烟替代品，以免因吸引孩子而惹上麻烦？]]></description>
       <guid>https://www.bloomberg.com/news/features/2025-01-02/zyn-pouches-how-nicotine-product-got-popular-on-social-media</guid>
       <pubDate>Thu, 02 Jan 2025 22:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子计算终于来了。但它是什么？</title>
+      <link>https://www.bloomberg.com/news/articles/2024-12-24/what-is-quantum-computing-what-do-quantum-computers-do-and-can-i-get-one</link>
+      <description><![CDATA[四十年前，物理学家们推测，可以利用量子物理学的复杂力学来制造一种比传统机器强大得多的新型计算机。如今，一系列突破使“量子效用”更接近现实。一场开发机器的竞赛正在进行中，这些机器足够精确，可以忠实地模拟复杂的现实世界现象的行为，并在药物开发、金融建模和人工智能等各个领域取得飞跃。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-12-24/what-is-quantum-computing-what-do-quantum-computers-do-and-can-i-get-one</guid>
+      <pubDate>Tue, 24 Dec 2024 12:56:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
