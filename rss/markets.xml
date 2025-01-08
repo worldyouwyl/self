@@ -4,13 +4,27 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 08 Jan 2025 14:51:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 15:08:09 GMT</lastBuildDate>
+    <item>
+      <title>印度与阿富汗寻求重启贸易谈判 关系缓和</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-08/india-afghanistan-seek-to-revive-trade-talks-as-relations-thaw</link>
+      <description><![CDATA[随着印度和阿富汗塔利班领导的政府逐步恢复关系，两国将利用伊朗港口恢复双边贸易。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-08/india-afghanistan-seek-to-revive-trade-talks-as-relations-thaw</guid>
+      <pubDate>Wed, 08 Jan 2025 14:51:12 GMT</pubDate>
+    </item>
     <item>
       <title>杰米·戴蒙刚刚成为办公地产的守护神</title>
       <link>https://www.bloomberg.com/news/newsletters/2025-01-08/jamie-dimon-just-became-the-patron-saint-of-office-real-estate</link>
       <description><![CDATA[您好，欢迎阅读时事通讯，这是一份来自 Odd Lots 世界的每日内容大杂烩。有时是我们 Joe Weisenthal 和 Tracy Alloway 为您带来我们对市场、金融和经济最新发展的看法。有时是来自我们专家嘉宾和消息来源网络的贡献。无论它是什么，我们保证它总是很有趣。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2025-01-08/jamie-dimon-just-became-the-patron-saint-of-office-real-estate</guid>
       <pubDate>Wed, 08 Jan 2025 14:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>贸易战担忧打击南非兰特，引发 6 月以来最大跌幅</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-08/trump-tariff-talk-rattles-rand-zar-usd-what-to-know-about-the-currency-slide</link>
+      <description><![CDATA[由于投资者担心美国当选总统唐纳德·特朗普可能实施大规模关税，南非兰特周三大幅贬值，跌至七个月来的最低水平。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-08/trump-tariff-talk-rattles-rand-zar-usd-what-to-know-about-the-currency-slide</guid>
+      <pubDate>Wed, 08 Jan 2025 14:44:36 GMT</pubDate>
     </item>
     <item>
       <title>可可价格下跌，因交易商评估汇率政策以抑制波动</title>
@@ -27,25 +41,11 @@
       <pubDate>Wed, 08 Jan 2025 14:31:14 GMT</pubDate>
     </item>
     <item>
-      <title>Orlen 投资者在糟糕的一年后寻求股息策略的安慰</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-08/orlen-investors-seek-solace-in-dividend-strategy-after-bad-year</link>
-      <description><![CDATA[波兰最大的上市公司 Orlen SA 将于 1 月 9 日发布其期待已久的战略，以期在令人失望的一年之后重新与投资者建立联系，其中可能包括更坚定的股息指引等利好。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-08/orlen-investors-seek-solace-in-dividend-strategy-after-bad-year</guid>
-      <pubDate>Wed, 08 Jan 2025 14:26:57 GMT</pubDate>
-    </item>
-    <item>
       <title>国债市场首次获得 5% 收益率，预示未来可能出现的情况</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-08/key-us-treasury-yields-approach-2023-peaks-with-5-in-sight</link>
       <description><![CDATA[随着通胀焦虑引发的抛售席卷全球债务市场，20 年期美国国债发出了严峻警告：收益率已经达到 5%。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-08/key-us-treasury-yields-approach-2023-peaks-with-5-in-sight</guid>
       <pubDate>Wed, 08 Jan 2025 13:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>土耳其通胀防御型里拉助力新兴市场最佳套利交易</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-08/best-em-carry-trade-boosted-by-turkey-s-inflation-proofed-lira</link>
-      <description><![CDATA[土耳其央行管理里拉的策略为交易员享受更多全球最有利可图的套利交易奠定了基础。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-08/best-em-carry-trade-boosted-by-turkey-s-inflation-proofed-lira</guid>
-      <pubDate>Wed, 08 Jan 2025 12:26:17 GMT</pubDate>
     </item>
     <item>
       <title>市场崩盘加剧 英国 10 年期国债收益率创 2008 年以来新高</title>
@@ -62,9 +62,9 @@
       <pubDate>Wed, 08 Jan 2025 00:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>债券市场在抛售后企稳，股市波动：市场综述</title>
+      <title>美债引发抛售后华尔街暂时持平：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-07/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[受近期美国国债收益率飙升和美联储在通胀压力下放慢降息步伐的预期推动，股市在遭遇抛售后出现波动。]]></description>
+      <description><![CDATA[受近期美国国债收益率飙升和美联储将放缓降息步伐的押注推动，股市在经历抛售后出现小幅波动。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-07/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Tue, 07 Jan 2025 22:33:15 GMT</pubDate>
     </item>
