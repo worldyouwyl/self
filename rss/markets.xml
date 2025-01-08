@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 08 Jan 2025 10:39:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 10:45:10 GMT</lastBuildDate>
+    <item>
+      <title>特朗普瞄准风电，导致风电份额暴跌</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-08/trump-spurs-wind-power-share-slump-after-taking-aim-at-windmills</link>
+      <description><![CDATA[当选总统唐纳德·特朗普表示他的目标是上任后在美国不再建造新的风车，随后欧洲一些最大的风力发电公司的股价于周三下跌。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-08/trump-spurs-wind-power-share-slump-after-taking-aim-at-windmills</guid>
+      <pubDate>Wed, 08 Jan 2025 10:37:59 GMT</pubDate>
+    </item>
     <item>
       <title>美国例外论持续的可能性有多大？</title>
       <link>https://www.bloomberg.com/news/videos/2025-01-08/how-likely-is-us-exceptionalism-to-continue-video</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[英伟达公司首席执行官黄仁勋表示“非常有用的”量子计算机可能还需要几十年的时间才能问世，此后，IonQ Inc. 以及其他与量子计算相关的公司的股价在周三盘前交易中暴跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-08/quantum-computing-stocks-drop-as-nvidia-ceo-sees-use-years-away</guid>
       <pubDate>Wed, 08 Jan 2025 00:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国警告称深度冻结将导致电力市场紧张</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-07/uk-warns-of-tight-power-market-as-deep-freeze-takes-hold</link>
-      <description><![CDATA[英国电网运营商今天下午发布了电力市场警告，称由于风电发电量下降与气温下降同时发生，预计的供需之间缓冲不足。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-07/uk-warns-of-tight-power-market-as-deep-freeze-takes-hold</guid>
-      <pubDate>Tue, 07 Jan 2025 21:10:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
