@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Wed, 08 Jan 2025 02:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 02:53:22 GMT</lastBuildDate>
     <item>
       <title>萨利纳斯的 Total Play 提出 8.7 亿美元的债务互换要约</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-08/salinas-total-play-launches-870-million-offer-to-swap-debt</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[萨姆·奥特曼的姐姐在联邦法院提起的诉讼中指控 OpenAI 首席执行官对她进行近十年的性侵犯。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-08/sam-altman-s-sister-accuses-openai-ceo-of-sexually-abusing-her</guid>
       <pubDate>Wed, 08 Jan 2025 01:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>被美国列入黑名单后，腾讯进行 2006 年以来最大规模股票回购</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-08/tencent-makes-biggest-buyback-since-2006-after-us-blacklist</link>
+      <description><![CDATA[腾讯控股有限公司因涉嫌与中国军方有联系而被列入美国黑名单，引发股价下跌，随后该公司回购了近二十年来最多数量的股票。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-08/tencent-makes-biggest-buyback-since-2006-after-us-blacklist</guid>
+      <pubDate>Wed, 08 Jan 2025 01:42:42 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 称三星在 AI 内存芯片设计方面面临挑战</title>
@@ -41,9 +48,9 @@
       <pubDate>Wed, 08 Jan 2025 00:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能芯片失误导致三星利润下滑</title>
+      <title>英伟达传闻抵消利润损失后，三星股价上涨</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-07/samsung-profit-disappoints-after-ai-chip-missteps-hurt-business</link>
-      <description><![CDATA[三星电子公司的季度利润低于预期，反映出该公司为夺回关键的人工智能芯片和智能手机领域的市场份额付出了昂贵的努力。]]></description>
+      <description><![CDATA[英伟达公司创始人黄仁勋表示，他相信三星电子有能力解决其最高端内存的技术问题，这抵消了令人失望的季度业绩影响。此后，三星电子股价上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-07/samsung-profit-disappoints-after-ai-chip-missteps-hurt-business</guid>
       <pubDate>Tue, 07 Jan 2025 23:38:27 GMT</pubDate>
     </item>
@@ -55,18 +62,11 @@
       <pubDate>Tue, 07 Jan 2025 23:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 主导 CES，Meta 重回事实核查 | 彭博科技</title>
-      <link>https://www.bloomberg.com/news/videos/2025-01-07/bloomberg-technology-01-07-2024-video</link>
-      <description><![CDATA[彭博社的 Caroline Hyde 深入探讨了英伟达在 CES 上发布新显卡的情况。我们采访了首席执行官黄仁勋。此外，Meta 在其平台上减少了事实核查。此外，一些中国科技巨头被列入美国军方黑名单。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2025-01-07/bloomberg-technology-01-07-2024-video</guid>
-      <pubDate>Tue, 07 Jan 2025 21:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达股价下跌，交易员放弃看涨期权押注</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-07/nvidia-sees-wave-of-call-option-sales-as-stock-drops-from-record</link>
-      <description><![CDATA[由于英伟达公司 (Nvidia Corp.) 股价在创下 11 月以来首次历史新高后出现下跌，投资者周二抛售大量该股看涨期权。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-07/nvidia-sees-wave-of-call-option-sales-as-stock-drops-from-record</guid>
-      <pubDate>Tue, 07 Jan 2025 17:42:09 GMT</pubDate>
+      <title>警方称特朗普酒店 Cyber​​truck 爆炸案嫌疑人使用人工智能策划袭击</title>
+      <link>https://www.bloomberg.com/en/news/thp/2025-01-07/man-who-exploded-tesla-cybertruck-outside-trump-hotel-in-las-vegas-used-generative-ai-police-say</link>
+      <description><![CDATA[拉斯维加斯警方周二表示，在拉斯维加斯特朗普酒店外引爆特斯拉 Cyber​​truck 的这位功勋卓著的士兵使用了包括 ChatGPT 在内的生成式人工智能来协助策划袭击。]]></description>
+      <guid>https://www.bloomberg.com/en/news/thp/2025-01-07/man-who-exploded-tesla-cybertruck-outside-trump-hotel-in-las-vegas-used-generative-ai-police-say</guid>
+      <pubDate>Tue, 07 Jan 2025 21:31:47 GMT</pubDate>
     </item>
     <item>
       <title>美国将中国科技巨头列入黑名单 恐加速脱钩</title>
