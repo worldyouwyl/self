@@ -4,11 +4,25 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Thu, 09 Jan 2025 10:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 10:31:03 GMT</lastBuildDate>
+    <item>
+      <title>法国社会党领袖称预算妥协谈判取得进展</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-09/french-socialist-chief-says-talks-advancing-on-budget-compromise</link>
+      <description><![CDATA[法国社会党领袖奥利维尔·福尔表示，一些左翼政党与法国政府就预算问题的谈判正在取得进展，这为在法国总理弗朗索瓦·贝鲁下周公布其政策重点之前达成协议提供了潜在途径。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-09/french-socialist-chief-says-talks-advancing-on-budget-compromise</guid>
+      <pubDate>Thu, 09 Jan 2025 10:14:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>该组织认为，乌克兰的失败将使美国付出比援助更多的代价</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-09/ukraine-s-fall-would-cost-us-more-than-backing-it-think-tank-argues</link>
+      <description><![CDATA[一家保守派智库在一份新报告中指出，俄罗斯若在战争中获胜，不仅不会节省向乌克兰提供武器的开支，反而需要五角大楼到 2029 年增加 8000 亿美元以上的支出。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-09/ukraine-s-fall-would-cost-us-more-than-backing-it-think-tank-argues</guid>
+      <pubDate>Thu, 09 Jan 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>为何亲密贸易伙伴中国和日本无法相处</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-09/why-close-trade-partners-china-and-japan-can-t-get-along</link>
-      <description><![CDATA[中国和日本是亚洲最强大的国家之一，也是该地区最大的贸易伙伴。然而，数百年来的激烈竞争意味着两国经济上的相互依存绝非理所当然。争端可能因各种原因而爆发，从领土主张冲突到对居住在中国的日本国民的待遇。]]></description>
+      <description><![CDATA[中国和日本是亚洲最强大的国家之一，也是该地区最大的贸易伙伴。然而，数百年来的激烈竞争意味着两国经济上的相互依存绝非理所当然。争端可能因各种原因而爆发，从领土主张冲突到居住在中国的日本国民的待遇。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-09/why-close-trade-partners-china-and-japan-can-t-get-along</guid>
       <pubDate>Thu, 09 Jan 2025 09:20:08 GMT</pubDate>
     </item>
@@ -18,20 +32,6 @@
       <description><![CDATA[伊朗最受欢迎的里亚尔公开市场汇率追踪网站的管理员表示，在受到伊朗央行行长的批评后，他们因网络攻击和安全问题而将该网站下线。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-09/iran-bonbast-com-fx-website-offline-due-to-cyber-attacks</guid>
       <pubDate>Thu, 09 Jan 2025 07:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>南非左翼经济自由斗士党又一骨干成员退出</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-09/another-stalwart-of-south-africa-s-leftist-eff-party-quits</link>
-      <description><![CDATA[南非左翼经济自由战士党又一名资深成员辞职，这对该党在去年选举失败和高调离任之后造成了进一步打击。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-09/another-stalwart-of-south-africa-s-leftist-eff-party-quits</guid>
-      <pubDate>Thu, 09 Jan 2025 06:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界大国为何陷入计算机芯片之争</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-09/nvidia-tsmc-huawei-why-us-china-others-are-fighting-over-computer-chips</link>
-      <description><![CDATA[计算机芯片是数字经济的引擎，其不断增长的功能正在推动诸如生成人工智能等有望改变多个行业的技术。当冠状病毒疫情扰乱亚洲的芯片生产，使全球技术供应链陷入混乱时，它们的关键作用就凸显出来了。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-09/nvidia-tsmc-huawei-why-us-china-others-are-fighting-over-computer-chips</guid>
-      <pubDate>Thu, 09 Jan 2025 05:25:55 GMT</pubDate>
     </item>
     <item>
       <title>莫桑比克反对党领袖重返政坛，力图缓解纷争</title>
@@ -57,7 +57,7 @@
     <item>
       <title>尽管存在特朗普关税风险，马来西亚 GDP 增长率仍超过 5%</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-08/malaysia-s-growth-set-to-surpass-5-this-year-minister-says</link>
-      <description><![CDATA[两位内阁部长在单独采访中表示，在外国投资和有助于保护经济免受全球风险影响的政府举措的推动下，马来西亚的经济增长率预计将维持去年的速度，并在 2025 年超过 5％。]]></description>
+      <description><![CDATA[两位内阁部长在单独采访中表示，在外国投资和有助于保护经济免受全球风险影响的政府举措的推动下，马来西亚的经济增长率预计将维持去年的速度，到 2025 年超过 5％。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-08/malaysia-s-growth-set-to-surpass-5-this-year-minister-says</guid>
       <pubDate>Wed, 08 Jan 2025 23:00:00 GMT</pubDate>
     </item>
