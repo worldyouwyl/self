@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Mon, 13 Jan 2025 11:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 11:21:43 GMT</lastBuildDate>
+    <item>
+      <title>特朗普在迪拜的 130 亿美元人选引发美国大举进军的质疑</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-13/hussain-sajwani-trump-s-man-in-dubai-draws-skeptics-over-big-us-push</link>
+      <description><![CDATA[即使是在以实施雄心勃勃的项目而闻名的迪拜酋长国，当当地大亨侯赛因·萨基瓦尼站在唐纳德·特朗普身边承诺向美国数据中心投资 200 亿美元时，许多人还是感到震惊。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-13/hussain-sajwani-trump-s-man-in-dubai-draws-skeptics-over-big-us-push</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:51 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能投资者为何应该担心自动驾驶汽车事故</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-13/why-ai-investors-should-worry-about-the-self-driving-car-crash</link>
@@ -18,6 +25,13 @@
       <description><![CDATA[该初创公司的高管计划在华盛顿特区和至少两个关键摇摆州举办集会，以加强对人工智能投资的支持。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-13/openai-courts-a-new-washington-with-events-and-policy-proposals</guid>
       <pubDate>Mon, 13 Jan 2025 11:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫公布对英伟达 AI 芯片出口的新限制</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-13/white-house-unveils-new-curbs-on-exporting-nvidia-ai-chips</link>
+      <description><![CDATA[白宫宣布对英伟达公司及其同行的先进人工智能芯片销售实施全面新限制，由特朗普政府决定如何以及是否实施遭到业界激烈反对的限制措施。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-13/white-house-unveils-new-curbs-on-exporting-nvidia-ai-chips</guid>
+      <pubDate>Mon, 13 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>“绝地求生”开发商计划大举投资以求推出更多热门游戏</title>
@@ -36,14 +50,14 @@
     <item>
       <title>印度杂货商面临快速配送应用带来的风险，DMart 遭遇冲击</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-13/dmart-slips-on-profit-miss-as-discounts-rapid-deliveries-hurt</link>
-      <description><![CDATA[人们担心的超快速配送平台对印度实体杂货店的冲击已经显现，印度最大的折扣超市连锁店之一的收益连续第九个季度令人失望。]]></description>
+      <description><![CDATA[人们担心的超快速配送平台对印度实体杂货店的冲击已经成为现实，印度最大的折扣超市连锁店之一的收益连续第九个季度令人失望。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-13/dmart-slips-on-profit-miss-as-discounts-rapid-deliveries-hurt</guid>
       <pubDate>Mon, 13 Jan 2025 05:54:09 GMT</pubDate>
     </item>
     <item>
       <title>人工智能表现不佳导致 iPhone 假日季销量下降 5%</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-13/iphone-sales-fall-in-2024-after-limited-apple-intelligence-rollout</link>
-      <description><![CDATA[去年最后一个季度，苹果公司全球 iPhone 销量下滑 5%，并输给了中国竞争对手，这反映出 Apple Intelligence 在其美国以外最大的市场中缺失。]]></description>
+      <description><![CDATA[去年最后一个季度，苹果公司全球 iPhone 销量下滑 5%，并输给了中国竞争对手，这反映出 Apple Intelligence 在其美国以外最大的市场上的缺失。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-13/iphone-sales-fall-in-2024-after-limited-apple-intelligence-rollout</guid>
       <pubDate>Mon, 13 Jan 2025 04:00:00 GMT</pubDate>
     </item>
@@ -53,20 +67,6 @@
       <description><![CDATA[英国正在规划建设数据中心的特殊区域，并将研究在这些区域使用核能，这是工党政府促进技术发展和人工智能生态系统的项目的一部分。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-12/uk-will-explore-nuclear-power-for-new-ai-data-center-plan</guid>
       <pubDate>Sun, 12 Jan 2025 22:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASML 支持的荷兰大学因网络攻击而停课</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-12/asml-backed-dutch-university-suspends-classes-after-cyber-attack</link>
-      <description><![CDATA[荷兰顶尖理工大学是芯片机器制造商 ASML Holding NV 的主要人才输送中心，但在遭遇网络攻击后，该大学关闭了其计算机网络。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-12/asml-backed-dutch-university-suspends-classes-after-cyber-attack</guid>
-      <pubDate>Sun, 12 Jan 2025 15:31:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果 2025 年计划：iPhone 大升级、智能家居推进和 AI 追赶</title>
-      <link>https://www.bloomberg.com/news/newsletters/2025-01-12/apple-2025-plans-iphone-17-smart-home-hub-ios-19-ai-apple-watch-ipads-m5</link>
-      <description><![CDATA[苹果计划在 2025 年大展宏图，包括彻底改版 iPhone 产品线、推出新的 AI 功能、推出智能家居，以及更新很久没有更新的产品。此外：公司最新的首席财务官上任；迈阿密和中国的新店即将开业；戴尔在重大 PC 品牌重塑中厚颜无耻地抄袭了苹果的策略。]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2025-01-12/apple-2025-plans-iphone-17-smart-home-hub-ios-19-ai-apple-watch-ipads-m5</guid>
-      <pubDate>Sun, 12 Jan 2025 13:00:21 GMT</pubDate>
     </item>
     <item>
       <title>印度 Infosys 和 HCL 准备应对特朗普总统任期内的商业前景</title>
