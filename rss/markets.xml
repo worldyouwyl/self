@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 15 Jan 2025 13:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 14:07:24 GMT</lastBuildDate>
+    <item>
+      <title>通胀放缓提振美联储降息预期 美国国债价格飙升</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-15/treasuries-surge-as-easing-inflation-boosts-fed-rate-cut-bets</link>
+      <description><![CDATA[由于美国上个月通胀率略微低于经济学家的预期，美国国债价格上涨，重新激发了人们对美联储今年将进一步降息的押注。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-15/treasuries-surge-as-easing-inflation-boosts-fed-rate-cut-bets</guid>
+      <pubDate>Wed, 15 Jan 2025 13:49:43 GMT</pubDate>
+    </item>
     <item>
       <title>花旗集团报告全线盈利强劲，宣布回购 200 亿美元股票</title>
       <link>https://www.bloomberg.com/news/videos/2025-01-15/citi-beats-on-ficc-announces-stock-buyback-video</link>
@@ -18,27 +25,6 @@
       <description><![CDATA[波兰预计，随着围绕唐纳德·特朗普重返白宫的不确定性消退，外国投资者对其债券以及东欧债务总体的冷淡情绪将有所改善。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-15/poland-sees-trump-uncertainty-fading-in-boost-to-zloty-bonds</guid>
       <pubDate>Wed, 15 Jan 2025 13:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>可可价格下跌，因交易商等待研磨数据寻找需求线索</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-15/cocoa-falls-as-traders-await-grindings-data-for-demand-clues</link>
-      <description><![CDATA[可可期货下跌，因为市场正在等待主要消费地区的第四季度研磨数据，以寻找在价格创历史新高的情况下需求的线索。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-15/cocoa-falls-as-traders-await-grindings-data-for-demand-clues</guid>
-      <pubDate>Wed, 15 Jan 2025 13:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>图斯克称波兰将加快乌克兰加入欧盟的谈判</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-15/poland-to-speed-up-ukraine-s-eu-accession-talks-tusk-says</link>
-      <description><![CDATA[波兰总理唐纳德·图斯克周三表示，波兰将在现任欧盟轮值主席国六个月期间寻求加快乌克兰加入欧盟的谈判。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-15/poland-to-speed-up-ukraine-s-eu-accession-talks-tusk-says</guid>
-      <pubDate>Wed, 15 Jan 2025 13:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>NetApp 将部分软件资产出售给 Thoma Bravo 的 Flexera</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-15/netapp-selling-some-software-assets-to-thoma-bravo-s-flexera</link>
-      <description><![CDATA[NetApp Inc. 已同意将其近年来收购的一系列云软件资产出售给 Thoma Bravo 支持的 Flexera。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-15/netapp-selling-some-software-assets-to-thoma-bravo-s-flexera</guid>
-      <pubDate>Wed, 15 Jan 2025 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>欧盟考虑退出俄罗斯液化天然气，欧洲天然气价格波动</title>
@@ -55,9 +41,9 @@
       <pubDate>Wed, 15 Jan 2025 07:40:49 GMT</pubDate>
     </item>
     <item>
-      <title>通胀下降令市场平静，交易员押注英国央行将进一步降息</title>
+      <title>通胀缓解令市场平静，英国债券价格创 2023 年以来最大涨幅</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-15/pound-falls-as-uk-inflation-slowdown-opens-door-for-rate-cuts</link>
-      <description><![CDATA[数据显示英国12月份通胀率下降后，交易员们纷纷预测英国央行今年是否会进一步降息，缓解了人们对今年困扰英国资产的持续价格压力的担忧。]]></description>
+      <description><![CDATA[英国政府债券价格上涨，因为数据显示英国12月份通胀率下降，缓解了人们对今年困扰该国资产的持续价格压力的担忧。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-15/pound-falls-as-uk-inflation-slowdown-opens-door-for-rate-cuts</guid>
       <pubDate>Wed, 15 Jan 2025 07:21:44 GMT</pubDate>
     </item>
@@ -69,9 +55,23 @@
       <pubDate>Wed, 15 Jan 2025 06:41:44 GMT</pubDate>
     </item>
     <item>
-      <title>市场综述：CPI 放缓令股市获得缓解，收益率下降</title>
+      <title>比特币受到科技股的追捧，相关性增强</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-15/bitcoin-btc-nasdaq-100-correlation-at-two-year-high-before-us-cpi</link>
+      <description><![CDATA[比特币与美国科技股指数之间的相关性已达到两年来的最高水平，因为周三股市对美国通胀数据的反应为数字代币奠定了更强劲的基调。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-15/bitcoin-btc-nasdaq-100-correlation-at-two-year-high-before-us-cpi</guid>
+      <pubDate>Wed, 15 Jan 2025 01:36:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际能源署预计今年石油盈余将减少，油价小幅上涨至每桶 80 美元附近</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-14/latest-oil-market-news-and-analysis-for-jan-15</link>
+      <description><![CDATA[由于美国对俄罗斯制裁的影响持续显现，且国际能源署 (International Energy Agency) 撤回对今年的看跌预测，油价突破每桶 80 美元。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-14/latest-oil-market-news-and-analysis-for-jan-15</guid>
+      <pubDate>Tue, 14 Jan 2025 23:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储押注导致 CPI 数据公布，收益率下跌，股市飙升：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-14/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[消费者价格放缓增强了人们对美联储今年仍能降息的猜测，导致股票期货上涨、债券收益率下跌。]]></description>
+      <description><![CDATA[通胀放缓增强了对美联储今年降息的押注，导致股市上涨，债券收益率随美元下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-14/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Tue, 14 Jan 2025 22:42:48 GMT</pubDate>
     </item>
