@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博市场</title>
+    <title></title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:47:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 18:52:55 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://www.bloomberg.com/news/videos/2025-01-22/trump-ushering-in-next-phase-of-crypto-revolution-wood-video</link>
+      <description><![CDATA[Ark Invest 首席执行官兼首席信息官 Cathie Wood 表示，我们不知道特朗普总统的 memecoin 是否具有多大实用性，但特朗普正在“引领加密货币革命的下一阶段”。她在“ETF IQ”节目中与 Scarlet Fu、Katie Greifeld 和 Eric Balchunas 进行了交谈。（来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2025-01-22/trump-ushering-in-next-phase-of-crypto-revolution-wood-video</guid>
+      <pubDate>Wed, 22 Jan 2025 18:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>没人对你的加密哲学感兴趣</title>
+      <link>https://www.bloomberg.com/news/newsletters/2025-01-22/nobody-is-interested-in-your-crypto-philosophizing</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2025-01-22/nobody-is-interested-in-your-crypto-philosophizing</guid>
+      <pubDate>Wed, 22 Jan 2025 18:47:49 GMT</pubDate>
+    </item>
     <item>
       <title>Larry Fink 和 Peng Xiao 探讨人工智能基础设施融资</title>
       <link>https://www.bloomberg.com/news/videos/2025-01-22/larry-fink-and-peng-xiao-on-financing-ai-infrastructure-video</link>
@@ -15,37 +29,30 @@
     <item>
       <title>欧盟提议将伦敦清算所豁免期延长至 2028 年</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/eu-proposes-extending-london-clearing-house-exemption-until-2028</link>
-      <description><![CDATA[欧盟提议允许伦敦继续为欧盟提供贸易清算服务直至2028年，这与欧盟此前承诺的脱欧后安排将于今年夏天结束有所不同。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/eu-proposes-extending-london-clearing-house-exemption-until-2028</guid>
       <pubDate>Wed, 22 Jan 2025 18:27:26 GMT</pubDate>
     </item>
     <item>
-      <title>航运亿万富翁弗雷德里克森在长达十年的石油交易诉讼中败诉</title>
+      <title></title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/billionaire-fredriksen-fails-in-decade-long-oil-trading-lawsuit</link>
       <description><![CDATA[在英国法官驳回重大欺诈指控后，航运亿万富翁约翰弗雷德里克森 (John Fredriksen) 在一场长达近十年的针对阿卡迪亚集团 (Arcadia Group) 前高管的诉讼中败诉。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/billionaire-fredriksen-fails-in-decade-long-oil-trading-lawsuit</guid>
       <pubDate>Wed, 22 Jan 2025 18:18:03 GMT</pubDate>
     </item>
     <item>
-      <title>彭博未平仓合约 01/22/2025</title>
+      <title></title>
       <link>https://www.bloomberg.com/news/videos/2025-01-22/bloomberg-open-interest-01-22-2025-video</link>
-      <description><![CDATA[通过“彭博未平仓合约”抢先了解美国交易日。Matt Miller、Katie Greifeld 和 Sonali Basak 带您走进华尔街、普通百姓、高管层及其他领域。“彭博未平仓合约”将为您带来市场热点，以及影响当日叙事的领导者。（来源：彭博）]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/videos/2025-01-22/bloomberg-open-interest-01-22-2025-video</guid>
       <pubDate>Wed, 22 Jan 2025 18:02:16 GMT</pubDate>
     </item>
     <item>
       <title>据称贝恩正考虑以 15 亿欧元出售化学品公司 Italmatch</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/bain-said-to-mull-1-5-billion-sale-of-chemicals-firm-italmatch</link>
-      <description><![CDATA[据知情人士透露，贝恩资本正在考虑出售 Italmatch Chemicals SpA，交易价值可能达到 15 亿欧元（16 亿美元）。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/bain-said-to-mull-1-5-billion-sale-of-chemicals-firm-italmatch</guid>
       <pubDate>Wed, 22 Jan 2025 17:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大各省借贷利差将因关税影响而上升</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-22/canadian-provinces-to-see-borrowing-spreads-rise-on-tariff-pain</link>
-      <description><![CDATA[由于美国对加拿大商品征收关税有可能抑制经济增长，加拿大各省的相对借贷成本将上升。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-22/canadian-provinces-to-see-borrowing-spreads-rise-on-tariff-pain</guid>
-      <pubDate>Wed, 22 Jan 2025 17:35:07 GMT</pubDate>
     </item>
     <item>
       <title>先进技术如何培育可持续农业</title>
@@ -57,23 +64,16 @@
     <item>
       <title>Nvidia 零日期权是 ETF 新贵的下一个大赌注</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/nvidia-zero-day-options-are-the-next-big-bet-for-one-etf-upstart</link>
-      <description><![CDATA[ETF 行业新贵再次掷出新产品 — — 这一次，他押注的是华尔街零日期权热潮将发生翻天覆地的变化。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/nvidia-zero-day-options-are-the-next-big-bet-for-one-etf-upstart</guid>
       <pubDate>Wed, 22 Jan 2025 14:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>美国债券拍卖前下跌，削弱特朗普早盘的涨势</title>
+      <title>投资者抢购 20 年期债券，推高美国收益率</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/treasuries-stabilize-as-traders-weigh-trump-s-tariff-threats</link>
-      <description><![CDATA[美国政府债券在 20 年期债券拍卖前小幅走低，进一步侵蚀了过去一周的大幅涨幅，最近一次涨幅受到美国总统唐纳德·特朗普将采取更慎重的关税措施的押注。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/treasuries-stabilize-as-traders-weigh-trump-s-tariff-threats</guid>
       <pubDate>Wed, 22 Jan 2025 09:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能推动科技股上涨，标普 500 指数创下历史新高：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-21/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[大型科技股的上涨，以及一批重量级企业发布的业绩，推动股市在美国企业强劲推动下延续上涨势头，收于历史最高水平。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-21/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Tue, 21 Jan 2025 22:36:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
