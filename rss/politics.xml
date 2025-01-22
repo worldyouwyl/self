@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 19:04:19 GMT</lastBuildDate>
+    <item>
+      <title>特朗普加征关税前，中国在达沃斯淡化言辞</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-22/china-tones-it-down-at-davos-this-time-ahead-of-trump-tariffs</link>
+      <description><![CDATA[2017年，唐纳德·特朗普首次赢得总统大选几周后，习近平成为首位在瑞士达沃斯世界经济论坛发表演讲的中国国家元首——他严厉批评保护主义，并宣称贸易战将损害双方利益，赢得了掌声。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-22/china-tones-it-down-at-davos-this-time-ahead-of-trump-tariffs</guid>
+      <pubDate>Wed, 22 Jan 2025 18:41:10 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰总理称特朗普将大力推进 ASML 出口管制</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/trump-to-push-hard-on-asml-export-controls-dutch-premier-says</link>
@@ -15,14 +22,14 @@
     <item>
       <title>欧盟提议将伦敦清算所豁免期延长至 2028 年</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/eu-proposes-extending-london-clearing-house-exemption-until-2028</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[欧盟提议允许伦敦继续为欧盟提供贸易清算服务直至2028年，这与欧盟此前承诺的脱欧后安排将于今年夏天结束有所不同。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/eu-proposes-extending-london-clearing-house-exemption-until-2028</guid>
       <pubDate>Wed, 22 Jan 2025 18:27:26 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>米莱在达沃斯称赞特朗普，但寻求与中国建立更深层次的关系</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/milei-s-davos-outing-twins-trump-praise-with-pragmatism-on-china</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[哈维尔·米莱 (Javier Milei) 上台仅仅一年多后，就获得了大选的授权，他将撕毁规则，采取一切必要措施扭转阿根廷的局面，现在，他觉得自己的撕毁规则的执政方式得到了证明。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/milei-s-davos-outing-twins-trump-praise-with-pragmatism-on-china</guid>
       <pubDate>Wed, 22 Jan 2025 18:08:35 GMT</pubDate>
     </item>
@@ -36,23 +43,9 @@
     <item>
       <title>特朗普将贩毒集团列为恐怖分子 银行陷入危机</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/trump-s-terrorist-label-for-cartels-is-putting-banks-on-edge</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[唐纳德·特朗普将墨西哥贩毒集团列为恐怖组织，这可能会给金融公司和其他公司带来寒蝉效应，因为他们担心，即使是在不知情的情况下为犯罪分子提供服务或支付报酬，也可能面临严厉的惩罚。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/trump-s-terrorist-label-for-cartels-is-putting-banks-on-edge</guid>
       <pubDate>Wed, 22 Jan 2025 17:58:53 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-22/musk-says-firms-backing-trump-ai-initiative-don-t-have-the-money</link>
-      <description><![CDATA[埃隆·马斯克公开质疑那些加入唐纳德·特朗普总统承诺投资数千亿美元用于人工智能基础设施建设的公司是否能够兑现承诺，这暴露了白宫内部早期的裂痕。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-22/musk-says-firms-backing-trump-ai-initiative-don-t-have-the-money</guid>
-      <pubDate>Wed, 22 Jan 2025 17:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普批准减税，SALT 谈判升温</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-22/salt-talks-gain-steam-in-congress-as-trump-blesses-expanding-tax-break</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-22/salt-talks-gain-steam-in-congress-as-trump-blesses-expanding-tax-break</guid>
-      <pubDate>Wed, 22 Jan 2025 17:38:07 GMT</pubDate>
     </item>
     <item>
       <title>五角大楼将向墨西哥边境派遣多达 1,500 名现役军人</title>
@@ -71,9 +64,16 @@
     <item>
       <title>特朗普司法部官员为打击移民奠定基础</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-22/top-trump-doj-official-lays-groundwork-for-immigration-crackdown</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[司法部员工被告知要支持唐纳德·特朗普的移民议程，与联邦移民执法人员分享收集到的非法入境人员的数据。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-22/top-trump-doj-official-lays-groundwork-for-immigration-crackdown</guid>
       <pubDate>Wed, 22 Jan 2025 12:58:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普兑现竞选承诺：政府不再考虑 DEI 或性别认同</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-21/trump-starts-second-term-with-dei-transgender-rights-rollback</link>
+      <description><![CDATA[从美国企业到大学校园再到美国最高法院，对多元化、公平和包容性努力的强烈反对早在唐纳德·特朗普当选之前就已开始。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-21/trump-starts-second-term-with-dei-transgender-rights-rollback</guid>
+      <pubDate>Tue, 21 Jan 2025 17:39:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
