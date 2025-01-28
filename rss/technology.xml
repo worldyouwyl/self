@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Tue, 28 Jan 2025 11:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 11:51:07 GMT</lastBuildDate>
+    <item>
+      <title>Cathie Wood 欢迎 AI 竞争，因为 DeepSeek 可以降低成本</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-28/ark-s-wood-welcomes-ai-competition-as-deepseek-could-lower-costs</link>
+      <description><![CDATA[Ark Investment Management 首席执行官 Cathie Wood 表示，随着中国 DeepSeek 的出现，人工智能领域的竞争加剧是一个积极的发展，将有助于科技公司削减成本并改进平台。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-28/ark-s-wood-welcomes-ai-competition-as-deepseek-could-lower-costs</guid>
+      <pubDate>Tue, 28 Jan 2025 11:46:03 GMT</pubDate>
+    </item>
     <item>
       <title>中国量化专家在对冲基金惨败的阴影下创建了 DeepSeek</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-28/chinese-quant-whiz-built-deepseek-in-the-shadow-of-a-hedge-fund-rout</link>
@@ -62,18 +69,11 @@
       <pubDate>Tue, 28 Jan 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>零股：导致股市崩盘的人工智能模型（播客）</title>
-      <link>https://www.bloomberg.com/news/audio/2025-01-28/why-deepseek-tanked-the-stock-market-odd-lots</link>
-      <description><![CDATA[周一，股市暴跌，似乎是对中国开发的开源人工智能模型 DeepSeek 出现的反应。半导体巨头英伟达是人工智能热潮的最大赢家，市值蒸发 5890 亿美元，创下美国股市历史上最大的单日跌幅。其他芯片制造商和大型科技巨头也纷纷下挫。那么 DeepSeek 是如何做到的？它对 OpenAI 和 Anthropic 等美国人工智能巨头构成了巨大威胁吗？这说明出口限制意味着什么？]]></description>
-      <guid>https://www.bloomberg.com/news/audio/2025-01-28/why-deepseek-tanked-the-stock-market-odd-lots</guid>
-      <pubDate>Tue, 28 Jan 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAP Cloud 增长超出 Pivot to AI 工具的销售预期</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-28/sap-cloud-growth-tops-estimates-as-clients-seek-ai-capabilities</link>
-      <description><![CDATA[SAP SE 公布的第四季度云计算销售额略高于分析师预期，这家欧洲最大的科技公司凭借新的人工智能功能赢得了客户。该公司还任命了一批新高管，并表示计划简化其战略。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-28/sap-cloud-growth-tops-estimates-as-clients-seek-ai-capabilities</guid>
-      <pubDate>Tue, 28 Jan 2025 05:05:34 GMT</pubDate>
+      <title>什么是中国的 DeepSeek？为何它让人工智能界震惊？</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-27/what-is-deepseek-r1-and-how-does-china-s-ai-model-compare-to-openai-meta</link>
+      <description><![CDATA[DeepSeek 是一家成立仅一年多的中国人工智能初创公司，其展示的人工智能模型性能可与世界上最优秀的聊天机器人相媲美，而开发成本却仅为后者的一小部分，此举在硅谷引起了敬畏和震惊。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-27/what-is-deepseek-r1-and-how-does-china-s-ai-model-compare-to-openai-meta</guid>
+      <pubDate>Mon, 27 Jan 2025 08:06:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
