@@ -4,7 +4,14 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Mon, 27 Jan 2025 23:51:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 00:37:50 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 挑战每个人对 AI 成本的假设</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-28/deepseek-ai-platform-brings-a-1-trillion-market-reckoning-on-cost</link>
+      <description><![CDATA[这家中国新贵的 ChatGPT 竞争对手表示，其成本仅为后者的一小部分，这引发了人们对巨额 AI 预算合理性的质疑。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-28/deepseek-ai-platform-brings-a-1-trillion-market-reckoning-on-cost</guid>
+      <pubDate>Tue, 28 Jan 2025 00:25:53 GMT</pubDate>
+    </item>
     <item>
       <title>DeepSeek 的 AI 模型测试了美国对 Nvidia 芯片的限制极限</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-27/deepseek-s-ai-model-tests-limits-of-us-curbs-on-nvidia-chips</link>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 27 Jan 2025 21:19:52 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek 一夜成名却给系统带来压力，引发攻击</title>
+      <title>DeepSeek 的突然成名使其系统不堪重负并引发攻击</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-27/deepseek-struggles-to-keep-ai-chatbot-online-as-users-surge</link>
       <description><![CDATA[有关中国人工智能新贵将与强大的 ChatGPT 竞争对手展开竞争的传闻已经持续了好几天。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-27/deepseek-struggles-to-keep-ai-chatbot-online-as-users-surge</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[受投资者对中国人工智能初创企业 DeepSeek 的担忧影响，英伟达公司 (Nvidia Corp.) 股价暴跌，导致这家全球最大公司的市值蒸发创纪录水平。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks</guid>
       <pubDate>Mon, 27 Jan 2025 08:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能推动的股市上涨让中国新贵遭受 1 万亿美元的损失</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-27/nasdaq-futures-slump-as-china-s-deepseek-sparks-us-tech-concern</link>
-      <description><![CDATA[近两年来，人工智能技术一直是美国股票投资者的不间断礼物。纳斯达克 100 指数自 2023 年初以来上涨了 92%，市值增加了 14 万亿美元，为少数科技高管和创始人创造了数十亿美元的收入。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-27/nasdaq-futures-slump-as-china-s-deepseek-sparks-us-tech-concern</guid>
-      <pubDate>Mon, 27 Jan 2025 02:29:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
