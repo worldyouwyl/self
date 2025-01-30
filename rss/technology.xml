@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Thu, 30 Jan 2025 14:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 14:51:10 GMT</lastBuildDate>
     <item>
       <title>非洲最富有的国家将筹集 5000 万美元竞标一级方程式赛车</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-30/south-africa-s-to-raise-50-million-for-formula-1-bid</link>
@@ -27,13 +27,6 @@
       <pubDate>Thu, 30 Jan 2025 12:05:23 GMT</pubDate>
     </item>
     <item>
-      <title>互联网差点毁掉 Barnes & Noble，但后来又拯救了它</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-30/barnes-noble-sales-are-growing-again-thanks-to-booktok-buzz</link>
-      <description><![CDATA[BookTok 读者纷纷涌向实体店抢购最新热门书籍——并帮助这家一度陷入困境的连锁店扭转局面。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-30/barnes-noble-sales-are-growing-again-thanks-to-booktok-buzz</guid>
-      <pubDate>Thu, 30 Jan 2025 12:00:25 GMT</pubDate>
-    </item>
-    <item>
       <title>DeepSeek 取得巨大进步，印度竞相建立自己的 AI 模型</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-30/india-races-to-build-own-ai-models-as-deepseek-leaps-ahead</link>
       <description><![CDATA[印度政府正在吸引研究人员、初创企业和公司参与，在未来 10 个月内创建基础人工智能模型，从而加快人工智能的发展。]]></description>
@@ -41,11 +34,11 @@
       <pubDate>Thu, 30 Jan 2025 07:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>意法半导体因销售预期疲软跌至 2020 年以来最低水平</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-30/stmicro-revenue-outlook-misses-as-industrial-chip-slump-lingers</link>
-      <description><![CDATA[此前这家法意芯片制造商预测第一季度营收因工业和汽车行业需求疲软而低于分析师的预期，随后该公司股价跌至 2020 年以来的最低水平。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-30/stmicro-revenue-outlook-misses-as-industrial-chip-slump-lingers</guid>
-      <pubDate>Thu, 30 Jan 2025 06:11:38 GMT</pubDate>
+      <title>ABB 电气化部门发展迅猛，而自动化部门发展滞后</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-30/abb-s-orders-surge-as-data-centers-drive-demand-for-electricity</link>
+      <description><![CDATA[ABB 有限公司第四季度的订单有所增加，因为对高耗电数据中心的需求帮助抵消了这家瑞士制造商的机器人、自动化和电动汽车业务的下滑。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-30/abb-s-orders-surge-as-data-centers-drive-demand-for-electricity</guid>
+      <pubDate>Thu, 30 Jan 2025 06:04:25 GMT</pubDate>
     </item>
     <item>
       <title>助听器制造商出人意料地成为人工智能股票赢家</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[微软公司表示，由于公司难以建立足够的数据中心来满足其人工智能产品的需求，其云计算业务将在本季度继续缓慢增长。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-29/microsoft-falls-after-reporting-slowing-growth-in-cloud-business</guid>
       <pubDate>Wed, 29 Jan 2025 21:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM 股价因强劲的销售前景和人工智能订单而上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-29/ibm-reports-strong-sales-growth-and-expanded-ai-bookings</link>
+      <description><![CDATA[国际商业机器公司 (International Business Machines Corp.) 预计新财年收入将强劲增长，且人工智能相关订单将大幅增加，此后其股价飙升。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-29/ibm-reports-strong-sales-growth-and-expanded-ai-bookings</guid>
+      <pubDate>Wed, 29 Jan 2025 21:10:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
