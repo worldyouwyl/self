@@ -4,7 +4,7 @@
     <title>彭博科技</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博科技</description>
-    <lastBuildDate>Fri, 31 Jan 2025 18:32:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 18:45:14 GMT</lastBuildDate>
     <item>
       <title>禽流感谎言在X 蔓延，健康担忧持续</title>
       <link>https://www.bloomberg.com/news/newsletters/2025-01-31/bird-flu-lies-spread-on-x-rumble-as-health-fears-continue</link>
@@ -55,13 +55,6 @@
       <pubDate>Fri, 31 Jan 2025 14:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>Charter 宽带用户流失加剧有线电视困境</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-31/charter-s-broadband-subscriber-losses-add-to-woe-for-cable-tv</link>
-      <description><![CDATA[Charter Communications Inc. 股价一度上涨 7.2%，此前该公司公布的第四季度业绩好于预期，包括收入和利润增长，以及视频客户数量下降幅度低于华尔街预期。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-31/charter-s-broadband-subscriber-losses-add-to-woe-for-cable-tv</guid>
-      <pubDate>Fri, 31 Jan 2025 12:25:51 GMT</pubDate>
-    </item>
-    <item>
       <title>调查显示，DeepSeek 几乎不会对七大股票造成影响</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-30/deepseek-will-hardly-dent-magnificent-seven-stocks-mliv-pulse</link>
       <description><![CDATA[本周早些时候，DeepSeek 的出现震动了市场，但彭博市场实时脉搏的最新调查显示，投资者认为这家中国人工智能初创公司对七侠荡寇志的表现造成的影响有限。]]></description>
@@ -74,6 +67,13 @@
       <description><![CDATA[苹果公司 (Apple Inc.) 公布了令人放心的本季度营收预测，帮助提振了这家全球最有价值公司的股价，此前该公司的假期业绩显示中国市场和 iPhone 销量意外下滑。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-30/apple-tops-sales-estimates-even-as-china-is-weaker-than-feared</guid>
       <pubDate>Thu, 30 Jan 2025 21:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>五角大楼工作人员在封锁前几天使用了 DeepSeek 的聊天机器人</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-30/pentagon-workers-used-deepseek-s-chatbot-for-days-before-block</link>
+      <description><![CDATA[据一位知情的国防官员透露，在五角大楼采取行动关闭访问权限之前，美国国防部员工将他们的工作电脑连接到中国服务器，以访问 DeepSeek 的新 AI 聊天机器人至少两天。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-30/pentagon-workers-used-deepseek-s-chatbot-for-days-before-block</guid>
+      <pubDate>Thu, 30 Jan 2025 19:28:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

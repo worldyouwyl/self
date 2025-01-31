@@ -4,9 +4,9 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Fri, 31 Jan 2025 18:32:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 18:45:11 GMT</lastBuildDate>
     <item>
-      <title>白宫称周六将对中国、墨西哥、加拿大征收关税</title>
+      <title>白宫称将从 2 月 1 日起对中国、墨西哥、加拿大征收关税</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-31/white-house-says-china-mexico-canada-tariffs-to-hit-saturday</link>
       <description><![CDATA[白宫表示，总统唐纳德·特朗普打算于周六推进对墨西哥和加拿大征收 25% 关税、对中国征收 10% 关税的计划，并否认了有关他计划将实施时间推迟一个月的报道。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-31/white-house-says-china-mexico-canada-tariffs-to-hit-saturday</guid>
@@ -48,13 +48,6 @@
       <pubDate>Fri, 31 Jan 2025 14:47:20 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达首席执行官黄仁勋将于周五在白宫会见特朗普</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-31/nvidia-ceo-huang-to-meet-trump-at-white-house-on-friday</link>
-      <description><![CDATA[在美国准备对半导体征收关税、权衡补贴计划的命运并调查中国人工智能初创公司 DeepSeek 是否绕过出口管制获取该芯片制造商的产品之际，唐纳德·特朗普总统将于周五在白宫会见英伟达公司首席执行官黄仁勋。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-31/nvidia-ceo-huang-to-meet-trump-at-white-house-on-friday</guid>
-      <pubDate>Fri, 31 Jan 2025 14:28:32 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普的资助禁令两天内结束，引发持续恐慌</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-31/trump-s-federal-funding-freeze-sparks-lasting-panic-despite-omb-reversal</link>
       <description><![CDATA[在唐纳德·特朗普总统连续一周发布行政命令后，这份备忘录于周一晚间发布，不到 48 小时后被撤销。但暂停所有联邦贷款和补助的命令在全国范围内引起了反响，从小型非营利组织到庞大的卫生机构。]]></description>
@@ -62,18 +55,25 @@
       <pubDate>Fri, 31 Jan 2025 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>雪佛龙开始使用“美国湾”来向特朗普致敬</title>
-      <link>https://www.bloomberg.com/news/articles/2025-01-31/chevron-starts-using-gulf-of-america-in-nod-to-trump</link>
-      <description><![CDATA[在美国总统唐纳德·特朗普下令美国重新命名该水域后，雪佛龙公司开始使用“美国湾”而不是“墨西哥湾”来描述其部分最大石油业务所在地。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-01-31/chevron-starts-using-gulf-of-america-in-nod-to-trump</guid>
-      <pubDate>Fri, 31 Jan 2025 12:10:36 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普为就职典礼从加密货币公司筹集了数百万美元</title>
       <link>https://www.bloomberg.com/news/articles/2025-01-31/trump-raised-millions-from-crypto-firms-for-his-inauguration</link>
       <description><![CDATA[最新披露的信息显示，唐纳德·特朗普总统的就职委员会从加密货币行业的公司那里获得了数百万美元的捐款，而加密货币行业已经受到了特朗普政府的特别关注。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-01-31/trump-raised-millions-from-crypto-firms-for-his-inauguration</guid>
       <pubDate>Fri, 31 Jan 2025 01:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>五角大楼工作人员在封锁前几天使用了 DeepSeek 的聊天机器人</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-30/pentagon-workers-used-deepseek-s-chatbot-for-days-before-block</link>
+      <description><![CDATA[据一位知情的国防官员透露，在五角大楼采取行动关闭访问权限之前，美国国防部员工将他们的工作电脑连接到中国服务器，以访问 DeepSeek 的新 AI 聊天机器人至少两天。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-30/pentagon-workers-used-deepseek-s-chatbot-for-days-before-block</guid>
+      <pubDate>Thu, 30 Jan 2025 19:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普真的可以改变墨西哥湾的名称吗？</title>
+      <link>https://www.bloomberg.com/news/articles/2025-01-22/can-trump-legally-rename-the-gulf-of-mexico-to-gulf-of-america</link>
+      <description><![CDATA[美国总统唐纳德·J·特朗普于 1 月 20 日（即其第二任期的第一天）签署了一系列行政命令，其中一项命令是将历史上称为墨西哥湾的水域更名为“美国湾”。这一变化旨在颠覆几个世纪以来的传统，并且已经引起国际社会的不满。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-01-22/can-trump-legally-rename-the-gulf-of-mexico-to-gulf-of-america</guid>
+      <pubDate>Wed, 22 Jan 2025 22:41:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
