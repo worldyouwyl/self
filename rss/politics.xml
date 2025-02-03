@@ -4,7 +4,7 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>彭博社。</description>
-    <lastBuildDate>Mon, 03 Feb 2025 17:33:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 17:41:11 GMT</lastBuildDate>
     <item>
       <title>英国称阿斯利康因工厂资金纠纷削减疫苗研发承诺</title>
       <link>https://www.bloomberg.com/news/articles/2025-02-03/astrazeneca-cut-vaccine-r-d-pledge-in-plant-funding-row-uk-says</link>
@@ -29,7 +29,7 @@
     <item>
       <title>法国总理冒着遭到谴责的风险强行通过预算</title>
       <link>https://www.bloomberg.com/news/articles/2025-02-03/french-premier-forces-through-budget-risking-no-confidence-vote</link>
-      <description><![CDATA[法国总理弗朗索瓦·贝鲁周一绕过议会下院，强行通过了 2025 年预算法案，而宪法中规定可能会引发不信任投票。]]></description>
+      <description><![CDATA[法国总理弗朗索瓦·贝鲁周一绕过议会下院，强行通过了 2025 年预算法案，援引了可能引发不信任投票的宪法条款。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-02-03/french-premier-forces-through-budget-risking-no-confidence-vote</guid>
       <pubDate>Mon, 03 Feb 2025 15:22:34 GMT</pubDate>
     </item>
@@ -39,13 +39,6 @@
       <description><![CDATA[财政部长斯科特·贝森特（Scott Bessent）目前担任美国消费者金融保护局代理局长，这表明美国政府可能会转变罗希特·乔普拉（Rohit Chopra）领导下的激进执法和监管方式。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-02-03/bessent-to-temporarily-lead-cfpb-after-chopra-s-ouster</guid>
       <pubDate>Mon, 03 Feb 2025 14:42:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>里夫斯向白厅各部门发出“现金持平”的紧缩警告</title>
-      <link>https://www.bloomberg.com/news/articles/2025-02-03/austerity-risk-as-rachel-reeves-gives-departments-budget-order</link>
-      <description><![CDATA[英国财政部已要求多个政府部门在六月份计划进行的重大支出审查之前做好冻结现金预算的准备。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-02-03/austerity-risk-as-rachel-reeves-gives-departments-budget-order</guid>
-      <pubDate>Mon, 03 Feb 2025 14:31:29 GMT</pubDate>
     </item>
     <item>
       <title>DOGE 与 USAID 对峙的背后：办公桌搜查和伊隆·马斯克的来电</title>
@@ -62,6 +55,13 @@
       <pubDate>Mon, 03 Feb 2025 13:00:18 GMT</pubDate>
     </item>
     <item>
+      <title>德克萨斯州授权国民警卫队逮捕移民</title>
+      <link>https://www.bloomberg.com/news/articles/2025-02-03/texas-hands-power-to-national-guard-to-make-immigration-arrests</link>
+      <description><![CDATA[德克萨斯州州长格雷格·阿博特表示，他已授权国民警卫队逮捕移民，这是唐纳德·特朗普总统的共和党盟友为打击移民和确保边境安全而采取的最新举措。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-02-03/texas-hands-power-to-national-guard-to-make-immigration-arrests</guid>
+      <pubDate>Mon, 03 Feb 2025 12:51:59 GMT</pubDate>
+    </item>
+    <item>
       <title>特朗普的关税如何摧毁美洲经济</title>
       <link>https://www.bloomberg.com/news/features/2025-02-02/who-wins-in-a-trade-war-how-trump-tariffs-threaten-companies-us-growth</link>
       <description><![CDATA[经过数周的威胁，北美贸易战终于爆发。企业和投资者正在为后果做准备。]]></description>
@@ -71,7 +71,7 @@
     <item>
       <title>汽车制造商担心关税 车价或上涨 3,000 美元</title>
       <link>https://www.bloomberg.com/news/articles/2025-02-02/car-prices-face-3-000-increase-as-trump-tariffs-hit-auto-sector</link>
-      <description><![CDATA[美国总统唐纳德·特朗普对加拿大和墨西哥征收的关税将威胁到北美各地汽车制造商的生产，并导致汽车价格创下新高，约 2500 亿美元的贸易将受到影响。]]></description>
+      <description><![CDATA[美国总统唐纳德·特朗普对加拿大和墨西哥征收的关税将威胁北美各地汽车制造商的生产，并导致汽车价格创下新高，约 2500 亿美元的贸易将受到影响。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-02-02/car-prices-face-3-000-increase-as-trump-tariffs-hit-auto-sector</guid>
       <pubDate>Sun, 02 Feb 2025 18:00:00 GMT</pubDate>
     </item>
