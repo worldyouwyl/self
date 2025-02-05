@@ -4,7 +4,21 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 05 Feb 2025 16:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 16:53:02 GMT</lastBuildDate>
+    <item>
+      <title>企业已经达到价格推动的极限</title>
+      <link>https://www.bloomberg.com/news/newsletters/2025-02-05/companies-are-reaching-the-limits-of-pushing-price</link>
+      <description><![CDATA[您好，欢迎阅读时事通讯，这是一份来自 Odd Lots 世界的每日内容大杂烩。有时是我们 Joe Weisenthal 和 Tracy Alloway 为您带来我们对市场、金融和经济最新发展的看法。有时是来自我们专家嘉宾和消息来源网络的贡献。无论它是什么，我们保证它总是很有趣。]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2025-02-05/companies-are-reaching-the-limits-of-pushing-price</guid>
+      <pubDate>Wed, 05 Feb 2025 16:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球办公楼市场乐观</title>
+      <link>https://www.bloomberg.com/news/videos/2025-02-05/optimism-in-the-global-office-market-video</link>
+      <description><![CDATA[Newmark 北美租赁总裁 Liz Hart 参加彭博公开兴趣栏目，探讨商业房地产的前景。（来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2025-02-05/optimism-in-the-global-office-market-video</guid>
+      <pubDate>Wed, 05 Feb 2025 16:43:35 GMT</pubDate>
+    </item>
     <item>
       <title>Permira 眼中的 2025 年机遇</title>
       <link>https://www.bloomberg.com/news/videos/2025-02-05/where-permira-sees-opportunities-in-2025-video</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[全球最大的资产管理公司贝莱德 (BlackRock Inc.) 正准备在欧洲上市一款与比特币直接挂钩的交易所交易产品，此前其价值 580 亿美元的追踪加密货币的美国 ETF 取得了成功。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-02-05/blackrock-said-to-list-bitcoin-exchange-traded-product-in-europe</guid>
       <pubDate>Wed, 05 Feb 2025 16:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>布兰迪·史密斯如何成为国家动物园园长</title>
-      <link>https://www.bloomberg.com/news/videos/2025-02-05/how-brandie-smith-became-director-of-the-national-zoo-video</link>
-      <description><![CDATA[布兰迪·史密斯 (Brandie Smith) 是史密森尼国家动物园和保护生物学研究所的约翰和艾德里安·马尔斯 (John and Adrienne Mars) 主任。在“大卫·鲁宾斯坦秀：同行对话”节目的一集中，史密斯回顾了她的职业生涯，从匹兹堡动物园的实习生做起，一路晋升为史密森尼国家动物园的主任，负责监督动物园的运营和熊猫项目。本次采访于 1 月 13 日在华盛顿特区录制。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2025-02-05/how-brandie-smith-became-director-of-the-national-zoo-video</guid>
-      <pubDate>Wed, 05 Feb 2025 15:49:25 GMT</pubDate>
     </item>
     <item>
       <title>德国商业银行设立新财富管理部门以推动收费业务</title>
@@ -41,13 +48,6 @@
       <pubDate>Wed, 05 Feb 2025 14:19:18 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普任期临近、关税承诺出台，美国贸易逆差大幅膨胀</title>
-      <link>https://www.bloomberg.com/news/articles/2025-02-05/us-trade-gap-ballooned-ahead-of-trump-term-tariff-promises</link>
-      <description><![CDATA[由于唐纳德·特朗普第二任期开始前进口激增以及他兑现全面关税承诺，美国贸易逆差在 2024 年底急剧扩大。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-02-05/us-trade-gap-ballooned-ahead-of-trump-term-tariff-promises</guid>
-      <pubDate>Wed, 05 Feb 2025 13:31:44 GMT</pubDate>
-    </item>
-    <item>
       <title>Bessent 的财政部坚持耶伦时代的长期债务计划</title>
       <link>https://www.bloomberg.com/news/articles/2025-02-05/us-still-sees-holding-long-term-debt-sales-steady-well-into-2025</link>
       <description><![CDATA[尽管新任财政部长斯科特·贝森特 (Scott Bessent) 在上任前曾批评其前任的债券发行策略，但美国财政部周三仍维持其对 2025 年之前长期债券销售不变的指导方针。]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 05 Feb 2025 13:10:25 GMT</pubDate>
     </item>
     <item>
-      <title>贸易战担忧盖过特朗普对伊朗施压 油价下跌</title>
+      <title>贸易战担忧压倒特朗普对伊朗施压 油价下跌</title>
       <link>https://www.bloomberg.com/news/articles/2025-02-04/latest-oil-market-news-and-analysis-for-february-5</link>
       <description><![CDATA[由于担心美国和中国之间的贸易战将损害全球经济增长，压倒了美国总统唐纳德·特朗普加大对欧佩克成员国伊朗经济压力的计划，油价下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-02-04/latest-oil-market-news-and-analysis-for-february-5</guid>
