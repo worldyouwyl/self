@@ -4,7 +4,14 @@
     <title>彭博技术</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博技术</description>
-    <lastBuildDate>Mon, 10 Feb 2025 16:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 16:32:46 GMT</lastBuildDate>
+    <item>
+      <title>Openai与政府官员谈论了DeepSeek调查</title>
+      <link>https://www.bloomberg.com/news/articles/2025-02-10/openai-has-spoken-to-government-officials-about-deepseek-probe</link>
+      <description><![CDATA[据顶级高级管理人员称，Openai已与政府官员谈到该公司正在进行的调查，该公司对中国的DeepSeek是否使用了Chatgpt Maker的技术未经授权的方式获得的数据。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-02-10/openai-has-spoken-to-government-officials-about-deepseek-probe</guid>
+      <pubDate>Mon, 10 Feb 2025 16:00:24 GMT</pubDate>
+    </item>
     <item>
       <title>SEC X帐户在比特币ETF帖子上犯罪导致有罪认罪</title>
       <link>https://www.bloomberg.com/news/articles/2025-02-10/sec-x-account-hack-over-bitcoin-etf-post-leads-to-guilty-plea</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[欢迎您深入研究，我们对每日新闻通讯进行了改进，并分析了彭博社的新闻记者的技术业务。今天，奥斯汀·卡尔（Austin Carr）想知道为什么Openai和Google使他们的消费者AI搜索产品如此混乱。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2025-02-10/openai-google-offer-confusing-lineup-of-ai-models-for-consumers</guid>
       <pubDate>Mon, 10 Feb 2025 12:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AI负责人说，DeepSeek的成本声明“夸张”</title>
-      <link>https://www.bloomberg.com/news/articles/2025-02-10/google-ai-chief-says-deepseek-s-cost-claims-are-exaggerated</link>
-      <description><![CDATA[Google Deepmind Boss Demis Hassabis表示，中国的DeepSeek花费在600万美元以下的观念“被夸大了，有点误导”。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-02-10/google-ai-chief-says-deepseek-s-cost-claims-are-exaggerated</guid>
-      <pubDate>Mon, 10 Feb 2025 11:07:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
