@@ -3,8 +3,15 @@
   <channel>
     <title>彭博观点</title>
     <link>https://bloomberg.com/opinion/</link>
-    <description>彭博的意见</description>
-    <lastBuildDate>Wed, 12 Feb 2025 19:19:43 GMT</lastBuildDate>
+    <description>彭博观点</description>
+    <lastBuildDate>Wed, 12 Feb 2025 19:25:44 GMT</lastBuildDate>
+    <item>
+      <title>内幕交易并非无处不在</title>
+      <link>https://www.bloomberg.com/opinion/articles/2025-02-12/not-everywhere-is-insider-trading</link>
+      <description><![CDATA[国外差价合约、先锋建议、道琼斯跟踪误差和 Metaplanet。]]></description>
+      <guid>https://www.bloomberg.com/opinion/articles/2025-02-12/not-everywhere-is-insider-trading</guid>
+      <pubDate>Wed, 12 Feb 2025 19:17:50 GMT</pubDate>
+    </item>
     <item>
       <title>日本是时候承认通货紧缩的胜利了</title>
       <link>https://www.bloomberg.com/opinion/articles/2025-02-12/it-s-time-for-japan-to-admit-victory-on-deflation</link>
@@ -57,7 +64,7 @@
     <item>
       <title>德国没有好的选择</title>
       <link>https://www.bloomberg.com/opinion/articles/2025-02-12/no-good-alternatives-in-germany-s-elections</link>
-      <description><![CDATA[和在印度尼西亚，没有8200万本免费午餐的东西。]]></description>
+      <description><![CDATA[而在印度尼西亚，根本不存在 8200 万顿免费午餐。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2025-02-12/no-good-alternatives-in-germany-s-elections</guid>
       <pubDate>Wed, 12 Feb 2025 05:01:23 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这位法国电信业亿万富翁努力防止欧洲落后。]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2025-02-12/xavier-niel-s-not-ready-to-throw-in-the-towel-on-ai</guid>
       <pubDate>Wed, 12 Feb 2025 05:00:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>希思罗机场的扩张将表明英国准备起飞</title>
-      <link>https://www.bloomberg.com/opinion/articles/2025-02-12/heathrow-airport-expansion-would-show-uk-is-serious-about-growth</link>
-      <description><![CDATA[如果本届政府真的想克服经济停滞，就必须完成机场扩建等基础设施项目。]]></description>
-      <guid>https://www.bloomberg.com/opinion/articles/2025-02-12/heathrow-airport-expansion-would-show-uk-is-serious-about-growth</guid>
-      <pubDate>Wed, 12 Feb 2025 05:00:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
