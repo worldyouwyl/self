@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>彭博技术</title>
+    <title></title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博技术</description>
-    <lastBuildDate>Fri, 14 Feb 2025 11:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 12:14:19 GMT</lastBuildDate>
+    <item>
+      <title>马斯克的影响力使重新选择X的数字广告商的选择复杂化</title>
+      <link>https://www.bloomberg.com/news/newsletters/2025-02-14/musk-s-clout-complicates-choice-for-digital-advertisers-weighing-x</link>
+      <description><![CDATA[欢迎您深入研究，我们对每日新闻通讯进行了改进，并分析了彭博社的新闻记者的技术业务。今天，库尔特·瓦格纳（Kurt Wagner）着眼于为什么广告商可能返回社交网络X。]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2025-02-14/musk-s-clout-complicates-choice-for-digital-advertisers-weighing-x</guid>
+      <pubDate>Fri, 14 Feb 2025 12:05:09 GMT</pubDate>
+    </item>
     <item>
       <title>帮助建立了埃隆·马斯克（Elon Musk）的德克萨斯千兆活动的无证件工人</title>
       <link>https://www.bloomberg.com/news/features/2025-02-14/elon-musk-s-tesla-spacex-relied-on-undocumented-immigrant-workers</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[Gigaclear Ltd.及其贷方正在招聘顾问，因为该公司寻求资金继续在英国推出其光纤网络。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-02-14/gigaclear-lenders-tap-debt-advisers-in-push-to-raise-new-funds</guid>
       <pubDate>Fri, 14 Feb 2025 08:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的高龙公司投资了3000万美元的加密独角兽</title>
-      <link>https://www.bloomberg.com/news/articles/2025-02-14/china-s-gaorong-ventures-invests-30-million-in-crypto-unicorn</link>
-      <description><![CDATA[Gaorong Ventures已向香港最大的许可加密交易所的运营商投资了3000万美元，这是一个罕见的中国风险投资者涉足3万亿美元的数字资产竞技场。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-02-14/china-s-gaorong-ventures-invests-30-million-in-crypto-unicorn</guid>
-      <pubDate>Fri, 14 Feb 2025 08:43:31 GMT</pubDate>
     </item>
     <item>
       <title>新合并的Zeekr，Lynk＆amp; Co Brands设定了新鲜的2025年销售目标</title>
