@@ -4,7 +4,14 @@
     <title>彭博政治</title>
     <link>https://bloomberg.com/politics/</link>
     <description>Bloomberg.com。</description>
-    <lastBuildDate>Tue, 11 Mar 2025 19:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 19:41:15 GMT</lastBuildDate>
+    <item>
+      <title>参议员说</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-11/trump-s-cdc-pick-is-pushing-vaccine-autism-lie-senator-says</link>
+      <description><![CDATA[唐纳德·特朗普（Donald Trump）总统竞选该国顶级公共卫生局的选秀权戴夫·韦尔登（Dave Weldon）在最近的一次会议上说，他仍然认为揭穿的理论认为，童年的免疫时间表可能与自闭症有关，据民主党参议员参加。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-11/trump-s-cdc-pick-is-pushing-vaccine-autism-lie-senator-says</guid>
+      <pubDate>Tue, 11 Mar 2025 19:33:38 GMT</pubDate>
+    </item>
     <item>
       <title>美国国际开发署官方命令工作人员销毁机密文件</title>
       <link>https://www.bloomberg.com/news/articles/2025-03-11/usaid-official-orders-staff-to-destroy-classified-documents</link>
@@ -41,27 +48,6 @@
       <pubDate>Tue, 11 Mar 2025 18:06:29 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大银行削减关税罢工经济：决策指南</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-11/bank-of-canada-to-cut-as-tariffs-strike-economy-decision-guide</link>
-      <description><![CDATA[加拿大银行可能会在周三连续第七次会议上降低利率，因为该国的贸易战括号将使经济陷入经济衰退，除非有迅速的解决方案。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-11/bank-of-canada-to-cut-as-tariffs-strike-economy-decision-guide</guid>
-      <pubDate>Tue, 11 Mar 2025 18:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>众议院共和党人阻止对特朗普关税的潜在挑战</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-11/house-gop-moves-to-block-potential-challenges-to-trump-tariffs</link>
-      <description><![CDATA[众议院共和党人阻止了民主党人对唐纳德·特朗普的关税进行痛苦的投票，因为总统在与加拿大的贸易战争上放大了。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-11/house-gop-moves-to-block-potential-challenges-to-trump-tariffs</guid>
-      <pubDate>Tue, 11 Mar 2025 16:36:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>安大略省总理说，如果需要，他会削减向我们的电力出口</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-11/ontario-premier-says-he-ll-cut-power-exports-to-us-if-necessary</link>
-      <description><![CDATA[安大略省的总理重申，他愿意关闭向美国的电力出口，以在唐纳德·特朗普总统表示将对加拿大钢铁和铝制征收50％的情况下，向白宫发出消息。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-11/ontario-premier-says-he-ll-cut-power-exports-to-us-if-necessary</guid>
-      <pubDate>Tue, 11 Mar 2025 16:35:37 GMT</pubDate>
-    </item>
-    <item>
       <title>葡萄牙总理说他愿意停止信心投票</title>
       <link>https://www.bloomberg.com/news/articles/2025-03-11/portugal-premier-says-he-s-available-to-suspend-confidence-vote</link>
       <description><![CDATA[葡萄牙总理路易斯·黑山（Luis Montenegro）表示，他愿意暂停定于周二举行的信任投票，试图责怪反对派社会主义者的任何举动，这将导致阵阵选举的破坏。]]></description>
@@ -69,11 +55,25 @@
       <pubDate>Tue, 11 Mar 2025 15:38:18 GMT</pubDate>
     </item>
     <item>
-      <title>安大略省停止能源指控后，特朗普重新效力关税加息</title>
+      <title>加拿大的美元在动荡的，贸易燃料的会议上上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-11/canadian-dollar-slumps-as-trump-threatens-to-double-steel-levies</link>
+      <description><![CDATA[加拿大的美元在一次动荡的会议上上升，该会议看到贸易战风险激增，然后在周三的加拿大银行会议之前退缩，当时决策者有望降低利率，以避免美国税的经济威胁。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-11/canadian-dollar-slumps-as-trump-threatens-to-double-steel-levies</guid>
+      <pubDate>Tue, 11 Mar 2025 14:58:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着安大略省的能源费</title>
       <link>https://www.bloomberg.com/news/articles/2025-03-11/trump-says-he-s-doubling-tariffs-on-canadian-steel-aluminum</link>
       <description><![CDATA[唐纳德·特朗普（Donald Trump）总统说，在安大略省宣布将暂停发给美国的电力附加费25％附加费后，他正在重新评估加拿大对加拿大的铝关税和铝关税的计划。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-03-11/trump-says-he-s-doubling-tariffs-on-canadian-steel-aluminum</guid>
       <pubDate>Tue, 11 Mar 2025 14:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普在白宫旅行特斯拉（Teslas）在股份低迷后购买</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-11/trump-says-he-ll-buy-a-tesla-to-support-musk-after-shares-plunge</link>
+      <description><![CDATA[美国总统唐纳德·特朗普（Donald Trump）表示，在穆斯克（Musk）的政治忠诚度中，电动汽车制造商的股票在四年内持强烈反对，他将购买特斯拉（Tesla）来保留在白宫，以供他的员工使用。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-11/trump-says-he-ll-buy-a-tesla-to-support-musk-after-shares-plunge</guid>
+      <pubDate>Tue, 11 Mar 2025 04:52:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
