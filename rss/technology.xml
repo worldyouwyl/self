@@ -4,7 +4,21 @@
     <title>彭博技术</title>
     <link>https://bloomberg.com/technology/</link>
     <description>彭博技术</description>
-    <lastBuildDate>Tue, 18 Mar 2025 18:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 18:40:54 GMT</lastBuildDate>
+    <item>
+      <title>凯茜·伍德（Cathie Wood）说，大多数成人最终都会“毫无价值”</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-18/cathie-wood-says-most-memecoins-will-end-up-worthless</link>
+      <description><![CDATA[根据凯西·伍德（Cathie Wood）的说法，大多数淹没2.6万亿美元的加密货币空间的所谓模因可能最终“毫无价值”。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-18/cathie-wood-says-most-memecoins-will-end-up-worthless</guid>
+      <pubDate>Tue, 18 Mar 2025 18:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA首席执行官宣布通用汽车合作伙伴关系</title>
+      <link>https://www.bloomberg.com/news/videos/2025-03-18/nvidia-ceo-announces-gm-partnership-on-self-driving-cars</link>
+      <description><![CDATA[NVIDIA首席执行官詹森·黄（Jensen Huang）在宣布与通用汽车（GM）建立了他们的AI和自动驾驶汽车努力后说：“自动驾驶汽车的时间到了。” （来源：彭博）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2025-03-18/nvidia-ceo-announces-gm-partnership-on-self-driving-cars</guid>
+      <pubDate>Tue, 18 Mar 2025 18:15:44 GMT</pubDate>
+    </item>
     <item>
       <title>NVIDIA首席执行官Huang说AI处于拐点处</title>
       <link>https://www.bloomberg.com/news/videos/2025-03-18/nvidia-ceo-huang-says-ai-is-at-an-inflection-point</link>
@@ -13,11 +27,18 @@
       <pubDate>Tue, 18 Mar 2025 18:04:04 GMT</pubDate>
     </item>
     <item>
-      <title>NVIDIA与通用汽车一起使用自动驾驶汽车，开发6G网络</title>
+      <title>NVIDIA在GM辅助驾驶上工作，开发6G网络</title>
       <link>https://www.bloomberg.com/news/articles/2025-03-18/nvidia-to-work-with-gm-on-self-driving-cars-develop-6g-networks</link>
-      <description><![CDATA[成为人工智能繁荣的芯片制造商Nvidia Corp.表示，它将帮助General Motors Co.开发自动驾驶汽车，并在新的6G网络上与电信行业合作。]]></description>
+      <description><![CDATA[成为人工智能繁荣的芯片制造商Nvidia Corp.表示，它将帮助通用汽车公司使用驾驶员辅助技术，并在新的6G网络上与电信行业合作。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-03-18/nvidia-to-work-with-gm-on-self-driving-cars-develop-6g-networks</guid>
       <pubDate>Tue, 18 Mar 2025 18:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Openai的第一个星际之门网站最多可容纳40万个Nvidia芯片</title>
+      <link>https://www.bloomberg.com/news/articles/2025-03-18/openai-s-first-stargate-site-to-hold-up-to-400-000-nvidia-chips</link>
+      <description><![CDATA[Openai耗资1000亿美元的星际之门基础设施合资企业的第一个数据中心综合大楼将拥有多达40万个Nvidia Corp.强大的AI芯片＆Mdash的空间。如果填充，这将使它成为人工智能计算能力最大的已知群集之一。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2025-03-18/openai-s-first-stargate-site-to-hold-up-to-400-000-nvidia-chips</guid>
+      <pubDate>Tue, 18 Mar 2025 18:00:14 GMT</pubDate>
     </item>
     <item>
       <title>Google的320亿美元用于Cloud Upstart是一个信念的飞跃</title>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 18 Mar 2025 12:35:56 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔的新首席执行官在220亿美元的拉力赛后面对“向我展示我”</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-18/intel-s-new-ceo-sparked-a-rally-but-now-faces-a-reality-test</link>
-      <description><![CDATA[由于英特尔公司宣布Lip-Bu Tan上周将接任首席执行官，因此该公司的股票飙升。现在，正如谭（Tan）担任他的工作一样，他将如何实现自己肩膀上的巨大希望。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-18/intel-s-new-ceo-sparked-a-rally-but-now-faces-a-reality-test</guid>
-      <pubDate>Tue, 18 Mar 2025 10:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国无人机制造商试图夺回该国的天空</title>
-      <link>https://www.bloomberg.com/news/features/2025-03-18/drone-maker-skydio-wants-to-take-us-airspace-back-from-china</link>
-      <description><![CDATA[无人机变得更加聪明，更致命，更加必不可少。 Skydio认为美国应该自己做。]]></description>
-      <guid>https://www.bloomberg.com/news/features/2025-03-18/drone-maker-skydio-wants-to-take-us-airspace-back-from-china</guid>
-      <pubDate>Tue, 18 Mar 2025 09:00:17 GMT</pubDate>
-    </item>
-    <item>
       <title>Byd的五分钟费用如何与竞争对手相比</title>
       <link>https://www.bloomberg.com/news/articles/2025-03-18/faster-than-refueling-how-byd-s-new-charging-system-stacks-up</link>
       <description><![CDATA[中国汽车制造商比德公司（Byd Co.）转过头，声称它已经开发了一个电动汽车平台，它说将使驾驶员大约在加油汽油汽车的同时向电动汽车收费。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2025-03-18/faster-than-refueling-how-byd-s-new-charging-system-stacks-up</guid>
       <pubDate>Tue, 18 Mar 2025 04:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alphabet在谈判以330亿美元的价格购买Wiz</title>
-      <link>https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion</link>
-      <description><![CDATA[据知情人士称，Alphabet Inc.正在与购买云安全公司Wiz Inc.的购买，以330亿美元的价格重新启动讨论，这些讨论是在延长谈判后去年夏天取消的。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2025-03-17/alphabet-in-talks-to-buy-cloud-security-firm-wiz-for-33-billion</guid>
-      <pubDate>Mon, 17 Mar 2025 21:44:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
